@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<price>
+<date>2019-05-13 19:02</date>
+<firmName>Drone.ua</firmName>
+<firmId>28303</firmId>
+<categories>
+<category><id>1</id><name>Квадрокоптеры (дроны)</name></category>
+<category><id>2</id><name>Аксессуары для квадрокоптеров</name></category>
+<category><id>3</id><name>Моноподы для селфи (Selfie stick)</name></category>
+<category><id>4</id><name>Экшн-камеры</name></category>
+<category><id>5</id><name>Системы стабилизации для фото и видеокамер</name></category>
+</categories><items>
+
+
+<item>
+<id>ST.CP.PT.00000132.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000132.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Onyx Black (ST.CP.PT.00000132.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000132.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Black.jpg</image>
+<priceRUAH>24390</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000141.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000141.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Arctic White (ST.CP.PT.00000141.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000141.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_White.jpg</image>
+<priceRUAH>24390</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000148.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000148.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Flame Red (ST.CP.PT.00000148.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000148.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Red.jpg</image>
+<priceRUAH>23450</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000159.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000159.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Fly More Combo Onyx Black (ST.CP.PT.00000159.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000159.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
+<priceRUAH>30990</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000168.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000168.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Fly More Combo Arctic White (ST.CP.PT.00000168.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000168.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
+<priceRUAH>30990</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000169.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000169.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Fly More Combo Flame Red (ST.CP.PT.00000169.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000169.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
+<priceRUAH>29580</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000075.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000075.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Pro Platinum (ST.CP.PT.00000075.01)</name>
+<description>Съемка в 4K с интеллектуальным режимом, система распознавания жестов, максимальная скорость - 65 км/ч, ёмкость аккумуляторов позволяет использовать дрон до 30 минут в воздухе.</description>
+<url>http://store.drone.ua/product/mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000075.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
+<priceRUAH>32967</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000065.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000065.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Pro Platinum Fly More Combo (ST.CP.PT.00000065.01)</name>
+<description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
+<url>http://store.drone.ua/product/mavic-pro-platinum-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000065.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
+<priceRUAH>42867</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.ZM.00000104.01</id>
+<categoryId>5</categoryId>
+<code>ST.CP.ZM.00000104.01</code>
+<vendor>DJI</vendor>
+<name>Стабилизатор видеосъемки DJI Ronin-S (ST.CP.ZM.00000104.01)</name>
+<description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
+<url>http://store.drone.ua/product/ronin-s/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=ST.CP.ZM.00000104.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
+<priceRUAH>24720</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.ZM.00000064.01</id>
+<categoryId>3</categoryId>
+<code>ST.CP.ZM.00000064.01</code>
+<vendor>DJI</vendor>
+<name>Монопод-стабилизатор DJI Osmo Mobile 2 (ST.CP.ZM.00000064.01)</name>
+<description>Монопод-стабилизатор второго поколения для смартфонов, с клавишами управления. Емкость аккумулятора позволит использовать до 15 часов.</description>
+<url>http://store.drone.ua/product/osmo-mobile-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=monopody-dlya-selfi-selfie-stickutm_content=ST.CP.ZM.00000064.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Mobile_2.jpg</image>
+<priceRUAH>4920</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.000075</id>
+<categoryId>4</categoryId>
+<code>ST.000075</code>
+<vendor>DJI</vendor>
+<name>Экшн-камера DJI Osmo Pocket (ST.000075)</name>
+<description>Экшн-камера, представляет из себя смесь стедикама с экшн-камерой, съемка производится в разрешении 4K 60fps.</description>
+<url>http://store.drone.ua/product/osmo-pocket/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.000075/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Pocket.jpg</image>
+<priceRUAH>11850</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.VL.00000014.01</id>
+<categoryId>2</categoryId>
+<code>ST.CP.VL.00000014.01</code>
+<vendor>DJI</vendor>
+<name>Очки DJI Goggles Racing Edition (ST.CP.VL.00000014.01)</name>
+<description>DJI Goggles - созданы для полета на устройствах DJI с обзором от первого лица. Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) - все, что нужно для полета в новом измерении.</description>
+<url>http://store.drone.ua/product/goggles-racing-edition/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=ST.CP.VL.00000014.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</image>
+<priceRUAH>19770</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.000670</id>
+<categoryId>2</categoryId>
+<code>ST.CP.PT.000670</code>
+<vendor>DJI</vendor>
+<name>Очки DJI Goggles (ST.CP.PT.000670)</name>
+<description>DJI Goggles - созданы для полета на устройствах DJI с обзором от первого лица. Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) - все, что нужно для полета в новом измерении.</description>
+<url>http://store.drone.ua/product/goggles/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=ST.CP.PT.000670/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</image>
+<priceRUAH>13170</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.000889</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.000889</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Spark Fly More Combo (ST.CP.PT.000889)</name>
+<description>Комбо набор дополнительно включает в себя пульт управления, защиту пропеллеров, дополнительный аккумулятор, хаб и сумку-переноску.</description>
+<url>http://store.drone.ua/product/spark-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.000889/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</image>
+<priceRUAH>21420</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.MA.00000013.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.MA.00000013.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic 2 Pro (ST.CP.MA.00000013.01)</name>
+<description>Дрон с камерой Hasselblad с возможностью настройки диафрагмы и скоростью полета до 72 км/ч.</description>
+<url>http://store.drone.ua/product/mavic-2-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.MA.00000013.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Pro.jpg</image>
+<priceRUAH>47820</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.MA.00000014.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.MA.00000014.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic 2 Zoom (ST.CP.MA.00000014.01)</name>
+<description>Дрон с 3-х осевой стабилизацией, широкоугольным обьективом, и фокусным расстоянием, эквивалентным 35 мм.</description>
+<url>http://store.drone.ua/product/mavic-2-zoom/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.MA.00000014.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Zoom.jpg</image>
+<priceRUAH>39990</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.MA.00000037.01</id>
+<categoryId>1</categoryId>
+<code>ST.CP.MA.00000037.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic 2 Fly More Kit (ST.CP.MA.00000037.01)</name>
+<description>Расширенный набор для Mavic 2 состоящий из: Intelligent Flight Batteries × 2, Mavic 2 Car Charger × 1, Battery Charging Hub × 1, Battery to Power Bank Adapter × 1, Low-Noise Propellers × 2 Pairs, Mavic 2 Shoulder Bag × 1.</description>
+<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.MA.00000037.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</image>
+<priceRUAH>12510</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000075.01 REF</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000075.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Pro Platinum Refurbished (ST.CP.PT.00000075.01)</name>
+<description>Съемка в 4K с интеллектуальным режимом, система распознавания жестов, максимальная скорость - 65 км/ч, ёмкость аккумуляторов позволяет использовать дрон до 30 минут в воздухе.</description>
+<url>http://store.drone.ua/product/mavic-pro-platinum-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000075.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
+<priceRUAH>23806</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>ST.CP.PT.00000065.01 REF</id>
+<categoryId>1</categoryId>
+<code>ST.CP.PT.00000065.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Pro Platinum Fly More Combo Refurbished (ST.CP.PT.00000065.01)</name>
+<description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
+<url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CP.PT.00000065.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
+<priceRUAH>29698</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>ST.CP.ZM.00000104.01 REF</id>
+<categoryId>5</categoryId>
+<code>ST.CP.ZM.00000104.01</code>
+<vendor>DJI</vendor>
+<name>Стабилизатор видеосъемки DJI Ronin-S Refurbished (ST.CP.ZM.00000104.01)</name>
+<description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
+<url>http://store.drone.ua/product/ronin-s-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=ST.CP.ZM.00000104.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
+<priceRUAH>17854</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>CP.PT.00000242.01</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000242.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Phantom 4 Pro V2.0 (CP.PT.00000242.01)</name>
+<description>Новый дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles. Как и модели Phantom 4 Pro и Advanced, Phantom 4 Pro V2.0 оснащен 1-дюймовой матрицей с разрешением 20 Мп, способной снимать видео в качестве 4К с частотой 60 кадров/с и серии фото с частотой 14 кадров/с.</description>
+<url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000242.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</image>
+<priceRUAH>49470</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.00000232.01</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000232.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Phantom 4 Pro+ V2.0 (CP.PT.00000232.01)</name>
+<description>Новый дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles. Как и модели Phantom 4 Pro и Advanced, Phantom 4 Pro+ V2.0 оснащен 1-дюймовой матрицей с разрешением 20 Мп, способной снимать видео в качестве 4К с частотой 60 кадров/с и серии фото с частотой 14 кадров/с.</description>
+<url>http://store.drone.ua/product/phantom-4-pro-v2-0/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000232.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</image>
+<priceRUAH>59370</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.00000210.01</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000210.01</code>
+<vendor>Ryze</vendor>
+<name>Квадрокоптер Ryze Tello (CP.PT.00000210.01)</name>
+<description>Самый компактный умный дрон с применением технологий DJI, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
+<url>http://store.drone.ua/product/tello/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000210.01/</url>
+<image>=http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</image>
+<priceRUAH>3600</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.TL.00000015.01</id>
+<categoryId>1</categoryId>
+<code>CP.TL.00000015.01</code>
+<vendor>Ryze</vendor>
+<name>Квадрокоптер Ryze Tello Boost Combo (CP.TL.00000015.01)</name>
+<description>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
+<url>http://store.drone.ua/product/ryze_tech_tello_boost_combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.TL.00000015.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</image>
+<priceRUAH>5250</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.TL.00000002.01</id>
+<categoryId>1</categoryId>
+<code>CP.TL.00000002.01</code>
+<vendor>Ryze</vendor>
+<name>Квадрокоптер Ryze Tello Iron Man Edition (CP.TL.00000002.01)</name>
+<description>DJI общими усилиями с Marvel и Disney представили рынку новый дрон — Ryze Tello Iron Man Edition, который имеет новый стильный облик, вдохновленный культовой броней «железного человека». </description>
+<url>http://store.drone.ua/product/dji-tello-iron-man-edition/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.TL.00000002.01/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</image>
+<priceRUAH>4587</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+</items></price>
