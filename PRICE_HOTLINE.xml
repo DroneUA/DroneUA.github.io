@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-<date>2019-05-17 19:22</date>
+<date>2019-05-22 19:27</date>
 <firmName>Drone.ua</firmName>
 <firmId>28303</firmId>
 <categories>
@@ -9,6 +9,7 @@
 <category><id>3</id><name>Моноподы для селфи (Selfie stick)</name></category>
 <category><id>4</id><name>Экшн-камеры</name></category>
 <category><id>5</id><name>Системы стабилизации для фото и видеокамер</name></category>
+<category><id>6</id><name>Аксессуары для смартфонов и планшетов</name></category>
 </categories><items>
 
 
@@ -431,6 +432,142 @@
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</image>
 <priceRUAH>4587</priceRUAH>
 <stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.IN.000001</id>
+<categoryId>4</categoryId>
+<code>ST.IN.000001</code>
+<vendor>Insta360</vendor>
+<name>Экшн-камера (панорамная камера) Insta360 One X (ST.IN.000001)</name>
+<description>С панорамной камерой Insta360 ONE X Вы можете снимать 360-видео с максимальным разрешением 5.7@30fps и делать 360-фото 18 МП. Экшн-камера имеет компактные размеры для комфортной эксплуатации в любых условиях.</description>
+<url>http://store.drone.ua/product/insta360-one-x/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000001/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</image>
+<priceRUAH>13999</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.IN.000002</id>
+<categoryId>6</categoryId>
+<code>ST.IN.000002</code>
+<vendor>Insta360</vendor>
+<name>Панорамная камера Insta360 One (ST.IN.000002)</name>
+<description>Компактная панорамная камера Insta360 ONE способна записывать видео в формате 4K@30fps и делать 24 МП фото. При этом, она может эксплуатировать как со смартфоном (под Micro-USB и USB-C необходимы переходники), так и независимо.</description>
+<url>http://store.drone.ua/product/insta360-one/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-planshetovutm_content=ST.IN.000002/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</image>
+<priceRUAH>10999</priceRUAH>
+<stock days="365">Под заказ</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.IN.000003</id>
+<categoryId>4</categoryId>
+<code>ST.IN.000003</code>
+<vendor>Insta360</vendor>
+<name>Камера Insta360 Pro (ST.IN.000003)</name>
+<description>Первое поколение профессиональной VR-камеры Insta360 Pro, способной снимать 2D/3D видео и фото с разрешением до 8K, а также вести онлайн-трансляцию.</description>
+<url>http://store.drone.ua/product/insta360-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000003/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</image>
+<priceRUAH>127999</priceRUAH>
+<stock days="365">Под заказ</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.IN.000004</id>
+<categoryId>4</categoryId>
+<code>ST.IN.000004</code>
+<vendor>Insta360</vendor>
+<name>Камера Insta360 Pro 2 (ST.IN.000004)</name>
+<description>Сферическая VR-камера Insta360 Pro 2 способна снимать 8K-видео 2D/3D и делать фото с разрешением до 12000 x 12000 пикселей. Одно из лучших решений на современном рынке.</description>
+<url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000004/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</image>
+<priceRUAH>178999</priceRUAH>
+<stock days="365">Под заказ</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.IN.000005</id>
+<categoryId>4</categoryId>
+<code>ST.IN.000005</code>
+<vendor>Insta360</vendor>
+<name>Панорамная камера Insta360 Titan (ST.IN.000005)</name>
+<description>Кинематографическая сферическая камера Insta360 TITAN способна снимать 360-градусное и VR-видео с разрешением до 11K. Профессиональный инструмент для серьезных проектов.</description>
+<url>http://store.drone.ua/product/insta360-titan/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000005/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</image>
+<priceRUAH>518999</priceRUAH>
+<stock days="365">Под заказ</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.IN.000006_S</id>
+<categoryId>4</categoryId>
+<code>ST.IN.000006</code>
+<vendor>Insta360</vendor>
+<name>Панорамная камера Insta360 Nano S Silver (ST.IN.000006)</name>
+<description>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.</description>
+<url>http://store.drone.ua/product/insta360-nano-s-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_S/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</image>
+<priceRUAH>8999</priceRUAH>
+<stock days="365">Под заказ</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.IN.000006_B</id>
+<categoryId>4</categoryId>
+<code>ST.IN.000006</code>
+<vendor>Insta360</vendor>
+<name>Панорамная камера Insta360 Nano S Black (ST.IN.000006)</name>
+<description>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.</description>
+<url>http://store.drone.ua/product/insta360-nano-s-silver/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_B/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</image>
+<priceRUAH>8999</priceRUAH>
+<stock days="365">Под заказ</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CINEVOX/A</id>
+<categoryId>4</categoryId>
+<code>CINEVOX/A</code>
+<vendor>Insta360</vendor>
+<name>Экшн-камера Insta360 Evo (CINEVOX/A)</name>
+<description>Компактная раскладная камера Insta360 EVO способна записывать видео в формате 3D/2D с углом обхвата 360° или 180° и разрешением до 5.7К. Удобный просмотр на смартфоне или в режиме VR в очках Oculus GO, HTC Vive Focus или Samsung Gear VR.</description>
+<url>http://store.drone.ua/product/insta360-evo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=CINEVOX/A/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</image>
+<priceRUAH>15499</priceRUAH>
+<stock days="365">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
