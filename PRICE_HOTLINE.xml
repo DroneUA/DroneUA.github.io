@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-<date>2019-05-22 19:27</date>
+<date>2019-05-24 11:34</date>
 <firmName>Drone.ua</firmName>
 <firmId>28303</firmId>
 <categories>
@@ -465,7 +465,7 @@
 <url>http://store.drone.ua/product/insta360-one/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-planshetovutm_content=ST.IN.000002/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</image>
 <priceRUAH>10999</priceRUAH>
-<stock days="365">Под заказ</stock>
+<stock days="21">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -482,7 +482,7 @@
 <url>http://store.drone.ua/product/insta360-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000003/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</image>
 <priceRUAH>127999</priceRUAH>
-<stock days="365">Под заказ</stock>
+<stock days="21">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -499,7 +499,7 @@
 <url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000004/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</image>
 <priceRUAH>178999</priceRUAH>
-<stock days="365">Под заказ</stock>
+<stock days="21">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -516,7 +516,7 @@
 <url>http://store.drone.ua/product/insta360-titan/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000005/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</image>
 <priceRUAH>518999</priceRUAH>
-<stock days="365">Под заказ</stock>
+<stock days="21">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -533,7 +533,7 @@
 <url>http://store.drone.ua/product/insta360-nano-s-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_S/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</image>
 <priceRUAH>8999</priceRUAH>
-<stock days="365">Под заказ</stock>
+<stock days="21">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -550,7 +550,7 @@
 <url>http://store.drone.ua/product/insta360-nano-s-silver/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_B/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</image>
 <priceRUAH>8999</priceRUAH>
-<stock days="365">Под заказ</stock>
+<stock days="21">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -567,7 +567,7 @@
 <url>http://store.drone.ua/product/insta360-evo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=CINEVOX/A/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</image>
 <priceRUAH>15499</priceRUAH>
-<stock days="365">Под заказ</stock>
+<stock days="21">Под заказ</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
