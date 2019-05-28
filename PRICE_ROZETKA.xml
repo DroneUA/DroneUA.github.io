@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-05-20 22:12">
+<yml_catalog date="2019-05-28 15:30">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -11,7 +11,7 @@
 <categories>
 <category id="1" parentId="81499">Квадрокоптеры</category>
 <category id="2" parentId="81202">Моноподы для селфи и аксессуары</category>
-
+<category id="3" parentId="80002">Видеокамеры</category>
 
 
 </categories>
@@ -1106,6 +1106,1917 @@ CP.TL.00000002.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">Без наличия</param>
 <param name="Аппаратура управления">2.4 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+ST.IN.000001">
+<url>http://store.drone.ua/product/insta360-one-x/</url>
+<price>13999</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_6.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 One X (ST.IN.000001)</name>
+<description><![CDATA[<p>С панорамной камерой Insta360 ONE X Вы можете снимать 360-видео с максимальным разрешением 5.7@30fps и делать 360-фото 18 МП. Экшн-камера имеет компактные размеры для комфортной эксплуатации в любых условиях.</p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<th>Совместимость с ОС</th>
+<td>iOS<br />Android</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Основные характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Встроенная память</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Тип накопителя</th>
+<td>microSD (до 128 ГБ)</td>
+</tr>
+<tr>
+<th>Стабилизация</th>
+<td>6-осевая</td>
+</tr>
+<tr>
+<th>Рабочая температура</th>
+<td>0...40&deg;C (стандартная батарея)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Экран</div>
+</th>
+</tr>
+<tr>
+<th>Тип матрицы</th>
+<td>LCD</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Камера</div>
+</th>
+</tr>
+<tr>
+<th>Количество объективов</th>
+<td>2</td>
+</tr>
+<tr>
+<th>Сенсор</th>
+<td>1/2.3" CMOS</td>
+</tr>
+<tr>
+<th>Max апертура</th>
+<td>&fnof;/2.0</td>
+</tr>
+<tr>
+<th>Угол захвата одного объектива, град.</th>
+<td>200</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Видеосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Видео-разрешение</th>
+<td>5.7K@30fps (5760 x 2880)<br />5.7K@25fps (5760 x 2880)<br />5.7K@24fps (5760 x 2880)<br />4K@50fps (3840 x 1920)<br />4K@30fps (3840 x 1920)<br />3K@100fps (3008 x 1504)</td>
+</tr>
+<tr>
+<th>Кодирование</th>
+<td>H.264</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSV<br />MP4<br />LOG</td>
+</tr>
+<tr>
+<th>Max битрейт, Мбит/с</th>
+<td>120</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартное видео 360&deg;<br />Видео-регистрация 360&deg;<br />Онлайн-трансляция 360&deg;<br />HDR-видео<br />Bullet Time<br />Timelapse (замедленная съемка)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>18 МП, 6080 x 3040</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSP<br />JPEG<br />RAW (DNG)<br />DNG</td>
+</tr>
+<tr>
+<th>Фоторежимы</th>
+<td>Одиночное фото 360&deg;<br />Серийная съемка<br />Интервальная съемка<br />HDR-фото</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фото- и видеохарактеристики</div>
+</th>
+</tr>
+<tr>
+<th>ISO-диапазон</th>
+<td>100~3200</td>
+</tr>
+<tr>
+<th>Режимы экспозиции</th>
+<td>Авто<br />Ручной (выдержка 1/8000...55 с, ISO 100~3200)<br />Приоритет выдержки (1/8000...2 с)<br />ISO-приоритет (100~3200)</td>
+</tr>
+<tr>
+<th>Баланс белого</th>
+<td>Авто<br />Облачно<br />Солнечно<br />Флуоресцентный<br />Лампа накаливания</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Беспроводные коммуникации</div>
+</th>
+</tr>
+<tr>
+<th>Wi-Fi</th>
+<td>Wi-Fi 5 (802.11ac)</td>
+</tr>
+<tr>
+<th>Bluetooth</th>
+<td>Bluetooth 4.0</td>
+</tr>
+<tr>
+<th>GPS</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Передача сигнала</th>
+<td>До 20 метров (Wi-Fi)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>USB</th>
+<td>Micro-USB</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>microSD ридер<br />Резьбовое отверстие 1/4"-20</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Ion</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>1200</td>
+</tr>
+<tr>
+<th>Время зарядки</th>
+<td>100 мин (через адаптер 5V2A), 60 мин (через фирменную код-станцию)</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>60 мин (при съемке с разрешением 5.7K @30FPS или 4K@50FPS)</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Температурный диапазон: 0...40&deg;C (-20...30&deg;C для морозостойких аккумуляторов)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Датчики и сенсоры</th>
+<td>6-осевой гироскоп</td>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>114.56 х 48 х 27.6</td>
+</tr>
+<tr>
+<th>Вес, г</th>
+<td>115 (с батареей), 90.9 (без батареи)</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Пластик</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Черный</td>
+</tr>
+<tr>
+<th>Комплектация</th>
+<td>Стандартная: Insta360 ONE X, защитный чехол, аккумулятор, зарядный кабель, набор переходников, документация</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">ST.IN.000001</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения">6-осевая</param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции">Авто<br>Ручной (выдержка 1/8000...55 с, ISO 100~3200)<br>Приоритет выдержки (1/8000...2 с)<br>ISO-приоритет (100~3200)</param>
+<param name="Баланс белого">Авто<br>Облачно<br>Солнечно<br>Флуоресцентный<br>Лампа накаливания</param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки">18 Мп, 6080 x 3040</param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти">microSD</param>
+<param name="Разъёмы">Micro-USB<br>microSD ридер<br>Резьбовое отверстие 1/4"-20</param>
+<param name="Питание">Тип аккумулятора: Li-Ion<br>Объем, мАч: 1200<br>Время зарядки: 100 мин (через адаптер 5V2A), 60 мин (через фирменную код-станцию)<br>Время работы: 60 мин (при съемке с разрешением 5.7K @30FPS или 4K@50FPS)<br>Другое: Температурный диапазон: 0...40°C (-20...30°C для морозостойких аккумуляторов)</param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)">114.56 х 48 х 27.6</param>
+<param name="Вес (грамм)">115</param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Black</param>
+<param name="Поддержка карт памяти">microSD/microSDHC</param>
+<param name="Тип видеокамеры">Экшн-камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">5760x2880</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Есть</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="false" id="
+ST.IN.000002">
+<url>http://store.drone.ua/product/insta360-one/</url>
+<price>10999</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_7.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_8.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_9.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_10.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 One (ST.IN.000002)</name>
+<description><![CDATA[<p>Компактная панорамная камера Insta360 ONE способна записывать видео в формате 4K@30fps и делать 24 МП фото. При этом, она может эксплуатировать как со смартфоном (под Micro-USB и USB-C необходимы переходники), так и независимо.<br /><br /></p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<td><br />2K@120fps (2048 x 512)</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSV<br />MP4<br />LOG</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартное видео 360&deg;<br />Онлайн-трансляция 360&deg;<br />Bullet Time<br />Timelapse (замедленная съемка)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>24 МП, 6912 x 3456</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSP<br />JPEG<br />RAW (DNG)</td>
+</tr>
+<tr>
+<th>Фоторежимы</th>
+<td>Одиночное фото 360&deg;<br />Серийная съемка</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фото- и видеохарактеристики</div>
+</th>
+</tr>
+<tr>
+<th>ISO-диапазон</th>
+<td>100~3200</td>
+</tr>
+<tr>
+<th>Режимы экспозиции</th>
+<td>Авто<br />Ручной (выдержка 1/4000...60 с, ISO 100~3200)<br />Приоритет выдержки (1/4000...2 с)<br />ISO-приоритет (100~3200)</td>
+</tr>
+<tr>
+<th>Баланс белого</th>
+<td>Авто<br />Облачно<br />Солнечно<br />Флуоресцентный<br />Лампа накаливания</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Беспроводные коммуникации</div>
+</th>
+</tr>
+<tr>
+<th>Wi-Fi</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Bluetooth</th>
+<td>Bluetooth 4.0</td>
+</tr>
+<tr>
+<th>GPS</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>USB</th>
+<td>Micro-USB</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>Lightning<br />microSD ридер<br />Резьбовое отверстие 1/4"-20</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Ion</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>820</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>70 минут непрерывной съемки</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>5V1A</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Датчики и сенсоры</th>
+<td>6-осевой гироскоп</td>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>37 x 25 x 96</td>
+</tr>
+<tr>
+<th>Вес, г</th>
+<td>82</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Пластик</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Черный</td>
+</tr>
+<tr>
+<th>Комплектация</th>
+<td>Стандартная: Insta360 ONE, защитный чехол, зарядный кабель, струна для Bullet Time, microSD-карта на 8 ГБ, документация</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">ST.IN.000002</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения">6-осевая</param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции">Авто<br>Ручной (выдержка 1/4000...60 с, ISO 100~3200)<br>Приоритет выдержки (1/4000...2 с)<br>ISO-приоритет (100~3200)</param>
+<param name="Баланс белого">Авто<br>Облачно<br>Солнечно<br>Флуоресцентный<br>Лампа накаливания</param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки">24 Мп, 6912 x 3456</param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти">microSD</param>
+<param name="Разъёмы">Micro-USB<br>Lightning<br>microSD ридер<br>Резьбовое отверстие 1/4"-20</param>
+<param name="Питание">Тип аккумулятора: Li-Ion<br>Объем, мАч: 820<br>Время работы: 70 минут непрерывной съемки<br>Другое: 5V1A</param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)">37 x 25 x 96</param>
+<param name="Вес (грамм)">82</param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Black</param>
+<param name="Поддержка карт памяти">microSD/microSDHC</param>
+<param name="Тип видеокамеры">Экшн-камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">3840x1920</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Нет</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="false" id="
+ST.IN.000003">
+<url>http://store.drone.ua/product/insta360-pro/</url>
+<price>127999</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_7.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 Pro (ST.IN.000003)</name>
+<description><![CDATA[<p>Первое поколение профессиональной VR-камеры Insta360 Pro, способной снимать 2D/3D видео и фото с разрешением до 8K, а также вести онлайн-трансляцию.<br /><br /></p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<th>Совместимость с ОС</th>
+<td>iOS<br />Android<br />macOS<br />Windows</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Основные характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Встроенная память</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Тип накопителя</th>
+<td>Flash-накопитель USB 3.0<br />SD</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Камера</div>
+</th>
+</tr>
+<tr>
+<th>Количество объективов</th>
+<td>6</td>
+</tr>
+<tr>
+<th>Max апертура</th>
+<td>&fnof;/2.4</td>
+</tr>
+<tr>
+<th>Угол захвата одного объектива, град.</th>
+<td>200</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Рыбий глаз</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Видеосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Видео-разрешение</th>
+<td>8K@30fps (7680 x 3840, 2D, пост-сшивание)<br />6K@30fps (6400 x 6400, 3D, пост-сшивание)<br />4K@30fps (3840 x 1920, 2D, сшивание в реальном времени)<br />4K@24fps (3840 x 3840, 3D, сшивание в реальном времени)</td>
+</tr>
+<tr>
+<th>Кодирование</th>
+<td>H.264</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>MP4</td>
+</tr>
+<tr>
+<th>Max битрейт, Мбит/с</th>
+<td>120</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартное видео 360&deg;<br />Онлайн-трансляция 360&deg;</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Онлайн-трансляция: 4K@30fps (3840 x 1920, 2D) и 4K@24fps (3840 x 3840, 3D)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>7680 x 3840 (2D)<br />7680 x 7680 (3D)</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>JPEG<br />RAW</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аудио-характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Количество микрофонов</th>
+<td>4</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Беспроводные коммуникации</div>
+</th>
+</tr>
+<tr>
+<th>Wi-Fi</th>
+<td>Есть (для подключения AP-точки доступа)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>Аудио</th>
+<td>AUX (разъем для микрофона)</td>
+</tr>
+<tr>
+<th>Видео</th>
+<td>micro-HDMI</td>
+</tr>
+<tr>
+<th>USB</th>
+<td>1 x Type-C<br />1 x USB 3.0</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>RJ45</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Pol</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>5 100</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>До 75 минут</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Адаптер 12V/5A</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>143 (диаметр)</td>
+</tr>
+<tr>
+<th>Вес, г</th>
+<td>1228</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Алюминий<br />Поликарбонат</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Черный</td>
+</tr>
+<tr>
+<th>Комплектация</th>
+<td>Стандартная: Insta360 Pro, аккумулятор, адаптер питания, сетевой кабель 1 м, сетевая карта, USB-C-кабель, салфетка, документация</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">ST.IN.000003</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения"></param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции"></param>
+<param name="Баланс белого"></param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки">7680 x 3840 (2D)<br>7680 x 7680 (3D)</param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти">Flash-накопитель USB 3.0<br>SD</param>
+<param name="Разъёмы">Аудио: AUX (разъем для микрофона)<br>Видео: micro-HDMI<br>USB:1 x Type-C<br>1 x USB 3.0<br>Еще: RJ45</param>
+<param name="Питание">Тип аккумулятора: Li-Pol<br>Объем, мАч: 5 100<br>Время работы: До 75 минут<br>Другое: Адаптер 12V/5A</param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)"></param>
+<param name="Вес (грамм)">1228</param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Black</param>
+<param name="Поддержка карт памяти">SD/SDHC</param>
+<param name="Тип видеокамеры">Панорамные камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">7680x3840</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Есть</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="false" id="
+ST.IN.000004">
+<url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
+<price>178999</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_7.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_8.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_9.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 Pro 2 (ST.IN.000004)</name>
+<description><![CDATA[<p>Сферическая VR-камера Insta360 Pro 2 способна снимать 8K-видео 2D/3D и делать фото с разрешением до 12000 x 12000 пикселей. Одно из лучших решений на современном рынке.<br /><br /></p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<th>Совместимость с ОС</th>
+<td>iOS<br />Android<br />macOS<br />Windows</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Основные характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Встроенная память</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Тип накопителя</th>
+<td>6 x microSD/HC/XC<br />1 x SD/SDHC/SDXC</td>
+</tr>
+<tr>
+<th>Стабилизация</th>
+<td>9-осевая</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Камера</div>
+</th>
+</tr>
+<tr>
+<th>Количество объективов</th>
+<td>6</td>
+</tr>
+<tr>
+<th>Max апертура</th>
+<td>&fnof;/2.4</td>
+</tr>
+<tr>
+<th>Угол захвата одного объектива, град.</th>
+<td>200</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Рыбий глаз</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Видеосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Видео-разрешение</th>
+<td>8K@60fps (7680 x 3840, 2D)<br />8K@30fps (7680 x 3840, 2D, HDR, пост-сшивание)<br />8K@30fps (7680 x 7680, 3D)<br />6K@60fps (6400 x 6400, 2D/3D)<br />4K@120fps (3840 x 3840, 2D/3D)<br />4K@30fps (3840 x 1920, 2D, сшивание в реальном времени)<br />4K@30fps (3840 x 3840, 3D, сшивание в реальном времени)</td>
+</tr>
+<tr>
+<th>Кодирование</th>
+<td>H.264<br />H.265</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>MP4</td>
+</tr>
+<tr>
+<th>Max битрейт, Мбит/с</th>
+<td>120</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартный (доступен i-Log)<br />Настраиваемый (доступен i-Log)</td>
+</tr>
+<tr>
+<th>Протокол онлайн-трансляции</th>
+<td>RTSP<br />RTMP<br />HLS</td>
+</tr>
+<tr>
+<th>Режимы онлайн-трансляции</th>
+<td>Встроенный сервер<br />Пользовательский сервер<br />HDMI-выход</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Одновременная онлайн-трансляция и запись</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>12000 x 12000 (2D/3D)<br />7680 x 3840 (2D)<br />7680 x 7680 (3D)</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>JPEG<br />DNG</td>
+</tr>
+<tr>
+<th>Фоторежимы</th>
+<td>Одиночное фото 360&deg;<br />Серийная съемка (10 кадров)<br />AEB (Автоматический брекетинг экспозиции)</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>JPG и RAW доступны во всех режимах</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фото- и видеохарактеристики</div>
+</th>
+</tr>
+<tr>
+<th>ISO-диапазон</th>
+<td>100~6400</td>
+</tr>
+<tr>
+<th>Цветовое пространство</th>
+<td>YUVJ420P</td>
+</tr>
+<tr>
+<th>Режимы экспозиции</th>
+<td>Авто<br />Ручной<br />Приоритет выдержки (только фото)<br />От объектива к объективу<br />ISO-приоритет (только фото)</td>
+</tr>
+<tr>
+<th>Баланс белого</th>
+<td>Авто<br />Ручная настройка</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аудио-характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Количество микрофонов</th>
+<td>4</td>
+</tr>
+<tr>
+<th>Формат аудио-кодирования</th>
+<td>AAC</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>Пространственное аудио Ambisonic</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Беспроводные коммуникации</div>
+</th>
+</tr>
+<tr>
+<th>Wi-Fi</th>
+<td>Wi-Fi 4 (802.11 b/g/n, 2.4 ГГц)</td>
+</tr>
+<tr>
+<th>GPS</th>
+<td>Есть</td>
+</tr>
+<tr>
+<th>Передача сигнала</th>
+<td>До 20 метров (Wi-Fi), до 1 км (Insta360 Farsight)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>Аудио</th>
+<td>AUX (разъем для микрофона)</td>
+</tr>
+<tr>
+<th>Видео</th>
+<td>HDMI</td>
+</tr>
+<tr>
+<th>USB</th>
+<td>1 x Type-A<br />1 x Type-C</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>RJ45</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Pol</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>5 100</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>До 50 мин</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Адаптер 12V/5A</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Датчики и сенсоры</th>
+<td>9-осевой гироскоп</td>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>143 (диаметр)</td>
+</tr>
+<tr>
+<th>Вес, г</th>
+<td>1550</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Алюминий</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Черный</td>
+</tr>
+<tr>
+<th>Комплектация</th>
+<td>Базовая: Insta360 Pro 2, защита для линз, защитный кейс, аккумулятор, DC-адаптер, AC-кабель, LAN-кабель, USB-C-кабель, наплечник, 1/4"-1/4" переходник, интернет-адаптер, 2 антенны, документация</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">ST.IN.000004</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения">9-осевая</param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции">Авто<br>Ручной<br>Приоритет выдержки (только фото)<br>От объектива к объективу<br>ISO-приоритет (только фото)</param>
+<param name="Баланс белого">Авто<br>Ручная настройка</param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки">12000 x 12000 (2D/3D)</param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти">6 x microSD/HC/XC<br>1 x SD/SDHC/SDXC</param>
+<param name="Разъёмы">Аудио: AUX (разъем для микрофона)<br>Видео: HDMI<br>USB:<br>1 x Type-A<br>1 x Type-C<br>Еще: RJ45</param>
+<param name="Питание">Тип аккумулятора: Li-Pol<br>Объем, мАч: 5 100<br>Время работы: До 50 мин<br>Другое: Адаптер 12V/5A</param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)"></param>
+<param name="Вес (грамм)">1550</param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Black</param>
+<param name="Поддержка карт памяти">SD/SDHC, microSD/microSDHC</param>
+<param name="Тип видеокамеры">Панорамные камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">7680x3840</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Есть</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="false" id="
+ST.IN.000005">
+<url>http://store.drone.ua/product/insta360-titan/</url>
+<price>518999</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_5.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 Titan (ST.IN.000005)</name>
+<description><![CDATA[<p>Кинематографическая сферическая камера Insta360 TITAN способна снимать 360-градусное и VR-видео с разрешением до 11K. Профессиональный инструмент для серьезных проектов.<br /><br /></p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<th>Совместимость с ОС</th>
+<td>iOS<br />Android<br />macOS<br />Windows</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Основные характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Встроенная память</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Тип накопителя</th>
+<td>9 x SD</td>
+</tr>
+<tr>
+<th>Стабилизация</th>
+<td>9-осевая</td>
+</tr>
+<tr>
+<th>Рабочая температура</th>
+<td>0...40&deg;C</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Камера</div>
+</th>
+</tr>
+<tr>
+<th>Количество объективов</th>
+<td>8</td>
+</tr>
+<tr>
+<th>Max апертура</th>
+<td>&fnof;/3.2</td>
+</tr>
+<tr>
+<th>Угол захвата одного объектива, град.</th>
+<td>200</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Рыбий глаз</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Видеосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Видео-разрешение</th>
+<td>11K@30fps (10560 x 5280, 2D, пост-сшивание)<br />10K@30fps (9600 x 9600, 3D, пост-сшивание)<br />8K@30fps (7680 x 3840, 2D, 10-битное видео)<br />8K@30fps (7680 x 7680, 3D, 10-битное видео)<br />5.2K@120fps (5280 x 2640, пост-сшивание)<br />4K@30fps (3840 x 1920, 2D, сшивание в реальном времени)<br />4K@30fps (3840 x 3840, 3D, сшивание в реальном времени)</td>
+</tr>
+<tr>
+<th>Кодирование</th>
+<td>H.264<br />H.265<br />Pro RES 422 HQ (доступно после сшивания)</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>MP4</td>
+</tr>
+<tr>
+<th>Max битрейт, Мбит/с</th>
+<td>180 (на один объектив)</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартный (доступен i-Log)<br />Настраиваемый (доступен i-Log)<br />Онлайн-трансляция 360&deg;</td>
+</tr>
+<tr>
+<th>Протокол онлайн-трансляции</th>
+<td>RTSP<br />RTMP<br />HLS</td>
+</tr>
+<tr>
+<th>Режимы онлайн-трансляции</th>
+<td>Встроенный сервер<br />Пользовательский сервер<br />HDMI-выход</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Онлайн-трансляция: 4K@30fps (3840 x 1920, 2D, запись в 8K) и 4K@30fps (3840 x 3840, 3D, запись в 6K)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>10560 x 5280 (11K, 2D)<br />10560 x 10560 (11K, 3D)</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>JPEG<br />DNG</td>
+</tr>
+<tr>
+<th>Фоторежимы</th>
+<td>Одиночное фото 360&deg;<br />Серийная съемка (10 кадров)<br />AEB (Автоматический брекетинг экспозиции)</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>JPG и RAW могут быть выбраны для одновременной съемки комбинированных фото HDR и в иных режимах</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фото- и видеохарактеристики</div>
+</th>
+</tr>
+<tr>
+<th>ISO-диапазон</th>
+<td>100~6400</td>
+</tr>
+<tr>
+<th>Режимы экспозиции</th>
+<td>Авто<br />Ручной<br />Приоритет выдержки (только фото)<br />Верхний предел ISO (только видео)<br />ISO-приоритет (только фото)</td>
+</tr>
+<tr>
+<th>Баланс белого</th>
+<td>Авто<br />Ручная настройка</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аудио-характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Количество микрофонов</th>
+<td>4</td>
+</tr>
+<tr>
+<th>Формат аудио-кодирования</th>
+<td>AAC</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>Пространственное аудио Ambisonic</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Беспроводные коммуникации</div>
+</th>
+</tr>
+<tr>
+<th>Wi-Fi</th>
+<td>Wi-Fi 4 (802.11 b/g/n, 2.4 ГГц)</td>
+</tr>
+<tr>
+<th>GPS</th>
+<td>Есть</td>
+</tr>
+<tr>
+<th>Передача сигнала</th>
+<td>До 20 метров (Wi-Fi), до 1 км (Insta360 Farsight)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>Видео</th>
+<td>HDMI</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>RJ45</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Ion</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>10 000</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Адаптер 19V 9A</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Датчики и сенсоры</th>
+<td>9-осевой гироскоп</td>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>233.7 (диаметр)</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Алюминий</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Черный</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Температура хранения: -20...40&deg;C</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">ST.IN.000005</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения">9-осевая</param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции"></param>
+<param name="Баланс белого"></param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки"></param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти"></param>
+<param name="Разъёмы"></param>
+<param name="Питание"></param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)"></param>
+<param name="Вес (грамм)"></param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Black</param>
+<param name="Поддержка карт памяти">SD/SDHC</param>
+<param name="Тип видеокамеры">Панорамные камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">10560x5280</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Есть</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="false" id="
+ST.IN.000006_S">
+<url>http://store.drone.ua/product/insta360-nano-s-black/</url>
+<price>8999</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_5.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 Nano S (ST.IN.000006_S)</name>
+<description><![CDATA[<p>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.<br /><br /></p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<th>Совместимость с ОС</th>
+<td>iOS</td>
+</tr>
+<tr>
+<th>Совместимость</th>
+<td>iPhone 6 или новее</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Основные характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Встроенная память</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Тип накопителя</th>
+<td>microSD (до 128 ГБ)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Камера</div>
+</th>
+</tr>
+<tr>
+<th>Количество объективов</th>
+<td>2</td>
+</tr>
+<tr>
+<th>Сенсор</th>
+<td>CMOS</td>
+</tr>
+<tr>
+<th>Max апертура</th>
+<td>&fnof;/2.2</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Видеосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Видео-разрешение</th>
+<td>4K@30fps (3840 x 1920)</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSV<br />MP4<br />LOG</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартное видео 360&deg;<br />Онлайн-трансляция 360&deg;<br />Timelapse (замедленная съемка)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>20 МП, 6272 x 3136</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSP<br />JPEG<br />RAW (DNG)</td>
+</tr>
+<tr>
+<th>Фоторежимы</th>
+<td>Одиночное фото 360&deg;<br />Серийная съемка</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фото- и видеохарактеристики</div>
+</th>
+</tr>
+<tr>
+<th>Режимы экспозиции</th>
+<td>Авто<br />Ручной<br />Приоритет выдержки<br />ISO-приоритет</td>
+</tr>
+<tr>
+<th>Баланс белого</th>
+<td>Авто<br />Облачно<br />Солнечно<br />Флуоресцентный<br />Лампа накаливания</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>USB</th>
+<td>Micro-USB</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>Lightning<br />microSD ридер</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Ion</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>800</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>60 минут</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>110 x 33 x 21</td>
+</tr>
+<tr>
+<th>Вес, г</th>
+<td>66</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Пластик</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Серебристый<br />Черный</td>
+</tr>
+<tr>
+<th>Комплектация</th>
+<td>Insta360 Nano S, зарядный кабель, чехол, очки для VR (картонные), подставка для смартфона, документация</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">ST.IN.000006_S</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения"></param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции"></param>
+<param name="Баланс белого"></param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки"></param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти"></param>
+<param name="Разъёмы"></param>
+<param name="Питание"></param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)"></param>
+<param name="Вес (грамм)"></param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Silver</param>
+<param name="Поддержка карт памяти">microSD/microSDHC</param>
+<param name="Тип видеокамеры">Экшн-камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">3840x1920</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Нет</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="false" id="
+ST.IN.000006_B">
+<url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
+<price>8999</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_7.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 Nano S (ST.IN.000006_B)</name>
+<description><![CDATA[<p>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.<br /><br /></p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<th>Совместимость с ОС</th>
+<td>iOS</td>
+</tr>
+<tr>
+<th>Совместимость</th>
+<td>iPhone 6 или новее</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Основные характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Встроенная память</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Тип накопителя</th>
+<td>microSD (до 128 ГБ)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Камера</div>
+</th>
+</tr>
+<tr>
+<th>Количество объективов</th>
+<td>2</td>
+</tr>
+<tr>
+<th>Сенсор</th>
+<td>CMOS</td>
+</tr>
+<tr>
+<th>Max апертура</th>
+<td>&fnof;/2.2</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Видеосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Видео-разрешение</th>
+<td>4K@30fps (3840 x 1920)</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSV<br />MP4<br />LOG</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартное видео 360&deg;<br />Онлайн-трансляция 360&deg;<br />Timelapse (замедленная съемка)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>20 МП, 6272 x 3136</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSP<br />JPEG<br />RAW (DNG)</td>
+</tr>
+<tr>
+<th>Фоторежимы</th>
+<td>Одиночное фото 360&deg;<br />Серийная съемка</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фото- и видеохарактеристики</div>
+</th>
+</tr>
+<tr>
+<th>Режимы экспозиции</th>
+<td>Авто<br />Ручной<br />Приоритет выдержки<br />ISO-приоритет</td>
+</tr>
+<tr>
+<th>Баланс белого</th>
+<td>Авто<br />Облачно<br />Солнечно<br />Флуоресцентный<br />Лампа накаливания</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>USB</th>
+<td>Micro-USB</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>Lightning<br />microSD ридер</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Ion</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>800</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>60 минут</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>110 x 33 x 21</td>
+</tr>
+<tr>
+<th>Вес, г</th>
+<td>66</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Пластик</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Серебристый<br />Черный</td>
+</tr>
+<tr>
+<th>Комплектация</th>
+<td>Insta360 Nano S, зарядный кабель, чехол, очки для VR (картонные), подставка для смартфона, документация</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">ST.IN.000006_B</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения"></param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции"></param>
+<param name="Баланс белого"></param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки"></param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти"></param>
+<param name="Разъёмы"></param>
+<param name="Питание"></param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)"></param>
+<param name="Вес (грамм)"></param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Black</param>
+<param name="Поддержка карт памяти">microSD/microSDHC</param>
+<param name="Тип видеокамеры">Экшн-камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">3840x1920</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Нет</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="false" id="
+CINEVOX/A">
+<url>http://store.drone.ua/product/insta360-evo/</url>
+<price>15499</price>
+<currencyId>UAH</currencyId>
+<categoryId>3</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_7.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_8.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_9.jpg</picture>
+<vendor>Insta360</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера Insta360 Evo (CINEVOX/A)</name>
+<description><![CDATA[<p>Компактная раскладная камера Insta360 EVO способна записывать видео в формате 3D/2D с углом обхвата 360&deg; или 180&deg; и разрешением до 5.7К. Удобный просмотр на смартфоне или в режиме VR в очках Oculus GO, HTC Vive Focus или Samsung Gear VR.<br /><br /></p>
+<table class="uk-table uk-table-justify">
+<tbody>
+<tr>
+<th>Совместимость с ОС</th>
+<td>iOS<br />Android</td>
+</tr>
+<tr>
+<th>Совместимость</th>
+<td>iPhone 6s или новее, iPad Pro, iPad (2018), а также VR-очки Oculus GO, HTC Vive Focus или Samsung Gear VR.</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Основные характеристики</div>
+</th>
+</tr>
+<tr>
+<th>Встроенная память</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Тип накопителя</th>
+<td>microSD (до 128 ГБ)</td>
+</tr>
+<tr>
+<th>Стабилизация</th>
+<td>6-осевая</td>
+</tr>
+<tr>
+<th>Рабочая температура</th>
+<td>-10...40&deg;C</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Камера</div>
+</th>
+</tr>
+<tr>
+<th>Количество объективов</th>
+<td>2</td>
+</tr>
+<tr>
+<th>Max апертура</th>
+<td>&fnof;/2.2</td>
+</tr>
+<tr>
+<th>Угол захвата одного объектива, град.</th>
+<td>200</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Видеосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Видео-разрешение</th>
+<td>5.7K@30fps (5760 x 2880)<br />4K@50fps (3840 x 1920)<br />4K@30fps (3840 x 1920)<br />3K@100fps (3008 x 1504)</td>
+</tr>
+<tr>
+<th>Кодирование</th>
+<td>H.264</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSV<br />MP4<br />LOG</td>
+</tr>
+<tr>
+<th>Max битрейт, Мбит/с</th>
+<td>100</td>
+</tr>
+<tr>
+<th>Видеорежимы</th>
+<td>Стандартное видео 360&deg;<br />HDR-видео<br />Timelapse (замедленная съемка)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фотосъемка</div>
+</th>
+</tr>
+<tr>
+<th>Фото-разрешение</th>
+<td>18 МП, 6080 x 3040</td>
+</tr>
+<tr>
+<th>Формат</th>
+<td>INSP<br />JPEG<br />RAW (DNG)</td>
+</tr>
+<tr>
+<th>Фоторежимы</th>
+<td>Одиночное фото 360&deg;<br />Серийная съемка<br />Интервальная съемка<br />HDR-фото</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Фото- и видеохарактеристики</div>
+</th>
+</tr>
+<tr>
+<th>ISO-диапазон</th>
+<td>100~3200</td>
+</tr>
+<tr>
+<th>Режимы экспозиции</th>
+<td>Авто<br />Ручной (выдержка 1/4000...55 с, ISO 100~3200)<br />Приоритет выдержки (1/4000...1/4 с)<br />ISO-приоритет (100~3200)</td>
+</tr>
+<tr>
+<th>Баланс белого</th>
+<td>Авто<br />Облачно<br />Солнечно<br />Флуоресцентный<br />Лампа накаливания</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Беспроводные коммуникации</div>
+</th>
+</tr>
+<tr>
+<th>Wi-Fi</th>
+<td>Wi-Fi 5 (802.11ac)</td>
+</tr>
+<tr>
+<th>Bluetooth</th>
+<td>Bluetooth 4.0</td>
+</tr>
+<tr>
+<th>GPS</th>
+<td>Нет</td>
+</tr>
+<tr>
+<th>Передача сигнала</th>
+<td>До 20 метров (Wi-Fi)</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разъемы и порты</div>
+</th>
+</tr>
+<tr>
+<th>USB</th>
+<td>Micro-USB</td>
+</tr>
+<tr>
+<th>Еще</th>
+<td>microSD ридер<br />Резьбовое отверстие 1/4"-20</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Аккумулятор</div>
+</th>
+</tr>
+<tr>
+<th>Тип аккумулятора</th>
+<td>Li-Ion</td>
+</tr>
+<tr>
+<th>Объем, мАч</th>
+<td>1 200</td>
+</tr>
+<tr>
+<th>Время зарядки</th>
+<td>90 мин</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>65 мин</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>5V/2A</td>
+</tr>
+<tr>
+<th colspan="2">
+<div class="uk-h4 uk-margin-medium-top uk-margin-small-bottom">Разное</div>
+</th>
+</tr>
+<tr>
+<th>Датчики и сенсоры</th>
+<td>6-осевой гироскоп</td>
+</tr>
+<tr>
+<th>Размеры, мм</th>
+<td>Сложенный: 50.3 x 49 x 52.54; разложенный: 98.4 x 49 x 26.27</td>
+</tr>
+<tr>
+<th>Вес, г</th>
+<td>113</td>
+</tr>
+<tr>
+<th>Материал</th>
+<td>Пластик</td>
+</tr>
+<tr>
+<th>Цвет</th>
+<td>Серебристый<br />Черный</td>
+</tr>
+<tr>
+<th>Другое</th>
+<td>Температура хранения: -20...40&deg;C</td>
+</tr>
+<tr>
+<th>Комплектация</th>
+<td>Стандартная: Insta360 EVO, 3D-очки, настольный штатив, защитный чехол, кабель USB-A/Micro-USB</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">CINEVOX/A</param>
+<param name="Тип видеокамеры"></param>
+<param name="Матрица (светочувствительный элемент)"></param>
+<param name="Объектив"></param>
+<param name="Тип носителя">Flash память</param>
+<param name="Стабилизатор изображения">6-осевая</param>
+<param name="Зум"></param>
+<param name="Фокусировка"></param>
+<param name="Режим экспозиции"></param>
+<param name="Баланс белого"></param>
+<param name="Ночная съёмка"></param>
+<param name="Цифровые эффекты"></param>
+<param name="ЖК-монитор"></param>
+<param name="Видоискатель"></param>
+<param name="Режим фотосъёмки"></param>
+<param name="Запись аудио"></param>
+<param name="Карта памяти"></param>
+<param name="Разъёмы"></param>
+<param name="Питание"></param>
+<param name="Дополнительные функции"></param>
+<param name="Размеры (Д х Ш х В, мм)"></param>
+<param name="Вес (грамм)"></param>
+<param name="Комплект поставки"></param>
+<param name="Цвет">Black</param>
+<param name="Поддержка карт памяти">microSD/microSDHC</param>
+<param name="Тип видеокамеры">Экшн-камеры</param>
+<param name="Режим видеосъемки"></param>
+<param name="Разрешение видео">5760x2880</param>
+<param name="Ширина"></param>
+<param name="Высота"></param>
+<param name="Глубина"></param>
+<param name="Наличие Wi-Fi">Есть</param>
+<param name="Размер матрицы"></param>
+<param name="Разъем для внешнего микрофона"></param>
+<param name="Встроенный проектор">Нет</param>
+<param name="Оптическая стабилизация"></param>
+<param name="Оптический зум"></param>
+<param name="Зарядное устройство"></param>
 <param name="Доставка/Оплата">100% предоплата</param>
 </offer>
 </offers>
