@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-05-28 15:30">
+<yml_catalog date="2019-05-28 16:06">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -1340,8 +1340,8 @@ ST.IN.000001">
 <param name="Стабилизатор изображения">6-осевая</param>
 <param name="Зум"></param>
 <param name="Фокусировка"></param>
-<param name="Режим экспозиции">Авто<br>Ручной (выдержка 1/8000...55 с, ISO 100~3200)<br>Приоритет выдержки (1/8000...2 с)<br>ISO-приоритет (100~3200)</param>
-<param name="Баланс белого">Авто<br>Облачно<br>Солнечно<br>Флуоресцентный<br>Лампа накаливания</param>
+<param name="Режим экспозиции"></param>
+<param name="Баланс белого">Авто<br/>Облачно<br/>Солнечно<br/>Флуоресцентный<br/>Лампа накаливания</param>
 <param name="Ночная съёмка"></param>
 <param name="Цифровые эффекты"></param>
 <param name="ЖК-монитор"></param>
@@ -1349,8 +1349,8 @@ ST.IN.000001">
 <param name="Режим фотосъёмки">18 Мп, 6080 x 3040</param>
 <param name="Запись аудио"></param>
 <param name="Карта памяти">microSD</param>
-<param name="Разъёмы">Micro-USB<br>microSD ридер<br>Резьбовое отверстие 1/4"-20</param>
-<param name="Питание">Тип аккумулятора: Li-Ion<br>Объем, мАч: 1200<br>Время зарядки: 100 мин (через адаптер 5V2A), 60 мин (через фирменную код-станцию)<br>Время работы: 60 мин (при съемке с разрешением 5.7K @30FPS или 4K@50FPS)<br>Другое: Температурный диапазон: 0...40°C (-20...30°C для морозостойких аккумуляторов)</param>
+<param name="Разъёмы">Micro-USB<br/>microSD ридер<br/>Резьбовое отверстие 1/4"-20</param>
+<param name="Питание">Тип аккумулятора: Li-Ion<br/>Объем, мАч: 1200<br/>Время зарядки: 100 мин (через адаптер 5V2A), 60 мин (через фирменную код-станцию)<br/>Время работы: 60 мин (при съемке с разрешением 5.7K @30FPS или 4K@50FPS)<br/>Другое: Температурный диапазон: 0...40°C (-20...30°C для морозостойких аккумуляторов)</param>
 <param name="Дополнительные функции"></param>
 <param name="Размеры (Д х Ш х В, мм)">114.56 х 48 х 27.6</param>
 <param name="Вес (грамм)">115</param>
@@ -1531,8 +1531,8 @@ ST.IN.000002">
 <param name="Стабилизатор изображения">6-осевая</param>
 <param name="Зум"></param>
 <param name="Фокусировка"></param>
-<param name="Режим экспозиции">Авто<br>Ручной (выдержка 1/4000...60 с, ISO 100~3200)<br>Приоритет выдержки (1/4000...2 с)<br>ISO-приоритет (100~3200)</param>
-<param name="Баланс белого">Авто<br>Облачно<br>Солнечно<br>Флуоресцентный<br>Лампа накаливания</param>
+<param name="Режим экспозиции">Авто<br/>Ручной (выдержка 1/4000...60 с, ISO 100~3200)<br/>Приоритет выдержки (1/4000...2 с)<br/>ISO-приоритет (100~3200)</param>
+<param name="Баланс белого">Авто<br/>Облачно<br/>Солнечно<br/>Флуоресцентный<br/>Лампа накаливания</param>
 <param name="Ночная съёмка"></param>
 <param name="Цифровые эффекты"></param>
 <param name="ЖК-монитор"></param>
@@ -1540,8 +1540,8 @@ ST.IN.000002">
 <param name="Режим фотосъёмки">24 Мп, 6912 x 3456</param>
 <param name="Запись аудио"></param>
 <param name="Карта памяти">microSD</param>
-<param name="Разъёмы">Micro-USB<br>Lightning<br>microSD ридер<br>Резьбовое отверстие 1/4"-20</param>
-<param name="Питание">Тип аккумулятора: Li-Ion<br>Объем, мАч: 820<br>Время работы: 70 минут непрерывной съемки<br>Другое: 5V1A</param>
+<param name="Разъёмы">Micro-USB<br/>Lightning<br/>microSD ридер<br/>Резьбовое отверстие 1/4"-20</param>
+<param name="Питание">Тип аккумулятора: Li-Ion<br/>Объем, мАч: 820<br/>Время работы: 70 минут непрерывной съемки<br/>Другое: 5V1A</param>
 <param name="Дополнительные функции"></param>
 <param name="Размеры (Д х Ш х В, мм)">37 x 25 x 96</param>
 <param name="Вес (грамм)">82</param>
@@ -1765,11 +1765,11 @@ ST.IN.000003">
 <param name="Цифровые эффекты"></param>
 <param name="ЖК-монитор"></param>
 <param name="Видоискатель"></param>
-<param name="Режим фотосъёмки">7680 x 3840 (2D)<br>7680 x 7680 (3D)</param>
+<param name="Режим фотосъёмки">7680 x 3840 (2D)<br/>7680 x 7680 (3D)</param>
 <param name="Запись аудио"></param>
-<param name="Карта памяти">Flash-накопитель USB 3.0<br>SD</param>
-<param name="Разъёмы">Аудио: AUX (разъем для микрофона)<br>Видео: micro-HDMI<br>USB:1 x Type-C<br>1 x USB 3.0<br>Еще: RJ45</param>
-<param name="Питание">Тип аккумулятора: Li-Pol<br>Объем, мАч: 5 100<br>Время работы: До 75 минут<br>Другое: Адаптер 12V/5A</param>
+<param name="Карта памяти">Flash-накопитель USB 3.0<br/>SD</param>
+<param name="Разъёмы">Аудио: AUX (разъем для микрофона)<br/>Видео: micro-HDMI<br/>USB:1 x Type-C<br/>1 x USB 3.0<br/>Еще: RJ45</param>
+<param name="Питание">Тип аккумулятора: Li-Pol<br/>Объем, мАч: 5 100<br/>Время работы: До 75 минут<br/>Другое: Адаптер 12V/5A</param>
 <param name="Дополнительные функции"></param>
 <param name="Размеры (Д х Ш х В, мм)"></param>
 <param name="Вес (грамм)">1228</param>
@@ -2050,17 +2050,17 @@ ST.IN.000004">
 <param name="Стабилизатор изображения">9-осевая</param>
 <param name="Зум"></param>
 <param name="Фокусировка"></param>
-<param name="Режим экспозиции">Авто<br>Ручной<br>Приоритет выдержки (только фото)<br>От объектива к объективу<br>ISO-приоритет (только фото)</param>
-<param name="Баланс белого">Авто<br>Ручная настройка</param>
+<param name="Режим экспозиции">Авто<br/>Ручной<br/>Приоритет выдержки (только фото)<br/>От объектива к объективу<br/>ISO-приоритет (только фото)</param>
+<param name="Баланс белого">Авто<br/>Ручная настройка</param>
 <param name="Ночная съёмка"></param>
 <param name="Цифровые эффекты"></param>
 <param name="ЖК-монитор"></param>
 <param name="Видоискатель"></param>
 <param name="Режим фотосъёмки">12000 x 12000 (2D/3D)</param>
 <param name="Запись аудио"></param>
-<param name="Карта памяти">6 x microSD/HC/XC<br>1 x SD/SDHC/SDXC</param>
-<param name="Разъёмы">Аудио: AUX (разъем для микрофона)<br>Видео: HDMI<br>USB:<br>1 x Type-A<br>1 x Type-C<br>Еще: RJ45</param>
-<param name="Питание">Тип аккумулятора: Li-Pol<br>Объем, мАч: 5 100<br>Время работы: До 50 мин<br>Другое: Адаптер 12V/5A</param>
+<param name="Карта памяти">6 x microSD/HC/XC<br/>1 x SD/SDHC/SDXC</param>
+<param name="Разъёмы">Аудио: AUX (разъем для микрофона)<br/>Видео: HDMI<br/>USB:<br/>1 x Type-A<br/>1 x Type-C<br/>Еще: RJ45</param>
+<param name="Питание">Тип аккумулятора: Li-Pol<br/>Объем, мАч: 5 100<br/>Время работы: До 50 мин<br/>Другое: Адаптер 12V/5A</param>
 <param name="Дополнительные функции"></param>
 <param name="Размеры (Д х Ш х В, мм)"></param>
 <param name="Вес (грамм)">1550</param>
