@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<yml_catalog date="2019-05-23 13:02">
+<yml_catalog date="2019-05-30 17:18">
 <shop>
 <name>Drone.UA</name>
 <url>http://store.drone.ua/</url>
@@ -21,7 +21,7 @@
 <price>24390</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Black.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Black.jpg</image>
 <description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 </item>
 
@@ -32,7 +32,7 @@
 <price>24390</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_White.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_White.jpg</image>
 <description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 </item>
 
@@ -43,7 +43,7 @@
 <price>23450</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Red.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Red.jpg</image>
 <description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 </item>
 
@@ -54,7 +54,7 @@
 <price>30990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
 <description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 </item>
 
@@ -65,7 +65,7 @@
 <price>30990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
 <description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 </item>
 
@@ -76,7 +76,7 @@
 <price>29580</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
 <description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 </item>
 
@@ -87,7 +87,7 @@
 <price>32967</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Pro_Platinum.jpg</image>
 <description>Съемка в 4K с интеллектуальным режимом, система распознавания жестов, максимальная скорость - 65 км/ч, ёмкость аккумуляторов позволяет использовать дрон до 30 минут в воздухе.</description>
 </item>
 
@@ -98,7 +98,7 @@
 <price>42867</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
 <description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
 </item>
 
@@ -109,7 +109,7 @@
 <price>24720</price>
 <categoryId>2</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Ronin_S.jpg</image>
 <description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
 </item>
 
@@ -120,7 +120,7 @@
 <price>4920</price>
 <categoryId>2</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Mobile_2.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Osmo_Mobile_2.jpg</image>
 <description>Монопод-стабилизатор второго поколения для смартфонов, с клавишами управления. Емкость аккумулятора позволит использовать до 15 часов.</description>
 </item>
 
@@ -131,7 +131,7 @@
 <price>11850</price>
 <categoryId>2</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Pocket.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Osmo_Pocket.jpg</image>
 <description>Экшн-камера, представляет из себя смесь стедикама с экшн-камерой, съемка производится в разрешении 4K 60fps.</description>
 </item>
 
@@ -142,7 +142,7 @@
 <price>19770</price>
 <categoryId>3</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Goggles_Racing_Edition.jpg</image>
 <description>DJI Goggles - созданы для полета на устройствах DJI с обзором от первого лица. Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) - все, что нужно для полета в новом измерении.</description>
 </item>
 
@@ -153,7 +153,7 @@
 <price>13170</price>
 <categoryId>3</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Goggles.jpg</image>
 <description>DJI Goggles - созданы для полета на устройствах DJI с обзором от первого лица. Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) - все, что нужно для полета в новом измерении.</description>
 </item>
 
@@ -164,7 +164,7 @@
 <price>21420</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Spark_Fly_More_Combo.jpg</image>
 <description>Комбо набор дополнительно включает в себя пульт управления, защиту пропеллеров, дополнительный аккумулятор, хаб и сумку-переноску.</description>
 </item>
 
@@ -175,7 +175,7 @@
 <price>47820</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Pro.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Pro.jpg</image>
 <description>Дрон с камерой Hasselblad с возможностью настройки диафрагмы и скоростью полета до 72 км/ч.</description>
 </item>
 
@@ -186,7 +186,7 @@
 <price>39990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Zoom.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Zoom.jpg</image>
 <description>Дрон с 3-х осевой стабилизацией, широкоугольным обьективом, и фокусным расстоянием, эквивалентным 35 мм.</description>
 </item>
 
@@ -197,7 +197,7 @@
 <price>12510</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Fly_More_Kit.jpg</image>
 <description>Расширенный набор для Mavic 2 состоящий из: Intelligent Flight Batteries × 2, Mavic 2 Car Charger × 1, Battery Charging Hub × 1, Battery to Power Bank Adapter × 1, Low-Noise Propellers × 2 Pairs, Mavic 2 Shoulder Bag × 1.</description>
 </item>
 
@@ -208,7 +208,7 @@
 <price>49470</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_Phantom_4_Pro_ProV2_0___1.jpg</image>
 <description>Новый дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles. Как и модели Phantom 4 Pro и Advanced, Phantom 4 Pro V2.0 оснащен 1-дюймовой матрицей с разрешением 20 Мп, способной снимать видео в качестве 4К с частотой 60 кадров/с и серии фото с частотой 14 кадров/с.</description>
 </item>
 
@@ -219,7 +219,7 @@
 <price>59370</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_Phantom_4_Pro_ProV2_0___1_1.jpg</image>
 <description>Новый дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles. Как и модели Phantom 4 Pro и Advanced, Phantom 4 Pro+ V2.0 оснащен 1-дюймовой матрицей с разрешением 20 Мп, способной снимать видео в качестве 4К с частотой 60 кадров/с и серии фото с частотой 14 кадров/с.</description>
 </item>
 
@@ -230,7 +230,7 @@
 <price>3600</price>
 <categoryId>1</categoryId>
 <vendor>Ryze</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_Tello_1.jpg</image>
 <description>Самый компактный умный дрон с применением технологий DJI, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 </item>
 
@@ -241,7 +241,7 @@
 <price>5250</price>
 <categoryId>1</categoryId>
 <vendor>Ryze</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_Tello_Boost_Combo_1.jpg</image>
 <description>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 </item>
 
@@ -252,7 +252,7 @@
 <price>4587</price>
 <categoryId>1</categoryId>
 <vendor>Ryze</vendor>
-<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</image>
+<image>https://droneua.github.io/IMG_EK/EK_Tello_Iron_Man_Edition_1.jpg</image>
 <description>DJI общими усилиями с Marvel и Disney представили рынку новый дрон — Ryze Tello Iron Man Edition, который имеет новый стильный облик, вдохновленный культовой броней «железного человека». </description>
 </item>
 </items>
