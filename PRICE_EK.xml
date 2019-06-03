@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<yml_catalog date="2019-05-30 17:18">
+<yml_catalog date="2019-06-03 12:24">
 <shop>
 <name>Drone.UA</name>
 <url>http://store.drone.ua/</url>
@@ -40,7 +40,7 @@
 <item id="CP.PT.00000148.01">
 <name>Квадрокоптер (дрон) DJI Mavic Air</name>
 <url>http://store.drone.ua/product/mavic-air-red/</url>
-<price>23450</price>
+<price>24390</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
 <image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Red.jpg</image>
@@ -73,7 +73,7 @@
 <item id="CP.PT.00000169.01">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
-<price>29580</price>
+<price>30990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
 <image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
@@ -84,7 +84,7 @@
 <item id="CP.PT.00000075.01">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum/</url>
-<price>32967</price>
+<price>36270</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
 <image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Pro_Platinum.jpg</image>
@@ -95,7 +95,7 @@
 <item id="CP.PT.00000065.01">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-combo/</url>
-<price>42867</price>
+<price>42870</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
 <image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
@@ -249,7 +249,7 @@
 <item id="CP.TL.00000002.01">
 <name>Квадрокоптер (дрон) Ryze Tello Iron Man Edition</name>
 <url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
-<price>4587</price>
+<price>4590</price>
 <categoryId>1</categoryId>
 <vendor>Ryze</vendor>
 <image>https://droneua.github.io/IMG_EK/EK_Tello_Iron_Man_Edition_1.jpg</image>
