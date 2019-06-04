@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-04 19:55">
+<yml_catalog date="2019-06-04 20:17">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -21,7 +21,7 @@
 <offer available="false" id="
 ST.CP.PT.00000132.01">
 <url>http://store.drone.ua/product/mavic-air-ref-black/</url>
-<price>19000</price>
+<price>19945.63</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
@@ -107,7 +107,7 @@ ST.CP.PT.00000132.01">
 <offer available="false" id="
 ST.CP.PT.00000141.01">
 <url>http://store.drone.ua/product/mavic-air-ref-white/</url>
-<price>19000</price>
+<price>20282.37</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -193,7 +193,7 @@ ST.CP.PT.00000141.01">
 <offer available="false" id="
 ST.CP.PT.00000148.01">
 <url>http://store.drone.ua/product/mavic-air-ref-red/</url>
-<price>19000</price>
+<price>19762.57</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -279,7 +279,7 @@ ST.CP.PT.00000148.01">
 <offer available="false" id="
 ST.CP.PT.00000159.01">
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
-<price>25000</price>
+<price>26892.87</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
@@ -365,7 +365,7 @@ ST.CP.PT.00000159.01">
 <offer available="false" id="
 ST.CP.PT.00000168.01">
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
-<price>25000</price>
+<price>26892.87</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
@@ -451,7 +451,7 @@ ST.CP.PT.00000168.01">
 <offer available="false" id="
 ST.CP.PT.00000169.01.CP.PT.00000168.01">
 <url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
-<price>25000</price>
+<price>26892.87</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
@@ -537,7 +537,7 @@ ST.CP.PT.00000169.01.CP.PT.00000168.01">
 <offer available="true" id="
 ST.CP.PT.00000075.01">
 <url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
-<price>30780</price>
+<price>26900.78</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
@@ -595,7 +595,7 @@ ST.CP.PT.00000075.01">
 <offer available="true" id="
 ST.CP.PT.00000065.01">
 <url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
-<price>36380</price>
+<price>33558.74</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
@@ -653,7 +653,7 @@ ST.CP.PT.00000065.01">
 <offer available="true" id="
 ST.CP.ZM.00000104.01">
 <url>http://store.drone.ua/product/ronin-s-ref/</url>
-<price>19780</price>
+<price>20175.02</price>
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -1059,7 +1059,7 @@ CP.TL.00000015.01">
 <offer available="true" id="
 CP.TL.00000002.01">
 <url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
-<price>4587</price>
+<price>4590</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</picture>
@@ -3017,6 +3017,210 @@ CINEVOX/A">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.ZM.00000097.01">
+<url>http://store.drone.ua/product/osmo-pocket/</url>
+<price>11850</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_5.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера DJI OSMO Pocket (CP.ZM.00000097.01)</name>
+<description><![CDATA[]]></description>
+<param name="Артикул">CP.ZM.00000097.01</param>
+<param name="Тип">Стедикамы</param>
+<param name="Максимальная нагрузка"></param>
+<param name="Вес">0.116 кг</param>
+<param name="Цвет">Черный</param>
+<param name="Тип подключения">Подключение по Bluetooth</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.ZM.00000064.01">
+<url>http://store.drone.ua/product/osmo-mobile-2/</url>
+<price>4920</price>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_4.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Видеокамера DJI OSMO Mobile 2 (CP.ZM.00000064.01)</name>
+<description><![CDATA[]]></description>
+<param name="Артикул">CP.ZM.00000064.01</param>
+<param name="Тип">Стедикамы</param>
+<param name="Максимальная нагрузка"></param>
+<param name="Вес">0.485 кг</param>
+<param name="Цвет">Черный</param>
+<param name="Тип подключения">Проводное подключение</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000741">
+<url>http://store.drone.ua/product/spark/</url>
+<price>16470</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Spark (CP.PT.000741)</name>
+<description><![CDATA[]]></description>
+<param name="Артикул">CP.PT.000741</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Бело-черный</param>
+<param name="Длина, мм">143</param>
+<param name="Высота, мм">55</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">1480</param>
+<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000743">
+<url>http://store.drone.ua/product/spark-golyboi/</url>
+<price>16470</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Spark (CP.PT.000743)</name>
+<description><![CDATA[]]></description>
+<param name="Артикул">CP.PT.000743</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Черно-синий</param>
+<param name="Длина, мм">143</param>
+<param name="Высота, мм">55</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">1480</param>
+<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000744">
+<url>http://store.drone.ua/product/spark-zelenyj-2/</url>
+<price>16470</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Spark (CP.PT.000744)</name>
+<description><![CDATA[]]></description>
+<param name="Артикул">CP.PT.000744</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Черно-зеленый</param>
+<param name="Длина, мм">143</param>
+<param name="Высота, мм">55</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">1480</param>
+<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000745">
+<url>http://store.drone.ua/product/spark-krasnyj/</url>
+<price>16470</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Spark (CP.PT.000745)</name>
+<description><![CDATA[]]></description>
+<param name="Артикул">CP.PT.000745</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Черно-красный</param>
+<param name="Длина, мм">143</param>
+<param name="Высота, мм">55</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">1480</param>
+<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000742">
+<url>http://store.drone.ua/product/spark-zheltyj/</url>
+<price>16470</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Spark (CP.PT.000742)</name>
+<description><![CDATA[]]></description>
+<param name="Артикул">CP.PT.000742</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Черно-серый</param>
+<param name="Длина, мм">143</param>
+<param name="Высота, мм">55</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">1480</param>
+<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
 <param name="Доставка/Оплата">100% предоплата</param>
 </offer>
 </offers>
