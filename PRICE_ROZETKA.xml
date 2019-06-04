@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-04 20:47">
+<yml_catalog date="2019-06-04 21:36">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -3079,7 +3079,7 @@ CP.PT.000741">
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Квадрокоптер DJI Spark (CP.PT.000741)</name>
+<name>Квадрокоптер DJI Spark Alpine White (CP.PT.000741)</name>
 <description><![CDATA[]]></description>
 <param name="Артикул">CP.PT.000741</param>
 <param name="Тип">Готовая модель</param>
@@ -3110,7 +3110,7 @@ CP.PT.000743">
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Квадрокоптер DJI Spark (CP.PT.000743)</name>
+<name>Квадрокоптер DJI Spark Sky Blue (CP.PT.000743)</name>
 <description><![CDATA[]]></description>
 <param name="Артикул">CP.PT.000743</param>
 <param name="Тип">Готовая модель</param>
@@ -3141,7 +3141,7 @@ CP.PT.000744">
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Квадрокоптер DJI Spark (CP.PT.000744)</name>
+<name>Квадрокоптер DJI Spark Meadow Green (CP.PT.000744)</name>
 <description><![CDATA[]]></description>
 <param name="Артикул">CP.PT.000744</param>
 <param name="Тип">Готовая модель</param>
@@ -3172,7 +3172,7 @@ CP.PT.000745">
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Квадрокоптер DJI Spark (CP.PT.000745)</name>
+<name>Квадрокоптер DJI Spark Lava Red (CP.PT.000745)</name>
 <description><![CDATA[]]></description>
 <param name="Артикул">CP.PT.000745</param>
 <param name="Тип">Готовая модель</param>
@@ -3203,7 +3203,7 @@ CP.PT.000742">
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Квадрокоптер DJI Spark (CP.PT.000742)</name>
+<name>Квадрокоптер DJI Spark Sunrise Yellow (CP.PT.000742)</name>
 <description><![CDATA[]]></description>
 <param name="Артикул">CP.PT.000742</param>
 <param name="Тип">Готовая модель</param>
