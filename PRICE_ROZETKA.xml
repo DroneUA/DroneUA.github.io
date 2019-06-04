@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-04 20:17">
+<yml_catalog date="2019-06-04 20:47">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -18,7 +18,7 @@
 <offers>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.CP.PT.00000132.01">
 <url>http://store.drone.ua/product/mavic-air-ref-black/</url>
 <price>19945.63</price>
@@ -104,7 +104,7 @@ ST.CP.PT.00000132.01">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.CP.PT.00000141.01">
 <url>http://store.drone.ua/product/mavic-air-ref-white/</url>
 <price>20282.37</price>
@@ -190,7 +190,7 @@ ST.CP.PT.00000141.01">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.CP.PT.00000148.01">
 <url>http://store.drone.ua/product/mavic-air-ref-red/</url>
 <price>19762.57</price>
@@ -276,7 +276,7 @@ ST.CP.PT.00000148.01">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.CP.PT.00000159.01">
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
 <price>26892.87</price>
@@ -362,7 +362,7 @@ ST.CP.PT.00000159.01">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.CP.PT.00000168.01">
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
 <price>26892.87</price>
@@ -448,7 +448,7 @@ ST.CP.PT.00000168.01">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.CP.PT.00000169.01.CP.PT.00000168.01">
 <url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
 <price>26892.87</price>
@@ -1374,7 +1374,7 @@ ST.IN.000001">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.IN.000002">
 <url>http://store.drone.ua/product/insta360-one/</url>
 <price>10999</price>
@@ -1565,7 +1565,7 @@ ST.IN.000002">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.IN.000003">
 <url>http://store.drone.ua/product/insta360-pro/</url>
 <price>127999</price>
@@ -1793,7 +1793,7 @@ ST.IN.000003">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.IN.000004">
 <url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
 <price>178999</price>
@@ -2084,7 +2084,7 @@ ST.IN.000004">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.IN.000005">
 <url>http://store.drone.ua/product/insta360-titan/</url>
 <price>518999</price>
@@ -2355,7 +2355,7 @@ ST.IN.000005">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.IN.000006_S">
 <url>http://store.drone.ua/product/insta360-nano-s-black/</url>
 <price>8999</price>
@@ -2556,7 +2556,7 @@ ST.IN.000006_S">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 ST.IN.000006_B">
 <url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
 <price>8999</price>
@@ -2759,7 +2759,7 @@ ST.IN.000006_B">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 CINEVOX/A">
 <url>http://store.drone.ua/product/insta360-evo/</url>
 <price>15499</price>
