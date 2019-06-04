@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-03 13:13">
+<yml_catalog date="2019-06-04 18:48">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -2244,6 +2244,588 @@ CINEVOX/A">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.ZM.00000097.01">
+<url>http://store.drone.ua/product/osmo-pocket/</url>
+<price>17651</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (ST.CP.PT.00000132.01)</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<ul>
+ <li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+ <li>Если девайс вернули в течение гарантийного срока</li>
+ <li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+ <li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+ <li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+ <li>Если производитель отозвал товары для обновления</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+ <p><strong>Размеры:</strong> 168 × 184 × 64 мм<br><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br><strong>Разрешение видео:</strong>
+ </p>
+ <ul>
+ <li>4K Ultra HD: 3840 × 2160 24/25/30 fps</li>
+ <li>2.7K: 2720 × 1530 24/25/30/48/50/60 fps</li>
+ <li>FHD: 1920 × 1080 24/25/30/48/50/60/120 fps</li>
+ <li>HD: 1280 × 720 24/25/30/48/50/60/120 fps</li>
+ </ul>
+ <p><strong>Разрешение ф</strong><strong>ото:</strong>
+ </p>
+ <ul>
+ <li>4:3: 4056 × 3040</li>
+ <li>16:9: 4056 × 2280</li>
+ </ul>
+ <p><strong>Диапазон температур зарядки:</strong> +5...+40° C<br><strong>Масса:</strong> 430 г<br><strong>Макс. Скорость:</strong>
+ </p>
+ <ul>
+ <li>68.4 км/ч (режим S)</li>
+ <li>28,8 км/ч (режим P)</li>
+ <li>28,8 км/ч (режим Wi-Fi)</li>
+ </ul>
+ <p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br><strong>Макс. время полета:</strong> 21 минута<br><strong>Диапазон рабочих температур:</strong> от 0° до 40° C<br><strong>Матрица:</strong> 1/2.3” (CMOS), эффективных пикселей: 12 Мп<br><strong>Объектив:</strong> f/2,8, FOV: 85°, 35 мм эквивалент формата: 24 мм<br><strong>Диапазон ISO видео:</strong>
+ </p>
+ <ul>
+ <li>100 - 1600 (авто)</li>
+ <li>100 - 1600 (ручной)</li>
+ <li>Фото: 100 - 1600 (авто)</li>
+ <li>100 - 3200 (ручной)</li>
+ </ul>
+ <p><strong>Макс. размер изображения:</strong>
+ </p>
+ <ul>
+ <li>5280×3956, 4:3</li>
+ <li>5280×2970, 16:9</li>
+ </ul>
+ <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br>32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br>Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br><strong>Приложение:</strong> DJI GO 4<br><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее
+ </p>]]></description>
+<param name="Артикул">ST.CP.PT.00000132.01</param>
+<param name="Тип">Готовая модель</param>
+<param name="Максимальная нагрузка"></param>
+<param name="Вес"></param>
+<param name="Цвет"></param>
+<param name="Тип подключения"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.ZM.00000064.01">
+<url>http://store.drone.ua/product/osmo-mobile-2/</url>
+<price>17651</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (ST.CP.PT.00000132.01)</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<ul>
+ <li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+ <li>Если девайс вернули в течение гарантийного срока</li>
+ <li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+ <li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+ <li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+ <li>Если производитель отозвал товары для обновления</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+ <p><strong>Размеры:</strong> 168 × 184 × 64 мм<br><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br><strong>Разрешение видео:</strong>
+ </p>
+ <ul>
+ <li>4K Ultra HD: 3840 × 2160 24/25/30 fps</li>
+ <li>2.7K: 2720 × 1530 24/25/30/48/50/60 fps</li>
+ <li>FHD: 1920 × 1080 24/25/30/48/50/60/120 fps</li>
+ <li>HD: 1280 × 720 24/25/30/48/50/60/120 fps</li>
+ </ul>
+ <p><strong>Разрешение ф</strong><strong>ото:</strong>
+ </p>
+ <ul>
+ <li>4:3: 4056 × 3040</li>
+ <li>16:9: 4056 × 2280</li>
+ </ul>
+ <p><strong>Диапазон температур зарядки:</strong> +5...+40° C<br><strong>Масса:</strong> 430 г<br><strong>Макс. Скорость:</strong>
+ </p>
+ <ul>
+ <li>68.4 км/ч (режим S)</li>
+ <li>28,8 км/ч (режим P)</li>
+ <li>28,8 км/ч (режим Wi-Fi)</li>
+ </ul>
+ <p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br><strong>Макс. время полета:</strong> 21 минута<br><strong>Диапазон рабочих температур:</strong> от 0° до 40° C<br><strong>Матрица:</strong> 1/2.3” (CMOS), эффективных пикселей: 12 Мп<br><strong>Объектив:</strong> f/2,8, FOV: 85°, 35 мм эквивалент формата: 24 мм<br><strong>Диапазон ISO видео:</strong>
+ </p>
+ <ul>
+ <li>100 - 1600 (авто)</li>
+ <li>100 - 1600 (ручной)</li>
+ <li>Фото: 100 - 1600 (авто)</li>
+ <li>100 - 3200 (ручной)</li>
+ </ul>
+ <p><strong>Макс. размер изображения:</strong>
+ </p>
+ <ul>
+ <li>5280×3956, 4:3</li>
+ <li>5280×2970, 16:9</li>
+ </ul>
+ <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br>32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br>Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br><strong>Приложение:</strong> DJI GO 4<br><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее
+ </p>]]></description>
+<param name="Артикул">ST.CP.PT.00000132.01</param>
+<param name="Тип">Готовая модель</param>
+<param name="Максимальная нагрузка"></param>
+<param name="Вес"></param>
+<param name="Цвет"></param>
+<param name="Тип подключения"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000741">
+<url>http://store.drone.ua/product/spark/</url>
+<price>17651</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (ST.CP.PT.00000132.01)</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<ul>
+ <li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+ <li>Если девайс вернули в течение гарантийного срока</li>
+ <li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+ <li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+ <li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+ <li>Если производитель отозвал товары для обновления</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+ <p><strong>Размеры:</strong> 168 × 184 × 64 мм<br><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br><strong>Разрешение видео:</strong>
+ </p>
+ <ul>
+ <li>4K Ultra HD: 3840 × 2160 24/25/30 fps</li>
+ <li>2.7K: 2720 × 1530 24/25/30/48/50/60 fps</li>
+ <li>FHD: 1920 × 1080 24/25/30/48/50/60/120 fps</li>
+ <li>HD: 1280 × 720 24/25/30/48/50/60/120 fps</li>
+ </ul>
+ <p><strong>Разрешение ф</strong><strong>ото:</strong>
+ </p>
+ <ul>
+ <li>4:3: 4056 × 3040</li>
+ <li>16:9: 4056 × 2280</li>
+ </ul>
+ <p><strong>Диапазон температур зарядки:</strong> +5...+40° C<br><strong>Масса:</strong> 430 г<br><strong>Макс. Скорость:</strong>
+ </p>
+ <ul>
+ <li>68.4 км/ч (режим S)</li>
+ <li>28,8 км/ч (режим P)</li>
+ <li>28,8 км/ч (режим Wi-Fi)</li>
+ </ul>
+ <p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br><strong>Макс. время полета:</strong> 21 минута<br><strong>Диапазон рабочих температур:</strong> от 0° до 40° C<br><strong>Матрица:</strong> 1/2.3” (CMOS), эффективных пикселей: 12 Мп<br><strong>Объектив:</strong> f/2,8, FOV: 85°, 35 мм эквивалент формата: 24 мм<br><strong>Диапазон ISO видео:</strong>
+ </p>
+ <ul>
+ <li>100 - 1600 (авто)</li>
+ <li>100 - 1600 (ручной)</li>
+ <li>Фото: 100 - 1600 (авто)</li>
+ <li>100 - 3200 (ручной)</li>
+ </ul>
+ <p><strong>Макс. размер изображения:</strong>
+ </p>
+ <ul>
+ <li>5280×3956, 4:3</li>
+ <li>5280×2970, 16:9</li>
+ </ul>
+ <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br>32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br>Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br><strong>Приложение:</strong> DJI GO 4<br><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее
+ </p>]]></description>
+<param name="Артикул">ST.CP.PT.00000132.01</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Белый</param>
+<param name="Длина, мм">160</param>
+<param name="Высота, мм">85</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">2970</param>
+<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+<param name="Высота полета">5000 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г">430</param>
+<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000743">
+<url>http://store.drone.ua/product/spark-golyboi/</url>
+<price>17651</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (ST.CP.PT.00000132.01)</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<ul>
+ <li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+ <li>Если девайс вернули в течение гарантийного срока</li>
+ <li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+ <li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+ <li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+ <li>Если производитель отозвал товары для обновления</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+ <p><strong>Размеры:</strong> 168 × 184 × 64 мм<br><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br><strong>Разрешение видео:</strong>
+ </p>
+ <ul>
+ <li>4K Ultra HD: 3840 × 2160 24/25/30 fps</li>
+ <li>2.7K: 2720 × 1530 24/25/30/48/50/60 fps</li>
+ <li>FHD: 1920 × 1080 24/25/30/48/50/60/120 fps</li>
+ <li>HD: 1280 × 720 24/25/30/48/50/60/120 fps</li>
+ </ul>
+ <p><strong>Разрешение ф</strong><strong>ото:</strong>
+ </p>
+ <ul>
+ <li>4:3: 4056 × 3040</li>
+ <li>16:9: 4056 × 2280</li>
+ </ul>
+ <p><strong>Диапазон температур зарядки:</strong> +5...+40° C<br><strong>Масса:</strong> 430 г<br><strong>Макс. Скорость:</strong>
+ </p>
+ <ul>
+ <li>68.4 км/ч (режим S)</li>
+ <li>28,8 км/ч (режим P)</li>
+ <li>28,8 км/ч (режим Wi-Fi)</li>
+ </ul>
+ <p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br><strong>Макс. время полета:</strong> 21 минута<br><strong>Диапазон рабочих температур:</strong> от 0° до 40° C<br><strong>Матрица:</strong> 1/2.3” (CMOS), эффективных пикселей: 12 Мп<br><strong>Объектив:</strong> f/2,8, FOV: 85°, 35 мм эквивалент формата: 24 мм<br><strong>Диапазон ISO видео:</strong>
+ </p>
+ <ul>
+ <li>100 - 1600 (авто)</li>
+ <li>100 - 1600 (ручной)</li>
+ <li>Фото: 100 - 1600 (авто)</li>
+ <li>100 - 3200 (ручной)</li>
+ </ul>
+ <p><strong>Макс. размер изображения:</strong>
+ </p>
+ <ul>
+ <li>5280×3956, 4:3</li>
+ <li>5280×2970, 16:9</li>
+ </ul>
+ <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br>32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br>Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br><strong>Приложение:</strong> DJI GO 4<br><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее
+ </p>]]></description>
+<param name="Артикул">ST.CP.PT.00000132.01</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Белый</param>
+<param name="Длина, мм">160</param>
+<param name="Высота, мм">85</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">2970</param>
+<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+<param name="Высота полета">5000 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г">430</param>
+<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000744">
+<url>http://store.drone.ua/product/spark-zelenyj-2/</url>
+<price>17651</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (ST.CP.PT.00000132.01)</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<ul>
+ <li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+ <li>Если девайс вернули в течение гарантийного срока</li>
+ <li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+ <li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+ <li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+ <li>Если производитель отозвал товары для обновления</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+ <p><strong>Размеры:</strong> 168 × 184 × 64 мм<br><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br><strong>Разрешение видео:</strong>
+ </p>
+ <ul>
+ <li>4K Ultra HD: 3840 × 2160 24/25/30 fps</li>
+ <li>2.7K: 2720 × 1530 24/25/30/48/50/60 fps</li>
+ <li>FHD: 1920 × 1080 24/25/30/48/50/60/120 fps</li>
+ <li>HD: 1280 × 720 24/25/30/48/50/60/120 fps</li>
+ </ul>
+ <p><strong>Разрешение ф</strong><strong>ото:</strong>
+ </p>
+ <ul>
+ <li>4:3: 4056 × 3040</li>
+ <li>16:9: 4056 × 2280</li>
+ </ul>
+ <p><strong>Диапазон температур зарядки:</strong> +5...+40° C<br><strong>Масса:</strong> 430 г<br><strong>Макс. Скорость:</strong>
+ </p>
+ <ul>
+ <li>68.4 км/ч (режим S)</li>
+ <li>28,8 км/ч (режим P)</li>
+ <li>28,8 км/ч (режим Wi-Fi)</li>
+ </ul>
+ <p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br><strong>Макс. время полета:</strong> 21 минута<br><strong>Диапазон рабочих температур:</strong> от 0° до 40° C<br><strong>Матрица:</strong> 1/2.3” (CMOS), эффективных пикселей: 12 Мп<br><strong>Объектив:</strong> f/2,8, FOV: 85°, 35 мм эквивалент формата: 24 мм<br><strong>Диапазон ISO видео:</strong>
+ </p>
+ <ul>
+ <li>100 - 1600 (авто)</li>
+ <li>100 - 1600 (ручной)</li>
+ <li>Фото: 100 - 1600 (авто)</li>
+ <li>100 - 3200 (ручной)</li>
+ </ul>
+ <p><strong>Макс. размер изображения:</strong>
+ </p>
+ <ul>
+ <li>5280×3956, 4:3</li>
+ <li>5280×2970, 16:9</li>
+ </ul>
+ <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br>32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br>Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br><strong>Приложение:</strong> DJI GO 4<br><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее
+ </p>]]></description>
+<param name="Артикул">ST.CP.PT.00000132.01</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Белый</param>
+<param name="Длина, мм">160</param>
+<param name="Высота, мм">85</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">2970</param>
+<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+<param name="Высота полета">5000 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г">430</param>
+<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000745">
+<url>http://store.drone.ua/product/spark-krasnyj/</url>
+<price>17651</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (ST.CP.PT.00000132.01)</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<ul>
+ <li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+ <li>Если девайс вернули в течение гарантийного срока</li>
+ <li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+ <li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+ <li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+ <li>Если производитель отозвал товары для обновления</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+ <p><strong>Размеры:</strong> 168 × 184 × 64 мм<br><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br><strong>Разрешение видео:</strong>
+ </p>
+ <ul>
+ <li>4K Ultra HD: 3840 × 2160 24/25/30 fps</li>
+ <li>2.7K: 2720 × 1530 24/25/30/48/50/60 fps</li>
+ <li>FHD: 1920 × 1080 24/25/30/48/50/60/120 fps</li>
+ <li>HD: 1280 × 720 24/25/30/48/50/60/120 fps</li>
+ </ul>
+ <p><strong>Разрешение ф</strong><strong>ото:</strong>
+ </p>
+ <ul>
+ <li>4:3: 4056 × 3040</li>
+ <li>16:9: 4056 × 2280</li>
+ </ul>
+ <p><strong>Диапазон температур зарядки:</strong> +5...+40° C<br><strong>Масса:</strong> 430 г<br><strong>Макс. Скорость:</strong>
+ </p>
+ <ul>
+ <li>68.4 км/ч (режим S)</li>
+ <li>28,8 км/ч (режим P)</li>
+ <li>28,8 км/ч (режим Wi-Fi)</li>
+ </ul>
+ <p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br><strong>Макс. время полета:</strong> 21 минута<br><strong>Диапазон рабочих температур:</strong> от 0° до 40° C<br><strong>Матрица:</strong> 1/2.3” (CMOS), эффективных пикселей: 12 Мп<br><strong>Объектив:</strong> f/2,8, FOV: 85°, 35 мм эквивалент формата: 24 мм<br><strong>Диапазон ISO видео:</strong>
+ </p>
+ <ul>
+ <li>100 - 1600 (авто)</li>
+ <li>100 - 1600 (ручной)</li>
+ <li>Фото: 100 - 1600 (авто)</li>
+ <li>100 - 3200 (ручной)</li>
+ </ul>
+ <p><strong>Макс. размер изображения:</strong>
+ </p>
+ <ul>
+ <li>5280×3956, 4:3</li>
+ <li>5280×2970, 16:9</li>
+ </ul>
+ <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br>32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br>Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br><strong>Приложение:</strong> DJI GO 4<br><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее
+ </p>]]></description>
+<param name="Артикул">ST.CP.PT.00000132.01</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Белый</param>
+<param name="Длина, мм">160</param>
+<param name="Высота, мм">85</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">2970</param>
+<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+<param name="Высота полета">5000 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г">430</param>
+<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+<param name="Доставка/Оплата">100% предоплата</param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000742">
+<url>http://store.drone.ua/product/spark-zheltyj/</url>
+<price>17651</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (ST.CP.PT.00000132.01)</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<ul>
+ <li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+ <li>Если девайс вернули в течение гарантийного срока</li>
+ <li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+ <li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+ <li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+ <li>Если производитель отозвал товары для обновления</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+ <p><strong>Размеры:</strong> 168 × 184 × 64 мм<br><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br><strong>Разрешение видео:</strong>
+ </p>
+ <ul>
+ <li>4K Ultra HD: 3840 × 2160 24/25/30 fps</li>
+ <li>2.7K: 2720 × 1530 24/25/30/48/50/60 fps</li>
+ <li>FHD: 1920 × 1080 24/25/30/48/50/60/120 fps</li>
+ <li>HD: 1280 × 720 24/25/30/48/50/60/120 fps</li>
+ </ul>
+ <p><strong>Разрешение ф</strong><strong>ото:</strong>
+ </p>
+ <ul>
+ <li>4:3: 4056 × 3040</li>
+ <li>16:9: 4056 × 2280</li>
+ </ul>
+ <p><strong>Диапазон температур зарядки:</strong> +5...+40° C<br><strong>Масса:</strong> 430 г<br><strong>Макс. Скорость:</strong>
+ </p>
+ <ul>
+ <li>68.4 км/ч (режим S)</li>
+ <li>28,8 км/ч (режим P)</li>
+ <li>28,8 км/ч (режим Wi-Fi)</li>
+ </ul>
+ <p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br><strong>Макс. время полета:</strong> 21 минута<br><strong>Диапазон рабочих температур:</strong> от 0° до 40° C<br><strong>Матрица:</strong> 1/2.3” (CMOS), эффективных пикселей: 12 Мп<br><strong>Объектив:</strong> f/2,8, FOV: 85°, 35 мм эквивалент формата: 24 мм<br><strong>Диапазон ISO видео:</strong>
+ </p>
+ <ul>
+ <li>100 - 1600 (авто)</li>
+ <li>100 - 1600 (ручной)</li>
+ <li>Фото: 100 - 1600 (авто)</li>
+ <li>100 - 3200 (ручной)</li>
+ </ul>
+ <p><strong>Макс. размер изображения:</strong>
+ </p>
+ <ul>
+ <li>5280×3956, 4:3</li>
+ <li>5280×2970, 16:9</li>
+ </ul>
+ <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br>32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br>Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br><strong>Приложение:</strong> DJI GO 4<br><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее
+ </p>]]></description>
+<param name="Артикул">ST.CP.PT.00000132.01</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Белый</param>
+<param name="Длина, мм">160</param>
+<param name="Высота, мм">85</param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">2970</param>
+<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+<param name="Высота полета">5000 м</param>
+<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+<param name="Приемник в комплекте">Да</param>
+<param name="Вес, г">430</param>
+<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль">С наличием</param>
+<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 <param name="Доставка/Оплата">100% предоплата</param>
 </offer>
 </offers>
