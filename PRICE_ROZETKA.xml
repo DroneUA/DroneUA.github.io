@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-07 17:34">
+<yml_catalog date="2019-06-07 19:14">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -3369,7 +3369,7 @@ ST.0000015">
 <picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture>
 <vendor>Ryze</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Интеллектуальная батарея Ryze Tello 1100 mAh (ST.0000015)</name>
+<name>Аккумулятор Ryze Tello 1100 mAh (ST.0000015)</name>
 <description><![CDATA[Аккумулятор для Ryze Tello 1100 мА*ч]]></description>
 <param name="Артикул">ST.0000015</param>
 <param name="Тип">Аксессуары</param>
