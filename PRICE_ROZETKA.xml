@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-04 21:36">
+<yml_catalog date="2019-06-07 17:34">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -735,7 +735,7 @@ CP.MA.00000014.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -775,7 +775,7 @@ CP.MA.00000013.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -859,7 +859,7 @@ CP.PT.00000242.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -943,7 +943,7 @@ CP.PT.00000232.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -997,7 +997,7 @@ CP.PT.00000210.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">Без наличия</param>
 <param name="Аппаратура управления">2.4 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -1052,7 +1052,7 @@ CP.TL.00000015.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">Без наличия</param>
 <param name="Аппаратура управления">2.4 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -1106,7 +1106,7 @@ CP.TL.00000002.01">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">Без наличия</param>
 <param name="Аппаратура управления">2.4 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -1370,7 +1370,7 @@ ST.IN.000001">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -1561,7 +1561,7 @@ ST.IN.000002">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -1789,7 +1789,7 @@ ST.IN.000003">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -2080,7 +2080,7 @@ ST.IN.000004">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -2351,7 +2351,7 @@ ST.IN.000005">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -2552,7 +2552,7 @@ ST.IN.000006_S">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -2755,7 +2755,7 @@ ST.IN.000006_B">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3017,7 +3017,7 @@ CINEVOX/A">
 <param name="Оптическая стабилизация"></param>
 <param name="Оптический зум"></param>
 <param name="Зарядное устройство"></param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3042,7 +3042,7 @@ CP.ZM.00000097.01">
 <param name="Вес">0.116 кг</param>
 <param name="Цвет">Черный</param>
 <param name="Тип подключения">Подключение по Bluetooth</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3066,7 +3066,7 @@ CP.ZM.00000064.01">
 <param name="Вес">0.485 кг</param>
 <param name="Цвет">Черный</param>
 <param name="Тип подключения">Проводное подключение</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3097,7 +3097,7 @@ CP.PT.000741">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3128,7 +3128,7 @@ CP.PT.000743">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3159,7 +3159,7 @@ CP.PT.000744">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3190,7 +3190,7 @@ CP.PT.000745">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
 </offer>
 
 
@@ -3221,7 +3221,173 @@ CP.PT.000742">
 <param name="Камера">С камерой</param>
 <param name="GPS-модуль">С наличием</param>
 <param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-<param name="Доставка/Оплата">100% предоплата</param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.00000194.01">
+<url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
+<price>2610</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_4.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
+<description><![CDATA[Аккумулятор для DJI Mavic Air 2375 мА*ч]]></description>
+<param name="Артикул">CP.PT.00000194.01</param>
+<param name="Тип">Аксессуары</param>
+<param name="Цвет фюзеляжа">Черный</param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя"></param>
+<param name="Аккумулятор, мА*ч">2375</param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера"></param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления"></param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.00000077.01">
+<url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
+<price>3270</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_5.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh (CP.PT.00000077.01)</name>
+<description><![CDATA[Аккумулятор для DJI Mavic Pro Platinum 3830 мА*ч]]></description>
+<param name="Артикул">CP.PT.00000077.01</param>
+<param name="Тип">Аксессуары</param>
+<param name="Цвет фюзеляжа"></param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя"></param>
+<param name="Аккумулятор, мА*ч">3830</param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера"></param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления"></param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000587">
+<url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
+<price>3270</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_4.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh (CP.PT.000587)</name>
+<description><![CDATA[Аккумулятор для DJI Mavic Pro 3830 мА*ч]]></description>
+<param name="Артикул">CP.PT.000587</param>
+<param name="Тип">Аксессуары</param>
+<param name="Цвет фюзеляжа">Серый</param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя"></param>
+<param name="Аккумулятор, мА*ч">3830</param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера"></param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления"></param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+CP.PT.000601">
+<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
+<price>6240</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh (CP.PT.000601)</name>
+<description><![CDATA[Аккумулятор для DJI Phantom 4 5870 мА*ч]]></description>
+<param name="Артикул">CP.PT.000601</param>
+<param name="Тип">Аксессуары</param>
+<param name="Цвет фюзеляжа">Белый</param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя"></param>
+<param name="Аккумулятор, мА*ч">5870</param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера"></param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления"></param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+ST.0000015">
+<url>http://store.drone.ua/product/tello-part-1-battery/</url>
+<price>830</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture>
+<vendor>Ryze</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Интеллектуальная батарея Ryze Tello 1100 mAh (ST.0000015)</name>
+<description><![CDATA[Аккумулятор для Ryze Tello 1100 мА*ч]]></description>
+<param name="Артикул">ST.0000015</param>
+<param name="Тип">Аксессуары</param>
+<param name="Цвет фюзеляжа">Черный</param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя"></param>
+<param name="Аккумулятор, мА*ч">1100</param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера"></param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления"></param>
+<param name="Доставка/Оплата"></param>
 </offer>
 </offers>
 </shop>
