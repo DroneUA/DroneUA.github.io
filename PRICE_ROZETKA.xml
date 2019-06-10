@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-10 10:24">
+<yml_catalog date="2019-06-10 14:13">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -688,8 +688,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 Размеры: 202 x 185 x 486 мм]]></description>
 <param name="Артикул">ST.CP.ZM.00000104.01</param>
 <param name="Тип">Стедикамы</param>
-<param name="Максимальная нагрузка">3.6 кг</param>
-<param name="Вес">Около 1.5 кг (стабилизатор), около 1.85 кг (стабилизатор и рукоятка)</param>
+<param name="Максимальная нагрузка">3.6</param>
+<param name="Вес">1.85</param>
 <param name="Цвет">Черный</param>
 <param name="Тип подключения">Проводное подключение, Подключение по Bluetooth</param>
 <param name="Доставка/Оплата">100% предоплата</param>
@@ -3039,7 +3039,7 @@ CP.ZM.00000097.01">
 <param name="Артикул">CP.ZM.00000097.01</param>
 <param name="Тип">Стедикамы</param>
 <param name="Максимальная нагрузка"></param>
-<param name="Вес">0.116 кг</param>
+<param name="Вес">0.116</param>
 <param name="Цвет">Черный</param>
 <param name="Тип подключения">Подключение по Bluetooth</param>
 <param name="Доставка/Оплата"></param>
@@ -3063,7 +3063,7 @@ CP.ZM.00000064.01">
 <param name="Артикул">CP.ZM.00000064.01</param>
 <param name="Тип">Стедикамы</param>
 <param name="Максимальная нагрузка"></param>
-<param name="Вес">0.485 кг</param>
+<param name="Вес">0.485</param>
 <param name="Цвет">Черный</param>
 <param name="Тип подключения">Проводное подключение</param>
 <param name="Доставка/Оплата"></param>
@@ -3207,7 +3207,7 @@ CP.PT.000742">
 <description><![CDATA[]]></description>
 <param name="Артикул">CP.PT.000742</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Черно-серый</param>
+<param name="Цвет фюзеляжа">Черно-желтый</param>
 <param name="Длина, мм">143</param>
 <param name="Высота, мм">55</param>
 <param name="Тип двигателя">Электродвигатель</param>
