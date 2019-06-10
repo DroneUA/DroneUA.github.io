@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-10 17:46">
+<yml_catalog date="2019-06-10 18:33">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -1113,7 +1113,7 @@ CP.TL.00000002.01">
 <offer available="true" id="
 ST.IN.000001">
 <url>http://store.drone.ua/product/insta360-one-x/</url>
-<price>13999</price>
+<price>13470</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
@@ -1377,7 +1377,7 @@ ST.IN.000001">
 <offer available="true" id="
 ST.IN.000002">
 <url>http://store.drone.ua/product/insta360-one/</url>
-<price>10999</price>
+<price>7670</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</picture>
@@ -1568,7 +1568,7 @@ ST.IN.000002">
 <offer available="true" id="
 ST.IN.000003">
 <url>http://store.drone.ua/product/insta360-pro/</url>
-<price>127999</price>
+<price>124170</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</picture>
@@ -1796,7 +1796,7 @@ ST.IN.000003">
 <offer available="true" id="
 ST.IN.000004">
 <url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
-<price>178999</price>
+<price>170070</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</picture>
@@ -2087,7 +2087,7 @@ ST.IN.000004">
 <offer available="true" id="
 ST.IN.000005">
 <url>http://store.drone.ua/product/insta360-titan/</url>
-<price>518999</price>
+<price>512970</price>
 <currencyId>UAH</currencyId>
 <categoryId>3</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</picture>
