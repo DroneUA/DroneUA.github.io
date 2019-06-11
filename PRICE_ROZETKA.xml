@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-10 18:33">
+<yml_catalog date="2019-06-11 20:12">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -86,7 +86,7 @@ ST.CP.PT.00000132.01">
  </p>]]></description>
 <param name="Артикул">ST.CP.PT.00000132.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Белый</param>
+<param name="Цвет фюзеляжа">Черный</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -172,7 +172,7 @@ ST.CP.PT.00000141.01">
  </p>]]></description>
 <param name="Артикул">ST.CP.PT.00000141.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Черный</param>
+<param name="Цвет фюзеляжа">Белый</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -344,7 +344,7 @@ ST.CP.PT.00000159.01">
  </p>]]></description>
 <param name="Артикул">ST.CP.PT.00000159.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Белый</param>
+<param name="Цвет фюзеляжа">Черный</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -430,7 +430,7 @@ ST.CP.PT.00000168.01">
  </p>]]></description>
 <param name="Артикул">ST.CP.PT.00000168.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Черный</param>
+<param name="Цвет фюзеляжа">Белый</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -3035,7 +3035,128 @@ CP.ZM.00000097.01">
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
 <name>Видеокамера DJI OSMO Pocket (CP.ZM.00000097.01)</name>
-<description><![CDATA[]]></description>
+<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Размеры</th>
+<td>121.9&times;36.9&times;28.6 мм</td>
+</tr>
+<tr>
+<th>Масса</th>
+<td>116 г</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">КАМЕРА</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Матрица</th>
+<td>1/2.3&rdquo; CMOS<br />Число эффективных пикселей: 12 млн</td>
+</tr>
+<tr>
+<th>Объектив</th>
+<td>Угол обзора: 80&deg; F2.0<br />(эквивалент формата 26 мм)</td>
+</tr>
+<tr>
+<th>Диапазон ISO</th>
+<td>Фото: 100&ndash;3200<br />Видео: 100&ndash;3200</td>
+</tr>
+<tr>
+<th>Диапазон выдержки</th>
+<td>8&ndash;1/8000 с</td>
+</tr>
+<tr>
+<th>Макс. разрешение изображения</th>
+<td>4000&times;3000 пикселей</td>
+</tr>
+<tr>
+<th>Режимы фотосъемки</th>
+<td>Покадровая, панорама, таймлапс, динамичный таймлапс, Гиперлапс</td>
+</tr>
+<tr>
+<th>Разрешение видео</th>
+<td>4K Ultra HD: 3840&times;2160 24/25/30/48/50/60p<br />FHD: 1920&times;1080 24/25/30/48/50/60</td>
+</tr>
+<tr>
+<th>Режимы видеосъемки</th>
+<td>Авто; замедленная съемка</td>
+</tr>
+<tr>
+<th>Макс. битрейт видео</th>
+<td>100 Мбит/с</td>
+</tr>
+<tr>
+<th>Поддерживаемые форматы файлов</th>
+<td>FAT32 (&le;32 Гбайт), exFAT (&gt;64 Гбайт)</td>
+</tr>
+<tr>
+<th>Фото</th>
+<td>JPEG/JPEG+DNG</td>
+</tr>
+<tr>
+<th>Видео</th>
+<td>MP4/MOV (MPEG-4 AVC/H.264)</td>
+</tr>
+<tr>
+<th>Совместимые карты памяти</th>
+<td>microSD, (макс. объем: 256 Гб)</td>
+</tr>
+<tr>
+<th>Вывод аудио</th>
+<td>48 КГц, формат AAC</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3 class="section-title">СТАБИЛИЗАТОР</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Рабочий диапазон углов вращения</th>
+<td>Поворот: -230&deg;...+50&deg;<br />Наклон: -95&deg;...+50&deg;<br />Крен: &plusmn;45&deg;</td>
+</tr>
+<tr>
+<th>Макс. регулируемая скорость</th>
+<td>120&deg;/с</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">АККУМУЛЯТОР</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Тип</th>
+<td>Литий-полимерный</td>
+</tr>
+<tr>
+<th>Емкость</th>
+<td>875 мАч</td>
+</tr>
+<tr>
+<th>Энергия</th>
+<td>6.738 Вт/ч</td>
+</tr>
+<tr>
+<th>Напряжение</th>
+<td>7.7 В</td>
+</tr>
+<tr>
+<th>Диапазон рабочих температур</th>
+<td>0&deg;...+40&deg;C</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>140 мин.</td>
+</tr>
+<tr>
+<th>Время зарядки</th>
+<td>73 мин.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>]]></description>
 <param name="Артикул">CP.ZM.00000097.01</param>
 <param name="Тип">Стедикамы</param>
 <param name="Максимальная нагрузка"></param>
@@ -3059,7 +3180,122 @@ CP.ZM.00000064.01">
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
 <name>Видеокамера DJI OSMO Mobile 2 (CP.ZM.00000064.01)</name>
-<description><![CDATA[]]></description>
+<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Размеры</th>
+<td>295&times;113&times;72 мм</td>
+</tr>
+<tr>
+<th>Масса</th>
+<td>485 г</td>
+</tr>
+<tr>
+<th>Модель</th>
+<td>OM170</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">СТАБИЛИЗАТОР</h3>
+<table class="table-specs" style="height: 324px;">
+<tbody>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">Энергопотребление</th>
+<td style="height: 18px; width: 326px;">1.2 Вт</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">&nbsp;</th>
+<td style="height: 36px; width: 326px;">*В идеальных условиях при сбалансированном стабилизаторе.</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Рабочий диапазон углов вращения</th>
+<td style="height: 36px; width: 326px;">Поворот： &plusmn;160&deg;</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">&nbsp;</th>
+<td style="height: 36px; width: 326px;">Наклон:&plusmn;155&deg; (горизонтальная ориентация)</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Механический диапазон углов вращения</th>
+<td style="height: 36px; width: 326px;">Поворот： &plusmn;170&deg;</td>
+</tr>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">&nbsp;</th>
+<td style="height: 18px; width: 326px;">Крен: -90&deg;...+70&deg;</td>
+</tr>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">&nbsp;</th>
+<td style="height: 18px; width: 326px;">Наклон: &plusmn;170&deg;</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Макс.регулируемая угловая скорость</th>
+<td style="height: 36px; width: 326px;">120&deg;/с</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Допустимая ширина мобильного телефона</th>
+<td style="height: 36px; width: 326px;">58.6-85 мм</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Допустимая толщина телефона</th>
+<td style="height: 36px; width: 326px;">&le;8.9 мм</td>
+</tr>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">Макс.масса телефона</th>
+<td style="height: 18px; width: 326px;">240 г</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">АККУМУЛЯТОР</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Тип</th>
+<td>18650, литий-полимерный</td>
+</tr>
+<tr>
+<th>Емкость</th>
+<td>2600 мАч</td>
+</tr>
+<tr>
+<th>Энергия</th>
+<td>18 Вт.ч</td>
+</tr>
+<tr>
+<th>Напряжение</th>
+<td>7.2 В</td>
+</tr>
+<tr>
+<th>Диапазон температур зарядки</th>
+<td>5 - 40&deg;C</td>
+</tr>
+<tr>
+<th>Диапазон рабочих температур</th>
+<td>0 - 40&deg;C</td>
+</tr>
+<tr>
+<th>Макс. время работы</th>
+<td>15 часов</td>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<td>*В идеальных условиях при сбалансированном стабилизаторе.</td>
+</tr>
+<tr>
+<th>Время зарядки</th>
+<td>2 часа</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">БЕСПРОВОДНАЯ СВЯЗЬ</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Модель</th>
+<td>Bluetooth 4.0 с низким энергопотреблением</td>
+</tr>
+</tbody>
+</table>]]></description>
 <param name="Артикул">CP.ZM.00000064.01</param>
 <param name="Тип">Стедикамы</param>
 <param name="Максимальная нагрузка"></param>
@@ -3604,7 +3840,7 @@ CP.PT.00000132.01_2">
 <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
 <param name="Артикул">CP.PT.00000132.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Белый</param>
+<param name="Цвет фюзеляжа">Черный</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -3671,7 +3907,7 @@ CP.PT.00000141.01_2">
 <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
 <param name="Артикул">CP.PT.00000141.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Черный</param>
+<param name="Цвет фюзеляжа">Белый</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -3805,7 +4041,7 @@ CP.PT.00000159.01_2">
 <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
 <param name="Артикул">CP.PT.00000159.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Белый</param>
+<param name="Цвет фюзеляжа">Черный</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -3872,7 +4108,7 @@ CP.PT.00000168.01_2">
 <p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
 <param name="Артикул">CP.PT.00000168.01</param>
 <param name="Тип">Готовая модель</param>
-<param name="Цвет фюзеляжа">Черный</param>
+<param name="Цвет фюзеляжа">Белый</param>
 <param name="Длина, мм">160</param>
 <param name="Высота, мм">85</param>
 <param name="Тип двигателя">Электродвигатель</param>
@@ -4064,6 +4300,118 @@ CP.ZM.00000104.01_2">
 <param name="Вес">1.85</param>
 <param name="Цвет">Черный</param>
 <param name="Тип подключения">Проводное подключение, Подключение по Bluetooth</param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+ST.CI.00001">
+<url>http://store.drone.ua/product/podvodnyj-dron-gladius/</url>
+<price>67950</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_7.jpg</picture>
+<vendor>Chasing-Innovation</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Подводный дрон Chasing-Innovation Gladius (ST.CI.00001)</name>
+<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.]]></description>
+<param name="Артикул">ST.CI.00001</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Желтый</param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч"></param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления"></param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+ST.CI.00002">
+<url>http://store.drone.ua/product/gladius-mini/</url>
+<price>52770</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_7.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_8.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_9.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_10.png</picture>
+<vendor>Chasing-Innovation</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
+<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.]]></description>
+<param name="Артикул">ST.CI.00002</param>
+<param name="Тип">Готовая модель</param>
+<param name="Цвет фюзеляжа">Желтый</param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя">Электродвигатель</param>
+<param name="Аккумулятор, мА*ч">2600</param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера">С камерой</param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления">2.4 ГГц</param>
+<param name="Доставка/Оплата"></param>
+</offer>
+
+
+<offer available="true" id="
+ST.CI.00102">
+<url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
+<price>8220</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_5.jpg</picture>
+<vendor>Chasing-Innovation</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Рюкзак для Gladius Mini (ST.CI.00102)</name>
+<description><![CDATA[Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation]]></description>
+<param name="Артикул">ST.CI.00102</param>
+<param name="Тип">Аксессуары</param>
+<param name="Цвет фюзеляжа"></param>
+<param name="Длина, мм"></param>
+<param name="Высота, мм"></param>
+<param name="Тип двигателя"></param>
+<param name="Аккумулятор, мА*ч"></param>
+<param name="Время полета"></param>
+<param name="Высота полета"></param>
+<param name="Радиус действия аппаратуры"></param>
+<param name="Приемник в комплекте"></param>
+<param name="Вес, г"></param>
+<param name="Комплект поставки"></param>
+<param name="Камера"></param>
+<param name="GPS-модуль"></param>
+<param name="Аппаратура управления"></param>
 <param name="Доставка/Оплата"></param>
 </offer>
 </offers>
