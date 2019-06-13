@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-<date>2019-06-10 19:13</date>
+<date>2019-06-13 13:53</date>
 <firmName>Drone.ua</firmName>
 <firmId>28303</firmId>
 <categories>
@@ -346,7 +346,7 @@
 <url>http://store.drone.ua/product/ronin-s-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.ZM.00000104.01 REF/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
 <priceRUAH>17854</priceRUAH>
-<stock>В наличии</stock>
+<stock>Нет</stock>
 <guarantee type="shop">1</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -465,7 +465,7 @@
 <url>http://store.drone.ua/product/insta360-one/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-planshetovutm_content=ST.IN.000002/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</image>
 <priceRUAH>7670</priceRUAH>
-<stock>В наличии</stock>
+<stock>Нет</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -482,7 +482,7 @@
 <url>http://store.drone.ua/product/insta360-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000003/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</image>
 <priceRUAH>124170</priceRUAH>
-<stock>В наличии</stock>
+<stock>Нет</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -533,7 +533,7 @@
 <url>http://store.drone.ua/product/insta360-nano-s-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_S/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</image>
 <priceRUAH>8999</priceRUAH>
-<stock>В наличии</stock>
+<stock>Нет</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -550,7 +550,7 @@
 <url>http://store.drone.ua/product/insta360-nano-s-silver/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_B/</url>
 <image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</image>
 <priceRUAH>8999</priceRUAH>
-<stock>В наличии</stock>
+<stock>Нет</stock>
 <guarantee  type="manufacturer">12</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
@@ -569,6 +569,227 @@
 <priceRUAH>15499</priceRUAH>
 <stock>В наличии</stock>
 <guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CI.00001</id>
+<categoryId>1</categoryId>
+<code>ST.CI.00001</code>
+<vendor>Chasing-Innovation</vendor>
+<name>Подводный дрон Chasing-Innovation Gladius (ST.CI.00001)</name>
+<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.</description>
+<url>http://store.drone.ua/product/podvodnyj-dron-gladius/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CI.00001/</url>
+<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</image>
+<priceRUAH>67950</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CI.00002</id>
+<categoryId>1</categoryId>
+<code>ST.CI.00002</code>
+<vendor>Chasing-Innovation</vendor>
+<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
+<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.</description>
+<url>http://store.drone.ua/product/gladius-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CI.00002/</url>
+<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</image>
+<priceRUAH>52770</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CI.00102</id>
+<categoryId>2</categoryId>
+<code>ST.CI.00102</code>
+<vendor>Chasing-Innovation</vendor>
+<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
+<description>Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation</description>
+<url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=ST.CI.00102/</url>
+<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</image>
+<priceRUAH>8220</priceRUAH>
+<stock>В наличии</stock>
+<guarantee unit="days" type="shop">14</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.000741</id>
+<categoryId>1</categoryId>
+<code>CP.PT.000741</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Spark (CP.PT.000741)</name>
+<description>Квадрокоптер для FullHD видеосъемки</description>
+<url>http://store.drone.ua/product/spark/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000741/</url>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</image>
+<priceRUAH>16470</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.000743</id>
+<categoryId>1</categoryId>
+<code>CP.PT.000743</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Spark (CP.PT.000743)</name>
+<description>Квадрокоптер для FullHD видеосъемки</description>
+<url>http://store.drone.ua/product/spark-golyboi/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000743/</url>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</image>
+<priceRUAH>16470</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.000744</id>
+<categoryId>1</categoryId>
+<code>CP.PT.000744</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Spark (CP.PT.000744)</name>
+<description>Квадрокоптер для FullHD видеосъемки</description>
+<url>http://store.drone.ua/product/spark-zelenyj-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000744/</url>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</image>
+<priceRUAH>16470</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.000745</id>
+<categoryId>1</categoryId>
+<code>CP.PT.000745</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Spark (CP.PT.000745)</name>
+<description>Квадрокоптер для FullHD видеосъемки</description>
+<url>http://store.drone.ua/product/spark-krasnyj/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000745/</url>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</image>
+<priceRUAH>16470</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.000742</id>
+<categoryId>1</categoryId>
+<code>CP.PT.000742</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Spark (CP.PT.000742)</name>
+<description>Квадрокоптер для FullHD видеосъемки</description>
+<url>http://store.drone.ua/product/spark-zheltyj/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000742/</url>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</image>
+<priceRUAH>16470</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.00000194.01</id>
+<categoryId>2</categoryId>
+<code>CP.PT.00000194.01</code>
+<vendor>DJI</vendor>
+<name>Интеллектуальная батарея DJI Mavic Air (CP.PT.00000194.01)</name>
+<description>Аккумулятор для DJI Mavic Air 2375 мА*ч</description>
+<url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000194.01/</url>
+<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</image>
+<priceRUAH>2610</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">6</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.00000077.01</id>
+<categoryId>2</categoryId>
+<code>CP.PT.00000077.01</code>
+<vendor>DJI</vendor>
+<name>Интеллектуальная батарея DJI Mavic Pro Platinum (CP.PT.00000077.01)</name>
+<description>Аккумулятор для DJI Mavic Pro Platinum 3830 мА*ч</description>
+<url>http://store.drone.ua/product/accum-mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000077.01/</url>
+<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</image>
+<priceRUAH>3270</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">6</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.000587</id>
+<categoryId>2</categoryId>
+<code>CP.PT.000587</code>
+<vendor>DJI</vendor>
+<name>Интеллектуальная батарея DJI Mavic Pro (CP.PT.000587)</name>
+<description>Аккумулятор для DJI Mavic Pro 3830 мА*ч</description>
+<url>http://store.drone.ua/product/batareja-dlja-mavic/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.000587/</url>
+<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</image>
+<priceRUAH>3270</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">6</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.000601</id>
+<categoryId>2</categoryId>
+<code>CP.PT.000601</code>
+<vendor>DJI</vendor>
+<name>Интеллектуальная батарея DJI Phantom 4 (CP.PT.000601)</name>
+<description>Аккумулятор для DJI Phantom 4 5870 мА*ч</description>
+<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.000601/</url>
+<image>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</image>
+<priceRUAH>6240</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">6</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.0000015</id>
+<categoryId>2</categoryId>
+<code>ST.0000015</code>
+<vendor>Ryze</vendor>
+<name>Аккумулятор Ryze Tello (ST.0000015)</name>
+<description>Аккумулятор для Ryze Tello 1100 мА*ч</description>
+<url>http://store.drone.ua/product/tello-part-1-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=ST.0000015/</url>
+<image>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</image>
+<priceRUAH>830</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">6</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
 <condition>0</condition>
