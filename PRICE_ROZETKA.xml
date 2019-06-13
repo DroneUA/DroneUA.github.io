@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-11 20:12">
+<yml_catalog date="2019-06-13 13:46">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -3681,6 +3681,8 @@ CP.PT.000670">
 <price>13170</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_2.png</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
@@ -3726,6 +3728,7 @@ CP.PT.000889">
 <price>21420</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
@@ -3998,8 +4001,8 @@ CP.PT.00000159.01_2">
 <price>30990</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_5.jpg</picture>
@@ -4065,8 +4068,8 @@ CP.PT.00000168.01_2">
 <price>30990</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_5.jpg</picture>
@@ -4132,8 +4135,8 @@ CP.PT.00000169.01_2">
 <price>30990</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_5.jpg</picture>
@@ -4199,9 +4202,9 @@ CP.PT.00000075.01_2">
 <price>36270</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture>
@@ -4242,10 +4245,10 @@ CP.PT.00000065.01_2">
 <price>42870</price>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture>
 <vendor>DJI</vendor>
