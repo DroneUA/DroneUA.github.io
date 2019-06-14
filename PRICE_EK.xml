@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<yml_catalog date="2019-06-14 12:00">
+<yml_catalog date="2019-06-14 14:08">
 <shop>
 <name>Drone.UA</name>
 <url>http://store.drone.ua/</url>
@@ -359,7 +359,7 @@
 
 
 <item id="CP.PT.000741">
-<name>Квадрокоптер (дрон) DJI Spark Alpine White</name>
+<name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
@@ -370,7 +370,7 @@
 
 
 <item id="CP.PT.000743">
-<name>Квадрокоптер (дрон) DJI Spark Sky Blue</name>
+<name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-golyboi/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
@@ -381,7 +381,7 @@
 
 
 <item id="CP.PT.000744">
-<name>Квадрокоптер (дрон) DJI Spark Meadow Green</name>
+<name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-zelenyj-2/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
@@ -392,7 +392,7 @@
 
 
 <item id="CP.PT.000745">
-<name>Квадрокоптер (дрон) DJI Spark Lava Red</name>
+<name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-krasnyj/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
@@ -403,7 +403,7 @@
 
 
 <item id="CP.PT.000742">
-<name>Квадрокоптер (дрон) DJI Spark Sunrise Yellow</name>
+<name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-zheltyj/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
