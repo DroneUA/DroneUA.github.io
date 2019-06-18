@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-13 13:46">
+<yml_catalog date="2019-06-18 13:17">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -3461,7 +3461,7 @@ CP.PT.000742">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000194.01">
 <url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 <price>2610</price>
