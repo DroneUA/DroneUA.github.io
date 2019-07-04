@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-06-24 16:36">
+<yml_catalog date="2019-07-04 10:20">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -18,7 +18,7 @@
 <offers>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000132.01">
 <url>http://store.drone.ua/product/mavic-air-ref-black/</url>
 <price>19945.63</price>
@@ -105,7 +105,7 @@ ST.CP.PT.00000132.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000141.01">
 <url>http://store.drone.ua/product/mavic-air-ref-white/</url>
 <price>20282.37</price>
@@ -192,7 +192,7 @@ ST.CP.PT.00000141.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000148.01">
 <url>http://store.drone.ua/product/mavic-air-ref-red/</url>
 <price>19762.57</price>
@@ -279,7 +279,7 @@ ST.CP.PT.00000148.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000159.01">
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
 <price>26892.87</price>
@@ -366,7 +366,7 @@ ST.CP.PT.00000159.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000168.01">
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
 <price>26892.87</price>
@@ -453,7 +453,7 @@ ST.CP.PT.00000168.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000169.01.CP.PT.00000168.01">
 <url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
 <price>26892.87</price>
@@ -540,7 +540,7 @@ ST.CP.PT.00000169.01.CP.PT.00000168.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000075.01">
 <url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
 <price>26900.78</price>
@@ -599,7 +599,7 @@ ST.CP.PT.00000075.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.PT.00000065.01">
 <url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
 <price>33558.74</price>
@@ -658,7 +658,7 @@ ST.CP.PT.00000065.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CP.ZM.00000104.01">
 <url>http://store.drone.ua/product/ronin-s-ref/</url>
 <price>20175.02</price>
@@ -790,7 +790,7 @@ CP.MA.00000013.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000242.01">
 <url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
 <price>49470</price>
@@ -1071,7 +1071,7 @@ CP.TL.00000015.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.TL.00000002.01">
 <url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
 <price>4590</price>
@@ -1391,7 +1391,7 @@ ST.IN.000001">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.IN.000002">
 <url>http://store.drone.ua/product/insta360-one/</url>
 <price>7670</price>
@@ -1583,7 +1583,7 @@ ST.IN.000002">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.IN.000003">
 <url>http://store.drone.ua/product/insta360-pro/</url>
 <price>124170</price>
@@ -1812,7 +1812,7 @@ ST.IN.000003">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.IN.000004">
 <url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
 <price>170070</price>
@@ -2104,7 +2104,7 @@ ST.IN.000004">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.IN.000005">
 <url>http://store.drone.ua/product/insta360-titan/</url>
 <price>512970</price>
@@ -2376,7 +2376,7 @@ ST.IN.000005">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.IN.000006_S">
 <url>http://store.drone.ua/product/insta360-nano-s-black/</url>
 <price>8999</price>
@@ -2578,7 +2578,7 @@ ST.IN.000006_S">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.IN.000006_B">
 <url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
 <price>8999</price>
@@ -2782,7 +2782,7 @@ ST.IN.000006_B">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CINEVOX/A">
 <url>http://store.drone.ua/product/insta360-evo/</url>
 <price>15499</price>
@@ -3332,7 +3332,7 @@ CP.ZM.00000064.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000741">
 <url>http://store.drone.ua/product/spark/</url>
 <price>16470</price>
@@ -3364,7 +3364,7 @@ CP.PT.000741">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000743">
 <url>http://store.drone.ua/product/spark-golyboi/</url>
 <price>16470</price>
@@ -3396,7 +3396,7 @@ CP.PT.000743">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000744">
 <url>http://store.drone.ua/product/spark-zelenyj-2/</url>
 <price>16470</price>
@@ -3428,7 +3428,7 @@ CP.PT.000744">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000745">
 <url>http://store.drone.ua/product/spark-krasnyj/</url>
 <price>16470</price>
@@ -3460,7 +3460,7 @@ CP.PT.000745">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000742">
 <url>http://store.drone.ua/product/spark-zheltyj/</url>
 <price>16470</price>
@@ -3492,7 +3492,7 @@ CP.PT.000742">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000194.01">
 <url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 <price>2610</price>
@@ -3598,7 +3598,7 @@ CP.PT.000587">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000601">
 <url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 <price>6240</price>
@@ -3793,7 +3793,7 @@ CP.PT.000889">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.MA.00000037.01">
 <url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 <price>12510</price>
@@ -4435,7 +4435,7 @@ ST.CI.00002">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 ST.CI.00102">
 <url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
 <price>8220</price>
