@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-<date>2019-07-17 13:47</date>
+<date>2019-07-18 12:09</date>
 <firmName>Drone.UA</firmName>
 <firmId></firmId>
 <categories>
@@ -482,6 +482,55 @@ Parrot Bluegrass легко транспортируется благодаря 
 <guarantee type="shop">6</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Франция</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CI.00001</id>
+<categoryId>1</categoryId>
+<code>ST.CI.00001</code>
+<vendor>Chasing-Innovation</vendor>
+<name>Подводный дрон Chasing-Innovation Gladius</name>
+<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.</description>
+<url></url>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_1.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_2.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_3.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_4.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_5.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_6.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_7.jpg</image>
+<priceRUAH>67950</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CI.00002</id>
+<categoryId>1</categoryId>
+<code>ST.CI.00002</code>
+<vendor>Chasing-Innovation</vendor>
+<name>Подводный дрон Chasing-Innovation Gladius Mini</name>
+<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.</description>
+<url></url>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_1.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_2.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_3.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_4.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_5.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_6.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_7.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_8.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_9.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_10.png</image>
+<priceRUAH>52770</priceRUAH>
+<stock>В наличии</stock>
+<guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
 <condition>0</condition>
 </item>
 </items></price>
