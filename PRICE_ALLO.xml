@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-<date>2019-07-18 12:09</date>
+<date>2019-07-29 20:15</date>
 <firmName>Drone.UA</firmName>
 <firmId></firmId>
 <categories>
 <category><id>1</id><name>Квадрокоптеры (дроны)</name></category>
 <category><id>2</id><name>Аксессуары для квадрокоптеров</name></category>
-
-
-
-
 </categories><items>
 
 
@@ -529,6 +525,25 @@ Parrot Bluegrass легко транспортируется благодаря 
 <priceRUAH>52770</priceRUAH>
 <stock>В наличии</stock>
 <guarantee  type="manufacturer">12</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>0</condition>
+</item>
+
+<item>
+<id>ST.CI.00102</id>
+<categoryId>2</categoryId>
+<code>ST.CI.00102</code>
+<vendor>Chasing-Innovation</vendor>
+<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
+<description>Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation</description>
+<url></url>
+<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</image>
+http://store.drone.ua/wp-content/uploads/2019/01/Backpack-8.jpg</image>
+http://store.drone.ua/wp-content/uploads/2019/01/Backpack-7.jpg</image>
+<priceRUAH>8220</priceRUAH>
+<stock>В наличии</stock>
+<guarantee type="shop">6</guarantee>
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
 <condition>0</condition>
