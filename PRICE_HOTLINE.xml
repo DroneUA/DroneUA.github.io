@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-<date>2019-08-05 19:29</date>
+<date>2019-08-09 16:35</date>
 <firmName>Drone.ua</firmName>
 <firmId>28303</firmId>
 <categories>
@@ -779,13 +779,13 @@
 </item>
 
 <item>
-<id>ST.0000015</id>
+<id>CP.PT.00000213.01</id>
 <categoryId>2</categoryId>
-<code>ST.0000015</code>
+<code>CP.PT.00000213.01</code>
 <vendor>Ryze</vendor>
-<name>Аккумулятор Ryze Tello (ST.0000015)</name>
+<name>Аккумулятор Ryze Tello (CP.PT.00000213.01)</name>
 <description>Аккумулятор для Ryze Tello 1100 мА*ч</description>
-<url>http://store.drone.ua/product/tello-part-1-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=ST.0000015/</url>
+<url>http://store.drone.ua/product/tello-part-1-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000213.01/</url>
 <image>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</image>
 <priceRUAH>830</priceRUAH>
 <stock>В наличии</stock>
