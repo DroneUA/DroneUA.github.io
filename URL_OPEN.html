@@ -12,6 +12,36 @@
 <script type="text/javascript">/*<![CDATA[*/function open_all(){debugger;var urls=document.getElementById("list_urls").value;var urls=urls.split('\n');var totalno=urls.length;var s;for(var i=0;i<totalno;i++){s=urls[i];if(s){if(s.substr(0,7)!='http://'&&s.substr(0,8)!='https://')
 s='http://'+s;window.open(s);}}
 return false;}/*]]>*/</script>
+  
+<style>
+   a.rollover {
+    background: url(http://store.drone.ua/wp-content/uploads/2019/06/CAT_empty.png); /* Путь к файлу с исходным рисунком  */
+    display: block; /*  Рисунок как блочный элемент */
+    width: 20px; /* Ширина рисунка */
+    height: 20px; /*  Высота рисунка */
+   }
+a.rollover:hover {
+  background: url(http://store.drone.ua/wp-content/uploads/2019/06/CAT.png);
+  position: relative;
+  cursor: pointer;
+  width: 247px; /* Ширина рисунка */
+  height: 609px; /*  Высота рисунка */
+  left: 0;
+  transition: left 5s cubic-bezier(0, 0, 1, 1);
+  animation-name: example;
+  animation-duration: 5s;
+  animation-iteration-count:infinite;
+
+}
+  
+@keyframes example{
+  0% {transform: rotate(0deg);}
+  25% {transform: rotate(30deg);}
+  75% {transform: rotate(-30deg);}
+  100% {transform: rotate(0deg);}
+}
+
+ </style>
 </head>
 <body>
 <div id="content">
@@ -30,6 +60,7 @@ return false;}/*]]>*/</script>
 <script type="text/javascript">(function(a,e,f,c,b){a[f]=a[f]||[];a[f].push(function(){Ya.Context.AdvManager.render({blockId:"R-A-193633-3",renderTo:"yandex_rtb_R-A-193633-3",async:true})});b=e.getElementsByTagName("script")[0];c=e.createElement("script");c.type="text/javascript";c.src="//an.yandex.ru/system/context.js";c.async=true;b.parentNode.insertBefore(c,b)})(this,this.document,"yandexContextAsyncCallbacks");</script>
 <p>&nbsp;</p>
 </div>
+<p><center><a href="#" class="rollover" > </a></center></p>  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 </body>
 <script type="text/javascript">(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(52117765,"init",{id:52117765,clickmap:true,trackLinks:true,accurateTrackBounce:true});</script> <noscript><div><img src="https://mc.yandex.ru/watch/52117765" style="position:absolute;left:-9999px" alt="метрика" /></div></noscript>
