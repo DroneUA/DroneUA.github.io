@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-08-05 19:22">
+<yml_catalog date="2019-08-13 17:41">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -12,7 +12,7 @@
 <category id="1" parentId="81499">Квадрокоптеры</category>
 <category id="2" parentId="81202">Моноподы для селфи и аксессуары</category>
 <category id="3" parentId="80002">Видеокамеры</category>
-
+<category id="4" parentId="4658068">Стедикамы</category>
 
 </categories>
 <offers>
@@ -663,7 +663,7 @@ ST.CP.ZM.00000104.01">
 <url>http://store.drone.ua/product/ronin-s-ref/</url>
 <price>20175.02</price>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>4</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
@@ -3050,7 +3050,7 @@ CP.ZM.00000097.01">
 <url>http://store.drone.ua/product/osmo-pocket/</url>
 <price>11850</price>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>4</categoryId>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_3.jpg</picture>
@@ -3058,7 +3058,7 @@ CP.ZM.00000097.01">
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_5.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Видеокамера DJI OSMO Pocket (CP.ZM.00000097.01)</name>
+<name>Стедикам DJI OSMO Pocket (CP.ZM.00000097.01)</name>
 <description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
 <table class="table-specs">
 <tbody>
@@ -3197,14 +3197,14 @@ CP.ZM.00000064.01">
 <url>http://store.drone.ua/product/osmo-mobile-2/</url>
 <price>4920</price>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>4</categoryId>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_4.jpg</picture>
 <vendor>DJI</vendor>
 <stock_quantity>10</stock_quantity>
-<name>Видеокамера DJI OSMO Mobile 2 (CP.ZM.00000064.01)</name>
+<name>Стедикам DJI OSMO Mobile 2 (CP.ZM.00000064.01)</name>
 <description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
 <table class="table-specs">
 <tbody>
@@ -3834,7 +3834,7 @@ CP.MA.00000037.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000132.01_2">
 <url>http://store.drone.ua/product/mavic-air-black/</url>
 <price>24390</price>
@@ -4335,7 +4335,7 @@ CP.ZM.00000104.01_2">
 <url>http://store.drone.ua/product/ronin-s/</url>
 <price>24720</price>
 <currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
+<categoryId>4</categoryId>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
