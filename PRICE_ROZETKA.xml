@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-08-13 17:41">
+<yml_catalog date="2019-08-14 14:20">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -749,7 +749,7 @@ CP.MA.00000014.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.MA.00000013.01">
 <url>http://store.drone.ua/product/mavic-2-pro/</url>
 <price>47820</price>
@@ -2782,7 +2782,7 @@ ST.IN.000006_B">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 CINEVOX/A">
 <url>http://store.drone.ua/product/insta360-evo/</url>
 <price>13490</price>
@@ -3527,7 +3527,7 @@ CP.PT.00000194.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000077.01">
 <url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 <price>3270</price>
@@ -3563,7 +3563,7 @@ CP.PT.00000077.01">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000587">
 <url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
 <price>3270</price>
@@ -3760,7 +3760,7 @@ CP.PT.000670">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.000889">
 <url>http://store.drone.ua/product/spark-fly-more-combo/</url>
 <price>21420</price>
@@ -3793,7 +3793,7 @@ CP.PT.000889">
 </offer>
 
 
-<offer available="false" id="
+<offer available="true" id="
 CP.MA.00000037.01">
 <url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 <price>12510</price>
@@ -3970,7 +3970,7 @@ CP.PT.00000141.01_2">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000148.01_2">
 <url>http://store.drone.ua/product/mavic-air-red/</url>
 <price>24390</price>
@@ -4038,7 +4038,7 @@ CP.PT.00000148.01_2">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000159.01_2">
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
 <price>30990</price>
@@ -4106,7 +4106,7 @@ CP.PT.00000159.01_2">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000168.01_2">
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 <price>30990</price>
@@ -4174,7 +4174,7 @@ CP.PT.00000168.01_2">
 </offer>
 
 
-<offer available="true" id="
+<offer available="false" id="
 CP.PT.00000169.01_2">
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
 <price>30990</price>
