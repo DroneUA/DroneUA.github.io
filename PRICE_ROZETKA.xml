@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2019-08-14 14:20">
+<yml_catalog date="2019-08-16 15:20">
 <shop>
 <name>DFU</name>
 <company>DFU</company>
@@ -657,52 +657,6 @@ ST.CP.PT.00000065.01">
 <state>Refurbished</state>
 </offer>
 
-
-<offer available="false" id="
-ST.CP.ZM.00000104.01">
-<url>http://store.drone.ua/product/ronin-s-ref/</url>
-<price>20175.02</price>
-<currencyId>UAH</currencyId>
-<categoryId>4</categoryId>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
-<vendor>DJI</vendor>
-<stock_quantity>10</stock_quantity>
-<name>Стедикам DJI Ronin-S (ST.CP.ZM.00000104.01) - Refurbished</name>
-<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
-</p>
-<p>В каких случая товары получают статус Refurbished:
-</p>
-<br>
-<li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
-<li>Если девайс вернули в течение гарантийного срока</li>
-<li>Если девайс выставлялся в магазине как демонстрационная модель</li>
-<li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
-<li>Если производитель отозвал партию товара для устранения массового дефекта</li>
-<li>Если производитель отозвал товары для обновления</li>
-<br>
-<b>Дополнительные характеристики:</b>
-<br>
-Крепежное отверстие: 1/4"-20, 3/8"-16, М4<br>
-Разъем для зарядки аксессуаров: 12 В/2 А<br>
-Разъем камеры<br>
-8-контактный разъем<br>
-Емкость аккумулятора: 2400 мА*ч<br>
-Интерфейсы связи: Bluetooth 4.0, USB Type-C<br>
-Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br>
-Размеры: 202 x 185 x 486 мм]]></description>
-<param name="Артикул">ST.CP.ZM.00000104.01</param>
-<param name="Тип">Стедикамы</param>
-<param name="Максимальная нагрузка">3.6</param>
-<param name="Вес">1.85</param>
-<param name="Цвет">Черный</param>
-<param name="Тип подключения">Проводное подключение, Подключение по Bluetooth</param>
-<param name="Доставка/Оплата">100% предоплата</param>
-<state>Refurbished</state>
-</offer>
 
 
 <offer available="true" id="
@@ -3045,291 +2999,6 @@ CINEVOX/A">
 </offer>
 
 
-<offer available="true" id="
-CP.ZM.00000097.01">
-<url>http://store.drone.ua/product/osmo-pocket/</url>
-<price>11850</price>
-<currencyId>UAH</currencyId>
-<categoryId>4</categoryId>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_5.jpg</picture>
-<vendor>DJI</vendor>
-<stock_quantity>10</stock_quantity>
-<name>Стедикам DJI OSMO Pocket (CP.ZM.00000097.01)</name>
-<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
-<table class="table-specs">
-<tbody>
-<tr>
-<th>Размеры</th>
-<td>121.9&times;36.9&times;28.6 мм</td>
-</tr>
-<tr>
-<th>Масса</th>
-<td>116 г</td>
-</tr>
-</tbody>
-</table>
-<h3 class="section-title">КАМЕРА</h3>
-<table class="table-specs">
-<tbody>
-<tr>
-<th>Матрица</th>
-<td>1/2.3&rdquo; CMOS<br />Число эффективных пикселей: 12 млн</td>
-</tr>
-<tr>
-<th>Объектив</th>
-<td>Угол обзора: 80&deg; F2.0<br />(эквивалент формата 26 мм)</td>
-</tr>
-<tr>
-<th>Диапазон ISO</th>
-<td>Фото: 100&ndash;3200<br />Видео: 100&ndash;3200</td>
-</tr>
-<tr>
-<th>Диапазон выдержки</th>
-<td>8&ndash;1/8000 с</td>
-</tr>
-<tr>
-<th>Макс. разрешение изображения</th>
-<td>4000&times;3000 пикселей</td>
-</tr>
-<tr>
-<th>Режимы фотосъемки</th>
-<td>Покадровая, панорама, таймлапс, динамичный таймлапс, Гиперлапс</td>
-</tr>
-<tr>
-<th>Разрешение видео</th>
-<td>4K Ultra HD: 3840&times;2160 24/25/30/48/50/60p<br />FHD: 1920&times;1080 24/25/30/48/50/60</td>
-</tr>
-<tr>
-<th>Режимы видеосъемки</th>
-<td>Авто; замедленная съемка</td>
-</tr>
-<tr>
-<th>Макс. битрейт видео</th>
-<td>100 Мбит/с</td>
-</tr>
-<tr>
-<th>Поддерживаемые форматы файлов</th>
-<td>FAT32 (&le;32 Гбайт), exFAT (&gt;64 Гбайт)</td>
-</tr>
-<tr>
-<th>Фото</th>
-<td>JPEG/JPEG+DNG</td>
-</tr>
-<tr>
-<th>Видео</th>
-<td>MP4/MOV (MPEG-4 AVC/H.264)</td>
-</tr>
-<tr>
-<th>Совместимые карты памяти</th>
-<td>microSD, (макс. объем: 256 Гб)</td>
-</tr>
-<tr>
-<th>Вывод аудио</th>
-<td>48 КГц, формат AAC</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<h3 class="section-title">СТАБИЛИЗАТОР</h3>
-<table class="table-specs">
-<tbody>
-<tr>
-<th>Рабочий диапазон углов вращения</th>
-<td>Поворот: -230&deg;...+50&deg;<br />Наклон: -95&deg;...+50&deg;<br />Крен: &plusmn;45&deg;</td>
-</tr>
-<tr>
-<th>Макс. регулируемая скорость</th>
-<td>120&deg;/с</td>
-</tr>
-</tbody>
-</table>
-<h3 class="section-title">АККУМУЛЯТОР</h3>
-<table class="table-specs">
-<tbody>
-<tr>
-<th>Тип</th>
-<td>Литий-полимерный</td>
-</tr>
-<tr>
-<th>Емкость</th>
-<td>875 мАч</td>
-</tr>
-<tr>
-<th>Энергия</th>
-<td>6.738 Вт/ч</td>
-</tr>
-<tr>
-<th>Напряжение</th>
-<td>7.7 В</td>
-</tr>
-<tr>
-<th>Диапазон рабочих температур</th>
-<td>0&deg;...+40&deg;C</td>
-</tr>
-<tr>
-<th>Время работы</th>
-<td>140 мин.</td>
-</tr>
-<tr>
-<th>Время зарядки</th>
-<td>73 мин.</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>]]></description>
-<param name="Артикул">CP.ZM.00000097.01</param>
-<param name="Тип">Стедикамы</param>
-<param name="Максимальная нагрузка"></param>
-<param name="Вес">0.116</param>
-<param name="Цвет">Черный</param>
-<param name="Тип подключения">Подключение по Bluetooth</param>
-<param name="Доставка/Оплата"></param>
-<state></state>
-</offer>
-
-
-<offer available="true" id="
-CP.ZM.00000064.01">
-<url>http://store.drone.ua/product/osmo-mobile-2/</url>
-<price>4920</price>
-<currencyId>UAH</currencyId>
-<categoryId>4</categoryId>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_4.jpg</picture>
-<vendor>DJI</vendor>
-<stock_quantity>10</stock_quantity>
-<name>Стедикам DJI OSMO Mobile 2 (CP.ZM.00000064.01)</name>
-<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
-<table class="table-specs">
-<tbody>
-<tr>
-<th>Размеры</th>
-<td>295&times;113&times;72 мм</td>
-</tr>
-<tr>
-<th>Масса</th>
-<td>485 г</td>
-</tr>
-<tr>
-<th>Модель</th>
-<td>OM170</td>
-</tr>
-</tbody>
-</table>
-<h3 class="section-title">СТАБИЛИЗАТОР</h3>
-<table class="table-specs" style="height: 324px;">
-<tbody>
-<tr style="height: 18px;">
-<th style="height: 18px; width: 245px;">Энергопотребление</th>
-<td style="height: 18px; width: 326px;">1.2 Вт</td>
-</tr>
-<tr style="height: 36px;">
-<th style="height: 36px; width: 245px;">&nbsp;</th>
-<td style="height: 36px; width: 326px;">*В идеальных условиях при сбалансированном стабилизаторе.</td>
-</tr>
-<tr style="height: 36px;">
-<th style="height: 36px; width: 245px;">Рабочий диапазон углов вращения</th>
-<td style="height: 36px; width: 326px;">Поворот： &plusmn;160&deg;</td>
-</tr>
-<tr style="height: 36px;">
-<th style="height: 36px; width: 245px;">&nbsp;</th>
-<td style="height: 36px; width: 326px;">Наклон:&plusmn;155&deg; (горизонтальная ориентация)</td>
-</tr>
-<tr style="height: 36px;">
-<th style="height: 36px; width: 245px;">Механический диапазон углов вращения</th>
-<td style="height: 36px; width: 326px;">Поворот： &plusmn;170&deg;</td>
-</tr>
-<tr style="height: 18px;">
-<th style="height: 18px; width: 245px;">&nbsp;</th>
-<td style="height: 18px; width: 326px;">Крен: -90&deg;...+70&deg;</td>
-</tr>
-<tr style="height: 18px;">
-<th style="height: 18px; width: 245px;">&nbsp;</th>
-<td style="height: 18px; width: 326px;">Наклон: &plusmn;170&deg;</td>
-</tr>
-<tr style="height: 36px;">
-<th style="height: 36px; width: 245px;">Макс.регулируемая угловая скорость</th>
-<td style="height: 36px; width: 326px;">120&deg;/с</td>
-</tr>
-<tr style="height: 36px;">
-<th style="height: 36px; width: 245px;">Допустимая ширина мобильного телефона</th>
-<td style="height: 36px; width: 326px;">58.6-85 мм</td>
-</tr>
-<tr style="height: 36px;">
-<th style="height: 36px; width: 245px;">Допустимая толщина телефона</th>
-<td style="height: 36px; width: 326px;">&le;8.9 мм</td>
-</tr>
-<tr style="height: 18px;">
-<th style="height: 18px; width: 245px;">Макс.масса телефона</th>
-<td style="height: 18px; width: 326px;">240 г</td>
-</tr>
-</tbody>
-</table>
-<h3 class="section-title">АККУМУЛЯТОР</h3>
-<table class="table-specs">
-<tbody>
-<tr>
-<th>Тип</th>
-<td>18650, литий-полимерный</td>
-</tr>
-<tr>
-<th>Емкость</th>
-<td>2600 мАч</td>
-</tr>
-<tr>
-<th>Энергия</th>
-<td>18 Вт.ч</td>
-</tr>
-<tr>
-<th>Напряжение</th>
-<td>7.2 В</td>
-</tr>
-<tr>
-<th>Диапазон температур зарядки</th>
-<td>5 - 40&deg;C</td>
-</tr>
-<tr>
-<th>Диапазон рабочих температур</th>
-<td>0 - 40&deg;C</td>
-</tr>
-<tr>
-<th>Макс. время работы</th>
-<td>15 часов</td>
-</tr>
-<tr>
-<th>&nbsp;</th>
-<td>*В идеальных условиях при сбалансированном стабилизаторе.</td>
-</tr>
-<tr>
-<th>Время зарядки</th>
-<td>2 часа</td>
-</tr>
-</tbody>
-</table>
-<h3 class="section-title">БЕСПРОВОДНАЯ СВЯЗЬ</h3>
-<table class="table-specs">
-<tbody>
-<tr>
-<th>Модель</th>
-<td>Bluetooth 4.0 с низким энергопотреблением</td>
-</tr>
-</tbody>
-</table>]]></description>
-<param name="Артикул">CP.ZM.00000064.01</param>
-<param name="Тип">Стедикамы</param>
-<param name="Максимальная нагрузка"></param>
-<param name="Вес">0.485</param>
-<param name="Цвет">Черный</param>
-<param name="Тип подключения">Проводное подключение</param>
-<param name="Доставка/Оплата"></param>
-<state></state>
-</offer>
 
 
 <offer available="false" id="
@@ -4330,31 +3999,6 @@ CP.PT.00000065.01_2">
 </offer>
 
 
-<offer available="true" id="
-CP.ZM.00000104.01_2">
-<url>http://store.drone.ua/product/ronin-s/</url>
-<price>24720</price>
-<currencyId>UAH</currencyId>
-<categoryId>4</categoryId>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
-<vendor>DJI</vendor>
-<stock_quantity>10</stock_quantity>
-<name>Стедикам DJI Ronin-S (CP.ZM.00000104.01)</name>
-<description><![CDATA[<p>Крепежное отверстие: 1/4""-20, 3/8""-16, М4<br />Разъем для зарядки аксессуаров: 12 В/2 А<br />Разъем камеры<br />8-контактный разъем<br />Емкость аккумулятора: 2400 мА*ч<br />Интерфейсы связи: Bluetooth 4.0, USB Type-C<br />Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br />Размеры: 202 x 185 x 486 мм</p>]]></description>
-<param name="Артикул">CP.ZM.00000104.01</param>
-<param name="Тип">Стедикамы</param>
-<param name="Максимальная нагрузка">3.6</param>
-<param name="Вес">1.85</param>
-<param name="Цвет">Черный</param>
-<param name="Тип подключения">Проводное подключение, Подключение по Bluetooth</param>
-<param name="Доставка/Оплата"></param>
-<state></state>
-</offer>
-
 
 <offer available="false" id="
 ST.CI.00001">
@@ -4466,6 +4110,394 @@ ST.CI.00102">
 <param name="Камера"></param>
 <param name="GPS-модуль"></param>
 <param name="Аппаратура управления"></param>
+<param name="Доставка/Оплата"></param>
+<state></state>
+</offer>
+
+
+<offer available="false" id="
+ST.CP.ZM.00000104.01">
+<url>http://store.drone.ua/product/ronin-s-ref/</url>
+<price>20175.02</price>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Стедикам DJI Ronin-S (ST.CP.ZM.00000104.01) - Refurbished</name>
+<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<br>
+<li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+<li>Если девайс вернули в течение гарантийного срока</li>
+<li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+<li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+<li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+<li>Если производитель отозвал товары для обновления</li>
+<br>
+<b>Дополнительные характеристики:</b>
+<br>
+Крепежное отверстие: 1/4"-20, 3/8"-16, М4<br>
+Разъем для зарядки аксессуаров: 12 В/2 А<br>
+Разъем камеры<br>
+8-контактный разъем<br>
+Емкость аккумулятора: 2400 мА*ч<br>
+Интерфейсы связи: Bluetooth 4.0, USB Type-C<br>
+Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br>
+Размеры: 202 x 185 x 486 мм]]></description>
+<param name="Артикул">ST.CP.ZM.00000104.01</param>
+<param name="Тип подключения">Bluetooth, USB Type-C</param>
+<param name="Особенности"></param>
+<param name="Режимы съемки"></param>
+<param name="Питание"></param>
+<param name="Совместимость с камерами"></param>
+<param name="Углы поворота (стабилизации)"></param>
+<param name="Предельная диагональ телефона"></param>
+<param name="Комплектация"></param>
+<param name="Дополнительные характеристики"></param>
+<param name="Емкость аккумулятора, мАч"></param>
+<param name="Время зарядки, ч"></param>
+<param name="Цвет"></param>
+<param name="Доставка/Оплата">100% предоплата</param>
+<state>Refurbished</state>
+</offer>
+
+
+<offer available="true" id="
+CP.ZM.00000097.01">
+<url>http://store.drone.ua/product/osmo-pocket/</url>
+<price>11850</price>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_5.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Стедикам DJI OSMO Pocket (CP.ZM.00000097.01)</name>
+<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Размеры</th>
+<td>121.9&times;36.9&times;28.6 мм</td>
+</tr>
+<tr>
+<th>Масса</th>
+<td>116 г</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">КАМЕРА</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Матрица</th>
+<td>1/2.3&rdquo; CMOS<br />Число эффективных пикселей: 12 млн</td>
+</tr>
+<tr>
+<th>Объектив</th>
+<td>Угол обзора: 80&deg; F2.0<br />(эквивалент формата 26 мм)</td>
+</tr>
+<tr>
+<th>Диапазон ISO</th>
+<td>Фото: 100&ndash;3200<br />Видео: 100&ndash;3200</td>
+</tr>
+<tr>
+<th>Диапазон выдержки</th>
+<td>8&ndash;1/8000 с</td>
+</tr>
+<tr>
+<th>Макс. разрешение изображения</th>
+<td>4000&times;3000 пикселей</td>
+</tr>
+<tr>
+<th>Режимы фотосъемки</th>
+<td>Покадровая, панорама, таймлапс, динамичный таймлапс, Гиперлапс</td>
+</tr>
+<tr>
+<th>Разрешение видео</th>
+<td>4K Ultra HD: 3840&times;2160 24/25/30/48/50/60p<br />FHD: 1920&times;1080 24/25/30/48/50/60</td>
+</tr>
+<tr>
+<th>Режимы видеосъемки</th>
+<td>Авто; замедленная съемка</td>
+</tr>
+<tr>
+<th>Макс. битрейт видео</th>
+<td>100 Мбит/с</td>
+</tr>
+<tr>
+<th>Поддерживаемые форматы файлов</th>
+<td>FAT32 (&le;32 Гбайт), exFAT (&gt;64 Гбайт)</td>
+</tr>
+<tr>
+<th>Фото</th>
+<td>JPEG/JPEG+DNG</td>
+</tr>
+<tr>
+<th>Видео</th>
+<td>MP4/MOV (MPEG-4 AVC/H.264)</td>
+</tr>
+<tr>
+<th>Совместимые карты памяти</th>
+<td>microSD, (макс. объем: 256 Гб)</td>
+</tr>
+<tr>
+<th>Вывод аудио</th>
+<td>48 КГц, формат AAC</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3 class="section-title">СТАБИЛИЗАТОР</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Рабочий диапазон углов вращения</th>
+<td>Поворот: -230&deg;...+50&deg;<br />Наклон: -95&deg;...+50&deg;<br />Крен: &plusmn;45&deg;</td>
+</tr>
+<tr>
+<th>Макс. регулируемая скорость</th>
+<td>120&deg;/с</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">АККУМУЛЯТОР</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Тип</th>
+<td>Литий-полимерный</td>
+</tr>
+<tr>
+<th>Емкость</th>
+<td>875 мАч</td>
+</tr>
+<tr>
+<th>Энергия</th>
+<td>6.738 Вт/ч</td>
+</tr>
+<tr>
+<th>Напряжение</th>
+<td>7.7 В</td>
+</tr>
+<tr>
+<th>Диапазон рабочих температур</th>
+<td>0&deg;...+40&deg;C</td>
+</tr>
+<tr>
+<th>Время работы</th>
+<td>140 мин.</td>
+</tr>
+<tr>
+<th>Время зарядки</th>
+<td>73 мин.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>]]></description>
+<param name="Артикул">CP.ZM.00000097.01</param>
+<param name="Тип подключения"></param>
+<param name="Особенности"></param>
+<param name="Режимы съемки"></param>
+<param name="Питание"></param>
+<param name="Совместимость с камерами"></param>
+<param name="Углы поворота (стабилизации)"></param>
+<param name="Предельная диагональ телефона"></param>
+<param name="Комплектация"></param>
+<param name="Дополнительные характеристики"></param>
+<param name="Емкость аккумулятора, мАч"></param>
+<param name="Время зарядки, ч"></param>
+<param name="Цвет"></param>
+<param name="Доставка/Оплата"></param>
+<state></state>
+</offer>
+
+
+<offer available="true" id="
+CP.ZM.00000064.01">
+<url>http://store.drone.ua/product/osmo-mobile-2/</url>
+<price>4920</price>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_4.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Стедикам DJI OSMO Mobile 2 (CP.ZM.00000064.01)</name>
+<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Размеры</th>
+<td>295&times;113&times;72 мм</td>
+</tr>
+<tr>
+<th>Масса</th>
+<td>485 г</td>
+</tr>
+<tr>
+<th>Модель</th>
+<td>OM170</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">СТАБИЛИЗАТОР</h3>
+<table class="table-specs" style="height: 324px;">
+<tbody>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">Энергопотребление</th>
+<td style="height: 18px; width: 326px;">1.2 Вт</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">&nbsp;</th>
+<td style="height: 36px; width: 326px;">*В идеальных условиях при сбалансированном стабилизаторе.</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Рабочий диапазон углов вращения</th>
+<td style="height: 36px; width: 326px;">Поворот： &plusmn;160&deg;</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">&nbsp;</th>
+<td style="height: 36px; width: 326px;">Наклон:&plusmn;155&deg; (горизонтальная ориентация)</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Механический диапазон углов вращения</th>
+<td style="height: 36px; width: 326px;">Поворот： &plusmn;170&deg;</td>
+</tr>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">&nbsp;</th>
+<td style="height: 18px; width: 326px;">Крен: -90&deg;...+70&deg;</td>
+</tr>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">&nbsp;</th>
+<td style="height: 18px; width: 326px;">Наклон: &plusmn;170&deg;</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Макс.регулируемая угловая скорость</th>
+<td style="height: 36px; width: 326px;">120&deg;/с</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Допустимая ширина мобильного телефона</th>
+<td style="height: 36px; width: 326px;">58.6-85 мм</td>
+</tr>
+<tr style="height: 36px;">
+<th style="height: 36px; width: 245px;">Допустимая толщина телефона</th>
+<td style="height: 36px; width: 326px;">&le;8.9 мм</td>
+</tr>
+<tr style="height: 18px;">
+<th style="height: 18px; width: 245px;">Макс.масса телефона</th>
+<td style="height: 18px; width: 326px;">240 г</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">АККУМУЛЯТОР</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Тип</th>
+<td>18650, литий-полимерный</td>
+</tr>
+<tr>
+<th>Емкость</th>
+<td>2600 мАч</td>
+</tr>
+<tr>
+<th>Энергия</th>
+<td>18 Вт.ч</td>
+</tr>
+<tr>
+<th>Напряжение</th>
+<td>7.2 В</td>
+</tr>
+<tr>
+<th>Диапазон температур зарядки</th>
+<td>5 - 40&deg;C</td>
+</tr>
+<tr>
+<th>Диапазон рабочих температур</th>
+<td>0 - 40&deg;C</td>
+</tr>
+<tr>
+<th>Макс. время работы</th>
+<td>15 часов</td>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<td>*В идеальных условиях при сбалансированном стабилизаторе.</td>
+</tr>
+<tr>
+<th>Время зарядки</th>
+<td>2 часа</td>
+</tr>
+</tbody>
+</table>
+<h3 class="section-title">БЕСПРОВОДНАЯ СВЯЗЬ</h3>
+<table class="table-specs">
+<tbody>
+<tr>
+<th>Модель</th>
+<td>Bluetooth 4.0 с низким энергопотреблением</td>
+</tr>
+</tbody>
+</table>]]></description>
+<param name="Артикул">CP.ZM.00000064.01</param>
+<param name="Тип подключения"></param>
+<param name="Особенности"></param>
+<param name="Режимы съемки"></param>
+<param name="Питание"></param>
+<param name="Совместимость с камерами"></param>
+<param name="Углы поворота (стабилизации)"></param>
+<param name="Предельная диагональ телефона"></param>
+<param name="Комплектация"></param>
+<param name="Дополнительные характеристики"></param>
+<param name="Емкость аккумулятора, мАч"></param>
+<param name="Время зарядки, ч"></param>
+<param name="Цвет"></param>
+<param name="Доставка/Оплата"></param>
+<state></state>
+</offer>
+
+
+<offer available="true" id="
+CP.ZM.00000104.01_2">
+<url>http://store.drone.ua/product/ronin-s/</url>
+<price>24720</price>
+<currencyId>UAH</currencyId>
+<categoryId>4</categoryId>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
+<vendor>DJI</vendor>
+<stock_quantity>10</stock_quantity>
+<name>Стедикам DJI Ronin-S (CP.ZM.00000104.01)</name>
+<description><![CDATA[<p>Крепежное отверстие: 1/4""-20, 3/8""-16, М4<br />Разъем для зарядки аксессуаров: 12 В/2 А<br />Разъем камеры<br />8-контактный разъем<br />Емкость аккумулятора: 2400 мА*ч<br />Интерфейсы связи: Bluetooth 4.0, USB Type-C<br />Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br />Размеры: 202 x 185 x 486 мм</p>]]></description>
+<param name="Артикул">CP.ZM.00000104.01</param>
+<param name="Тип подключения">Bluetooth, USB Type-C</param>
+<param name="Особенности"></param>
+<param name="Режимы съемки"></param>
+<param name="Питание"></param>
+<param name="Совместимость с камерами"></param>
+<param name="Углы поворота (стабилизации)"></param>
+<param name="Предельная диагональ телефона"></param>
+<param name="Комплектация"></param>
+<param name="Дополнительные характеристики"></param>
+<param name="Емкость аккумулятора, мАч"></param>
+<param name="Время зарядки, ч"></param>
+<param name="Цвет"></param>
 <param name="Доставка/Оплата"></param>
 <state></state>
 </offer>
