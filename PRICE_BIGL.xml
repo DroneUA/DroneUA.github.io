@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<price date="2019-08-27 17:46">
+<price date="2019-08-27 18:10">
 <name>Drone.UA</name>
 <currency code="UAH">1</currency>
 <url>http://store.drone.ua/</url>
@@ -21,19 +21,20 @@
 
 
 
-<item id="CP.PT.00000132.01" available="">
+<item id="CP.PT.00000132.01" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air</name>
 <url>http://store.drone.ua/product/mavic-air-black/</url>
 <price>24390</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
 <description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
 <li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
@@ -80,19 +81,20 @@
 
 
 
-<item id="CP.PT.00000141.01" available="">
+<item id="CP.PT.00000141.01" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air</name>
 <url>http://store.drone.ua/product/mavic-air/</url>
 <price>24390</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_7.jpg</picture>
 <description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
 <li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
@@ -139,19 +141,20 @@
 
 
 
-<item id="CP.PT.00000148.01" available="">
+<item id="CP.PT.00000148.01" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air</name>
 <url>http://store.drone.ua/product/mavic-air-red/</url>
 <price>24390</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_7.jpg</picture>
 <description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
 <li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
@@ -198,19 +201,20 @@
 
 
 
-<item id="CP.PT.00000159.01" available="">
+<item id="CP.PT.00000159.01" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
 <price>30990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_7.jpg</picture>
 <description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
 <li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
@@ -257,19 +261,20 @@
 
 
 
-<item id="CP.PT.00000168.01" available="">
+<item id="CP.PT.00000168.01" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 <price>30990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_7.jpg</picture>
 <description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
 <li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
@@ -316,19 +321,20 @@
 
 
 
-<item id="CP.PT.00000169.01" available="">
+<item id="CP.PT.00000169.01" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
 <price>30990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_7.jpg</picture>
 <description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
 <li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
@@ -375,18 +381,19 @@
 
 
 
-<item id="CP.PT.00000075.01" available="true">
+<item id="CP.PT.00000075.01" available="
+true">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum/</url>
 <price>36270</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture>
 <description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
 <ul>
 <li>4K: 4096&times;2160 24p 4K: 3840 &times; 2160 24/25/30 fps</li>
@@ -410,18 +417,19 @@
 
 
 
-<item id="CP.PT.00000065.01" available="true">
+<item id="CP.PT.00000065.01" available="
+true">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-combo/</url>
 <price>42870</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture>
 <description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
 <ul>
 <li>4K: 4096&times;2160 24p 4K: 3840 &times; 2160 24/25/30 fps</li>
@@ -445,17 +453,18 @@
 
 
 
-<item id="CP.ZM.00000104.01" available="true">
+<item id="CP.ZM.00000104.01" available="
+true">
 <name>Стедикам DJI Ronin-S</name>
 <url>http://store.drone.ua/product/ronin-s/</url>
 <price>24720</price>
 <categoryId>3</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
 <description><![CDATA[<p>Крепежное отверстие: 1/4""-20, 3/8""-16, М4<br />Разъем для зарядки аксессуаров: 12 В/2 А<br />Разъем камеры<br />8-контактный разъем<br />Емкость аккумулятора: 2400 мА*ч<br />Интерфейсы связи: Bluetooth 4.0, USB Type-C<br />Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br />Размеры: 202 x 185 x 486 мм</p>]]></description>
 <warranty>12</warranty>
 <keywords>дрон, квадрокоптер</keywords>
@@ -472,16 +481,17 @@
 
 
 
-<item id="CP.ZM.00000064.01" available="true">
+<item id="CP.ZM.00000064.01" available="
+true">
 <name>Стедикам DJI Osmo Mobile 2</name>
 <url>http://store.drone.ua/product/osmo-mobile-2/</url>
 <price>4920</price>
 <categoryId>3</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_4.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_4.jpg</picture>
 <description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
 <table class="table-specs">
 <tbody>
@@ -613,17 +623,18 @@
 
 
 
-<item id="ST.000075" available="true">
+<item id="ST.000075" available="
+true">
 <name>Стедикам DJI Osmo Pocket</name>
 <url>http://store.drone.ua/product/osmo-pocket/</url>
 <price>11850</price>
 <categoryId>4</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_5.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_5.jpg</picture>
 <description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
 <table class="table-specs">
 <tbody>
@@ -761,13 +772,14 @@
 
 
 
-<item id="CP.VL.00000014.01" available="true">
+<item id="CP.VL.00000014.01" available="
+true">
 <name>Очки виртуальной реальности DJI Goggles Racing Edition</name>
 <url>http://store.drone.ua/product/goggles-racing-edition/</url>
 <price>19770</price>
 <categoryId>5</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture>
 <description><![CDATA[<p><strong>Стильный и улучшенный аксессуар.&nbsp;</strong><br />Новая VR-гарнитура была разработана специально для гонок на квадрокоптерах. Дизайн обновленной версии напоминает предыдущую модель, но отличается широким спектром ярких деталей. Прежде всего, очки выполнены в черном матовом цвете, а оголовье отделано стильной красной кожей высокого качества.</p>
 <p><strong>Максимальное качество изображения.&nbsp;</strong><br />Будучи спроектированными специально для гонок, очки DJI Goggles RE совместимы с модулем передачи видеосигнала OcuSync и высокопроизводительным модулем камеры. Таким образом гарантируется улучшенная передача цифрового видеосигнала на расстояние до 7 км. OcuSync предлагает двухдиапазонную передачу видеосигнала 2.4 и 5.8 ГГц с задержкой до 50 мс. Данный модуль совместим с широким спектром летательных аппаратов, идеально подходит для беспроигрышных беспилотных гонок.</p>
 <p><strong>Безопасность и высокое качество сигнала.&nbsp;</strong><br />Доступ к каналам с низким уровнем помех является ключом к успеху на соревнованиях, особенно при одновременном полете нескольких беспилотных летательных аппаратов. В случае возникновения помех во время полета, устройство будет быстро и автоматически переключаться между каналами 2.4 и 5.8 ГГц для обеспечения беспрепятственной передачи сигнала.</p>
@@ -801,15 +813,16 @@
 
 
 
-<item id="CP.PT.000670" available="true">
+<item id="CP.PT.000670" available="
+true">
 <name>Очки виртуальной реальности DJI Goggles</name>
 <url>http://store.drone.ua/product/goggles/</url>
 <price>13170</price>
 <categoryId>5</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_1.png</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_2.png</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</picture>
 <description><![CDATA[<p><strong>DJI Goggles&nbsp;</strong>- удобные очки, созданные для полета на устройствах&nbsp;<strong>DJI</strong>&nbsp;с обзором от первого лица. [1] Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) &mdash; все, что нужно для полета в новом измерении.</p>
 <p><strong>Бесперебойная передача сигнала</strong><br />DJI Goggles передают потоковое видео с разрешением 720p и частотой обновления 60 кадров/с или с 1080р/30 на близком расстоянии [2] , с минимальной задержкой сигнала &mdash; всего лишь 110 мс. [3] С системой беспроводной передачи сигнала DJI OcuSync к Mavic Pro можно одновременно подключить до четырех устройств. [4] Антенны, вшитые в наголовную ленту очков, обеспечивают радиопокрытие на все 360&deg;. Соединение не прервется, даже если летательный аппарат находится позади вас. [5] Транслируй видеопоток с очков и делись радостью полета с друзьями!</p>
 <p><strong>Высокое разрешение</strong><br />2K-дисплеи в обычных очках виртуальной реальности разделены на секции разрешением 1280x1440 точек под каждый глаз. При просмотре изображения с соотношением сторон 16:9 очки "отсекают" его часть, оставляя четверть эффективных пикселей. DJI Goggles оснащены двумя дисплеями с разрешением 1920x1080 точек, с количеством пикселей, в два раза превышающим число пикселей одного 2K дисплея.</p>
@@ -840,14 +853,15 @@
 
 
 
-<item id="CP.PT.000889" available="true">
+<item id="CP.PT.000889" available="
+true">
 <name>Квадрокоптер (дрон) DJI Spark Fly More Combo</name>
 <url>http://store.drone.ua/product/spark-fly-more-combo/</url>
 <price>21420</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</picture>
 <description><![CDATA[]]></description>
 <warranty>12</warranty>
 <keywords>дрон, квадрокоптер</keywords>
@@ -864,14 +878,15 @@
 
 
 
-<item id="CP.MA.00000013.01" available="true">
+<item id="CP.MA.00000013.01" available="
+true">
 <name>Квадрокоптер (дрон) DJI Mavic 2 Pro</name>
 <url>http://store.drone.ua/product/mavic-2-pro/</url>
 <price>47820</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_2.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_2.jpg</picture>
 <description><![CDATA[<p><strong>Mavic 2 Pro</strong><br /><strong>с камерой Hasselblad</strong><br />Изготовленные в Швеции высококвалифицированными сотрудниками камеры Hasselblad известны эргономичным дизайном и превосходным качеством изображений. С 1941 года эти камеры использовались для создания легендарных фотографий: высадка на Луну - одна из них. В результате двух лет неустанной совместной исследовательской работы с Hasselblad Mavic 2 Pro оснащен совершенно новой камерой Hasselblad L1D-20c. Камера L1D-20c работает по уникальной технологии Hasselblad Natural Colour Solution (HNCS)5, позволяющей пользователям делать великолепные снимки с воздуха с разрешением в 20 мегапикселей и потрясающими цветами.</p>
 <p></p>
 <p><strong>Матрица CMOS 1"</strong><br />Зона активной работы новой 1-дюймовой матрицы CMOS в четыре раза превышает показатели Mavic Pro. Большая матрица обеспечивает более высокое качество изображения при слабом освещении за счет более широкого диапазона ISO. Максимальный показатель ISO поднялся с 3200 до 12800.</p>
@@ -896,14 +911,15 @@
 
 
 
-<item id="CP.MA.00000014.01" available="true">
+<item id="CP.MA.00000014.01" available="
+true">
 <name>Квадрокоптер (дрон) DJI Mavic 2 Zoom</name>
 <url>http://store.drone.ua/product/mavic-2-zoom/</url>
 <price>39990</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_2.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_2.jpg</picture>
 <description><![CDATA[<p><strong>Mavic 2 Zoom</strong><br />На Mavic 2 Zoom установлена 1/2,3-дюймовая матрица с разрешением в 12 мегапикселей, оснащенная четырехкратным зумом, включая двукратный оптический зум (24 мм - 48 мм). Его главной задачей является динамическая перспектива. Делайте любые снимки - с широким углом обзора либо на небольшом расстоянии.</p>
 <p></p>
 <p><strong>Съемка на безопасном расстоянии</strong><br />Во время съемки видео FHD четырехкратный зум без потерь (включая двухкратный оптический зум) позволяет подобраться ближе к объектам съемки, находящимся вдалеке, и снимать ранее недоступные кадры с безопасного расстояния от зданий, транспортных средств, животных и людей.</p>
@@ -931,13 +947,14 @@
 
 
 
-<item id="CP.MA.00000037.01" available="true">
+<item id="CP.MA.00000037.01" available="
+true">
 <name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit</name>
 <url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 <price>12510</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</picture>
 <description><![CDATA[<p>Комплект&nbsp;<strong>Mavic 2 Fly More</strong>&nbsp;от&nbsp;<strong>DJI</strong>&nbsp;включает в себя множество дополнительных аксессуаров для квадрокоптера&nbsp;<strong>Mavic 2 Pro</strong>&nbsp;или&nbsp;<strong>Mavic 2 Zoom</strong>. С помощью этих деталей в вашем распоряжении увеличение времени полетов, которое вы можете потратить на съемку идеального материала с помощью&nbsp;<strong>Mavic 2</strong>.</p>
 <p><strong>В коробке:</strong></p>
 <ul>
@@ -963,19 +980,20 @@
 
 
 
-<item id="CP.PT.00000132.01_REF" available="">
+<item id="CP.PT.00000132.01_REF" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-ref-black/</url>
 <price>17651</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1041,19 +1059,20 @@
 
 
 
-<item id="CP.PT.00000141.01_REF" available="">
+<item id="CP.PT.00000141.01_REF" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-ref-white/</url>
 <price>17949</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_7.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1119,19 +1138,20 @@
 
 
 
-<item id="CP.PT.00000148.01_REF" available="">
+<item id="CP.PT.00000148.01_REF" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-ref-red/</url>
 <price>17489</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_7.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1197,19 +1217,20 @@
 
 
 
-<item id="CP.PT.00000159.01_REF" available="">
+<item id="CP.PT.00000159.01_REF" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
 <price>23799</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_7.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1275,19 +1296,20 @@
 
 
 
-<item id="CP.PT.00000168.01_REF" available="">
+<item id="CP.PT.00000168.01_REF" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
 <price>23799</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_7.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1353,19 +1375,20 @@
 
 
 
-<item id="CP.PT.00000169.01_REF" available="">
+<item id="CP.PT.00000169.01_REF" available="
+">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
 <price>23799</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_7.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1431,18 +1454,19 @@
 
 
 
-<item id="CP.PT.00000075.01_REF" available="true">
+<item id="CP.PT.00000075.01_REF" available="
+true">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
 <price>23806</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1481,18 +1505,19 @@
 
 
 
-<item id="CP.PT.00000065.01_REF" available="true">
+<item id="CP.PT.00000065.01_REF" available="
+true">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
 <price>29698</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1531,17 +1556,18 @@
 
 
 
-<item id="CP.ZM.00000104.01_REF" available="">
+<item id="CP.ZM.00000104.01_REF" available="
+">
 <name>Стедикам DJI Ronin-S Refurbished</name>
 <url>http://store.drone.ua/product/ronin-s-ref/</url>
 <price>17854</price>
 <categoryId>3</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
 <description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
 </p>
 <p>В каких случая товары получают статус Refurbished:
@@ -1579,19 +1605,20 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.00000242.01" available="true">
+<item id="CP.PT.00000242.01" available="
+true">
 <name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0</name>
 <url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
 <price>49470</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___7.jpg</picture>
 <description><![CDATA[<p>Дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -1655,19 +1682,20 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.00000232.01" available="true">
+<item id="CP.PT.00000232.01" available="
+true">
 <name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0</name>
 <url>http://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 <price>59370</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___7.jpg</picture>
 <description><![CDATA[<p>Дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -1731,18 +1759,19 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.00000210.01" available="true">
+<item id="CP.PT.00000210.01" available="
+true">
 <name>Квадрокоптер (дрон) Ryze Tello</name>
 <url>http://store.drone.ua/product/tello/</url>
 <price>3600</price>
 <categoryId>1</categoryId>
 <vendor>Ryze</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_6.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_6.jpg</picture>
 <description><![CDATA[<p>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -1777,19 +1806,20 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.TL.00000015.01" available="true">
+<item id="CP.TL.00000015.01" available="
+true">
 <name>Квадрокоптер (дрон) Ryze Tello Boost Combo</name>
 <url>http://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
 <price>5250</price>
 <categoryId>1</categoryId>
 <vendor>Ryze</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_7.jpg</picture>
 <description><![CDATA[<p>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -1824,18 +1854,19 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.TL.00000002.01" available="true">
+<item id="CP.TL.00000002.01" available="
+true">
 <name>Квадрокоптер (дрон) Ryze Tello Iron Man Edition</name>
 <url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
 <price>4590</price>
 <categoryId>1</categoryId>
 <vendor>Ryze</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_6.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_6.jpg</picture>
 <description><![CDATA[<p>DJI, Ryze, Marvel и Disney представили рынку новый дрон - Ryze Tello Iron Man Edition, который имеет новый стильный облик, вдохновленный культовой броней «Железного человека». <strong><br /></strong></p>
 <p><strong>Характеристики:</strong></p>
 <ul>
@@ -1870,18 +1901,19 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.IN.000001" available="true">
+<item id="ST.IN.000001" available="
+true">
 <name>Action камера Insta360 One X</name>
 <url>http://store.drone.ua/product/insta360-one-x/</url>
 <price>12970</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_6.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_6.jpg</picture>
 <description><![CDATA[<p>С панорамной камерой Insta360 ONE X Вы можете снимать 360-видео с максимальным разрешением 5.7@30fps и делать 360-фото 18 МП. Экшн-камера имеет компактные размеры для комфортной эксплуатации в любых условиях.</p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -2104,13 +2136,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.IN.000002" available="">
+<item id="ST.IN.000002" available="
+">
 <name>Action камера Insta360 One</name>
 <url>http://store.drone.ua/product/insta360-one/</url>
 <price>7380</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_4.jpg</picture>
@@ -2119,7 +2152,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_7.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_8.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_9.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_10.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_10.jpg</picture>
 <description><![CDATA[<p>Компактная панорамная камера Insta360 ONE способна записывать видео в формате 4K@30fps и делать 24 МП фото. При этом, она может эксплуатировать как со смартфоном (под Micro-USB и USB-C необходимы переходники), так и независимо.<br /><br /></p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -2265,19 +2298,20 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.IN.000003" available="">
+<item id="ST.IN.000003" available="
+">
 <name>Action камера Insta360 Pro</name>
 <url>http://store.drone.ua/product/insta360-pro/</url>
 <price>119570</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_7.jpg</picture>
 <description><![CDATA[<p>Первое поколение профессиональной VR-камеры Insta360 Pro, способной снимать 2D/3D видео и фото с разрешением до 8K, а также вести онлайн-трансляцию.<br /><br /></p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -2463,13 +2497,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.IN.000004" available="true">
+<item id="ST.IN.000004" available="
+true">
 <name>Action камера Insta360 Pro 2</name>
 <url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
 <price>163770</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_4.jpg</picture>
@@ -2477,7 +2512,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_6.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_7.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_8.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_9.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_9.jpg</picture>
 <description><![CDATA[<p>Сферическая VR-камера Insta360 Pro 2 способна снимать 8K-видео 2D/3D и делать фото с разрешением до 12000 x 12000 пикселей. Одно из лучших решений на современном рынке.<br /><br /></p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -2724,17 +2759,18 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.IN.000005" available="true">
+<item id="ST.IN.000005" available="
+true">
 <name>Action камера Insta360 Titan</name>
 <url>http://store.drone.ua/product/insta360-titan/</url>
 <price>493970</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_5.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_5.jpg</picture>
 <description><![CDATA[<p>Кинематографическая сферическая камера Insta360 TITAN способна снимать 360-градусное и VR-видео с разрешением до 11K. Профессиональный инструмент для серьезных проектов.<br /><br /></p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -2965,17 +3001,18 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.IN.000006_b" available="">
+<item id="ST.IN.000006_b" available="
+">
 <name>Action камера Insta360 Nano S</name>
 <url>http://store.drone.ua/product/insta360-nano-s-black/</url>
 <price>8290</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_5.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_5.jpg</picture>
 <description><![CDATA[<p>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.<br /><br /></p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -3136,19 +3173,20 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.IN.000006_s" available="">
+<item id="ST.IN.000006_s" available="
+">
 <name>Action камера Insta360 Nano S</name>
 <url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
 <price>8290</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_4.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_5.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_7.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_7.jpg</picture>
 <description><![CDATA[<p>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.<br /><br /></p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -3309,13 +3347,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CINEVOX/A" available="true">
+<item id="CINEVOX/A" available="
+true">
 <name>Action камера Insta360 Evo</name>
 <url>http://store.drone.ua/product/insta360-evo/</url>
 <price>13490</price>
 <categoryId>4</categoryId>
 <vendor>Insta360</vendor>
-<image><picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_2.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_3.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_4.jpg</picture>
@@ -3323,7 +3362,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_6.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_7.jpg</picture>
 <picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_8.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_9.jpg</picture></image>
+<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_9.jpg</picture>
 <description><![CDATA[<p>Компактная раскладная камера Insta360 EVO способна записывать видео в формате 3D/2D с углом обхвата 360&deg; или 180&deg; и разрешением до 5.7К. Удобный просмотр на смартфоне или в режиме VR в очках Oculus GO, HTC Vive Focus или Samsung Gear VR.<br /><br /></p>
 <table class="uk-table uk-table-justify">
 <tbody>
@@ -3541,19 +3580,20 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.CI.00001" available="true">
+<item id="ST.CI.00001" available="
+true">
 <name>Подводный дрон Chasing-Innovation Gladius</name>
 <url>http://store.drone.ua/product/podvodnyj-dron-gladius/</url>
 <price>67950</price>
 <categoryId>1</categoryId>
 <vendor>Chasing-Innovation</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_6.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_7.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_7.jpg</picture>
 <description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.]]></description>
 <warranty>12</warranty>
 <keywords>дрон</keywords>
@@ -3570,13 +3610,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.CI.00002" available="true">
+<item id="ST.CI.00002" available="
+true">
 <name>Подводный дрон Chasing-Innovation Gladius Mini</name>
 <url>http://store.drone.ua/product/gladius-mini/</url>
 <price>52770</price>
 <categoryId>1</categoryId>
 <vendor>Chasing-Innovation</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_4.jpg</picture>
@@ -3585,7 +3626,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_7.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_8.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_9.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_10.png</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_10.png</picture>
 <description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.]]></description>
 <warranty>12</warranty>
 <keywords>дрон</keywords>
@@ -3602,17 +3643,18 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.CI.00102" available="true">
+<item id="ST.CI.00102" available="
+true">
 <name>Рюкзак Chasing-Innovation для Gladius Mini</name>
 <url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
 <price>8220</price>
 <categoryId>2</categoryId>
 <vendor>Chasing-Innovation</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_5.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_5.jpg</picture>
 <description><![CDATA[Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation]]></description>
 <warranty>12</warranty>
 <keywords>рюкзак</keywords>
@@ -3629,13 +3671,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.000741" available="true">
+<item id="CP.PT.000741" available="
+true">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
 <description><![CDATA[]]></description>
 <warranty>12</warranty>
 <keywords>дрон, квадрокоптер</keywords>
@@ -3652,13 +3695,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.000743" available="true">
+<item id="CP.PT.000743" available="
+true">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-golyboi/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
 <description><![CDATA[]]></description>
 <warranty>12</warranty>
 <keywords>дрон, квадрокоптер</keywords>
@@ -3675,13 +3719,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.000744" available="true">
+<item id="CP.PT.000744" available="
+true">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-zelenyj-2/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
 <description><![CDATA[]]></description>
 <warranty>12</warranty>
 <keywords>дрон, квадрокоптер</keywords>
@@ -3698,13 +3743,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.000745" available="true">
+<item id="CP.PT.000745" available="
+true">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-krasnyj/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
 <description><![CDATA[]]></description>
 <warranty>12</warranty>
 <keywords>дрон, квадрокоптер</keywords>
@@ -3721,13 +3767,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.000742" available="true">
+<item id="CP.PT.000742" available="
+true">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-zheltyj/</url>
 <price>16470</price>
 <categoryId>1</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
 <description><![CDATA[]]></description>
 <warranty>12</warranty>
 <keywords>дрон, квадрокоптер</keywords>
@@ -3744,16 +3791,17 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.00000194.01" available="true">
+<item id="CP.PT.00000194.01" available="
+true">
 <name>Интеллектуальная батарея DJI Mavic Air 2375 mAh</name>
 <url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 <price>2610</price>
 <categoryId>2</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_4.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_4.jpg</picture>
 <description><![CDATA[Аккумулятор для DJI Mavic Air 2375 мА*ч]]></description>
 <warranty>12</warranty>
 <keywords>аккумулятор, интеллектуальная, батарея</keywords>
@@ -3770,17 +3818,18 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.00000077.01" available="true">
+<item id="CP.PT.00000077.01" available="
+true">
 <name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh</name>
 <url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 <price>3270</price>
 <categoryId>2</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_5.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_5.jpg</picture>
 <description><![CDATA[Аккумулятор для DJI Mavic Pro Platinum 3830 мА*ч]]></description>
 <warranty>12</warranty>
 <keywords>аккумулятор, интеллектуальная, батарея</keywords>
@@ -3797,16 +3846,17 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.000587" available="true">
+<item id="CP.PT.000587" available="
+true">
 <name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh</name>
 <url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
 <price>3270</price>
 <categoryId>2</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_4.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_4.jpg</picture>
 <description><![CDATA[Аккумулятор для DJI Mavic Pro 3830 мА*ч]]></description>
 <warranty>12</warranty>
 <keywords>аккумулятор, интеллектуальная, батарея</keywords>
@@ -3823,13 +3873,14 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.000601" available="true">
+<item id="CP.PT.000601" available="
+true">
 <name>Интеллектуальная батарея DJI Phantom 4 5870 mAh</name>
 <url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 <price>6240</price>
 <categoryId>2</categoryId>
 <vendor>DJI</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
 <description><![CDATA[Аккумулятор для DJI Phantom 4 5870 мА*ч]]></description>
 <warranty>12</warranty>
 <keywords>аккумулятор, интеллектуальная, батарея</keywords>
@@ -3846,14 +3897,15 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="ST.0000015" available="true">
+<item id="ST.0000015" available="
+true">
 <name>Аккумулятор Ryze Tello 1100 mAh</name>
 <url>http://store.drone.ua/product/tello-part-1-battery/</url>
 <price>830</price>
 <categoryId>2</categoryId>
 <vendor>Ryze</vendor>
-<image><picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture></image>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture>
 <description><![CDATA[Аккумулятор для Ryze Tello 1100 мА*ч]]></description>
 <warranty>12</warranty>
 <keywords>аккумулятор, интеллектуальная, батарея</keywords>
