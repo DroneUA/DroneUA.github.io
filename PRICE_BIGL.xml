@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<price date="2019-08-27 18:10">
+<price date="2019-08-29 13:30">
 <name>Drone.UA</name>
 <currency code="UAH">1</currency>
 <url>http://store.drone.ua/</url>
@@ -3581,7 +3581,7 @@ true">
 
 
 <item id="ST.CI.00001" available="
-true">
+">
 <name>Подводный дрон Chasing-Innovation Gladius</name>
 <url>http://store.drone.ua/product/podvodnyj-dron-gladius/</url>
 <price>67950</price>
