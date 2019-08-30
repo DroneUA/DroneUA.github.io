@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<yml_catalog date="2019-08-05 19:32">
+<yml_catalog date="2019-08-30 13:41">
 <shop>
 <name>Drone.UA</name>
 <url>http://store.drone.ua/</url>
@@ -204,6 +204,72 @@
 </item>
 
 
+<item id="CP.PT.00000132.01_REF">
+<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+<url>http://store.drone.ua/product/mavic-air-ref-black/</url>
+<price>0</price>
+<categoryId>1</categoryId>
+<vendor>DJI</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Black.jpg</image>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+</item>
+
+
+<item id="CP.PT.00000141.01_REF">
+<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+<url>http://store.drone.ua/product/mavic-air-ref-white/</url>
+<price>0</price>
+<categoryId>1</categoryId>
+<vendor>DJI</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_White.jpg</image>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+</item>
+
+
+<item id="CP.PT.00000148.01_REF">
+<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+<url>http://store.drone.ua/product/mavic-air-ref-red/</url>
+<price>0</price>
+<categoryId>1</categoryId>
+<vendor>DJI</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Red.jpg</image>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+</item>
+
+
+<item id="CP.PT.00000159.01_REF">
+<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
+<price>0</price>
+<categoryId>1</categoryId>
+<vendor>DJI</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+</item>
+
+
+<item id="CP.PT.00000168.01_REF">
+<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+<url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
+<price>0</price>
+<categoryId>1</categoryId>
+<vendor>DJI</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+</item>
+
+
+<item id="CP.PT.00000169.01_REF">
+<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
+<price>0</price>
+<categoryId>1</categoryId>
+<vendor>DJI</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+</item>
+
+
 <item id="CP.PT.00000075.01_REF">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
@@ -223,6 +289,17 @@
 <vendor>DJI</vendor>
 <image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
 <description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
+</item>
+
+
+<item id="CP.ZM.00000104.01_REF">
+<name>Стедикам DJI Ronin-S Refurbished</name>
+<url>http://store.drone.ua/product/ronin-s-ref/</url>
+<price>17854</price>
+<categoryId>2</categoryId>
+<vendor>DJI</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_DJI_Ronin_S.jpg</image>
+<description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
 </item>
 
 
@@ -292,6 +369,28 @@
 </item>
 
 
+<item id="ST.IN.000002">
+<name>Action камера Insta360 One</name>
+<url>http://store.drone.ua/product/insta360-one/</url>
+<price>0</price>
+<categoryId>4</categoryId>
+<vendor>Insta360</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_Insta360_One_1.jpg</image>
+<description>Компактная панорамная камера Insta360 ONE способна записывать видео в формате 4K@30fps и делать 24 МП фото. При этом, она может эксплуатировать как со смартфоном (под Micro-USB и USB-C необходимы переходники), так и независимо.</description>
+</item>
+
+
+<item id="ST.IN.000003">
+<name>Action камера Insta360 Pro</name>
+<url>http://store.drone.ua/product/insta360-pro/</url>
+<price>0</price>
+<categoryId>4</categoryId>
+<vendor>Insta360</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_Insta360_Pro_1.jpg</image>
+<description>Первое поколение профессиональной VR-камеры Insta360 Pro, способной снимать 2D/3D видео и фото с разрешением до 8K, а также вести онлайн-трансляцию.</description>
+</item>
+
+
 <item id="ST.IN.000004">
 <name>Action камера Insta360 Pro 2</name>
 <url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
@@ -311,6 +410,28 @@
 <vendor>Insta360</vendor>
 <image>https://droneua.github.io/IMG_EK/EK_Insta360_TITAN_1.jpg</image>
 <description>Кинематографическая сферическая камера Insta360 TITAN способна снимать 360-градусное и VR-видео с разрешением до 11K. Профессиональный инструмент для серьезных проектов.</description>
+</item>
+
+
+<item id="ST.IN.000006">
+<name>Action камера Insta360 Nano S</name>
+<url>http://store.drone.ua/product/insta360-nano-s-black/</url>
+<price>0</price>
+<categoryId>4</categoryId>
+<vendor>Insta360</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_Insta360_Nano_S_Silver_1.jpg</image>
+<description>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.</description>
+</item>
+
+
+<item id="ST.IN.000006">
+<name>Action камера Insta360 Nano S</name>
+<url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
+<price>0</price>
+<categoryId>4</categoryId>
+<vendor>Insta360</vendor>
+<image>https://droneua.github.io/IMG_EK/EK_Insta360_Nano_S_Black_1.jpg</image>
+<description>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.</description>
 </item>
 
 
@@ -454,17 +575,6 @@
 <vendor>DJI</vendor>
 <image>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</image>
 <description>Аккумулятор для DJI Phantom 4 5870 мА*ч</description>
-</item>
-
-
-<item id="ST.0000015">
-<name>Аккумулятор Ryze Tello 1100 mAh</name>
-<url>http://store.drone.ua/product/tello-part-1-battery/</url>
-<price>830</price>
-<categoryId>5</categoryId>
-<vendor>Ryze</vendor>
-<image>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</image>
-<description>Аккумулятор для Ryze Tello 1100 мА*ч</description>
 </item>
 </items>
 </shop>
