@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-<date>2019-08-09 16:35</date>
+<date>2019-08-30 12:38</date>
 <firmName>Drone.ua</firmName>
 <firmId>28303</firmId>
 <categories>
@@ -300,6 +300,108 @@
 <param name="Оригинальность">Оригинал</param>
 <param name="Страна изготовления">Китай</param>
 <condition>0</condition>
+</item>
+
+<item>
+<id>CP.PT.00000132.01 REF</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000132.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Onyx Black Refurbished (CP.PT.00000132.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000132.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Black.jpg</image>
+<priceRUAH>17651</priceRUAH>
+<stock>Нет</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>CP.PT.00000141.01 REF</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000141.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Arctic White Refurbished (CP.PT.00000141.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air-ref-white/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000141.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_White.jpg</image>
+<priceRUAH>17949</priceRUAH>
+<stock>Нет</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>CP.PT.00000148.01 REF</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000148.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Flame Red Refurbished (CP.PT.00000148.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000148.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Red.jpg</image>
+<priceRUAH>17489</priceRUAH>
+<stock>Нет</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>CP.PT.00000159.01 REF</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000159.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Fly More Combo Onyx Black Refurbished (CP.PT.00000159.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000159.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
+<priceRUAH>23799</priceRUAH>
+<stock>Нет</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>CP.PT.00000168.01 REF</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000168.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Fly More Combo Arctic White Refurbished (CP.PT.00000168.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/mavic-air-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000168.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
+<priceRUAH>23799</priceRUAH>
+<stock>Нет</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
+</item>
+
+<item>
+<id>CP.PT.00000169.01 REF</id>
+<categoryId>1</categoryId>
+<code>CP.PT.00000169.01</code>
+<vendor>DJI</vendor>
+<name>Квадрокоптер DJI Mavic Air Fly More Combo Flame Red Refurbished (CP.PT.00000169.01)</name>
+<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
+<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000169.01 REF/</url>
+<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
+<priceRUAH>23799</priceRUAH>
+<stock>Нет</stock>
+<guarantee type="shop">1</guarantee>
+<param name="Оригинальность">Оригинал</param>
+<param name="Страна изготовления">Китай</param>
+<condition>1</condition>
 </item>
 
 <item>
