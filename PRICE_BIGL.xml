@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<price date="2019-08-29 13:30">
+<price date="2019-09-03 13:05">
 <name>Drone.UA</name>
 <currency code="UAH">1</currency>
 <url>http://store.drone.ua/</url>
@@ -21,8 +21,7 @@
 
 
 
-<item id="CP.PT.00000132.01" available="
-">
+<item id="CP.PT.00000132.01" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air</name>
 <url>http://store.drone.ua/product/mavic-air-black/</url>
 <price>24390</price>
@@ -81,8 +80,7 @@
 
 
 
-<item id="CP.PT.00000141.01" available="
-">
+<item id="CP.PT.00000141.01" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air</name>
 <url>http://store.drone.ua/product/mavic-air/</url>
 <price>24390</price>
@@ -141,8 +139,7 @@
 
 
 
-<item id="CP.PT.00000148.01" available="
-">
+<item id="CP.PT.00000148.01" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air</name>
 <url>http://store.drone.ua/product/mavic-air-red/</url>
 <price>24390</price>
@@ -201,8 +198,7 @@
 
 
 
-<item id="CP.PT.00000159.01" available="
-">
+<item id="CP.PT.00000159.01" available="true">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
 <price>30990</price>
@@ -261,8 +257,7 @@
 
 
 
-<item id="CP.PT.00000168.01" available="
-">
+<item id="CP.PT.00000168.01" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 <price>30990</price>
@@ -321,8 +316,7 @@
 
 
 
-<item id="CP.PT.00000169.01" available="
-">
+<item id="CP.PT.00000169.01" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 <url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
 <price>30990</price>
@@ -381,8 +375,7 @@
 
 
 
-<item id="CP.PT.00000075.01" available="
-true">
+<item id="CP.PT.00000075.01" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum/</url>
 <price>36270</price>
@@ -417,8 +410,7 @@ true">
 
 
 
-<item id="CP.PT.00000065.01" available="
-true">
+<item id="CP.PT.00000065.01" available="true">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-combo/</url>
 <price>42870</price>
@@ -453,8 +445,7 @@ true">
 
 
 
-<item id="CP.ZM.00000104.01" available="
-true">
+<item id="CP.ZM.00000104.01" available="">
 <name>Стедикам DJI Ronin-S</name>
 <url>http://store.drone.ua/product/ronin-s/</url>
 <price>24720</price>
@@ -481,8 +472,7 @@ true">
 
 
 
-<item id="CP.ZM.00000064.01" available="
-true">
+<item id="CP.ZM.00000064.01" available="">
 <name>Стедикам DJI Osmo Mobile 2</name>
 <url>http://store.drone.ua/product/osmo-mobile-2/</url>
 <price>4920</price>
@@ -623,8 +613,7 @@ true">
 
 
 
-<item id="ST.000075" available="
-true">
+<item id="ST.000075" available="true">
 <name>Стедикам DJI Osmo Pocket</name>
 <url>http://store.drone.ua/product/osmo-pocket/</url>
 <price>11850</price>
@@ -772,8 +761,7 @@ true">
 
 
 
-<item id="CP.VL.00000014.01" available="
-true">
+<item id="CP.VL.00000014.01" available="">
 <name>Очки виртуальной реальности DJI Goggles Racing Edition</name>
 <url>http://store.drone.ua/product/goggles-racing-edition/</url>
 <price>19770</price>
@@ -813,8 +801,7 @@ true">
 
 
 
-<item id="CP.PT.000670" available="
-true">
+<item id="CP.PT.000670" available="true">
 <name>Очки виртуальной реальности DJI Goggles</name>
 <url>http://store.drone.ua/product/goggles/</url>
 <price>13170</price>
@@ -853,8 +840,7 @@ true">
 
 
 
-<item id="CP.PT.000889" available="
-true">
+<item id="CP.PT.000889" available="">
 <name>Квадрокоптер (дрон) DJI Spark Fly More Combo</name>
 <url>http://store.drone.ua/product/spark-fly-more-combo/</url>
 <price>21420</price>
@@ -878,8 +864,7 @@ true">
 
 
 
-<item id="CP.MA.00000013.01" available="
-true">
+<item id="CP.MA.00000013.01" available="true">
 <name>Квадрокоптер (дрон) DJI Mavic 2 Pro</name>
 <url>http://store.drone.ua/product/mavic-2-pro/</url>
 <price>47820</price>
@@ -911,8 +896,7 @@ true">
 
 
 
-<item id="CP.MA.00000014.01" available="
-true">
+<item id="CP.MA.00000014.01" available="">
 <name>Квадрокоптер (дрон) DJI Mavic 2 Zoom</name>
 <url>http://store.drone.ua/product/mavic-2-zoom/</url>
 <price>39990</price>
@@ -947,8 +931,7 @@ true">
 
 
 
-<item id="CP.MA.00000037.01" available="
-true">
+<item id="CP.MA.00000037.01" available="true">
 <name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit</name>
 <url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 <price>12510</price>
@@ -980,8 +963,7 @@ true">
 
 
 
-<item id="CP.PT.00000132.01_REF" available="
-">
+<item id="CP.PT.00000132.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-ref-black/</url>
 <price>17651</price>
@@ -1059,8 +1041,7 @@ true">
 
 
 
-<item id="CP.PT.00000141.01_REF" available="
-">
+<item id="CP.PT.00000141.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-ref-white/</url>
 <price>17949</price>
@@ -1138,8 +1119,7 @@ true">
 
 
 
-<item id="CP.PT.00000148.01_REF" available="
-">
+<item id="CP.PT.00000148.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-ref-red/</url>
 <price>17489</price>
@@ -1217,8 +1197,7 @@ true">
 
 
 
-<item id="CP.PT.00000159.01_REF" available="
-">
+<item id="CP.PT.00000159.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
 <price>23799</price>
@@ -1296,8 +1275,7 @@ true">
 
 
 
-<item id="CP.PT.00000168.01_REF" available="
-">
+<item id="CP.PT.00000168.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
 <price>23799</price>
@@ -1375,8 +1353,7 @@ true">
 
 
 
-<item id="CP.PT.00000169.01_REF" available="
-">
+<item id="CP.PT.00000169.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
 <price>23799</price>
@@ -1454,8 +1431,7 @@ true">
 
 
 
-<item id="CP.PT.00000075.01_REF" available="
-true">
+<item id="CP.PT.00000075.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
 <price>23806</price>
@@ -1505,8 +1481,7 @@ true">
 
 
 
-<item id="CP.PT.00000065.01_REF" available="
-true">
+<item id="CP.PT.00000065.01_REF" available="">
 <name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished</name>
 <url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
 <price>29698</price>
@@ -1556,8 +1531,7 @@ true">
 
 
 
-<item id="CP.ZM.00000104.01_REF" available="
-">
+<item id="CP.ZM.00000104.01_REF" available="">
 <name>Стедикам DJI Ronin-S Refurbished</name>
 <url>http://store.drone.ua/product/ronin-s-ref/</url>
 <price>17854</price>
@@ -1605,8 +1579,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 
 
-<item id="CP.PT.00000242.01" available="
-true">
+<item id="CP.PT.00000242.01" available="">
 <name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0</name>
 <url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
 <price>49470</price>
@@ -1682,8 +1655,7 @@ true">
 
 
 
-<item id="CP.PT.00000232.01" available="
-true">
+<item id="CP.PT.00000232.01" available="true">
 <name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0</name>
 <url>http://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 <price>59370</price>
@@ -1759,8 +1731,7 @@ true">
 
 
 
-<item id="CP.PT.00000210.01" available="
-true">
+<item id="CP.PT.00000210.01" available="true">
 <name>Квадрокоптер (дрон) Ryze Tello</name>
 <url>http://store.drone.ua/product/tello/</url>
 <price>3600</price>
@@ -1806,8 +1777,7 @@ true">
 
 
 
-<item id="CP.TL.00000015.01" available="
-true">
+<item id="CP.TL.00000015.01" available="true">
 <name>Квадрокоптер (дрон) Ryze Tello Boost Combo</name>
 <url>http://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
 <price>5250</price>
@@ -1854,8 +1824,7 @@ true">
 
 
 
-<item id="CP.TL.00000002.01" available="
-true">
+<item id="CP.TL.00000002.01" available="">
 <name>Квадрокоптер (дрон) Ryze Tello Iron Man Edition</name>
 <url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
 <price>4590</price>
@@ -1901,8 +1870,7 @@ true">
 
 
 
-<item id="ST.IN.000001" available="
-true">
+<item id="ST.IN.000001" available="true">
 <name>Action камера Insta360 One X</name>
 <url>http://store.drone.ua/product/insta360-one-x/</url>
 <price>12970</price>
@@ -2136,8 +2104,7 @@ true">
 
 
 
-<item id="ST.IN.000002" available="
-">
+<item id="ST.IN.000002" available="">
 <name>Action камера Insta360 One</name>
 <url>http://store.drone.ua/product/insta360-one/</url>
 <price>7380</price>
@@ -2298,8 +2265,7 @@ true">
 
 
 
-<item id="ST.IN.000003" available="
-">
+<item id="ST.IN.000003" available="">
 <name>Action камера Insta360 Pro</name>
 <url>http://store.drone.ua/product/insta360-pro/</url>
 <price>119570</price>
@@ -2497,8 +2463,7 @@ true">
 
 
 
-<item id="ST.IN.000004" available="
-true">
+<item id="ST.IN.000004" available="">
 <name>Action камера Insta360 Pro 2</name>
 <url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
 <price>163770</price>
@@ -2759,8 +2724,7 @@ true">
 
 
 
-<item id="ST.IN.000005" available="
-true">
+<item id="ST.IN.000005" available="">
 <name>Action камера Insta360 Titan</name>
 <url>http://store.drone.ua/product/insta360-titan/</url>
 <price>493970</price>
@@ -3001,8 +2965,7 @@ true">
 
 
 
-<item id="ST.IN.000006_b" available="
-">
+<item id="ST.IN.000006_b" available="">
 <name>Action камера Insta360 Nano S</name>
 <url>http://store.drone.ua/product/insta360-nano-s-black/</url>
 <price>8290</price>
@@ -3173,8 +3136,7 @@ true">
 
 
 
-<item id="ST.IN.000006_s" available="
-">
+<item id="ST.IN.000006_s" available="">
 <name>Action камера Insta360 Nano S</name>
 <url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
 <price>8290</price>
@@ -3347,8 +3309,7 @@ true">
 
 
 
-<item id="CINEVOX/A" available="
-true">
+<item id="CINEVOX/A" available="true">
 <name>Action камера Insta360 Evo</name>
 <url>http://store.drone.ua/product/insta360-evo/</url>
 <price>13490</price>
@@ -3580,8 +3541,7 @@ true">
 
 
 
-<item id="ST.CI.00001" available="
-">
+<item id="ST.CI.00001" available="">
 <name>Подводный дрон Chasing-Innovation Gladius</name>
 <url>http://store.drone.ua/product/podvodnyj-dron-gladius/</url>
 <price>67950</price>
@@ -3610,8 +3570,7 @@ true">
 
 
 
-<item id="ST.CI.00002" available="
-true">
+<item id="ST.CI.00002" available="true">
 <name>Подводный дрон Chasing-Innovation Gladius Mini</name>
 <url>http://store.drone.ua/product/gladius-mini/</url>
 <price>52770</price>
@@ -3643,8 +3602,7 @@ true">
 
 
 
-<item id="ST.CI.00102" available="
-true">
+<item id="ST.CI.00102" available="">
 <name>Рюкзак Chasing-Innovation для Gladius Mini</name>
 <url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
 <price>8220</price>
@@ -3671,8 +3629,7 @@ true">
 
 
 
-<item id="CP.PT.000741" available="
-true">
+<item id="CP.PT.000741" available="">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark/</url>
 <price>16470</price>
@@ -3695,8 +3652,7 @@ true">
 
 
 
-<item id="CP.PT.000743" available="
-true">
+<item id="CP.PT.000743" available="">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-golyboi/</url>
 <price>16470</price>
@@ -3719,8 +3675,7 @@ true">
 
 
 
-<item id="CP.PT.000744" available="
-true">
+<item id="CP.PT.000744" available="">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-zelenyj-2/</url>
 <price>16470</price>
@@ -3743,8 +3698,7 @@ true">
 
 
 
-<item id="CP.PT.000745" available="
-true">
+<item id="CP.PT.000745" available="">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-krasnyj/</url>
 <price>16470</price>
@@ -3767,8 +3721,7 @@ true">
 
 
 
-<item id="CP.PT.000742" available="
-true">
+<item id="CP.PT.000742" available="">
 <name>Квадрокоптер (дрон) DJI Spark</name>
 <url>http://store.drone.ua/product/spark-zheltyj/</url>
 <price>16470</price>
@@ -3791,8 +3744,7 @@ true">
 
 
 
-<item id="CP.PT.00000194.01" available="
-true">
+<item id="CP.PT.00000194.01" available="">
 <name>Интеллектуальная батарея DJI Mavic Air 2375 mAh</name>
 <url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 <price>2610</price>
@@ -3818,8 +3770,7 @@ true">
 
 
 
-<item id="CP.PT.00000077.01" available="
-true">
+<item id="CP.PT.00000077.01" available="">
 <name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh</name>
 <url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 <price>3270</price>
@@ -3846,8 +3797,7 @@ true">
 
 
 
-<item id="CP.PT.000587" available="
-true">
+<item id="CP.PT.000587" available="">
 <name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh</name>
 <url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
 <price>3270</price>
@@ -3873,8 +3823,7 @@ true">
 
 
 
-<item id="CP.PT.000601" available="
-true">
+<item id="CP.PT.000601" available="">
 <name>Интеллектуальная батарея DJI Phantom 4 5870 mAh</name>
 <url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 <price>6240</price>
@@ -3897,8 +3846,7 @@ true">
 
 
 
-<item id="ST.0000015" available="
-true">
+<item id="ST.0000015" available="true">
 <name>Аккумулятор Ryze Tello 1100 mAh</name>
 <url>http://store.drone.ua/product/tello-part-1-battery/</url>
 <price>830</price>
