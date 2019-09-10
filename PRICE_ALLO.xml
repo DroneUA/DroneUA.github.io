@@ -1,84 +1,83 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<price>
-<date>2019-07-29 20:24</date>
-<firmName>Drone.UA</firmName>
-<firmId></firmId>
-<categories>
-<category><id>1</id><name>Квадрокоптеры (дроны)</name></category>
-<category><id>2</id><name>Аксессуары для квадрокоптеров</name></category>
-</categories><items>
-
-
-<item>
-<id>PA.ST.02</id>
-<categoryId>1</categoryId>
-<code>PA.ST.02</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Anafi Thermal</name>
-<description>ANAFI Thermal позволит проводить съемку как обычной камерой, так и тепловизором, что позволит рассмотреть утечки тепла в конструкциях и любых других объектах.
+<?xml version="1.0" encoding="UTF-8" ?>	
+<price>	
+<date>2019-09-10 18:47</date>	
+<firmName>Drone.UA</firmName>	
+<firmId></firmId>	
+<categories>	
+<category><id>1</id><name>Квадрокоптеры (дроны)</name></category>	
+<category><id>2</id><name>Аксессуары для квадрокоптеров</name></category>	
+<category><id>3</id><name>Моноподы для селфи (Selfie stick)</name></category>	
+<category><id>4</id><name>Экшн-камеры</name></category>	
+<category><id>5</id><name>Системы стабилизации для фото и видеокамер</name></category>	
+<category><id>6</id><name>Аксессуары для смартфонов и планшетов</name></category>	
+</categories><items>	
+	<item>
+	<id>PA.ST.02</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.02</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Anafi Thermal</name>
+	<description>ANAFI Thermal позволит проводить съемку как обычной камерой, так и тепловизором, что позволит рассмотреть утечки тепла в конструкциях и любых других объектах.
 
 2 камеры ANAFI Thermal drone фиксируют как невидимое, так и видимое. Изображения видимого и невидимого объединяются непосредственно в приложении FreeFlight 6, чтобы раскрыть все, что Вы никогда не видели в таких деталях.
 
 Вы можете снимать показания температуры и измерять температуру конкретной точки, наблюдать тепловые потери в здании, идентифицировать или контролировать объекты.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_1.png</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_2_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_3.png</image>
-<priceRUAH>75240</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.03</id>
-<categoryId>1</categoryId>
-<code>PA.ST.03</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Anafi Work</name>
-<description>Летающая 4K HDR камера, которую вы можете взять с собой повсюду.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_1.png</image>
+	<priceRUAH>75240</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.03</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.03</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Anafi Work</name>
+	<description>Летающая 4K HDR камера, которую вы можете взять с собой повсюду.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_2.png</image>
-<priceRUAH>39560</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.04</id>
-<categoryId>1</categoryId>
-<code>PA.ST.04</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Anafi Extended</name>
-<description>Расширенная версия Anafi Extended
+	<priceRUAH>39560</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.04</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.04</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Anafi Extended</name>
+	<description>Расширенная версия Anafi Extended
 </description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_5.png</image>
-<priceRUAH>29670 </priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.05</id>
-<categoryId>1</categoryId>
-<code>PA.ST.05</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Anafi</name>
-<description>Anafi имеет встроенную камеру, которая снимает потрясающие 4K HDR-видео со скоростью 100 Мбит/с и резкие 21-мегапиксельные фотографии. 4K Cinema обеспечивает профессиональное качество видео, поскольку оно записывается в формате 17: 9. HDR улучшает все видимые детали, уменьшая чрезмерно яркие огни и очень темные тени в кадре. Камера ANAFI оснащена широкоугольным асферическим объективом. Оптика объектива была спроектирована таким образом, чтобы уменьшить объектив и хроматические аберрации.
+	<priceRUAH>29670</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.05</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.05</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Anafi</name>
+	<description>Anafi имеет встроенную камеру, которая снимает потрясающие 4K HDR-видео со скоростью 100 Мбит/с и резкие 21-мегапиксельные фотографии. 4K Cinema обеспечивает профессиональное качество видео, поскольку оно записывается в формате 17: 9. HDR улучшает все видимые детали, уменьшая чрезмерно яркие огни и очень темные тени в кадре. Камера ANAFI оснащена широкоугольным асферическим объективом. Оптика объектива была спроектирована таким образом, чтобы уменьшить объектив и хроматические аберрации.
 
 Anafi сочетает в себе интегрированный механический карданный шарнир со сверхточной цифровой стабилизацией для невероятных снимков. Система стабилизации обеспечивает очень ровное видео и четкие фотографии, уменьшая вибрации.
 
@@ -87,78 +86,75 @@ Anafi сочетает в себе интегрированный механич
 Anafi — ультрапортативный беспилотник, компактный и легкий, и его можно перевозить повсюду. Сумка для переноски, входящая в комплект, защищает дрон во время транспортировки. После выхода из переносного режима, ANAFI разворачивается менее чем за 3 секунды. Углеродные волокна, из которых состоит материал для этого дрона, наполняются пустыми стеклянными микрошариками, которые заполнены воздухом, и стойкие к ударам. Благодаря этому новаторскому материалу дрон весит всего 320 г.
 
 В Anafi реализована система зарядки USB Type-C: заряжать его можно, подключив к смартфону или компьютеру. Дрон совместим с зарядными устройствами Power Delivery, которые заряжают до 60% быстрее, чем обычные 5W USB-A. Беспилотник оснащен мощным двигателем и может летать и снимать в течение 25 минут.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_2.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_4.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_5.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_6.png</image>
-<priceRUAH>23070</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.06</id>
-<categoryId>1</categoryId>
-<code>PA.ST.06</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bluegrass Fields</name>
-<description>Parrot Bluegrass — многоцелевой квадрокоптер, предназначенный для сельского хозяйства. Он помогает фермерам повысить рентабельность инвестиций, используя 2 встроенных камеры, видеокамеры и мультиспектральный датчик Parrot Sequoia.
+	<priceRUAH>23070</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.06</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.06</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bluegrass Fields</name>
+	<description>Parrot Bluegrass — многоцелевой квадрокоптер, предназначенный для сельского хозяйства. Он помогает фермерам повысить рентабельность инвестиций, используя 2 встроенных камеры, видеокамеры и мультиспектральный датчик Parrot Sequoia.
 
 С его фронтальной камерой Full HD, он может проводить визуальный мониторинг земли, стада или инфраструктуры. Он также обеспечивает быстрый и легкий анализ состояния культур, благодаря удобному программному обеспечению для обработки, AIRINOV FIRST +.
 
 Parrot Bluegrass легко транспортируется благодаря съемным пропеллерам, его легко настроить, управлять им, обрабатывать данные и ремонтировать.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_1.jpg</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_5.jpg</image>
-<priceRUAH>177810</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.07</id>
-<categoryId>1</categoryId>
-<code>PA.ST.07</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Mambo FPV</name>
-<description>Полностью погрузитесь в полет с Parrot Mambo. Используйте аксессуары: можно подключить камеру FPV к мини-радиоприемнику с использованием технологии Smart Block для записи и передачи контента в формате HD. Или оденьте ВР-гарнитуру Cockpitglasses, чтобы получить максимальные впечатления от вашего беспилотного летательного аппарата и познать новые ощущения скорости.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_1.png</image>
+	<priceRUAH>177810</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.07</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.07</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Mambo FPV</name>
+	<description>Полностью погрузитесь в полет с Parrot Mambo. Используйте аксессуары: можно подключить камеру FPV к мини-радиоприемнику с использованием технологии Smart Block для записи и передачи контента в формате HD. Или оденьте ВР-гарнитуру Cockpitglasses, чтобы получить максимальные впечатления от вашего беспилотного летательного аппарата и познать новые ощущения скорости.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_2.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_4.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_5.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_6.png</image>
-<priceRUAH>6260</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.08</id>
-<categoryId>1</categoryId>
-<code>PA.ST.08</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Mambo Mission</name>
-<description>Почувствуйте адреналин!
+	<priceRUAH>6260</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.08</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.08</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Mambo Mission</name>
+	<description>Почувствуйте адреналин!
 Соберите свою команду и соревнуйтесь: устройте гонку с препятствиями или игру — стреляйте по мишеням, захватывайте предметы, делайте трюки. С новым Parrot Mambo это никогда не было так весело!</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_1.jpg</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_4.jpg</image>
@@ -166,353 +162,336 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_6.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_7.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_8.png</image>
-<priceRUAH>-</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.09</id>
-<categoryId>1</categoryId>
-<code>PA.ST.09</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Mambo FPV Fly</name>
-<description>Почувствуйте адреналин!
+	<priceRUAH>18330</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.09</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.09</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Mambo FPV Fly</name>
+	<description>Почувствуйте адреналин!
  
 
  
 
 Благодаря усовершенствованному контроллеру полета и мощным датчикам, с Parrot Mambo легко летать как внутри, так и снаружи. Это так просто, что даже если вы отпустите элементы управления, он останется стабильным! Автопилот берет верх. Инновация не останавливается на достигнутом.
 </description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_Fly_1.jpg</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_Fly_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_Fly_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_Fly_3.jpg</image>
-<priceRUAH>-</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.10</id>
-<categoryId>1</categoryId>
-<code>PA.ST.10</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop-Pro 3D Modeling</name>
-<description>Parrot Bebop-Pro 3D-моделирование — это беспроигрышное решение для архитекторов, специалистов в области строительства и агентств недвижимости, которые легко могут создавать фотореалистичные 3D-модели, фотографии и видеоролики домов и зданий.
+	<priceRUAH>18330</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.10</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.10</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop-Pro 3D Modeling</name>
+	<description>Parrot Bebop-Pro 3D-моделирование — это беспроигрышное решение для архитекторов, специалистов в области строительства и агентств недвижимости, которые легко могут создавать фотореалистичные 3D-модели, фотографии и видеоролики домов и зданий.
 </description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_1.png</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_2.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_4.png</image>
-<priceRUAH>43530</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.11</id>
-<categoryId>1</categoryId>
-<code>PA.ST.11</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop 2 FPV</name>
-<description>Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_1.png</image>
+	<priceRUAH>43530</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.11</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.11</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop 2 FPV</name>
+	<description>Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_2.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_4.jpg</image>
-<priceRUAH>20970</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.12</id>
-<categoryId>1</categoryId>
-<code>PA.ST.12</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop 2</name>
-<description>Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_1.jpg</image>
+	<priceRUAH>20970</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.12</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.12</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop 2</name>
+	<description>Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_6.jpg</image>
-<priceRUAH>17460</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.13</id>
-<categoryId>1</categoryId>
-<code>PA.ST.13</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop 2 Adventurer</name>
-<description>Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_1.png</image>
+	<priceRUAH>17460</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.13</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.13</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop 2 Adventurer</name>
+	<description>Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_4.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_6.jpg</image>
-<priceRUAH>-</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.14</id>
-<categoryId>1</categoryId>
-<code>PA.ST.14</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop 2 Power - Pack FPV</name>
-<description>Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_1.png</image>
+	<priceRUAH>39990</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.14</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.14</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop 2 Power - Pack FPV</name>
+	<description>Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_2.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_4.png</image>
-<priceRUAH>23070</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.15</id>
-<categoryId>1</categoryId>
-<code>PA.ST.15</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop 2 Power Xtreme Adventurer</name>
-<description>Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Xtreme_Adventurer_1.png</image>
+	<priceRUAH>23070</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.15</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.15</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop 2 Power Xtreme Adventurer</name>
+	<description>Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Xtreme_Adventurer_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Xtreme_Adventurer_2.jpg</image>
-<priceRUAH>20630</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.16</id>
-<categoryId>1</categoryId>
-<code>PA.ST.16</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop 2 Power Adventurer</name>
-<description>Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Adventurer_1.jpg</image>
+	<priceRUAH>20630</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.16</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.16</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop 2 Power Adventurer</name>
+	<description>Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Adventurer_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Adventurer_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Adventurer_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Adventurer_4.jpg</image>
-<priceRUAH>18330</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.17</id>
-<categoryId>1</categoryId>
-<code>PA.ST.17</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Bebop-Pro Thermal</name>
-<description>Parrot Bebop-Pro Thermal – дрон, оснащенный тепловизионным модулем с системой передачи данных в режиме реального времени. Он станет незаменимым помощником в различных сферах бизнеса и безопасности, а также для проведения спасательных работ.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_Thermal_1.jpg</image>
+	<priceRUAH>18330</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.17</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.17</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Bebop-Pro Thermal</name>
+	<description>Parrot Bebop-Pro Thermal – дрон, оснащенный тепловизионным модулем с системой передачи данных в режиме реального времени. Он станет незаменимым помощником в различных сферах бизнеса и безопасности, а также для проведения спасательных работ.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_Thermal_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_Thermal_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_Thermal_3.jpg</image>
-<priceRUAH>59400</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.18</id>
-<categoryId>1</categoryId>
-<code>PA.ST.18</code>
-<vendor>Parrot</vendor>
-<name>Квадрокоптер Parrot Disco-Pro AG</name>
-<description>Parrot Disco-Pro AG — это многофункциональное беспилотное решение для фермеров, способное помочь им повысить рентабельность своих угодий. Это комплексное решение позволяет фермерам и мелким сельскохозяйственным кооперативам быстро получить представление о здоровье посевов, благодаря визуальной разведке культур и специализированным картам NDVI.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_1.png</image>
+	<priceRUAH>59400</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.18</id>
+	<categoryId>1</categoryId>
+	<code>PA.ST.18</code>
+	<vendor>Parrot</vendor>
+	<name>Квадрокоптер Parrot Disco-Pro AG</name>
+	<description>Parrot Disco-Pro AG — это многофункциональное беспилотное решение для фермеров, способное помочь им повысить рентабельность своих угодий. Это комплексное решение позволяет фермерам и мелким сельскохозяйственным кооперативам быстро получить представление о здоровье посевов, благодаря визуальной разведке культур и специализированным картам NDVI.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_2.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_4.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_5.png</image>
-<priceRUAH>126720</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.19</id>
-<categoryId>2</categoryId>
-<code>PA.ST.19</code>
-<vendor>Parrot</vendor>
-<name>Контроллер Parrot Skycontroller 3</name>
-<description>Parrot Skycontroller 3 был специально разработан для обеспечения эргономичного взаимодействия с дронами ANAFI. Управляйте своим беспилотником легко и безопасно с помощью Parrot Skycontroller 3. Его антенны обеспечивают мощную систему передачи до 4 км. После первого сопряжения с Вашим беспилотником он будет автоматически подключаться при каждом включении ANAFI.
+	<priceRUAH>188965</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.19</id>
+	<categoryId>2</categoryId>
+	<code>PA.ST.19</code>
+	<vendor>Parrot</vendor>
+	<name>Контроллер Parrot Skycontroller 3</name>
+	<description>Parrot Skycontroller 3 был специально разработан для обеспечения эргономичного взаимодействия с дронами ANAFI. Управляйте своим беспилотником легко и безопасно с помощью Parrot Skycontroller 3. Его антенны обеспечивают мощную систему передачи до 4 км. После первого сопряжения с Вашим беспилотником он будет автоматически подключаться при каждом включении ANAFI.
 
 Совместим со следующими дронами: ANAFI, ANAFI Thermal, ANAFI Work</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_2.jpg</image>
-<priceRUAH>6570</priceRUAH>
-<stock>В наличии</stock>
-<guarantee type="shop">6</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.20</id>
-<categoryId>2</categoryId>
-<code>PA.ST.20</code>
-<vendor>Parrot</vendor>
-<name>Интеллектуальная батарея Parrot Anafi Smart battery</name>
-<description>LiPo USB-C аккумулятор, который позволяет дрону летать до 25 минут (26 минут с ANAFI Thermal).
+	<priceRUAH>6570</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.20</id>
+	<categoryId>2</categoryId>
+	<code>PA.ST.20</code>
+	<vendor>Parrot</vendor>
+	<name>Интеллектуальная батарея Parrot Anafi Smart battery</name>
+	<description>LiPo USB-C аккумулятор, который позволяет дрону летать до 25 минут (26 минут с ANAFI Thermal).
 
 Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</image>
-<priceRUAH>3300</priceRUAH>
-<stock>В наличии</stock>
-<guarantee type="shop">6</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.21</id>
-<categoryId>2</categoryId>
-<code>PA.ST.21</code>
-<vendor>Parrot</vendor>
-<name>Сумка Parrot Anafi Travel Bag</name>
-<description>Эта ультракомпактная дорожная сумка, созданная специально для ANAFI, вмещает в себя все необходимые элементы. Сумка легко подходит для ANAFI, Parrot Skycontroller 3, 2 дополнительных интеллектуальных батарей, USB-кабелей типа C и Вашего смартфона. Сумка размером 30 см х 21 см х 11.5 см.
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</image>
+	<priceRUAH>3300</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.21</id>
+	<categoryId>2</categoryId>
+	<code>PA.ST.21</code>
+	<vendor>Parrot</vendor>
+	<name>Сумка Parrot Anafi Travel Bag</name>
+	<description>Эта ультракомпактная дорожная сумка, созданная специально для ANAFI, вмещает в себя все необходимые элементы. Сумка легко подходит для ANAFI, Parrot Skycontroller 3, 2 дополнительных интеллектуальных батарей, USB-кабелей типа C и Вашего смартфона. Сумка размером 30 см х 21 см х 11.5 см.
 
 Совместим со следующими дронами: ANAFI и ANAFI Work</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_1.jpg</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_4.jpg</image>
-<priceRUAH>2610</priceRUAH>
-<stock>В наличии</stock>
-<guarantee type="shop">6</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.22</id>
-<categoryId>2</categoryId>
-<code>PA.ST.22</code>
-<vendor>Parrot</vendor>
-<name>Держатель Parrot Skycontroller 3 - Tablet holder</name>
-<description>Монтажный кронштейн для планшета до 10 дюймов. Он очень просто фиксируется на пульте дистанционного управления Parrot Skycontroller 3 Вашего беспилотника ANAFI. Вы можете наслаждаться простым просмотром собранных данных.
+	<priceRUAH>2610</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.22</id>
+	<categoryId>2</categoryId>
+	<code>PA.ST.22</code>
+	<vendor>Parrot</vendor>
+	<name>Держатель Parrot Skycontroller 3 - Tablet holder</name>
+	<description>Монтажный кронштейн для планшета до 10 дюймов. Он очень просто фиксируется на пульте дистанционного управления Parrot Skycontroller 3 Вашего беспилотника ANAFI. Вы можете наслаждаться простым просмотром собранных данных.
 
 Совместим с Skycontroller 3</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</image>
-<priceRUAH>1290</priceRUAH>
-<stock>В наличии</stock>
-<guarantee type="shop">6</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>PA.ST.23</id>
-<categoryId>2</categoryId>
-<code>PA.ST.23</code>
-<vendor>Parrot</vendor>
-<name>Пропеллеры Parrot Anafi Foldable propellers</name>
-<description>Anafi использует четыре складных винта с двумя лопастями, которые укрепляют компактный дизайн дрона. Винт может быть заменен в случае повреждения.
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</image>
+	<priceRUAH>1290</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PA.ST.23</id>
+	<categoryId>2</categoryId>
+	<code>PA.ST.23</code>
+	<vendor>Parrot</vendor>
+	<name>Пропеллеры Parrot Anafi Foldable propellers</name>
+	<description>Anafi использует четыре складных винта с двумя лопастями, которые укрепляют компактный дизайн дрона. Винт может быть заменен в случае повреждения.
 
 Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</image>
-<priceRUAH>660</priceRUAH>
-<stock>В наличии</stock>
-<guarantee type="shop">6</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Франция</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>ST.CI.00001</id>
-<categoryId>1</categoryId>
-<code>ST.CI.00001</code>
-<vendor>Chasing-Innovation</vendor>
-<name>Подводный дрон Chasing-Innovation Gladius</name>
-<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_1.jpg</image>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</image>
+	<priceRUAH>660</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.CI.00001</id>
+	<categoryId>1</categoryId>
+	<code>ST.CI.00001</code>
+	<vendor>Chasing-Innovation</vendor>
+	<name>Подводный дрон Chasing-Innovation Gladius</name>
+	<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_6.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_7.jpg</image>
-<priceRUAH>67950</priceRUAH>
-<stock>Нет</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Китай</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>ST.CI.00002</id>
-<categoryId>1</categoryId>
-<code>ST.CI.00002</code>
-<vendor>Chasing-Innovation</vendor>
-<name>Подводный дрон Chasing-Innovation Gladius Mini</name>
-<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_1.jpg</image>
+	<priceRUAH>67950</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.CI.00002</id>
+	<categoryId>1</categoryId>
+	<code>ST.CI.00002</code>
+	<vendor>Chasing-Innovation</vendor>
+	<name>Подводный дрон Chasing-Innovation Gladius Mini</name>
+	<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_4.jpg</image>
@@ -522,30 +501,118 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_8.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_9.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_10.png</image>
-<priceRUAH>52770</priceRUAH>
-<stock>В наличии</stock>
-<guarantee  type="manufacturer">12</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Китай</param>
-<condition>0</condition>
-</item>
-
-<item>
-<id>ST.CI.00102</id>
-<categoryId>2</categoryId>
-<code>ST.CI.00102</code>
-<vendor>Chasing-Innovation</vendor>
-<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
-<description>Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation</description>
-<url></url>
-<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_1.jpg</image>
+	<priceRUAH>52770</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.CI.00102</id>
+	<categoryId>2</categoryId>
+	<code>ST.CI.00102</code>
+	<vendor>Chasing-Innovation</vendor>
+	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
+	<description>Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_3.jpg</image>
-<priceRUAH>8220</priceRUAH>
-<stock>В наличии</stock>
-<guarantee type="shop">6</guarantee>
-<param name="Оригинальность">Оригинал</param>
-<param name="Страна изготовления">Китай</param>
-<condition>0</condition>
-</item>
+	<priceRUAH>8220</priceRUAH>
+	<stock>Нет</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PZM200</id>
+	<categoryId>2</categoryId>
+	<code>PZM200</code>
+	<vendor>Parazero</vendor>
+	<name>Парашютная система Parazero SafeAir M-200</name>
+	<description>Автономная парашютная система безопасности для дронов серии Matrice 200 от Parazero.
+Совместимость со всеми моделями M200, M210 и M210 RTK от DJI, включая D-RTK.
+Обеспечивает безопасность полезной нагрузки, имущества, и людей. Оборудование предназначено для выполнения полетов BVLOS и выполнения автономных операций.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_1.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_2.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_3.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_4.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_5.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_6.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_7.jpg</image>
+	<priceRUAH>84780</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Израиль</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PZM600</id>
+	<categoryId>2</categoryId>
+	<code>PZM600</code>
+	<vendor>Parazero</vendor>
+	<name>Парашютная система Parazero SafeAir M-600</name>
+	<description>Автономная парашютная система безопасности Matrice 600 от Parazero.
+Совместимость со всеми моделями M600 от DJI, включая D-RTK.
+Обеспечивает безопасность полезной нагрузки, имущества, и людей. Оборудование предназначено для выполнения полетов BVLOS и выполнения автономных операций.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_1.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_2.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_3.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_4.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_5.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_6.jpg</image>
+	<priceRUAH>84780</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Израиль</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PZPHANTOM</id>
+	<categoryId>2</categoryId>
+	<code>PZPHANTOM</code>
+	<vendor>Parazero</vendor>
+	<name>Парашютная система Parazero SafeAir Phantom</name>
+	<description>Автономная парашютная система безопасности Parazero SafeAir Phantom для модели DJI Phantom 4.
+Обеспечивает безопасность дрона и полезной нагрузки.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_1.png</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_2.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_3.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_4.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_5.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_6.jpg</image>
+	<priceRUAH>14820</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Израиль</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>PZMAVIC</id>
+	<categoryId>2</categoryId>
+	<code>PZMAVIC</code>
+	<vendor>Parazero</vendor>
+	<name>Парашютная система Parazero SafeAir Mavic</name>
+	<description>Парашютная система для DJI Mavic Pro и Mavic 2.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_1.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_2.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_3.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_4.jpg</image>
+<image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_5.jpg</image>
+	<priceRUAH>9900</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Израиль</param>
+	<condition>0</condition>
+	</item>
 </items></price>
