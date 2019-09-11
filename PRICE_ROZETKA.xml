@@ -4012,7 +4012,7 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн.</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.CP.ZM.00000104.01">
 	<url>http://store.drone.ua/product/ronin-s-ref/</url>
 	<price>20175.02</price>
@@ -4216,7 +4216,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн.</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.ZM.00000064.01">
 	<url>http://store.drone.ua/product/osmo-mobile-2/</url>
 	<price>4920</price>
@@ -4361,7 +4361,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн.</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.ZM.00000104.01_2">
 	<url>http://store.drone.ua/product/ronin-s/</url>
 	<price>24720</price>
