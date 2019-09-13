@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+
+  <title>Сравнение текстов онлайн</title>
+  <script src="./TEXT_COPY_files/f.txt"></script><script type="text/javascript" async="" src="./TEXT_COPY_files/analytics.js.Без названия"></script><script src="./TEXT_COPY_files/osd.js.Без названия"></script><script type="text/javascript" language="JavaScript" src="./TEXT_COPY_files/diff_mat.js.Без названия"></script>
+  <script language="JavaScript" type="text/javascript" src="./TEXT_COPY_files/localstoragest.js.Без названия"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="./TEXT_COPY_files/js"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-122165024-3');
+  </script>
+<link rel="preload" href="./TEXT_COPY_files/f(1).txt" as="script"><script type="text/javascript" src="./TEXT_COPY_files/f(1).txt"></script><link rel="preload" href="./TEXT_COPY_files/f(2).txt" as="script"><script type="text/javascript" src="./TEXT_COPY_files/f(2).txt"></script><link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190911/r20190131/show_ads_impl.js" as="script"></head>
+
+<body onload="document.getElementById(&#39;text1&#39;).focus();LSST1();LSST2();">
+<br>
+
+<center></center>
+
+
+
+<script type="text/javascript" language="JavaScript">
+var dmp = new diff_match_patch();
+
+function launch() {
+  if (document.getElementById('rgs').checked) {
+  var replacement1 = document.getElementById('text1').value;
+  var replacement2 = document.getElementById('text2').value;
+  var color1 = document.getElementById('color1').value;
+  var color2 = document.getElementById('color2').value;
+
+  document.forms["general"].reset();
+
+  document.getElementById('text2').innerHTML = replacement2.toLowerCase();
+  document.getElementById('text1').innerHTML = replacement1.toLowerCase();
+  document.getElementById('color1').value = color1;
+  document.getElementById('color2').value = color2;
+  }
+  var text1 = document.getElementById('text1').value;
+  var text2 = document.getElementById('text2').value;
+
+  dmp.Diff_Timeout = parseFloat(document.getElementById('timeout').value);
+  dmp.Diff_EditCost = parseFloat(document.getElementById('editcost').value);
+
+  var ms_start = (new Date()).getTime();
+  var d = dmp.diff_main(text1, text2);
+  var ms_end = (new Date()).getTime();
+
+  if (document.getElementById('semantic').checked) {
+    dmp.diff_cleanupSemantic(d);
+  }
+  if (document.getElementById('efficiency').checked) {
+    dmp.diff_cleanupEfficiency(d);
+  }
+  var ds = dmp.diff_prettyHtml(d);
+  document.getElementById('outputdiv').innerHTML = ds;
+  if (ds.search("#") != -1) {
+    document.getElementById('outputdiv1').innerHTML = '<font color="red"><STRONG>Тексты разные! В текстах присутствуют различающиеся фрагменты.</STRONG></font>';
+  }
+  else {
+    document.getElementById('outputdiv1').innerHTML = '<font color="green"><STRONG>Тексты одинаковые! В текстах отсутствуют различающиеся фрагменты.</STRONG></font>';
+  }
+}
+
+function replacement() {
+  var replacement1 = document.getElementById('text1').value;
+  var replacement2 = document.getElementById('text2').value;
+  var color1 = document.getElementById('color1').value;
+  var color2 = document.getElementById('color2').value;
+
+  document.forms["general"].reset();
+
+  document.getElementById('text2').innerHTML = replacement1;
+  document.getElementById('text1').innerHTML = replacement2;
+  document.getElementById('color1').value = color1;
+  document.getElementById('color2').value = color2;
+}
+
+function erase() {
+  var color1 = document.getElementById('color1').value;
+  var color2 = document.getElementById('color2').value;
+  document.getElementById('text1').innerHTML = "";
+  document.getElementById('text2').innerHTML = "";
+  document.getElementById('color1').value = color1;
+  document.getElementById('color2').value = color2;
+}
+
+function registr()
+{
+  var replacement1 = document.getElementById('text1').value;
+  var replacement2 = document.getElementById('text2').value;
+  var color1 = document.getElementById('color1').value;
+  var color2 = document.getElementById('color2').value;
+
+  document.forms["general"].reset();
+
+  document.getElementById('text2').innerHTML = replacement2.toLowerCase();
+  document.getElementById('text1').innerHTML = replacement1.toLowerCase();
+  document.getElementById('color1').value = color1;
+  document.getElementById('color2').value = color2;
+}
+
+function steret()
+{
+  var color1 = document.getElementById('color1').value;
+  var color2 = document.getElementById('color2').value;
+  document.getElementById('text1').innerHTML = "";
+  document.getElementById('text2').innerHTML = "";
+  document.forms["general"].reset();
+  document.getElementById('color1').value = color1;
+  document.getElementById('color2').value = color2;
+  document.getElementById('text1').focus();
+}
+
+</script>
+<input name="rgs" id="rgs" type="checkbox" value="rus" onclick="registr();">Заглавные/строчные не важны&nbsp;<strong>|</strong>&nbsp;<input type="button" value="Стандартный цвет текста" onclick="LSST_clear();"><br>
+<form name="general">
+<table width="100%"><tbody><tr>
+  <td width="50%">
+<h3>Первый текст <input id="color1" value="" type="color" onchange="LSST_create_write1();">:</h3>
+<textarea id="text1" style="width: 100%" rows="10"></textarea></td>
+  <td width="50%">
+<h3>Второй текст <input id="color2" value="" type="color" onchange="LSST_create_write2();">:</h3>
+<textarea id="text2" style="width: 100%" rows="10"></textarea></td>
+</tr></tbody></table>
+<center>
+<table width="100%"><tbody><tr>
+  <td width="50%" align="center">
+<button name="button1" type="BUTTON" onclick="replacement();" style="WIDTH: 500px; HEIGHT: 40px"><strong>Поменять текст местами</strong></button>
+</td><td width="50%" align="center">
+<button name="buttom2" type="button" onclick="steret();" style="WIDTH: 500px; HEIGHT: 40px"><strong>Стереть</strong></button></td>
+</tr></tbody></table>
+</center>
+Время остановки сравнения:&nbsp;&nbsp;&nbsp;<input type="text" size="3" maxlength="5" value="3" id="timeout" title="Если сравнение занимает больше времени чем данное значение, то сравнение прерывается и выводится результат, который успел вычислиться. Необходимо иметь ввиду, что он будет корректным, но не оптимальным. Значение &#39;0&#39; позволяет задать неограниченное время сравнения.">&nbsp;секунд(ы)<br><br>
+Настройка результата отображения сравнения:
+<dl>
+<dt><input type="radio" name="cleanup" id="semantic" checked="" title="Увеличение визуального восприятия за счет сложения случайных знаков.">
+<label for="semantic">Семантическая очистка</label></dt>
+<dt><input type="radio" name="cleanup" id="efficiency" title="Увеличение вычислительной эффективности за счет сложения коротких знаков. Чем больше значение &#39;значение редактирования&#39;, тем более заметная очистка.">
+<label for="efficiency">Эффективная очистка</label>,
+значение редактирования (количество знаков суммирования): <input type="text" size="3" maxlength="5" value="4" id="editcost" title="Увеличение вычислительной эффективности за счет сложения коротких знаков. Чем больше значение &#39;значение редактирования&#39;, тем более заметная очистка.">
+</dt><dt><input type="radio" name="cleanup" id="raw" title="Вывод по умолчанию.">
+<label for="raw">Без очистки</label></dt>
+</dl>
+<center><button type="button" onclick="launch()" style="WIDTH: 700px; HEIGHT: 40px"><strong>Сравнить</strong></button></center>
+</form>
+
+<br><div id="outputdiv1"></div>
+<br><strong>Результат сравнения:</strong><br>
+==================================================<br>
+<div id="outputdiv"></div>
+<br>==================================================<br>
+
+
+
+<iframe id="google_osd_static_frame_7951576221969" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./TEXT_COPY_files/saved_resource.html"></iframe><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;" src="./TEXT_COPY_files/saved_resource(1).html"></iframe></ins></ins></ins></body><iframe id="google_shimpl" style="display: none;" src="./TEXT_COPY_files/saved_resource(2).html"></iframe><iframe id="google_esf" name="google_esf" src="./TEXT_COPY_files/zrt_lookup.html" data-ad-client="ca-pub-9244802593322113" style="display: none;"></iframe></html>

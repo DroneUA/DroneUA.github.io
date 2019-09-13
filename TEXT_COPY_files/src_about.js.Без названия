@@ -1,0 +1,4 @@
+document.write("Если необходимо добавить какие-либо функции - пишите на num2word@num2word.ru.<br>");
+document.write("<a href='http://num2word.blogspot.com/'>Блог проекта</a> | ");
+document.write("<a href='http://num2word.ru/about.html'>О сайте</a> | ");
+document.write("<a href='http://num2word.ru/limits.html'>Ограничение ответственности</a><br>");
