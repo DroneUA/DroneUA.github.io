@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-09-10 18:47</date>	
+<date>2019-09-24 16:28</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -162,7 +162,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_6.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_7.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_8.png</image>
-	<priceRUAH>18330</priceRUAH>
+	<priceRUAH>188965</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -267,7 +267,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_4.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_6.jpg</image>
-	<priceRUAH>39990</priceRUAH>
+	<priceRUAH>44160</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -613,6 +613,414 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.RN.00000040.01</id>
+	<categoryId>7</categoryId>
+	<code>CP.RN.00000040.01</code>
+	<vendor>DJI</vendor>
+	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
+	<description>С легким дизайном и превосходной стабилизацией, Ronin-SC Pro Combo представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_4.jpg</image>
+	<priceRUAH>11850</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.RN.00000043.01</id>
+	<categoryId>7</categoryId>
+	<code>CP.RN.00000043.01</code>
+	<vendor>DJI</vendor>
+	<name>Стедикам DJI Ronin-SC Pro Combo (CP.RN.00000043.01)</name>
+	<description>С легким дизайном и превосходной стабилизацией, Ronin-SC Pro Combo представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_4.jpg</image>
+	<priceRUAH>15150</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.OS.00000022.01</id>
+	<categoryId>7</categoryId>
+	<code>CP.OS.00000022.01</code>
+	<vendor>DJI</vendor>
+	<name>Стедикам DJI Osmo Mobile 3 (CP.OS.00000022.01)</name>
+	<description>Монопод-стабилизатор для смартфонов</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_5.jpg</image>
+	<priceRUAH>3600</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.OS.00000040.01</id>
+	<categoryId>7</categoryId>
+	<code>CP.OS.00000040.01</code>
+	<vendor>DJI</vendor>
+	<name>Стедикам DJI Osmo Mobile 3 Combo (CP.OS.00000040.01)</name>
+	<description>Монопод-стабилизатор для смартфонов</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_5.jpg</image>
+	<priceRUAH>4260</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.TR.00000006.01</id>
+	<categoryId>8</categoryId>
+	<code>CP.TR.00000006.01</code>
+	<vendor>DJI</vendor>
+	<name>Очки DJI FPV Experience Combo (CP.TR.00000006.01)</name>
+	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_6.jpg</image>
+	<priceRUAH>29010</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.TR.00000006.02</id>
+	<categoryId>8</categoryId>
+	<code>CP.TR.00000006.02</code>
+	<vendor>DJI</vendor>
+	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.02)</name>
+	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_6.jpg</image>
+	<priceRUAH>32970</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.TR.00000006.03</id>
+	<categoryId>8</categoryId>
+	<code>CP.TR.00000006.03</code>
+	<vendor>DJI</vendor>
+	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.03)</name>
+	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_6.jpg</image>
+	<priceRUAH>32970</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.OS.00000020.01</id>
+	<categoryId>9</categoryId>
+	<code>CP.OS.00000020.01</code>
+	<vendor>DJI</vendor>
+	<name>Экшн-камера DJI Osmo Action (CP.OS.00000020.01)</name>
+	<description>Прочная и высокотехнологичная экшен-камера невероятно проста в использовании: сфокусируйтесь на действии, о съемке позаботится Osmo Action!</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_6.jpg</image>
+	<priceRUAH>12510</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>MSPARROTSEQ</id>
+	<categoryId>8</categoryId>
+	<code>MSPARROTSEQ</code>
+	<vendor>Parrot</vendor>
+	<name>Мультиспектральная камера Parrot Sequoia+ (MSPARROTSEQ)</name>
+	<description>Мультиспектральная камера Sequoia+ — это инструмент для сельскохозяйственных полей. Локальное определение проблемы для точечного решения позволяет сократить использование удобрений и пестицидов, повышая урожайность.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/SEQUOIA+_2.jpg</image>
+	<priceRUAH>126720</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Франция</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>D.UA.PD1900</id>
+	<categoryId>1</categoryId>
+	<code>D.UA.PD1900</code>
+	<vendor>DroneUA</vendor>
+	<name>Дрон DroneUA PD1900 (D.UA.PD1900)</name>
+	<description>PD1900 — это дрон самолетного типа производства DroneUA, это решение всё в одном для получения данных аэрофотосъемки высокого разрешения. Самолетная платформа обладает существенной прочностью и характеристиками покрытия, за 100 минут полетного времени способна покрыть до 1500 Га площади.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/PD1900_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/PD1900_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/PD1900_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/PD1900_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/PD1900_5.jpg</image>
+	<priceRUAH>80170</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Украина</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.BX.000237</id>
+	<categoryId>8</categoryId>
+	<code>CP.BX.000237</code>
+	<vendor>DJI</vendor>
+	<name>Пульт управления DJI Cendence (CP.BX.000237)</name>
+	<description>Cendence оборудован модулями и компонентами, помогающими полностью раскрыть потенциал Inspire 2.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_6.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_7.jpg</image>
+	<priceRUAH>37920</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.MA.00000080.01</id>
+	<categoryId>8</categoryId>
+	<code>CP.MA.00000080.01</code>
+	<vendor>DJI</vendor>
+	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
+	<description>Пульт DJI Smart Controller разработан для управления Mavic 2 и другими дронами, работающими на OcuSync 2.01. Встроенный 5,5-дюймовый дисплей обеспечивает качественное и яркое изображение даже при ярком свете.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_6.jpg</image>
+	<priceRUAH>21420</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.PT.000649</id>
+	<categoryId>8</categoryId>
+	<code>CP.PT.000649</code>
+	<vendor>DJI</vendor>
+	<name>Пульт управления DJI для Mavic Pro (CP.PT.000649)</name>
+	<description>DJI Mavic Remote Controller - пульт дистанционного управления предназначен для управления DJI Mavic и подвесом дрона.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_4.jpg</image>
+	<priceRUAH>11850</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.PT.000792</id>
+	<categoryId>8</categoryId>
+	<code>CP.PT.000792</code>
+	<vendor>DJI</vendor>
+	<name>Пульт управления DJI для Spark (CP.PT.000792)</name>
+	<description>Пульт дистанционного управления с новой системой передачи Wi-Fi сигнала, способный управлять дроном и подвесом камеры при максимальной дальности передачи до 2 км (в режиме FCC).</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_5.jpg</image>
+	<priceRUAH>5580</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.PT.00000220.02</id>
+	<categoryId>8</categoryId>
+	<code>CP.PT.00000220.02</code>
+	<vendor>DJI</vendor>
+	<name>Пульт управления GameSir T1d для Ryze Tello (CP.PT.00000220.02)</name>
+	<description>Этот контроллер может мгновенно превратить ваш смартфон в контроллер беспилотника, разработанный для обеспечения легкого ощущения, бесперебойной работы и удобной работы. С двумя высокоточными 3D-джойстиками контроллер может ориентировать ваш самолет в любом месте, делая возможным более сложные маневры. Контроллер имеет высокоскоростное соединение с режимом подключения GameSir, поэтому вы можете сразу же начать полет.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_6.jpg</image>
+	<priceRUAH>1120</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.BX.000178.02</id>
+	<categoryId>8</categoryId>
+	<code>CP.BX.000178.02</code>
+	<vendor>DJI</vendor>
+	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
+	<description>Пульт управления для DJI Inspire 2. Последнее обновление технологии DJI Lightbridge имеет эффективное расстояние передачи до 4.6 миль (7 км) и способно передавать видео 1080p / 720p, а также FPV на пилот и камеру.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_3.jpg</image>
+	<priceRUAH>20760</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>AGRASMG1PKIT</id>
+	<categoryId>2</categoryId>
+	<code>AGRASMG1PKIT</code>
+	<vendor>DJI</vendor>
+	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
+	<description>Интеллектуальная батарея DJI MG-12000P подходит для моделей дронов DJI Agras MG-1P и DJI MG-1S. Емкость: 12 000 мА*ч</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</image>
+	<priceRUAH>23760</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>DJIMG1SHUB</id>
+	<categoryId>8</categoryId>
+	<code>DJIMG1SHUB</code>
+	<vendor>DJI</vendor>
+	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
+	<description>Зарядная станция для зарядки интеллектуальных батарей, устанавливаемых в дроны DJI Agras 1S и DJI Agras 1P. Особенности: 6 разъемов для подключений.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</image>
+	<priceRUAH>39570</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>DJIMG1CH</id>
+	<categoryId>8</categoryId>
+	<code>DJIMG1CH</code>
+	<vendor>DJI</vendor>
+	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
+	<description>Зарядная станция для зарядки интеллектуальной батареи, устанавливаемой в дрон DJI Agras 1S.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_2.jpg</image>
+	<priceRUAH>35640</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>DJIAGR1P</id>
+	<categoryId>1</categoryId>
+	<code>DJIAGR1P</code>
+	<vendor>DJI</vendor>
+	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
+	<description>Этот дрон-опрыскиватель предназначен для внесения средств защиты на полях со сложным рельефом или большим количеством препятствий. Дроны данной серии способны объединяться в стаи для быстрой работы на полях.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_3.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_4.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_5.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_6.jpg</image>
+	<priceRUAH>395970</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>CP.TP.00000008.01</id>
+	<categoryId>1</categoryId>
+	<code>CP.TP.00000008.01</code>
+	<vendor>DJI</vendor>
+	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
+	<description>Этот дрон-опрыскиватель предназначен для внесения средств защиты на полях с преимущественно ровным рельефом.</description>
+	<url></url>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_2.jpg</image>
+<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_3.jpg</image>
+	<priceRUAH>258620</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 </items></price>
