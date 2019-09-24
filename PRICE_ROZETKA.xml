@@ -5978,7 +5978,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.07">
 	<url>http://store.drone.ua/product/mambo-fpv/</url>
 	<price>6260</price>
@@ -6013,7 +6013,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.11">
 	<url>http://store.drone.ua/product/bebop-2-fpv/</url>
 	<price>20970</price>
@@ -6046,7 +6046,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.14">
 	<url>http://store.drone.ua/product/bebop-2-power-fpv-pack/</url>
 	<price>23070</price>
@@ -6079,7 +6079,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.18">
 	<url>http://store.drone.ua/product/disco-pro-ag/</url>
 	<price>188965</price>
@@ -6113,7 +6113,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.19">
 	<url>http://store.drone.ua/product/parrot_skycontroller3/</url>
 	<price>6570</price>
@@ -6146,7 +6146,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.20">
 	<url>http://store.drone.ua/product/anafi_smart_battery/</url>
 	<price>3300</price>
@@ -6178,7 +6178,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.21">
 	<url>http://store.drone.ua/product/anafi_travel_bag/</url>
 	<price>2610</price>
@@ -6213,7 +6213,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.22">
 	<url>http://store.drone.ua/product/parrot_skycontroller_3_tablet_holder/</url>
 	<price>1290</price>
@@ -6245,7 +6245,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.23">
 	<url>http://store.drone.ua/product/anafi_foldable_propellers/</url>
 	<price>660</price>
