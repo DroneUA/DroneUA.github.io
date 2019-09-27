@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-09-23 15:54">	
+<yml_catalog date="2019-09-27 15:25">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -803,7 +803,7 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 	<price>59370</price>
@@ -3132,7 +3132,7 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000077.01">
 	<url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 	<price>3270</price>
@@ -3199,7 +3199,7 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.000601">
 	<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 	<price>6240</price>
@@ -4392,7 +4392,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PZM200">
 	<url>http://store.drone.ua/product/parazero-safeair-m-200/</url>
 	<price>84780</price>
@@ -4476,7 +4476,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PZM600">
 	<url>http://store.drone.ua/product/parazero-safeair-m-600/</url>
 	<price>84780</price>
