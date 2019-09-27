@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-09-24 14:17">	
+<price date="2019-09-27 12:14">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -1348,7 +1348,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000242.01</vendorCode> 
 	</item>
-	<item id="CP.PT.00000232.01" available="true">
+	<item id="CP.PT.00000232.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0</name>
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 	<price>59370</price>
@@ -3232,7 +3232,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.00000194.01</vendorCode> 
 	</item>
-	<item id="CP.PT.00000077.01" available="false">
+	<item id="CP.PT.00000077.01" available="true">
 	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh</name>
 	<url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 	<price>3270</price>
@@ -3263,7 +3263,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.000587</vendorCode> 
 	</item>
-	<item id="CP.PT.000601" available="false">
+	<item id="CP.PT.000601" available="true">
 	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh</name>
 	<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 	<price>6240</price>
@@ -3288,7 +3288,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.00000213.01</vendorCode> 
 	</item>
-	<item id="PZM200" available="true">
+	<item id="PZM200" available="false">
 	<name>Парашютная система Parazero SafeAir M-200</name>
 	<url>http://store.drone.ua/product/parazero-safeair-m-200/</url>
 	<price>84780</price>
@@ -3354,7 +3354,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>парашют, парашют для дрона, парашют для дронов, парашют для квадрокоптера, парашют для квадрокоптеров, безопасность, дрон</keywords>
 	<vendorCode>PZM200</vendorCode> 
 	</item>
-	<item id="PZM600" available="true">
+	<item id="PZM600" available="false">
 	<name>Парашютная система Parazero SafeAir M-600</name>
 	<url>http://store.drone.ua/product/parazero-safeair-m-600/</url>
 	<price>84780</price>
@@ -3921,7 +3921,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера, видеокамера, фотокамера, action</keywords>
 	<vendorCode>CP.OS.00000020.01</vendorCode> 
 	</item>
-	<item id="MSPARROTSEQ" available="true">
+	<item id="MSPARROTSEQ" available="false">
 	<name>Мультиспектральная камера Parrot Sequoia+ (MSPARROTSEQ)</name>
 	<url>http://store.drone.ua/product/parrot-sequoia-plus/</url>
 	<price>126720</price>
@@ -3980,7 +3980,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, самолетного типа, самолет, самолёт</keywords>
 	<vendorCode>D.UA.PD1900</vendorCode> 
 	</item>
-	<item id="CP.BX.000237" available="true">
+	<item id="CP.BX.000237" available="false">
 	<name>Пульт управления DJI Cendence (CP.BX.000237)</name>
 	<url>http://store.drone.ua/product/cendence-remote-controller/</url>
 	<price>37920</price>
@@ -4145,7 +4145,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
 	<vendorCode>CP.BX.000178.02</vendorCode> 
 	</item>
-	<item id="AGRASMG1PKIT" available="true">
+	<item id="AGRASMG1PKIT" available="false">
 	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
 	<url>http://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
 	<price>23760</price>
@@ -4158,7 +4158,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>AGRASMG1PKIT</vendorCode> 
 	</item>
-	<item id="DJIMG1SHUB" available="true">
+	<item id="DJIMG1SHUB" available="false">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<url>http://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
 	<price>39570</price>
@@ -4174,7 +4174,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger</keywords>
 	<vendorCode>DJIMG1SHUB</vendorCode> 
 	</item>
-	<item id="DJIMG1CH" available="true">
+	<item id="DJIMG1CH" available="false">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<url>http://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
 	<price>35640</price>
@@ -4187,7 +4187,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger</keywords>
 	<vendorCode>DJIMG1CH</vendorCode> 
 	</item>
-	<item id="DJIAGR1P" available="true">
+	<item id="DJIAGR1P" available="false">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>http://store.drone.ua/product/agras-mg-1p/</url>
 	<price>395970</price>
@@ -4219,7 +4219,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, гексакоптер</keywords>
 	<vendorCode>DJIAGR1P</vendorCode> 
 	</item>
-	<item id="CP.TP.00000008.01" available="true">
+	<item id="CP.TP.00000008.01" available="false">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<url>http://store.drone.ua/product/agras-mg-1s/</url>
 	<price>258620</price>
@@ -4266,7 +4266,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.02</vendorCode> 
 	</item>
-	<item id="PA.ST.03" available="true">
+	<item id="PA.ST.03" available="false">
 	<name>Квадрокоптер Parrot Anafi Work (PA.ST.03)</name>
 	<url>http://store.drone.ua/product/anafi-work/</url>
 	<price>39560</price>
@@ -4279,7 +4279,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.03</vendorCode> 
 	</item>
-	<item id="PA.ST.04" available="true">
+	<item id="PA.ST.04" available="false">
 	<name>Квадрокоптер Parrot Anafi Extended (PA.ST.04)</name>
 	<url>http://store.drone.ua/product/anafi-extended/</url>
 	<price>29670</price>
@@ -4296,7 +4296,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.04</vendorCode> 
 	</item>
-	<item id="PA.ST.05" available="true">
+	<item id="PA.ST.05" available="false">
 	<name>Квадрокоптер Parrot Anafi (PA.ST.05)</name>
 	<url>http://store.drone.ua/product/anafi/</url>
 	<price>23070</price>
