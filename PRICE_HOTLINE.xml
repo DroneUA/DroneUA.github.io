@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-09-27 13:07</date>	
+<date>2019-09-27 13:15</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -269,12 +269,12 @@
 	</item>
 	<item>
 	<id>CP.MA.00000037.01</id>
-	<categoryId>1</categoryId>
+	<categoryId>2</categoryId>
 	<code>CP.MA.00000037.01</code>
 	<vendor>DJI</vendor>
 	<name>Комплект аксессуаров DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
 	<description>Расширенный набор для Mavic 2 состоящий из: Intelligent Flight Batteries ? 2, Mavic 2 Car Charger ? 1, Battery Charging Hub ? 1, Battery to Power Bank Adapter ? 1, Low-Noise Propellers ? 2 Pairs, Mavic 2 Shoulder Bag ? 1.</description>
-	<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000037.01/</url>
+	<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.MA.00000037.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</image>
 	<priceRUAH>12510</priceRUAH>
 	<stock>В наличии</stock>
