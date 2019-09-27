@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-09-23 19:24</date>	
+<date>2019-09-27 13:07</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -21,7 +21,7 @@
 	<url>http://store.drone.ua/product/mavic-air-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000132.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Black.jpg</image>
 	<priceRUAH>24390</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -37,7 +37,7 @@
 	<url>http://store.drone.ua/product/mavic-air/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000141.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_White.jpg</image>
 	<priceRUAH>24390</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -53,7 +53,7 @@
 	<url>http://store.drone.ua/product/mavic-air-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000148.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Red.jpg</image>
 	<priceRUAH>24390</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -69,7 +69,7 @@
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000159.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
 	<priceRUAH>30990</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -85,7 +85,7 @@
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000168.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
 	<priceRUAH>30990</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -101,7 +101,7 @@
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000169.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
 	<priceRUAH>30990</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -117,7 +117,7 @@
 	<url>http://store.drone.ua/product/mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000075.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
 	<priceRUAH>36270</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -149,7 +149,7 @@
 	<url>http://store.drone.ua/product/ronin-s/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.ZM.00000104.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
 	<priceRUAH>24720</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -165,7 +165,7 @@
 	<url>http://store.drone.ua/product/osmo-mobile-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=monopody-dlya-selfi-selfie-stickutm_content=CP.ZM.00000064.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Mobile_2.jpg</image>
 	<priceRUAH>4920</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -197,7 +197,7 @@
 	<url>http://store.drone.ua/product/goggles-racing-edition/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.VL.00000014.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</image>
 	<priceRUAH>19770</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -229,7 +229,7 @@
 	<url>http://store.drone.ua/product/spark-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000889/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</image>
 	<priceRUAH>21420</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -245,7 +245,7 @@
 	<url>http://store.drone.ua/product/mavic-2-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000013.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Pro.jpg</image>
 	<priceRUAH>47820</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -261,7 +261,7 @@
 	<url>http://store.drone.ua/product/mavic-2-zoom/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000014.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Zoom.jpg</image>
 	<priceRUAH>39990</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -293,7 +293,7 @@
 	<url>http://store.drone.ua/product/mavic-air-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000132.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Black.jpg</image>
 	<priceRUAH>17651</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -309,7 +309,7 @@
 	<url>http://store.drone.ua/product/mavic-air-ref-white/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000141.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_White.jpg</image>
 	<priceRUAH>17949</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -325,7 +325,7 @@
 	<url>http://store.drone.ua/product/mavic-air-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000148.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Red.jpg</image>
 	<priceRUAH>17489</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -341,7 +341,7 @@
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000159.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
 	<priceRUAH>23799</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -357,7 +357,7 @@
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000168.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
 	<priceRUAH>23799</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -373,7 +373,7 @@
 	<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000169.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
 	<priceRUAH>23799</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -389,7 +389,7 @@
 	<url>http://store.drone.ua/product/mavic-pro-platinum-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000075.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
 	<priceRUAH>23806</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -405,7 +405,7 @@
 	<url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000065.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
 	<priceRUAH>29698</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -421,7 +421,7 @@
 	<url>http://store.drone.ua/product/ronin-s-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.ZM.00000104.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
 	<priceRUAH>17854</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -437,7 +437,7 @@
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000242.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</image>
 	<priceRUAH>49470</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -453,7 +453,7 @@
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000232.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</image>
 	<priceRUAH>59370</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -501,7 +501,7 @@
 	<url>http://store.drone.ua/product/dji-tello-iron-man-edition/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.TL.00000002.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</image>
 	<priceRUAH>4590</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -533,7 +533,7 @@
 	<url>http://store.drone.ua/product/insta360-one/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-planshetovutm_content=ST.IN.000002/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</image>
 	<priceRUAH>7380</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -549,7 +549,7 @@
 	<url>http://store.drone.ua/product/insta360-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000003/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</image>
 	<priceRUAH>119570</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -565,7 +565,7 @@
 	<url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000004/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</image>
 	<priceRUAH>163770</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -581,7 +581,7 @@
 	<url>http://store.drone.ua/product/insta360-titan/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000005/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</image>
 	<priceRUAH>493970</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -597,7 +597,7 @@
 	<url>http://store.drone.ua/product/insta360-nano-s-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_S/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</image>
 	<priceRUAH>8290</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -613,7 +613,7 @@
 	<url>http://store.drone.ua/product/insta360-nano-s-silver/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=ekshn-kameryutm_content=ST.IN.000006_B/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</image>
 	<priceRUAH>8290</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -645,7 +645,7 @@
 	<url>http://store.drone.ua/product/podvodnyj-dron-gladius/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=ST.CI.00001/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</image>
 	<priceRUAH>67950</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -677,7 +677,7 @@
 	<url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=ST.CI.00102/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</image>
 	<priceRUAH>8220</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee unit="days" type="shop">14</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -693,7 +693,7 @@
 	<url>http://store.drone.ua/product/spark/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000741/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</image>
 	<priceRUAH>16470</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -709,7 +709,7 @@
 	<url>http://store.drone.ua/product/spark-golyboi/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000743/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</image>
 	<priceRUAH>16470</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -725,7 +725,7 @@
 	<url>http://store.drone.ua/product/spark-zelenyj-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000744/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</image>
 	<priceRUAH>16470</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -741,7 +741,7 @@
 	<url>http://store.drone.ua/product/spark-krasnyj/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000745/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</image>
 	<priceRUAH>16470</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -757,7 +757,7 @@
 	<url>http://store.drone.ua/product/spark-zheltyj/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000742/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</image>
 	<priceRUAH>16470</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -773,7 +773,7 @@
 	<url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000194.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</image>
 	<priceRUAH>2610</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -789,7 +789,7 @@
 	<url>http://store.drone.ua/product/accum-mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000077.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</image>
 	<priceRUAH>3270</priceRUAH>
-	<stock>Нет</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -805,7 +805,7 @@
 	<url>http://store.drone.ua/product/batareja-dlja-mavic/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.000587/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</image>
 	<priceRUAH>3270</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -821,7 +821,7 @@
 	<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.PT.000601/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</image>
 	<priceRUAH>6240</priceRUAH>
-	<stock>Нет</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -855,7 +855,7 @@
 	<url>http://store.drone.ua/product/parazero-safeair-m-200/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=PZM200/</url>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-200_1.jpg</image>
 	<priceRUAH>84780</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -873,7 +873,7 @@
 	<url>http://store.drone.ua/product/parazero-safeair-m-600/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=PZM600/</url>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-600_1.jpg</image>
 	<priceRUAH>84780</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -1050,7 +1050,7 @@
 	<url>http://store.drone.ua/product/parrot-sequoia-plus/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=MSPARROTSEQ/</url>
 	<image>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</image>
 	<priceRUAH>126720</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1082,7 +1082,7 @@
 	<url>http://store.drone.ua/product/cendence-remote-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=CP.BX.000237/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</image>
 	<priceRUAH>37920</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1178,7 +1178,7 @@
 	<url>http://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=AGRASMG1PKIT/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</image>
 	<priceRUAH>23760</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1194,7 +1194,7 @@
 	<url>http://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=DJIMG1SHUB/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</image>
 	<priceRUAH>39570</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1210,7 +1210,7 @@
 	<url>http://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=DJIMG1CH/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</image>
 	<priceRUAH>35640</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1226,7 +1226,7 @@
 	<url>http://store.drone.ua/product/agras-mg-1p/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=DJIAGR1P/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</image>
 	<priceRUAH>395970</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1242,7 +1242,7 @@
 	<url>http://store.drone.ua/product/agras-mg-1s/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.TP.00000008.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</image>
 	<priceRUAH>258620</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1278,7 +1278,7 @@
 	<url>http://store.drone.ua/product/anafi-work/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=PA.ST.03/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_1.png</image>
 	<priceRUAH>39560</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1295,7 +1295,7 @@
 	<url>http://store.drone.ua/product/anafi-extended/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=PA.ST.04/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</image>
 	<priceRUAH>29670</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1319,7 +1319,7 @@ Anafi — ультрапортативный беспилотник, компа�
 	<url>http://store.drone.ua/product/anafi/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=PA.ST.05/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</image>
 	<priceRUAH>23070</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1355,7 +1355,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/mambo-fpv/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=PA.ST.07/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_1.png</image>
 	<priceRUAH>6260</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1371,7 +1371,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/bebop-2-fpv/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=PA.ST.11/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_1.png</image>
 	<priceRUAH>20970</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1387,7 +1387,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/bebop-2-power-fpv-pack/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=PA.ST.14/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_1.png</image>
 	<priceRUAH>23070</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1403,7 +1403,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/disco-pro-ag/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=PA.ST.18/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Disco-Pro_AG_1.jpg</image>
 	<priceRUAH>188965</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1421,7 +1421,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/parrot_skycontroller3/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=PA.ST.19/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</image>
 	<priceRUAH>6570</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1439,7 +1439,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/anafi_smart_battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=PA.ST.20/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</image>
 	<priceRUAH>3300</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1457,7 +1457,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/anafi_travel_bag/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=PA.ST.21/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_1.jpg</image>
 	<priceRUAH>2610</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1475,7 +1475,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/parrot_skycontroller_3_tablet_holder/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=PA.ST.22/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</image>
 	<priceRUAH>1290</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1493,7 +1493,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/anafi_foldable_propellers/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=aksessuary-dlya-kvadrokopterovutm_content=PA.ST.23/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</image>
 	<priceRUAH>660</priceRUAH>
-	<stock>Нет</stock>
+	<stock days="28">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
