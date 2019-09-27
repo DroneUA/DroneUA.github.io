@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2019-09-24 11:50">	
+<yml_catalog date="2019-09-27 11:19">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -524,6 +524,348 @@
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_1.jpg</image>
 	<description>Парашютная система для DJI Mavic Pro и Mavic 2.</description>
+	</item>
+	<item id="CP.RN.00000040.01">
+	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
+	<url>http://store.drone.ua/product/dji-ronin-sc/</url>
+	<price>11850</price>
+	<categoryId>2</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</image>
+	<description>С легким дизайном и превосходной стабилизацией, Ronin-SC Pro Combo представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</description>
+	</item>
+	<item id="CP.RN.00000043.01">
+	<name>Стедикам DJI Ronin-SC Pro Combo (CP.RN.00000043.01)</name>
+	<url>http://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
+	<price>15150</price>
+	<categoryId>2</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_1.jpg</image>
+	<description>С легким дизайном и превосходной стабилизацией, Ronin-SC Pro Combo представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</description>
+	</item>
+	<item id="CP.OS.00000022.01">
+	<name>Стедикам DJI Osmo Mobile 3 (CP.OS.00000022.01)</name>
+	<url>http://store.drone.ua/product/osmo-mobile-3/</url>
+	<price>3600</price>
+	<categoryId>2</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</image>
+	<description>Монопод-стабилизатор для смартфонов</description>
+	</item>
+	<item id="CP.OS.00000040.01">
+	<name>Стедикам DJI Osmo Mobile 3 Combo (CP.OS.00000040.01)</name>
+	<url>http://store.drone.ua/product/osmo-mobile-3-combo/</url>
+	<price>4260</price>
+	<categoryId>2</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_1.jpg</image>
+	<description>Монопод-стабилизатор для смартфонов</description>
+	</item>
+	<item id="CP.TR.00000006.01">
+	<name>Очки DJI FPV Experience Combo (CP.TR.00000006.01)</name>
+	<url>http://store.drone.ua/product/dji-fpv-experience-combo/</url>
+	<price>29010</price>
+	<categoryId>3</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_1.jpg</image>
+	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
+	</item>
+	<item id="CP.TR.00000006.02">
+	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.02)</name>
+	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-1/</url>
+	<price>32970</price>
+	<categoryId>3</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</image>
+	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
+	</item>
+	<item id="CP.TR.00000006.03">
+	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.03)</name>
+	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-2/</url>
+	<price>32970</price>
+	<categoryId>3</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</image>
+	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
+	</item>
+	<item id="CP.OS.00000020.01">
+	<name>Экшн-камера DJI Osmo Action (CP.OS.00000020.01)</name>
+	<url>http://store.drone.ua/product/dji-osmo-action/</url>
+	<price>12510</price>
+	<categoryId>4</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_1.jpg</image>
+	<description>Прочная и высокотехнологичная экшен-камера невероятно проста в использовании: сфокусируйтесь на действии, о съемке позаботится Osmo Action!</description>
+	</item>
+	<item id="MSPARROTSEQ">
+	<name>Мультиспектральная камера Parrot Sequoia+ (MSPARROTSEQ)</name>
+	<url>http://store.drone.ua/product/parrot-sequoia-plus/</url>
+	<price>126720</price>
+	<categoryId>7</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</image>
+	<description>Мультиспектральная камера Sequoia+ — это инструмент для сельскохозяйственных полей. Локальное определение проблемы для точечного решения позволяет сократить использование удобрений и пестицидов, повышая урожайность.</description>
+	</item>
+	<item id="D.UA.PD1900">
+	<name>Дрон DroneUA PD1900 (D.UA.PD1900)</name>
+	<url>http://store.drone.ua/product/pd1900/</url>
+	<price>80170</price>
+	<categoryId>1</categoryId>
+	<vendor>DroneUA</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/PD1900_1.jpg</image>
+	<description>PD1900 — это дрон самолетного типа производства DroneUA, это решение всё в одном для получения данных аэрофотосъемки высокого разрешения. Самолетная платформа обладает существенной прочностью и характеристиками покрытия, за 100 минут полетного времени способна покрыть до 1500 Га площади.</description>
+	</item>
+	<item id="CP.BX.000237">
+	<name>Пульт управления DJI Cendence (CP.BX.000237)</name>
+	<url>http://store.drone.ua/product/cendence-remote-controller/</url>
+	<price>37920</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</image>
+	<description>Cendence оборудован модулями и компонентами, помогающими полностью раскрыть потенциал Inspire 2.</description>
+	</item>
+	<item id="CP.MA.00000080.01">
+	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
+	<url>http://store.drone.ua/product/pult-dji-smart-controller/</url>
+	<price>21420</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</image>
+	<description>Пульт DJI Smart Controller разработан для управления Mavic 2 и другими дронами, работающими на OcuSync 2.01. Встроенный 5,5-дюймовый дисплей обеспечивает качественное и яркое изображение даже при ярком свете.</description>
+	</item>
+	<item id="CP.PT.000649">
+	<name>Пульт управления DJI для Mavic Pro (CP.PT.000649)</name>
+	<url>http://store.drone.ua/product/kontroller-mavic/</url>
+	<price>11850</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_1.jpg</image>
+	<description>DJI Mavic Remote Controller - пульт дистанционного управления предназначен для управления DJI Mavic и подвесом дрона.</description>
+	</item>
+	<item id="CP.PT.000792">
+	<name>Пульт управления DJI для Spark (CP.PT.000792)</name>
+	<url>http://store.drone.ua/product/spark-remote-controller/</url>
+	<price>5580</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_1.jpg</image>
+	<description>Пульт дистанционного управления с новой системой передачи Wi-Fi сигнала, способный управлять дроном и подвесом камеры при максимальной дальности передачи до 2 км (в режиме FCC).</description>
+	</item>
+	<item id="CP.PT.00000220.02">
+	<name>Пульт управления GameSir T1d для Ryze Tello (CP.PT.00000220.02)</name>
+	<url>http://store.drone.ua/product/pult-upravlenija-gamesir-t1d/</url>
+	<price>1120</price>
+	<categoryId>7</categoryId>
+	<vendor>GameSir</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_1.jpg</image>
+	<description>Этот контроллер может мгновенно превратить ваш смартфон в контроллер беспилотника, разработанный для обеспечения легкого ощущения, бесперебойной работы и удобной работы. С двумя высокоточными 3D-джойстиками контроллер может ориентировать ваш самолет в любом месте, делая возможным более сложные маневры. Контроллер имеет высокоскоростное соединение с режимом подключения GameSir, поэтому вы можете сразу же начать полет.</description>
+	</item>
+	<item id="CP.BX.000178.02">
+	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
+	<url>http://store.drone.ua/product/kontroller-inspire-2/</url>
+	<price>20760</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</image>
+	<description>Пульт управления для DJI Inspire 2. Последнее обновление технологии DJI Lightbridge имеет эффективное расстояние передачи до 4.6 миль (7 км) и способно передавать видео 1080p / 720p, а также FPV на пилот и камеру.</description>
+	</item>
+	<item id="AGRASMG1PKIT">
+	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
+	<url>http://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
+	<price>23760</price>
+	<categoryId>5</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</image>
+	<description>Интеллектуальная батарея DJI MG-12000P подходит для моделей дронов DJI Agras MG-1P и DJI MG-1S. Емкость: 12 000 мА*ч</description>
+	</item>
+	<item id="DJIMG1SHUB">
+	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
+	<url>http://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
+	<price>39570</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</image>
+	<description>Зарядная станция для зарядки интеллектуальных батарей, устанавливаемых в дроны DJI Agras 1S и DJI Agras 1P. Особенности: 6 разъемов для подключений.</description>
+	</item>
+	<item id="DJIMG1CH">
+	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
+	<url>http://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
+	<price>35640</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</image>
+	<description>Зарядная станция для зарядки интеллектуальной батареи, устанавливаемой в дрон DJI Agras 1S.</description>
+	</item>
+	<item id="DJIAGR1P">
+	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
+	<url>http://store.drone.ua/product/agras-mg-1p/</url>
+	<price>395970</price>
+	<categoryId>1</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</image>
+	<description>Этот дрон-опрыскиватель предназначен для внесения средств защиты на полях со сложным рельефом или большим количеством препятствий. Дроны данной серии способны объединяться в стаи для быстрой работы на полях.</description>
+	</item>
+	<item id="CP.TP.00000008.01">
+	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
+	<url>http://store.drone.ua/product/agras-mg-1s/</url>
+	<price>258620</price>
+	<categoryId>1</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</image>
+	<description>Этот дрон-опрыскиватель предназначен для внесения средств защиты на полях с преимущественно ровным рельефом.</description>
+	</item>
+	<item id="PA.ST.02">
+	<name>Квадрокоптер Parrot Anafi Thermal (PA.ST.02)</name>
+	<url>http://store.drone.ua/product/anafi-thermal/</url>
+	<price>39560</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_1.png</image>
+	<description>ANAFI Thermal позволит проводить съемку как обычной камерой, так и тепловизором, что позволит рассмотреть утечки тепла в конструкциях и любых других объектах.
+
+2 камеры ANAFI Thermal drone фиксируют как невидимое, так и видимое. Изображения видимого и невидимого объединяются непосредственно в приложении FreeFlight 6, чтобы раскрыть все, что Вы никогда не видели в таких деталях.
+
+Вы можете снимать показания температуры и измерять температуру конкретной точки, наблюдать тепловые потери в здании, идентифицировать или контролировать объекты.</description>
+	</item>
+	<item id="PA.ST.03">
+	<name>Квадрокоптер Parrot Anafi Work (PA.ST.03)</name>
+	<url>http://store.drone.ua/product/anafi-work/</url>
+	<price>39560</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_1.png</image>
+	<description>Летающая 4K HDR камера, которую вы можете взять с собой повсюду.</description>
+	</item>
+	<item id="PA.ST.04">
+	<name>Квадрокоптер Parrot Anafi Extended (PA.ST.04)</name>
+	<url>http://store.drone.ua/product/anafi-extended/</url>
+	<price>29670</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</image>
+	<description>Расширенная версия Anafi Extended
+</description>
+	</item>
+	<item id="PA.ST.05">
+	<name>Квадрокоптер Parrot Anafi (PA.ST.05)</name>
+	<url>http://store.drone.ua/product/anafi/</url>
+	<price>23070</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</image>
+	<description>Anafi имеет встроенную камеру, которая снимает потрясающие 4K HDR-видео со скоростью 100 Мбит/с и резкие 21-мегапиксельные фотографии. 4K Cinema обеспечивает профессиональное качество видео, поскольку оно записывается в формате 17: 9. HDR улучшает все видимые детали, уменьшая чрезмерно яркие огни и очень темные тени в кадре. Камера ANAFI оснащена широкоугольным асферическим объективом. Оптика объектива была спроектирована таким образом, чтобы уменьшить объектив и хроматические аберрации.
+
+Anafi сочетает в себе интегрированный механический карданный шарнир со сверхточной цифровой стабилизацией для невероятных снимков. Система стабилизации обеспечивает очень ровное видео и четкие фотографии, уменьшая вибрации.
+
+Высокотехнологичный подвес камеры может поворачиваться на 180 ° по вертикали, он идеально подходит для новых ракурсов съемки: наклоняйте камеру от -90 ° до + 90 ° по вертикали, не жертвуя качеством. Эта беспрецедентная особенность — новинка для дронов любительской линейки, дающая множество новых возможностей для съемок.
+
+Anafi — ультрапортативный беспилотник, компактный и легкий, и его можно перевозить повсюду. Сумка для переноски, входящая в комплект, защищает дрон во время транспортировки. После выхода из переносного режима, ANAFI разворачивается менее чем за 3 секунды. Углеродные волокна, из которых состоит материал для этого дрона, наполняются пустыми стеклянными микрошариками, которые заполнены воздухом, и стойкие к ударам. Благодаря этому новаторскому материалу дрон весит всего 320 г.
+
+В Anafi реализована система зарядки USB Type-C: заряжать его можно, подключив к смартфону или компьютеру. Дрон совместим с зарядными устройствами Power Delivery, которые заряжают до 60% быстрее, чем обычные 5W USB-A. Беспилотник оснащен мощным двигателем и может летать и снимать в течение 25 минут.</description>
+	</item>
+	<item id="PA.ST.06">
+	<name>Квадрокоптер Parrot Bluegrass Fields (PA.ST.06)</name>
+	<url>http://store.drone.ua/product/bluegrass/</url>
+	<price>177810</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_1.jpg</image>
+	<description>Parrot Bluegrass — многоцелевой квадрокоптер, предназначенный для сельского хозяйства. Он помогает фермерам повысить рентабельность инвестиций, используя 2 встроенных камеры, видеокамеры и мультиспектральный датчик Parrot Sequoia.
+
+С его фронтальной камерой Full HD, он может проводить визуальный мониторинг земли, стада или инфраструктуры. Он также обеспечивает быстрый и легкий анализ состояния культур, благодаря удобному программному обеспечению для обработки, AIRINOV FIRST +.
+
+Parrot Bluegrass легко транспортируется благодаря съемным пропеллерам, его легко настроить, управлять им, обрабатывать данные и ремонтировать.</description>
+	</item>
+	<item id="PA.ST.07">
+	<name>Квадрокоптер Parrot Mambo FPV (PA.ST.07)</name>
+	<url>http://store.drone.ua/product/mambo-fpv/</url>
+	<price>0</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_1.png</image>
+	<description>Полностью погрузитесь в полет с Parrot Mambo. Используйте аксессуары: можно подключить камеру FPV к мини-радиоприемнику с использованием технологии Smart Block для записи и передачи контента в формате HD. Или оденьте ВР-гарнитуру Cockpitglasses, чтобы получить максимальные впечатления от вашего беспилотного летательного аппарата и познать новые ощущения скорости.</description>
+	</item>
+	<item id="PA.ST.11">
+	<name>Квадрокоптер Parrot Bebop 2 FPV (PA.ST.11)</name>
+	<url>http://store.drone.ua/product/bebop-2-fpv/</url>
+	<price>0</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_1.png</image>
+	<description>Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.</description>
+	</item>
+	<item id="PA.ST.14">
+	<name>Квадрокоптер Parrot Bebop 2 Power - Pack FPV (PA.ST.14)</name>
+	<url>http://store.drone.ua/product/bebop-2-power-fpv-pack/</url>
+	<price>0</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_1.png</image>
+	<description>Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.</description>
+	</item>
+	<item id="PA.ST.18">
+	<name>Дрон Parrot Disco-Pro AG (PA.ST.18)</name>
+	<url>http://store.drone.ua/product/disco-pro-ag/</url>
+	<price>0</price>
+	<categoryId>1</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Disco-Pro_AG_1.jpg</image>
+	<description>Parrot Disco-Pro AG — это многофункциональное беспилотное решение для фермеров, способное помочь им повысить рентабельность своих угодий. Это комплексное решение позволяет фермерам и мелким сельскохозяйственным кооперативам быстро получить представление о здоровье посевов, благодаря визуальной разведке культур и специализированным картам NDVI.</description>
+	</item>
+	<item id="PA.ST.19">
+	<name>Пульт управления Parrot Skycontroller 3 (PA.ST.19)</name>
+	<url>http://store.drone.ua/product/parrot_skycontroller3/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</image>
+	<description>Parrot Skycontroller 3 был специально разработан для обеспечения эргономичного взаимодействия с дронами ANAFI. Управляйте своим беспилотником легко и безопасно с помощью Parrot Skycontroller 3. Его антенны обеспечивают мощную систему передачи до 4 км. После первого сопряжения с Вашим беспилотником он будет автоматически подключаться при каждом включении ANAFI.
+
+Совместим со следующими дронами: ANAFI, ANAFI Thermal, ANAFI Work</description>
+	</item>
+	<item id="PA.ST.20">
+	<name>Интеллектуальная батарея Parrot Anafi Smart battery (PA.ST.20)</name>
+	<url>http://store.drone.ua/product/anafi_smart_battery/</url>
+	<price>0</price>
+	<categoryId>5</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</image>
+	<description>LiPo USB-C аккумулятор, который позволяет дрону летать до 25 минут (26 минут с ANAFI Thermal).
+
+Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work</description>
+	</item>
+	<item id="PA.ST.21">
+	<name>Сумка Parrot для Anafi (PA.ST.21)</name>
+	<url>http://store.drone.ua/product/anafi_travel_bag/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_1.jpg</image>
+	<description>Эта ультракомпактная дорожная сумка, созданная специально для ANAFI, вмещает в себя все необходимые элементы. Сумка легко подходит для ANAFI, Parrot Skycontroller 3, 2 дополнительных интеллектуальных батарей, USB-кабелей типа C и Вашего смартфона. Сумка размером 30 см х 21 см х 11.5 см.
+
+Совместим со следующими дронами: ANAFI и ANAFI Work</description>
+	</item>
+	<item id="PA.ST.22">
+	<name>Держатель планшета Parrot для Skycontroller 3 (PA.ST.22)</name>
+	<url>http://store.drone.ua/product/parrot_skycontroller_3_tablet_holder/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</image>
+	<description>Монтажный кронштейн для планшета до 10 дюймов. Он очень просто фиксируется на пульте дистанционного управления Parrot Skycontroller 3 Вашего беспилотника ANAFI. Вы можете наслаждаться простым просмотром собранных данных.
+
+Совместим с Skycontroller 3</description>
+	</item>
+	<item id="PA.ST.23">
+	<name>Складные пропеллеры Parrot для Anafi (PA.ST.23)</name>
+	<url>http://store.drone.ua/product/anafi_foldable_propellers/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>Parrot</vendor>
+	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</image>
+	<description>Anafi использует четыре складных винта с двумя лопастями, которые укрепляют компактный дизайн дрона. Винт может быть заменен в случае повреждения.
+
+Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work</description>
 	</item>
 </items>	
 </shop>	
