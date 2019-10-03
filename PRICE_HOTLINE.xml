@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-09-27 13:15</date>	
+<date>2019-10-03 11:22</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -293,7 +293,7 @@
 	<url>http://store.drone.ua/product/mavic-air-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000132.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Black.jpg</image>
 	<priceRUAH>17651</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -309,7 +309,7 @@
 	<url>http://store.drone.ua/product/mavic-air-ref-white/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000141.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_White.jpg</image>
 	<priceRUAH>17949</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -325,7 +325,7 @@
 	<url>http://store.drone.ua/product/mavic-air-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000148.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Red.jpg</image>
 	<priceRUAH>17489</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -341,7 +341,7 @@
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000159.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
 	<priceRUAH>23799</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -357,7 +357,7 @@
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000168.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
 	<priceRUAH>23799</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -373,7 +373,7 @@
 	<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000169.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
 	<priceRUAH>23799</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -389,7 +389,7 @@
 	<url>http://store.drone.ua/product/mavic-pro-platinum-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000075.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
 	<priceRUAH>23806</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -405,7 +405,7 @@
 	<url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000065.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
 	<priceRUAH>29698</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -421,7 +421,7 @@
 	<url>http://store.drone.ua/product/ronin-s-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.ZM.00000104.01 REF/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
 	<priceRUAH>17854</priceRUAH>
-	<stock days="28">Под заказ</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
