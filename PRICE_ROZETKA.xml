@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-10-07 17:28">	
+<yml_catalog date="2019-10-07 18:10">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -13,11 +13,8 @@
 <category id="2" parentId="81202">Моноподы для селфи и аксессуары</category>	
 <category id="3" parentId="80002">Видеокамеры</category>	
 <category id="4" parentId="4658068">Стедикамы</category>	
-	
 </categories>	
 <offers>	
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000132.01">
 	<url>http://store.drone.ua/product/mavic-air-ref-black/</url>
@@ -103,8 +100,6 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000141.01">
 	<url>http://store.drone.ua/product/mavic-air-ref-white/</url>
@@ -190,8 +185,6 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000148.01">
 	<url>http://store.drone.ua/product/mavic-air-ref-red/</url>
@@ -277,8 +270,6 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000159.01">
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
@@ -364,8 +355,6 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000168.01">
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
@@ -451,8 +440,6 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000169.01.CP.PT.00000168.01">
 	<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
@@ -538,8 +525,6 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000075.01">
 	<url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
@@ -597,8 +582,6 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.CP.PT.00000065.01">
 	<url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
@@ -656,9 +639,58 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	
-	
-	
+	<offer available="false" id="
+	ST.CP.ZM.00000104.01">
+	<url>http://store.drone.ua/product/ronin-s-ref/</url>
+	<price>20175.02</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>4</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Стедикам DJI Ronin-S (ST.CP.ZM.00000104.01) - Refurbished</name>
+	<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
+</p>
+<p>В каких случая товары получают статус Refurbished:
+</p>
+<br>
+<li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
+<li>Если девайс вернули в течение гарантийного срока</li>
+<li>Если девайс выставлялся в магазине как демонстрационная модель</li>
+<li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
+<li>Если производитель отозвал партию товара для устранения массового дефекта</li>
+<li>Если производитель отозвал товары для обновления</li>
+<br>
+<b>Дополнительные характеристики:</b>
+<br>
+Крепежное отверстие: 1/4"-20, 3/8"-16, М4<br>
+Разъем для зарядки аксессуаров: 12 В/2 А<br>
+Разъем камеры<br>
+8-контактный разъем<br>
+Емкость аккумулятора: 2400 мА*ч<br>
+Интерфейсы связи: Bluetooth 4.0, USB Type-C<br>
+Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br>
+Размеры: 202 x 185 x 486 мм]]></description>
+	<param name="Артикул">ST.CP.ZM.00000104.01</param>
+	<param name="Тип подключения">Bluetooth, USB Type-C</param>
+	<param name="Особенности"></param>
+	<param name="Режимы съемки"></param>
+	<param name="Питание"></param>
+	<param name="Совместимость с камерами"></param>
+	<param name="Углы поворота (стабилизации)"></param>
+	<param name="Предельная диагональ телефона"></param>
+	<param name="Комплектация"></param>
+	<param name="Дополнительные характеристики"></param>
+	<param name="Емкость аккумулятора, мАч"></param>
+	<param name="Время зарядки, ч"></param>
+	<param name="Цвет"></param>
+	<param name="Доставка/Оплата">100% предоплата.</param>
+	<state>Refurbished</state>
+	</offer>
 	<offer available="false" id="
 	CP.MA.00000014.01">
 	<url>http://store.drone.ua/product/mavic-2-zoom/</url>
@@ -701,8 +733,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.MA.00000013.01">
 	<url>http://store.drone.ua/product/mavic-2-pro/</url>
@@ -742,8 +772,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.PT.00000242.01">
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
@@ -827,8 +855,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0/</url>
@@ -912,8 +938,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.PT.00000210.01">
 	<url>http://store.drone.ua/product/tello/</url>
@@ -967,8 +991,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.TL.00000015.01">
 	<url>http://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
@@ -1023,8 +1045,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.TL.00000002.01">
 	<url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
@@ -1078,8 +1098,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	ST.IN.000001">
 	<url>http://store.drone.ua/product/insta360-one-x/</url>
@@ -1343,8 +1361,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.IN.000002">
 	<url>http://store.drone.ua/product/insta360-one/</url>
@@ -1535,8 +1551,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.IN.000003">
 	<url>http://store.drone.ua/product/insta360-pro/</url>
@@ -1764,8 +1778,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.IN.000004">
 	<url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
@@ -2056,8 +2068,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.IN.000005">
 	<url>http://store.drone.ua/product/insta360-titan/</url>
@@ -2328,8 +2338,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.IN.000006_S">
 	<url>http://store.drone.ua/product/insta360-nano-s-black/</url>
@@ -2530,8 +2538,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	ST.IN.000006_B">
 	<url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
@@ -2734,8 +2740,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CINEVOX/A">
 	<url>http://store.drone.ua/product/insta360-evo/</url>
@@ -2997,1178 +3001,6 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
-	
-	
-	<offer available="false" id="
-	CP.PT.000741">
-	<url>http://store.drone.ua/product/spark/</url>
-	<price>15470</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Spark Alpine White (CP.PT.000741)</name>
-	<description><![CDATA[]]></description>
-	<param name="Артикул">CP.PT.000741</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Бело-черный</param>
-	<param name="Длина, мм">143</param>
-	<param name="Высота, мм">55</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">1480</param>
-	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
-	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.000743">
-	<url>http://store.drone.ua/product/spark-golyboi/</url>
-	<price>15470</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Spark Sky Blue (CP.PT.000743)</name>
-	<description><![CDATA[]]></description>
-	<param name="Артикул">CP.PT.000743</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Черно-синий</param>
-	<param name="Длина, мм">143</param>
-	<param name="Высота, мм">55</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">1480</param>
-	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
-	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.000744">
-	<url>http://store.drone.ua/product/spark-zelenyj-2/</url>
-	<price>15470</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Spark Meadow Green (CP.PT.000744)</name>
-	<description><![CDATA[]]></description>
-	<param name="Артикул">CP.PT.000744</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Черно-зеленый</param>
-	<param name="Длина, мм">143</param>
-	<param name="Высота, мм">55</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">1480</param>
-	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
-	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.000745">
-	<url>http://store.drone.ua/product/spark-krasnyj/</url>
-	<price>15470</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Spark Lava Red (CP.PT.000745)</name>
-	<description><![CDATA[]]></description>
-	<param name="Артикул">CP.PT.000745</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Черно-красный</param>
-	<param name="Длина, мм">143</param>
-	<param name="Высота, мм">55</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">1480</param>
-	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
-	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.000742">
-	<url>http://store.drone.ua/product/spark-zheltyj/</url>
-	<price>15470</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Spark Sunrise Yellow (CP.PT.000742)</name>
-	<description><![CDATA[]]></description>
-	<param name="Артикул">CP.PT.000742</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Черно-желтый</param>
-	<param name="Длина, мм">143</param>
-	<param name="Высота, мм">55</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">1480</param>
-	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
-	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000194.01">
-	<url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
-	<price>2450</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_4.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
-	<description><![CDATA[Аккумулятор для DJI Mavic Air 2375 мА*ч]]></description>
-	<param name="Артикул">CP.PT.00000194.01</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа">Черный</param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">2375</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="true" id="
-	CP.PT.00000077.01">
-	<url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
-	<price>3070</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_5.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh (CP.PT.00000077.01)</name>
-	<description><![CDATA[Аккумулятор для DJI Mavic Pro Platinum 3830 мА*ч]]></description>
-	<param name="Артикул">CP.PT.00000077.01</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">3830</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.000587">
-	<url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
-	<price>3070</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_4.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh (CP.PT.000587)</name>
-	<description><![CDATA[Аккумулятор для DJI Mavic Pro 3830 мА*ч]]></description>
-	<param name="Артикул">CP.PT.000587</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа">Серый</param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">3830</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="true" id="
-	CP.PT.000601">
-	<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
-	<price>5860</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh (CP.PT.000601)</name>
-	<description><![CDATA[Аккумулятор для DJI Phantom 4 5870 мА*ч]]></description>
-	<param name="Артикул">CP.PT.000601</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа">Белый</param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">5870</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="true" id="
-	ST.0000015">
-	<url>http://store.drone.ua/product/tello-part-1-battery/</url>
-	<price>780</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture>
-	<vendor>Ryze</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Аккумулятор Ryze Tello 1100 mAh (ST.0000015)</name>
-	<description><![CDATA[Аккумулятор для Ryze Tello 1100 мА*ч]]></description>
-	<param name="Артикул">ST.0000015</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа">Черный</param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">1100</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.VL.00000014.01">
-	<url>http://store.drone.ua/product/goggles-racing-edition/</url>
-	<price>18570</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Шлем DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
-	<description><![CDATA[<p><strong>Стильный и улучшенный аксессуар.&nbsp;</strong><br />Новая VR-гарнитура была разработана специально для гонок на квадрокоптерах. Дизайн обновленной версии напоминает предыдущую модель, но отличается широким спектром ярких деталей. Прежде всего, очки выполнены в черном матовом цвете, а оголовье отделано стильной красной кожей высокого качества.</p>
-<p><strong>Максимальное качество изображения.&nbsp;</strong><br />Будучи спроектированными специально для гонок, очки DJI Goggles RE совместимы с модулем передачи видеосигнала OcuSync и высокопроизводительным модулем камеры. Таким образом гарантируется улучшенная передача цифрового видеосигнала на расстояние до 7 км. OcuSync предлагает двухдиапазонную передачу видеосигнала 2.4 и 5.8 ГГц с задержкой до 50 мс. Данный модуль совместим с широким спектром летательных аппаратов, идеально подходит для беспроигрышных беспилотных гонок.</p>
-<p><strong>Безопасность и высокое качество сигнала.&nbsp;</strong><br />Доступ к каналам с низким уровнем помех является ключом к успеху на соревнованиях, особенно при одновременном полете нескольких беспилотных летательных аппаратов. В случае возникновения помех во время полета, устройство будет быстро и автоматически переключаться между каналами 2.4 и 5.8 ГГц для обеспечения беспрепятственной передачи сигнала.</p>
-<p><strong>Модуль камеры.&nbsp;</strong><br />Совместимая с DJI Goggles RE камера DJI OcuSync оснащена датчиком изображения 1/3", что обеспечивает более высокое разрешение видео, чем большинство очков FPV на рынке. Кроме того, объектив с низким искажением обеспечивает широкий, но естественный вид с камеры. С помощью продвинутой камеры пользователи могут точно контролировать полет и даже записывать его для будущего анализа.</p>
-<p><strong>Максимальный контроль.</strong>&nbsp;<br />DJI Goggles RE обеспечивает доступ к настройкам полета квадрокоптера или его карданного подвеса. Устройство использует специальную обработку сигнала, благодаря чему дополнительный модуль приема сигнала не требуется. Основная информация о полете, включая уровень заряда батареи и качество сигнала, размещена на экране. В режиме Head Tracking Gimbal оператор может управлять карданной камерой квадрокоптера, просто надев очки и поворачивая голову. В дополнение к цифровой передаче HD, DJI Goggles RE предлагает аналоговую передачу через порт SMA.</p>
-<p><strong>Широкомасштабное применение.&nbsp;</strong><br />Помимо совместимости с гоночными квадрокоптерами и летательными аппаратами с фиксированным крылом, DJI Goggles RE может использоваться с промышленными беспилотными летательными аппаратами в поисково-спасательных операциях или инспекциях высотных построек.</p>
-<p><strong>Высокая совместимость.&nbsp;</strong><br />DJI Goggles RE совместимы с квадрокоптерами Mavic Pro, Spark, Phantom 4 series и Inspire 2. DJI Goggles RE наследует все функции DJI Goggles, включая полный контроль над полетом, два экрана с высоким разрешением и многое другое. Кроме того, оптимизированная лицевая панель и полоса оголовья обеспечивают дополнительный комфорт и лучшую световую блокировку. DJI Goggles RE воспроизводит видео в различных форматах, включая MP4, MOV и MKV. Пользователи также могут просматривать панорамы на 360 градусов.</p>
-<p><strong>Комплектация:</strong></p>
-<ul>
-<li>Очки DJI Goggles RE</li>
-<li>Зарядный адаптер</li>
-<li>Зажим для очков</li>
-<li>Антенна (SMA) х 2</li>
-<li>Коннектор SMA</li>
-<li>Кабель Micro USB</li>
-<li>Кабель HDMI</li>
-<li>Салфетка для очистки</li>
-</ul>]]></description>
-	<param name="Артикул">CP.VL.00000014.01</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="true" id="
-	CP.PT.000670">
-	<url>http://store.drone.ua/product/goggles/</url>
-	<price>12370</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_1.png</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_2.png</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Шлем DJI Goggles White (CP.PT.000670)</name>
-	<description><![CDATA[<p><strong>DJI Goggles&nbsp;</strong>- удобные очки, созданные для полета на устройствах&nbsp;<strong>DJI</strong>&nbsp;с обзором от первого лица. [1] Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) &mdash; все, что нужно для полета в новом измерении.</p>
-<p><strong>Бесперебойная передача сигнала</strong><br />DJI Goggles передают потоковое видео с разрешением 720p и частотой обновления 60 кадров/с или с 1080р/30 на близком расстоянии [2] , с минимальной задержкой сигнала &mdash; всего лишь 110 мс. [3] С системой беспроводной передачи сигнала DJI OcuSync к Mavic Pro можно одновременно подключить до четырех устройств. [4] Антенны, вшитые в наголовную ленту очков, обеспечивают радиопокрытие на все 360&deg;. Соединение не прервется, даже если летательный аппарат находится позади вас. [5] Транслируй видеопоток с очков и делись радостью полета с друзьями!</p>
-<p><strong>Высокое разрешение</strong><br />2K-дисплеи в обычных очках виртуальной реальности разделены на секции разрешением 1280x1440 точек под каждый глаз. При просмотре изображения с соотношением сторон 16:9 очки "отсекают" его часть, оставляя четверть эффективных пикселей. DJI Goggles оснащены двумя дисплеями с разрешением 1920x1080 точек, с количеством пикселей, в два раза превышающим число пикселей одного 2K дисплея.</p>
-<p><strong>Реалистичное изображение</strong><br />Пиксели на каждом дисплее плотно прилегают друг к другу, благодаря чему пользователь видит реалистичное изображение, не распадающееся на пиксели. Время работы DJI Goggles достигает шести часов.</p>
-<p><strong>Конструкция очков</strong><br />В конструкции DJI Goggles задействован светоделитель, проецирующий изображение на экран перед каждым глазом пользователя. Во избежании наложения картинки используется поляризация. Крупные асферические линзы очков создают поле обзора, равное 85&deg;. Полное погружение в виртуальную реальность обеспечено.</p>
-<p><strong>Управление движением головы [1]</strong><br />Разворачивайте дрон и наклоняйте камеру (-90&deg;, +30&deg;) поворотом головы Движение головы равноценно изменению положения джойстиков на пульте управления: чтобы повернуть дрон влево, поверните голову влево, для поворота вправо &mdash; поверните голову вправо. Чтобы остановить маневр, разверните голову прямо. В этом режиме движение головы изменяет положение камеры, но не влияет на летательный аппарат.</p>
-<p><strong>Сенсорная панель &amp; пульт управления [1]</strong><br />Сенсорная панель управления встроена прямо в DJI Goggles, обеспечивая быстрый доступ к важнейшим функциям и настройкам в меню.</p>
-<p><strong>Интеллектуальные режимы полета [1]</strong><br />DJI Goggles идеальны для испытания нового интеллектуального режима полета: режим планера (Fixed-Wing). Этот режим позволяет испытать реалистичное чувство полета: беспилотник будет лететь по прямой линии, как планер, сохраняя возможность разворачиваться. В сочетании с возможностью управления дроном движениями головы этот режим подарит вам реалистичное чувство полета. Дополнительная линия траектории обеспечивает безопасность полета в сложных условиях. Кроме того, доступны стандартные интеллектуальные режимы полета:огибание рельефа, ActiveTrack, TapFly и режим штатива (Tripod).</p>
-<p><strong>Удобная конструкция</strong><br />Удобный дизайн очков позволяет носить их целый день. Сплошная лента равномерно распределяет вес конструкции на голове, что исключает давление на лицо. Люди, носящие очки для коррекции зрения, не почувствуют дискомфорта в DJI Goggles. Вы всегда сможете сдвинуть фронтальную часть очков на лоб или снять ее для удобства транспортировки.</p>
-<p><strong>Подключение устройств</strong><br />DJI Goggles оснащены набором разъемов, подходящих для работы с большим количеством устройств.</p>
-<p><strong>Разъем microUSB</strong><br />Подходит для подключения дронов серий Phantom 4 и Inspire 2 для доступа к функциям следования за объектом и управления полетом движением головы.[1] Через данный разъем можно обновлять прошивку.</p>
-<p><strong>Карта microSD</strong><br />Скачивайте файлы с летательного аппарата на карту памяти, встроенную в очки, храните и просматривайте отснятый материал.[6]</p>
-<p><strong>Выход HDMI</strong><br />Подходит для просмотра видеопотока с камер дронов серий Phantom 4 и Inspire или подключения к видеопроигрывателем, чтобы смотреть фильмы и даже играть в видеоигры.</p>
-<p><strong>Звук</strong><br />Вставьте наушники в специальный выход или используйте встроенные колонки для прослушивания звуковой дорожки видео, проигрываемого через HDMI-кабель.</p>
-<p><span class="rte-small"><em>[1] DJI Goggles поддерживают дроны Mavic Pro и летательные аппараты серий Phantom 4 и Inspire. Доступные функции зависят от используемого устройства DJI.</em></span><br /><span class="rte-small"><em>[2] Высокое качество (HD mode): 1080p/30 кадров/с, трансляция на ближнем расстоянии без помех; 720p/30 кадров/с: трансляция на дальнем расстоянии или при наличии помех; быстрая трансляция (Smooth Mode): 720p/60 кадров/с.</em></span><br /><span class="rte-small"><em>[3] С дроном Mavic Pro, беспроводная трансляция видео с дрона с разрешением 720p при 60 кадрах/с и запись видео с разрешением 720p при 120 кадрах/с.</em></span><br /><span class="rte-small"><em>[4] Актуально только для Mavic Pro с двумя парами очков и двумя пультами управления.</em></span><br /><span class="rte-small"><em>[5] При полете в очках виртуальной реальности необходимо присутствие напарника. Летательный аппарат должен оставаться в его зоне видимости.</em></span><br /><span class="rte-small"><em>[6] DJI Goggles могут проигрывать только видео, скачанное с дронов DJI.</em></span></p>]]></description>
-	<param name="Артикул">CP.PT.000670</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.000889">
-	<url>http://store.drone.ua/product/spark-fly-more-combo/</url>
-	<price>20120</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Spark Fly More Combo (CP.PT.000889)</name>
-	<description><![CDATA[]]></description>
-	<param name="Артикул">CP.PT.000889</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Белый</param>
-	<param name="Длина, мм">143</param>
-	<param name="Высота, мм">55</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">1480</param>
-	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
-	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="true" id="
-	CP.MA.00000037.01">
-	<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
-	<price>11750</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Набор DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
-	<description><![CDATA[<p>Комплект&nbsp;<strong>Mavic 2 Fly More</strong>&nbsp;от&nbsp;<strong>DJI</strong>&nbsp;включает в себя множество дополнительных аксессуаров для квадрокоптера&nbsp;<strong>Mavic 2 Pro</strong>&nbsp;или&nbsp;<strong>Mavic 2 Zoom</strong>. С помощью этих деталей в вашем распоряжении увеличение времени полетов, которое вы можете потратить на съемку идеального материала с помощью&nbsp;<strong>Mavic 2</strong>.</p>
-<p><strong>В коробке:</strong></p>
-<ul>
-<li>Интеллектуальные аккумуляторные батареи х 2</li>
-<li>Автомобильное зарядное устройство х 1</li>
-<li>Батарейный зарядный концентратор х 1</li>
-<li>Аккумулятор для питания Bank Adapter х 1</li>
-<li>Низкошумящие пропеллеры х 2 пары</li>
-<li>Сумка х 1</li>
-</ul>]]></description>
-	<param name="Артикул">CP.MA.00000037.01</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки">Интеллектуальные аккумуляторные батареи 2 шт<br/>Автомобильное зарядное устройство<br/>Батарейный зарядный концентратор<br/>Аккумулятор для питания Bank Adapter<br/>Низкошумящие пропеллеры 2 пары<br/>Сумка</param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000132.01_2">
-	<url>http://store.drone.ua/product/mavic-air-black/</url>
-	<price>22910</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Air Onyx Black (CP.PT.00000132.01)</name>
-	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
-<ul>
-<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
-<ul>
-<li>4:3: 4056 &times; 3040</li>
-<li>16:9: 4056 &times; 2280</li>
-</ul>
-<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
-<ul>
-<li>68.4 км/ч (режим S)</li>
-<li>28,8 км/ч (режим P)</li>
-<li>28,8 км/ч (режим Wi-Fi)</li>
-</ul>
-<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
-<ul>
-<li>100 - 1600 (авто)</li>
-<li>100 - 1600 (ручной)</li>
-<li>Фото: 100 - 1600 (авто)</li>
-<li>100 - 3200 (ручной)</li>
-</ul>
-<p><strong>Макс. размер изображения:</strong></p>
-<ul>
-<li>5280&times;3956, 4:3</li>
-<li>5280&times;2970, 16:9</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
-	<param name="Артикул">CP.PT.00000132.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Черный</param>
-	<param name="Длина, мм">160</param>
-	<param name="Высота, мм">85</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">430</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000141.01_2">
-	<url>http://store.drone.ua/product/mavic-air/</url>
-	<price>22910</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_7.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Air Arctic White (CP.PT.00000141.01)</name>
-	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
-<ul>
-<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
-<ul>
-<li>4:3: 4056 &times; 3040</li>
-<li>16:9: 4056 &times; 2280</li>
-</ul>
-<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
-<ul>
-<li>68.4 км/ч (режим S)</li>
-<li>28,8 км/ч (режим P)</li>
-<li>28,8 км/ч (режим Wi-Fi)</li>
-</ul>
-<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
-<ul>
-<li>100 - 1600 (авто)</li>
-<li>100 - 1600 (ручной)</li>
-<li>Фото: 100 - 1600 (авто)</li>
-<li>100 - 3200 (ручной)</li>
-</ul>
-<p><strong>Макс. размер изображения:</strong></p>
-<ul>
-<li>5280&times;3956, 4:3</li>
-<li>5280&times;2970, 16:9</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
-	<param name="Артикул">CP.PT.00000141.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Белый</param>
-	<param name="Длина, мм">160</param>
-	<param name="Высота, мм">85</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">430</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000148.01_2">
-	<url>http://store.drone.ua/product/mavic-air-red/</url>
-	<price>22910</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_7.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Air Flame Red (CP.PT.00000148.01)</name>
-	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
-<ul>
-<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
-<ul>
-<li>4:3: 4056 &times; 3040</li>
-<li>16:9: 4056 &times; 2280</li>
-</ul>
-<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
-<ul>
-<li>68.4 км/ч (режим S)</li>
-<li>28,8 км/ч (режим P)</li>
-<li>28,8 км/ч (режим Wi-Fi)</li>
-</ul>
-<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
-<ul>
-<li>100 - 1600 (авто)</li>
-<li>100 - 1600 (ручной)</li>
-<li>Фото: 100 - 1600 (авто)</li>
-<li>100 - 3200 (ручной)</li>
-</ul>
-<p><strong>Макс. размер изображения:</strong></p>
-<ul>
-<li>5280&times;3956, 4:3</li>
-<li>5280&times;2970, 16:9</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
-	<param name="Артикул">CP.PT.00000148.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Красный</param>
-	<param name="Длина, мм">160</param>
-	<param name="Высота, мм">85</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">430</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000159.01_2">
-	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
-	<price>29110</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_7.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Air Fly More Combo Onyx Black (CP.PT.00000159.01)</name>
-	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
-<ul>
-<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
-<ul>
-<li>4:3: 4056 &times; 3040</li>
-<li>16:9: 4056 &times; 2280</li>
-</ul>
-<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
-<ul>
-<li>68.4 км/ч (режим S)</li>
-<li>28,8 км/ч (режим P)</li>
-<li>28,8 км/ч (режим Wi-Fi)</li>
-</ul>
-<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
-<ul>
-<li>100 - 1600 (авто)</li>
-<li>100 - 1600 (ручной)</li>
-<li>Фото: 100 - 1600 (авто)</li>
-<li>100 - 3200 (ручной)</li>
-</ul>
-<p><strong>Макс. размер изображения:</strong></p>
-<ul>
-<li>5280&times;3956, 4:3</li>
-<li>5280&times;2970, 16:9</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
-	<param name="Артикул">CP.PT.00000159.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Черный</param>
-	<param name="Длина, мм">160</param>
-	<param name="Высота, мм">85</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">430</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пар пропеллеров x 6, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры, Сумка для транспортировки.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000168.01_2">
-	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
-	<price>29110</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_7.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Air Fly More Combo Arctic White (CP.PT.00000168.01)</name>
-	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
-<ul>
-<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
-<ul>
-<li>4:3: 4056 &times; 3040</li>
-<li>16:9: 4056 &times; 2280</li>
-</ul>
-<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
-<ul>
-<li>68.4 км/ч (режим S)</li>
-<li>28,8 км/ч (режим P)</li>
-<li>28,8 км/ч (режим Wi-Fi)</li>
-</ul>
-<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
-<ul>
-<li>100 - 1600 (авто)</li>
-<li>100 - 1600 (ручной)</li>
-<li>Фото: 100 - 1600 (авто)</li>
-<li>100 - 3200 (ручной)</li>
-</ul>
-<p><strong>Макс. размер изображения:</strong></p>
-<ul>
-<li>5280&times;3956, 4:3</li>
-<li>5280&times;2970, 16:9</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
-	<param name="Артикул">CP.PT.00000168.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Белый</param>
-	<param name="Длина, мм">160</param>
-	<param name="Высота, мм">85</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">430</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пар пропеллеров x 6, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры, Сумка для транспортировки.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000169.01_2">
-	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
-	<price>29110</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_6.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_7.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Air Fly More Combo Flame Red (CP.PT.00000169.01)</name>
-	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
-<ul>
-<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
-<ul>
-<li>4:3: 4056 &times; 3040</li>
-<li>16:9: 4056 &times; 2280</li>
-</ul>
-<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
-<ul>
-<li>68.4 км/ч (режим S)</li>
-<li>28,8 км/ч (режим P)</li>
-<li>28,8 км/ч (режим Wi-Fi)</li>
-</ul>
-<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
-<ul>
-<li>100 - 1600 (авто)</li>
-<li>100 - 1600 (ручной)</li>
-<li>Фото: 100 - 1600 (авто)</li>
-<li>100 - 3200 (ручной)</li>
-</ul>
-<p><strong>Макс. размер изображения:</strong></p>
-<ul>
-<li>5280&times;3956, 4:3</li>
-<li>5280&times;2970, 16:9</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
-	<param name="Артикул">CP.PT.00000169.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Красный</param>
-	<param name="Длина, мм">160</param>
-	<param name="Высота, мм">85</param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">430</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пар пропеллеров x 6, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры, Сумка для транспортировки.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000075.01_2">
-	<url>http://store.drone.ua/product/mavic-pro-platinum/</url>
-	<price>34070</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Pro Platinum (CP.PT.00000075.01)</name>
-	<description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
-<ul>
-<li>4K: 4096&times;2160 24p 4K: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2704 &times; 1520 24/25/30 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/96 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG<br /><strong>Видео:</strong> MP4, MOV (MPEG-4 AVC/H.264)<br /><strong>Диапазон рабочих температур:</strong> 0&deg;...+40&deg; C</p>]]></description>
-	<param name="Артикул">CP.PT.00000075.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">30 минут (без ветра, при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">7 км</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">743</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пара пропеллеров Gold x 2, Пара пропеллеров Platinum x 2, Зарядное устройство, Кабель MicroUSB, MicroSD 16 GB, RC кабель x 3 (lightning / Micro USB / Type-C), Фиксатор подвеса, Инструкция.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	CP.PT.00000065.01_2">
-	<url>http://store.drone.ua/product/mavic-pro-platinum-combo/</url>
-	<price>40270</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_5.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic Pro Platinum Fly More Combo (CP.PT.00000065.01)</name>
-	<description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
-<ul>
-<li>4K: 4096&times;2160 24p 4K: 3840 &times; 2160 24/25/30 fps</li>
-<li>2.7K: 2704 &times; 1520 24/25/30 fps</li>
-<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/96 fps</li>
-<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
-</ul>
-<p><strong>Фото:</strong> JPEG, DNG<br /><strong>Видео:</strong> MP4, MOV (MPEG-4 AVC/H.264)<br /><strong>Диапазон рабочих температур:</strong> 0&deg;...+40&deg; C</p>]]></description>
-	<param name="Артикул">CP.PT.00000065.01</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2970</param>
-	<param name="Время полета">30 минут (без ветра, при скорости 25 км/ч)</param>
-	<param name="Высота полета">5000 м</param>
-	<param name="Радиус действия аппаратуры">7 км</param>
-	<param name="Приемник в комплекте">Да</param>
-	<param name="Вес, г">743</param>
-	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пара пропеллеров Gold x 2, Пара пропеллеров Platinum x 3, Зарядное устройство, Кабель MicroUSB, MicroSD 16 GB, RC кабель x 3 (lightning / Micro USB / Type-C), Фиксатор подвеса, Инструкция.</param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль">С наличием</param>
-	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	
-	<offer available="false" id="
-	ST.CI.00001">
-	<url>http://store.drone.ua/product/podvodnyj-dron-gladius/</url>
-	<price>67950</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_5.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_6.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_7.jpg</picture>
-	<vendor>Chasing-Innovation</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Подводный дрон Chasing-Innovation Gladius (ST.CI.00001)</name>
-	<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.]]></description>
-	<param name="Артикул">ST.CI.00001</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Желтый</param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="true" id="
-	ST.CI.00002">
-	<url>http://store.drone.ua/product/gladius-mini/</url>
-	<price>52770</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_5.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_6.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_7.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_8.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_9.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_10.png</picture>
-	<vendor>Chasing-Innovation</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
-	<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.]]></description>
-	<param name="Артикул">ST.CI.00002</param>
-	<param name="Тип">Готовая модель</param>
-	<param name="Цвет фюзеляжа">Желтый</param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя">Электродвигатель</param>
-	<param name="Аккумулятор, мА*ч">2600</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера">С камерой</param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления">2.4 ГГц</param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	ST.CI.00102">
-	<url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>8220</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_5.jpg</picture>
-	<vendor>Chasing-Innovation</vendor>
-	<stock_quantity>5</stock_quantity>
-	<name>Рюкзак для Gladius Mini (ST.CI.00102)</name>
-	<description><![CDATA[Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation]]></description>
-	<param name="Артикул">ST.CI.00102</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
-	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
-	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
-	<state></state>
-	</offer>
-	
-	
-	<offer available="false" id="
-	ST.CP.ZM.00000104.01">
-	<url>http://store.drone.ua/product/ronin-s-ref/</url>
-	<price>20175.02</price>
-	<currencyId>UAH</currencyId>
-	<categoryId>4</categoryId>
-	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_2.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_3.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
-<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
-	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
-	<name>Стедикам DJI Ronin-S (ST.CP.ZM.00000104.01) - Refurbished</name>
-	<description><![CDATA[<p>Refurbished — это товары, по тем или иным причинам вернувшиеся производителю после продажи, которые тот, в свою очередь, проинспектировал, при необходимости заменил брак, удалил следы использования и выставил на продажу.
-</p>
-<p>В каких случая товары получают статус Refurbished:
-</p>
-<br>
-<li>Если их вернули по любой причине после покупки: обнаружился дефект; стало жалко потраченных денег; не понравился цвет</li>
-<li>Если девайс вернули в течение гарантийного срока</li>
-<li>Если девайс выставлялся в магазине как демонстрационная модель</li>
-<li>Если девайс вернули в связи с какими-либо повреждениями при доставке</li>
-<li>Если производитель отозвал партию товара для устранения массового дефекта</li>
-<li>Если производитель отозвал товары для обновления</li>
-<br>
-<b>Дополнительные характеристики:</b>
-<br>
-Крепежное отверстие: 1/4"-20, 3/8"-16, М4<br>
-Разъем для зарядки аксессуаров: 12 В/2 А<br>
-Разъем камеры<br>
-8-контактный разъем<br>
-Емкость аккумулятора: 2400 мА*ч<br>
-Интерфейсы связи: Bluetooth 4.0, USB Type-C<br>
-Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br>
-Размеры: 202 x 185 x 486 мм]]></description>
-	<param name="Артикул">ST.CP.ZM.00000104.01</param>
-	<param name="Тип подключения">Bluetooth, USB Type-C</param>
-	<param name="Особенности"></param>
-	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
-	<param name="Совместимость с камерами"></param>
-	<param name="Углы поворота (стабилизации)"></param>
-	<param name="Предельная диагональ телефона"></param>
-	<param name="Комплектация"></param>
-	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
-	<param name="Доставка/Оплата">100% предоплата.</param>
-	<state>Refurbished</state>
-	</offer>
-	
-	
 	<offer available="true" id="
 	CP.ZM.00000097.01">
 	<url>http://store.drone.ua/product/osmo-pocket/</url>
@@ -4321,8 +3153,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.ZM.00000064.01">
 	<url>http://store.drone.ua/product/osmo-mobile-2/</url>
@@ -4468,8 +3298,960 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
+	<offer available="false" id="
+	CP.PT.000741">
+	<url>http://store.drone.ua/product/spark/</url>
+	<price>15470</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Spark Alpine White (CP.PT.000741)</name>
+	<description><![CDATA[]]></description>
+	<param name="Артикул">CP.PT.000741</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Бело-черный</param>
+	<param name="Длина, мм">143</param>
+	<param name="Высота, мм">55</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">1480</param>
+	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.000743">
+	<url>http://store.drone.ua/product/spark-golyboi/</url>
+	<price>15470</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Spark Sky Blue (CP.PT.000743)</name>
+	<description><![CDATA[]]></description>
+	<param name="Артикул">CP.PT.000743</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Черно-синий</param>
+	<param name="Длина, мм">143</param>
+	<param name="Высота, мм">55</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">1480</param>
+	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.000744">
+	<url>http://store.drone.ua/product/spark-zelenyj-2/</url>
+	<price>15470</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Spark Meadow Green (CP.PT.000744)</name>
+	<description><![CDATA[]]></description>
+	<param name="Артикул">CP.PT.000744</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Черно-зеленый</param>
+	<param name="Длина, мм">143</param>
+	<param name="Высота, мм">55</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">1480</param>
+	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.000745">
+	<url>http://store.drone.ua/product/spark-krasnyj/</url>
+	<price>15470</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Spark Lava Red (CP.PT.000745)</name>
+	<description><![CDATA[]]></description>
+	<param name="Артикул">CP.PT.000745</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Черно-красный</param>
+	<param name="Длина, мм">143</param>
+	<param name="Высота, мм">55</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">1480</param>
+	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.000742">
+	<url>http://store.drone.ua/product/spark-zheltyj/</url>
+	<price>15470</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Spark Sunrise Yellow (CP.PT.000742)</name>
+	<description><![CDATA[]]></description>
+	<param name="Артикул">CP.PT.000742</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Черно-желтый</param>
+	<param name="Длина, мм">143</param>
+	<param name="Высота, мм">55</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">1480</param>
+	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000194.01">
+	<url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
+	<price>2450</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_4.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
+	<description><![CDATA[Аккумулятор для DJI Mavic Air 2375 мА*ч]]></description>
+	<param name="Артикул">CP.PT.00000194.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа">Черный</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч">2375</param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="true" id="
+	CP.PT.00000077.01">
+	<url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
+	<price>3070</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_5.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh (CP.PT.00000077.01)</name>
+	<description><![CDATA[Аккумулятор для DJI Mavic Pro Platinum 3830 мА*ч]]></description>
+	<param name="Артикул">CP.PT.00000077.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч">3830</param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.000587">
+	<url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
+	<price>3070</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_4.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh (CP.PT.000587)</name>
+	<description><![CDATA[Аккумулятор для DJI Mavic Pro 3830 мА*ч]]></description>
+	<param name="Артикул">CP.PT.000587</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа">Серый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч">3830</param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="true" id="
+	CP.PT.000601">
+	<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
+	<price>5860</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh (CP.PT.000601)</name>
+	<description><![CDATA[Аккумулятор для DJI Phantom 4 5870 мА*ч]]></description>
+	<param name="Артикул">CP.PT.000601</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа">Белый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч">5870</param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="true" id="
+	ST.0000015">
+	<url>http://store.drone.ua/product/tello-part-1-battery/</url>
+	<price>780</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture>
+	<vendor>Ryze</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Аккумулятор Ryze Tello 1100 mAh (ST.0000015)</name>
+	<description><![CDATA[Аккумулятор для Ryze Tello 1100 мА*ч]]></description>
+	<param name="Артикул">ST.0000015</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа">Черный</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч">1100</param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.VL.00000014.01">
+	<url>http://store.drone.ua/product/goggles-racing-edition/</url>
+	<price>18570</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Шлем DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
+	<description><![CDATA[<p><strong>Стильный и улучшенный аксессуар.&nbsp;</strong><br />Новая VR-гарнитура была разработана специально для гонок на квадрокоптерах. Дизайн обновленной версии напоминает предыдущую модель, но отличается широким спектром ярких деталей. Прежде всего, очки выполнены в черном матовом цвете, а оголовье отделано стильной красной кожей высокого качества.</p>
+<p><strong>Максимальное качество изображения.&nbsp;</strong><br />Будучи спроектированными специально для гонок, очки DJI Goggles RE совместимы с модулем передачи видеосигнала OcuSync и высокопроизводительным модулем камеры. Таким образом гарантируется улучшенная передача цифрового видеосигнала на расстояние до 7 км. OcuSync предлагает двухдиапазонную передачу видеосигнала 2.4 и 5.8 ГГц с задержкой до 50 мс. Данный модуль совместим с широким спектром летательных аппаратов, идеально подходит для беспроигрышных беспилотных гонок.</p>
+<p><strong>Безопасность и высокое качество сигнала.&nbsp;</strong><br />Доступ к каналам с низким уровнем помех является ключом к успеху на соревнованиях, особенно при одновременном полете нескольких беспилотных летательных аппаратов. В случае возникновения помех во время полета, устройство будет быстро и автоматически переключаться между каналами 2.4 и 5.8 ГГц для обеспечения беспрепятственной передачи сигнала.</p>
+<p><strong>Модуль камеры.&nbsp;</strong><br />Совместимая с DJI Goggles RE камера DJI OcuSync оснащена датчиком изображения 1/3", что обеспечивает более высокое разрешение видео, чем большинство очков FPV на рынке. Кроме того, объектив с низким искажением обеспечивает широкий, но естественный вид с камеры. С помощью продвинутой камеры пользователи могут точно контролировать полет и даже записывать его для будущего анализа.</p>
+<p><strong>Максимальный контроль.</strong>&nbsp;<br />DJI Goggles RE обеспечивает доступ к настройкам полета квадрокоптера или его карданного подвеса. Устройство использует специальную обработку сигнала, благодаря чему дополнительный модуль приема сигнала не требуется. Основная информация о полете, включая уровень заряда батареи и качество сигнала, размещена на экране. В режиме Head Tracking Gimbal оператор может управлять карданной камерой квадрокоптера, просто надев очки и поворачивая голову. В дополнение к цифровой передаче HD, DJI Goggles RE предлагает аналоговую передачу через порт SMA.</p>
+<p><strong>Широкомасштабное применение.&nbsp;</strong><br />Помимо совместимости с гоночными квадрокоптерами и летательными аппаратами с фиксированным крылом, DJI Goggles RE может использоваться с промышленными беспилотными летательными аппаратами в поисково-спасательных операциях или инспекциях высотных построек.</p>
+<p><strong>Высокая совместимость.&nbsp;</strong><br />DJI Goggles RE совместимы с квадрокоптерами Mavic Pro, Spark, Phantom 4 series и Inspire 2. DJI Goggles RE наследует все функции DJI Goggles, включая полный контроль над полетом, два экрана с высоким разрешением и многое другое. Кроме того, оптимизированная лицевая панель и полоса оголовья обеспечивают дополнительный комфорт и лучшую световую блокировку. DJI Goggles RE воспроизводит видео в различных форматах, включая MP4, MOV и MKV. Пользователи также могут просматривать панорамы на 360 градусов.</p>
+<p><strong>Комплектация:</strong></p>
+<ul>
+<li>Очки DJI Goggles RE</li>
+<li>Зарядный адаптер</li>
+<li>Зажим для очков</li>
+<li>Антенна (SMA) х 2</li>
+<li>Коннектор SMA</li>
+<li>Кабель Micro USB</li>
+<li>Кабель HDMI</li>
+<li>Салфетка для очистки</li>
+</ul>]]></description>
+	<param name="Артикул">CP.VL.00000014.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="true" id="
+	CP.PT.000670">
+	<url>http://store.drone.ua/product/goggles/</url>
+	<price>12370</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_2.png</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Шлем DJI Goggles White (CP.PT.000670)</name>
+	<description><![CDATA[<p><strong>DJI Goggles&nbsp;</strong>- удобные очки, созданные для полета на устройствах&nbsp;<strong>DJI</strong>&nbsp;с обзором от первого лица. [1] Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) &mdash; все, что нужно для полета в новом измерении.</p>
+<p><strong>Бесперебойная передача сигнала</strong><br />DJI Goggles передают потоковое видео с разрешением 720p и частотой обновления 60 кадров/с или с 1080р/30 на близком расстоянии [2] , с минимальной задержкой сигнала &mdash; всего лишь 110 мс. [3] С системой беспроводной передачи сигнала DJI OcuSync к Mavic Pro можно одновременно подключить до четырех устройств. [4] Антенны, вшитые в наголовную ленту очков, обеспечивают радиопокрытие на все 360&deg;. Соединение не прервется, даже если летательный аппарат находится позади вас. [5] Транслируй видеопоток с очков и делись радостью полета с друзьями!</p>
+<p><strong>Высокое разрешение</strong><br />2K-дисплеи в обычных очках виртуальной реальности разделены на секции разрешением 1280x1440 точек под каждый глаз. При просмотре изображения с соотношением сторон 16:9 очки "отсекают" его часть, оставляя четверть эффективных пикселей. DJI Goggles оснащены двумя дисплеями с разрешением 1920x1080 точек, с количеством пикселей, в два раза превышающим число пикселей одного 2K дисплея.</p>
+<p><strong>Реалистичное изображение</strong><br />Пиксели на каждом дисплее плотно прилегают друг к другу, благодаря чему пользователь видит реалистичное изображение, не распадающееся на пиксели. Время работы DJI Goggles достигает шести часов.</p>
+<p><strong>Конструкция очков</strong><br />В конструкции DJI Goggles задействован светоделитель, проецирующий изображение на экран перед каждым глазом пользователя. Во избежании наложения картинки используется поляризация. Крупные асферические линзы очков создают поле обзора, равное 85&deg;. Полное погружение в виртуальную реальность обеспечено.</p>
+<p><strong>Управление движением головы [1]</strong><br />Разворачивайте дрон и наклоняйте камеру (-90&deg;, +30&deg;) поворотом головы Движение головы равноценно изменению положения джойстиков на пульте управления: чтобы повернуть дрон влево, поверните голову влево, для поворота вправо &mdash; поверните голову вправо. Чтобы остановить маневр, разверните голову прямо. В этом режиме движение головы изменяет положение камеры, но не влияет на летательный аппарат.</p>
+<p><strong>Сенсорная панель &amp; пульт управления [1]</strong><br />Сенсорная панель управления встроена прямо в DJI Goggles, обеспечивая быстрый доступ к важнейшим функциям и настройкам в меню.</p>
+<p><strong>Интеллектуальные режимы полета [1]</strong><br />DJI Goggles идеальны для испытания нового интеллектуального режима полета: режим планера (Fixed-Wing). Этот режим позволяет испытать реалистичное чувство полета: беспилотник будет лететь по прямой линии, как планер, сохраняя возможность разворачиваться. В сочетании с возможностью управления дроном движениями головы этот режим подарит вам реалистичное чувство полета. Дополнительная линия траектории обеспечивает безопасность полета в сложных условиях. Кроме того, доступны стандартные интеллектуальные режимы полета:огибание рельефа, ActiveTrack, TapFly и режим штатива (Tripod).</p>
+<p><strong>Удобная конструкция</strong><br />Удобный дизайн очков позволяет носить их целый день. Сплошная лента равномерно распределяет вес конструкции на голове, что исключает давление на лицо. Люди, носящие очки для коррекции зрения, не почувствуют дискомфорта в DJI Goggles. Вы всегда сможете сдвинуть фронтальную часть очков на лоб или снять ее для удобства транспортировки.</p>
+<p><strong>Подключение устройств</strong><br />DJI Goggles оснащены набором разъемов, подходящих для работы с большим количеством устройств.</p>
+<p><strong>Разъем microUSB</strong><br />Подходит для подключения дронов серий Phantom 4 и Inspire 2 для доступа к функциям следования за объектом и управления полетом движением головы.[1] Через данный разъем можно обновлять прошивку.</p>
+<p><strong>Карта microSD</strong><br />Скачивайте файлы с летательного аппарата на карту памяти, встроенную в очки, храните и просматривайте отснятый материал.[6]</p>
+<p><strong>Выход HDMI</strong><br />Подходит для просмотра видеопотока с камер дронов серий Phantom 4 и Inspire или подключения к видеопроигрывателем, чтобы смотреть фильмы и даже играть в видеоигры.</p>
+<p><strong>Звук</strong><br />Вставьте наушники в специальный выход или используйте встроенные колонки для прослушивания звуковой дорожки видео, проигрываемого через HDMI-кабель.</p>
+<p><span class="rte-small"><em>[1] DJI Goggles поддерживают дроны Mavic Pro и летательные аппараты серий Phantom 4 и Inspire. Доступные функции зависят от используемого устройства DJI.</em></span><br /><span class="rte-small"><em>[2] Высокое качество (HD mode): 1080p/30 кадров/с, трансляция на ближнем расстоянии без помех; 720p/30 кадров/с: трансляция на дальнем расстоянии или при наличии помех; быстрая трансляция (Smooth Mode): 720p/60 кадров/с.</em></span><br /><span class="rte-small"><em>[3] С дроном Mavic Pro, беспроводная трансляция видео с дрона с разрешением 720p при 60 кадрах/с и запись видео с разрешением 720p при 120 кадрах/с.</em></span><br /><span class="rte-small"><em>[4] Актуально только для Mavic Pro с двумя парами очков и двумя пультами управления.</em></span><br /><span class="rte-small"><em>[5] При полете в очках виртуальной реальности необходимо присутствие напарника. Летательный аппарат должен оставаться в его зоне видимости.</em></span><br /><span class="rte-small"><em>[6] DJI Goggles могут проигрывать только видео, скачанное с дронов DJI.</em></span></p>]]></description>
+	<param name="Артикул">CP.PT.000670</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.000889">
+	<url>http://store.drone.ua/product/spark-fly-more-combo/</url>
+	<price>20120</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Spark Fly More Combo (CP.PT.000889)</name>
+	<description><![CDATA[]]></description>
+	<param name="Артикул">CP.PT.000889</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Белый</param>
+	<param name="Длина, мм">143</param>
+	<param name="Высота, мм">55</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">1480</param>
+	<param name="Время полета">Максимальное время полета: 16 минут (без ветра, при скорости 20 км/ч)<br/>Максимальное время зависания: 15 минут (без ветра)</param>
+	<param name="Высота полета">Максимальная высота полета над уровнем моря: 500 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц: FCC: 2 км, CE: 500 м, SRRC: 500 м<br/>С пультом управления 5.8 ГГц: FCC: 2 км, CE: 300 м, SRRC: 1.2 км<br/>С мобильным устройством: 50 м в высоту, 100 м от мобильного устройства</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 ГГц + 5.8 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="true" id="
+	CP.MA.00000037.01">
+	<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
+	<price>11750</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Набор DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
+	<description><![CDATA[<p>Комплект&nbsp;<strong>Mavic 2 Fly More</strong>&nbsp;от&nbsp;<strong>DJI</strong>&nbsp;включает в себя множество дополнительных аксессуаров для квадрокоптера&nbsp;<strong>Mavic 2 Pro</strong>&nbsp;или&nbsp;<strong>Mavic 2 Zoom</strong>. С помощью этих деталей в вашем распоряжении увеличение времени полетов, которое вы можете потратить на съемку идеального материала с помощью&nbsp;<strong>Mavic 2</strong>.</p>
+<p><strong>В коробке:</strong></p>
+<ul>
+<li>Интеллектуальные аккумуляторные батареи х 2</li>
+<li>Автомобильное зарядное устройство х 1</li>
+<li>Батарейный зарядный концентратор х 1</li>
+<li>Аккумулятор для питания Bank Adapter х 1</li>
+<li>Низкошумящие пропеллеры х 2 пары</li>
+<li>Сумка х 1</li>
+</ul>]]></description>
+	<param name="Артикул">CP.MA.00000037.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки">Интеллектуальные аккумуляторные батареи 2 шт<br/>Автомобильное зарядное устройство<br/>Батарейный зарядный концентратор<br/>Аккумулятор для питания Bank Adapter<br/>Низкошумящие пропеллеры 2 пары<br/>Сумка</param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000132.01_2">
+	<url>http://store.drone.ua/product/mavic-air-black/</url>
+	<price>22910</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Air Onyx Black (CP.PT.00000132.01)</name>
+	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
+<ul>
+<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
+<ul>
+<li>4:3: 4056 &times; 3040</li>
+<li>16:9: 4056 &times; 2280</li>
+</ul>
+<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
+<ul>
+<li>68.4 км/ч (режим S)</li>
+<li>28,8 км/ч (режим P)</li>
+<li>28,8 км/ч (режим Wi-Fi)</li>
+</ul>
+<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
+<ul>
+<li>100 - 1600 (авто)</li>
+<li>100 - 1600 (ручной)</li>
+<li>Фото: 100 - 1600 (авто)</li>
+<li>100 - 3200 (ручной)</li>
+</ul>
+<p><strong>Макс. размер изображения:</strong></p>
+<ul>
+<li>5280&times;3956, 4:3</li>
+<li>5280&times;2970, 16:9</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
+	<param name="Артикул">CP.PT.00000132.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Черный</param>
+	<param name="Длина, мм">160</param>
+	<param name="Высота, мм">85</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">430</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000141.01_2">
+	<url>http://store.drone.ua/product/mavic-air/</url>
+	<price>22910</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Air Arctic White (CP.PT.00000141.01)</name>
+	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
+<ul>
+<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
+<ul>
+<li>4:3: 4056 &times; 3040</li>
+<li>16:9: 4056 &times; 2280</li>
+</ul>
+<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
+<ul>
+<li>68.4 км/ч (режим S)</li>
+<li>28,8 км/ч (режим P)</li>
+<li>28,8 км/ч (режим Wi-Fi)</li>
+</ul>
+<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
+<ul>
+<li>100 - 1600 (авто)</li>
+<li>100 - 1600 (ручной)</li>
+<li>Фото: 100 - 1600 (авто)</li>
+<li>100 - 3200 (ручной)</li>
+</ul>
+<p><strong>Макс. размер изображения:</strong></p>
+<ul>
+<li>5280&times;3956, 4:3</li>
+<li>5280&times;2970, 16:9</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
+	<param name="Артикул">CP.PT.00000141.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Белый</param>
+	<param name="Длина, мм">160</param>
+	<param name="Высота, мм">85</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">430</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000148.01_2">
+	<url>http://store.drone.ua/product/mavic-air-red/</url>
+	<price>22910</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Air Flame Red (CP.PT.00000148.01)</name>
+	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
+<ul>
+<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
+<ul>
+<li>4:3: 4056 &times; 3040</li>
+<li>16:9: 4056 &times; 2280</li>
+</ul>
+<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
+<ul>
+<li>68.4 км/ч (режим S)</li>
+<li>28,8 км/ч (режим P)</li>
+<li>28,8 км/ч (режим Wi-Fi)</li>
+</ul>
+<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
+<ul>
+<li>100 - 1600 (авто)</li>
+<li>100 - 1600 (ручной)</li>
+<li>Фото: 100 - 1600 (авто)</li>
+<li>100 - 3200 (ручной)</li>
+</ul>
+<p><strong>Макс. размер изображения:</strong></p>
+<ul>
+<li>5280&times;3956, 4:3</li>
+<li>5280&times;2970, 16:9</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
+	<param name="Артикул">CP.PT.00000148.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Красный</param>
+	<param name="Длина, мм">160</param>
+	<param name="Высота, мм">85</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">430</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пар пропеллеров x 4, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000159.01_2">
+	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
+	<price>29110</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Air Fly More Combo Onyx Black (CP.PT.00000159.01)</name>
+	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
+<ul>
+<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
+<ul>
+<li>4:3: 4056 &times; 3040</li>
+<li>16:9: 4056 &times; 2280</li>
+</ul>
+<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
+<ul>
+<li>68.4 км/ч (режим S)</li>
+<li>28,8 км/ч (режим P)</li>
+<li>28,8 км/ч (режим Wi-Fi)</li>
+</ul>
+<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
+<ul>
+<li>100 - 1600 (авто)</li>
+<li>100 - 1600 (ручной)</li>
+<li>Фото: 100 - 1600 (авто)</li>
+<li>100 - 3200 (ручной)</li>
+</ul>
+<p><strong>Макс. размер изображения:</strong></p>
+<ul>
+<li>5280&times;3956, 4:3</li>
+<li>5280&times;2970, 16:9</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
+	<param name="Артикул">CP.PT.00000159.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Черный</param>
+	<param name="Длина, мм">160</param>
+	<param name="Высота, мм">85</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">430</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пар пропеллеров x 6, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры, Сумка для транспортировки.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000168.01_2">
+	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
+	<price>29110</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Air Fly More Combo Arctic White (CP.PT.00000168.01)</name>
+	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
+<ul>
+<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
+<ul>
+<li>4:3: 4056 &times; 3040</li>
+<li>16:9: 4056 &times; 2280</li>
+</ul>
+<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
+<ul>
+<li>68.4 км/ч (режим S)</li>
+<li>28,8 км/ч (режим P)</li>
+<li>28,8 км/ч (режим Wi-Fi)</li>
+</ul>
+<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
+<ul>
+<li>100 - 1600 (авто)</li>
+<li>100 - 1600 (ручной)</li>
+<li>Фото: 100 - 1600 (авто)</li>
+<li>100 - 3200 (ручной)</li>
+</ul>
+<p><strong>Макс. размер изображения:</strong></p>
+<ul>
+<li>5280&times;3956, 4:3</li>
+<li>5280&times;2970, 16:9</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
+	<param name="Артикул">CP.PT.00000168.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Белый</param>
+	<param name="Длина, мм">160</param>
+	<param name="Высота, мм">85</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">430</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пар пропеллеров x 6, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры, Сумка для транспортировки.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000169.01_2">
+	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
+	<price>29110</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_6.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Air Fly More Combo Flame Red (CP.PT.00000169.01)</name>
+	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
+<ul>
+<li>4K Ultra HD: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2720 &times; 1530 24/25/30/48/50/60 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/120 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Разрешение ф</strong><strong>ото:</strong></p>
+<ul>
+<li>4:3: 4056 &times; 3040</li>
+<li>16:9: 4056 &times; 2280</li>
+</ul>
+<p><strong>Диапазон температур зарядки:</strong> +5...+40&deg; C<br /><strong>Масса:</strong> 430 г<br /><strong>Макс. Скорость:</strong></p>
+<ul>
+<li>68.4 км/ч (режим S)</li>
+<li>28,8 км/ч (режим P)</li>
+<li>28,8 км/ч (режим Wi-Fi)</li>
+</ul>
+<p><strong>Макс.высота полета над уровнем моря:</strong> 5000 м<br /><strong>Макс. время полета:</strong> 21 минута<br /><strong>Диапазон рабочих температур:</strong> от 0&deg; до 40&deg; C<br /><strong>Матрица:</strong> 1/2.3&rdquo; (CMOS), эффективных пикселей: 12 Мп<br /><strong>Объектив:</strong> f/2,8, FOV: 85&deg;, 35 мм эквивалент формата: 24 мм<br /><strong>Диапазон ISO видео:</strong></p>
+<ul>
+<li>100 - 1600 (авто)</li>
+<li>100 - 1600 (ручной)</li>
+<li>Фото: 100 - 1600 (авто)</li>
+<li>100 - 3200 (ручной)</li>
+</ul>
+<p><strong>Макс. размер изображения:</strong></p>
+<ul>
+<li>5280&times;3956, 4:3</li>
+<li>5280&times;2970, 16:9</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG ( RAW )<br /><strong>Видео:</strong> MP4 / MOV (H.264 / MPEG-4 AVC)<br /><strong>Поддерживаемые карты памяти:</strong> 16 Гб (Sandisk Extreme; Kingston SDHC-I SDCAC/16GB; Sandisk Extreme V30);<br />32 Гб (Sandisk Extreme V30 A1; Sandisk Extreme V30 Pro A1; Sandisk Extreme V30 A1); 64 ГБ (Sandisk<br />Extreme Pro V30 A1); 128 Гб (Sandisk Extreme V30 A1; Sandisk Extreme Plus V30 A1)<br /><strong>Приложение:</strong> DJI GO 4<br /><strong>Рекомендуемая ОС:</strong> iOS v 9.0 или новее, Android v 4.4 или новее</p>]]></description>
+	<param name="Артикул">CP.PT.00000169.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Красный</param>
+	<param name="Длина, мм">160</param>
+	<param name="Высота, мм">85</param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">21 минут (при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления 2.4 ГГц FCC 4000 м, CE 2000 м, SRRC 2000 м (на открытом пространстве без помех). С мобильным устройством 50 м в высоту, 80 м от мобильного устройства.</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">430</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пар пропеллеров x 6, Защита пропеллеров, Зарядное устройство, Кабель USB Type-C, USB адаптер, Фиксатор камеры, RC кабель x 3 (lightning / Micro USB / Type-C), Стики x 2, Кейс, Инструкция, Защита камеры, Сумка для транспортировки.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000075.01_2">
+	<url>http://store.drone.ua/product/mavic-pro-platinum/</url>
+	<price>34070</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Pro Platinum (CP.PT.00000075.01)</name>
+	<description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
+<ul>
+<li>4K: 4096&times;2160 24p 4K: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2704 &times; 1520 24/25/30 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/96 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG<br /><strong>Видео:</strong> MP4, MOV (MPEG-4 AVC/H.264)<br /><strong>Диапазон рабочих температур:</strong> 0&deg;...+40&deg; C</p>]]></description>
+	<param name="Артикул">CP.PT.00000075.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">30 минут (без ветра, при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">7 км</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">743</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 1, Пара пропеллеров Gold x 2, Пара пропеллеров Platinum x 2, Зарядное устройство, Кабель MicroUSB, MicroSD 16 GB, RC кабель x 3 (lightning / Micro USB / Type-C), Фиксатор подвеса, Инструкция.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	CP.PT.00000065.01_2">
+	<url>http://store.drone.ua/product/mavic-pro-platinum-combo/</url>
+	<price>40270</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_4.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_2.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_3.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_5.jpg</picture>
+<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Pro Platinum Fly More Combo (CP.PT.00000065.01)</name>
+	<description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
+<ul>
+<li>4K: 4096&times;2160 24p 4K: 3840 &times; 2160 24/25/30 fps</li>
+<li>2.7K: 2704 &times; 1520 24/25/30 fps</li>
+<li>FHD: 1920 &times; 1080 24/25/30/48/50/60/96 fps</li>
+<li>HD: 1280 &times; 720 24/25/30/48/50/60/120 fps</li>
+</ul>
+<p><strong>Фото:</strong> JPEG, DNG<br /><strong>Видео:</strong> MP4, MOV (MPEG-4 AVC/H.264)<br /><strong>Диапазон рабочих температур:</strong> 0&deg;...+40&deg; C</p>]]></description>
+	<param name="Артикул">CP.PT.00000065.01</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2970</param>
+	<param name="Время полета">30 минут (без ветра, при скорости 25 км/ч)</param>
+	<param name="Высота полета">5000 м</param>
+	<param name="Радиус действия аппаратуры">7 км</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г">743</param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Аккумулятор x 3, Пара пропеллеров Gold x 2, Пара пропеллеров Platinum x 3, Зарядное устройство, Кабель MicroUSB, MicroSD 16 GB, RC кабель x 3 (lightning / Micro USB / Type-C), Фиксатор подвеса, Инструкция.</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
 	<offer available="true" id="
 	CP.ZM.00000104.01_2">
 	<url>http://store.drone.ua/product/ronin-s/</url>
@@ -4501,8 +4283,115 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
+	<offer available="false" id="
+	ST.CI.00001">
+	<url>http://store.drone.ua/product/podvodnyj-dron-gladius/</url>
+	<price>67950</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_7.jpg</picture>
+	<vendor>Chasing-Innovation</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Подводный дрон Chasing-Innovation Gladius (ST.CI.00001)</name>
+	<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.]]></description>
+	<param name="Артикул">ST.CI.00001</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Желтый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="true" id="
+	ST.CI.00002">
+	<url>http://store.drone.ua/product/gladius-mini/</url>
+	<price>52770</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_7.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_8.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_9.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_10.png</picture>
+	<vendor>Chasing-Innovation</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
+	<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.]]></description>
+	<param name="Артикул">ST.CI.00002</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Желтый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2600</param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления">2.4 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
+	<offer available="false" id="
+	ST.CI.00102">
+	<url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
+	<price>8220</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_5.jpg</picture>
+	<vendor>Chasing-Innovation</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Рюкзак для Gladius Mini (ST.CI.00102)</name>
+	<description><![CDATA[Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation]]></description>
+	<param name="Артикул">ST.CI.00102</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	</offer>
 	<offer available="false" id="
 	PZM200">
 	<url>http://store.drone.ua/product/parazero-safeair-m-200/</url>
@@ -4587,8 +4476,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PZM600">
 	<url>http://store.drone.ua/product/parazero-safeair-m-600/</url>
@@ -4672,8 +4559,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PZPHANTOM">
 	<url>http://store.drone.ua/product/parazero-safeair-phantom/</url>
@@ -4746,8 +4631,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PZMAVIC">
 	<url>http://store.drone.ua/product/parazero-safeair-mavic/</url>
@@ -4818,8 +4701,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.RN.00000040.01">
 	<url>http://store.drone.ua/product/dji-ronin-sc/</url>
@@ -4850,8 +4731,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.RN.00000043.01">
 	<url>http://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
@@ -4882,8 +4761,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.OS.00000022.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3/</url>
@@ -4936,8 +4813,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.OS.00000040.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3-combo/</url>
@@ -4990,8 +4865,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.TR.00000006.01">
 	<url>http://store.drone.ua/product/dji-fpv-experience-combo/</url>
@@ -5096,8 +4969,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.TR.00000006.02">
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-1/</url>
@@ -5202,8 +5073,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.TR.00000006.03">
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-2/</url>
@@ -5308,14 +5177,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.OS.00000020.01">
 	<url>http://store.drone.ua/product/dji-osmo-action/</url>
 	<price>11750</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>4</categoryId>
+	<categoryId>3</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Action_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Osmo_Action_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Osmo_Action_3.jpg</picture>
@@ -5344,23 +5211,74 @@ Cистемные требования для приложения Ronin: iOS 9 
 <p><strong>16%</strong><br /><strong>Эффективная система охлаждения</strong><br />Система рассеивания тепла предотвращает нагревание на 16% эффективнее, поэтому камеру можно использовать в течении долгого времени.</p>
 <p><strong>Приложение DJI Mimo</strong><br />Для раскрытия полного потенциала Osmo Action используйте интуитивные функции и видеоредактор DJI Mimo. Шаблоны функции Story позволяют редактировать и мгновенно публиковать интересные моменты вашей жизни.</p>]]></description>
 	<param name="Артикул">CP.OS.00000020.01</param>
-	<param name="Тип подключения"></param>
-	<param name="Особенности"></param>
-	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
-	<param name="Совместимость с камерами"></param>
-	<param name="Углы поворота (стабилизации)"></param>
-	<param name="Предельная диагональ телефона"></param>
-	<param name="Комплектация"></param>
-	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Тип видеокамеры"></param>
+	<param name="Матрица (светочувствительный элемент)">1/2.3" CMOS
+Число эффективных пикселей: 12 млн</param>
+	<param name="Объектив">Угол обзора: 145° f/2.8</param>
+	<param name="Тип носителя">Flash память</param>
+	<param name="Стабилизатор изображения">Технология RockSteady</param>
+	<param name="Зум"></param>
+	<param name="Фокусировка"></param>
+	<param name="Режим экспозиции"></param>
+	<param name="Баланс белого"></param>
+	<param name="Ночная съёмка"></param>
+	<param name="Цифровые эффекты"></param>
+	<param name="ЖК-монитор">Фронтальный экран: 1.4", 300 ppi, 750±50 кд/м?
+Основной экран: 2.25", 640х360, 325 ppi, 750±50 кд/м?</param>
+	<param name="Видоискатель"></param>
+	<param name="Режим фотосъёмки">1. Покадровая
+2. Обратный отсчет: 3 с/10 с
+3. Интервальная: 0.5, 1, 2, 3, 4, 5, 6, 7, 8, 10, 13, 15, 20, 25, 30, 40, 60 с
+4. Серийная: 3/5/7 с
+5. AEB: 1/3EVх3, 2/3EVх3, 1EV?3, 1/3EV?5, 2/3EVх5, 1EV5
+6. Таймлапс: 4K/2.7K/1080p
+0.5/1/2/3/4/5/6/7/8/10/13/15/20/25/30/40/60
+5/10/20/30/60/120/180/300</param>
+	<param name="Запись аудио">48 КГц; формат: AAC</param>
+	<param name="Карта памяти">microSD, максимально до 256 ГБ</param>
+	<param name="Разъёмы"></param>
+	<param name="Питание">Литий-полимерный аккумулятор, 1300 мА*ч, 3.85 В
+Время зарядки: 90 мин</param>
+	<param name="Дополнительные функции">Диапазон выдержки: 120–1/8000 с
+Максимальное разрешение изображения: 4000х3000 пикселей
+Максимальный битрейт видео: 100 Мбит/с
+Поддерживаемые форматы файлов: FAT32 (?32 Гбайт); exFAT (?64 Гбайт)
+Фотоформаты: JPEG/JPEG+DNG
+Видеоформаты: MOV, MP4 (H.264)
+Протокол Wi-Fi: 802.11a/b/g/n/ac
+Протокол Bluetooth: BLE 4.2
+Диапазон рабочих температур: -10°C...+40°C</param>
+	<param name="Размеры (Д х Ш х В, мм)">65 х 42 х 35</param>
+	<param name="Вес (грамм)">124</param>
+	<param name="Комплект поставки">Камера х 1
+Рамка камеры х 1
+Плоское клейкое крепление х 1
+Изогнутое клейкое крепление х 1
+Быстросъемная база х 1
+Аккумулятор х 1
+Чехол для аккумулятора х 1
+Фиксирующий винт х 1
+USB-C кабель х 1</param>
+	<param name="Цвет">Black</param>
+	<param name="Поддержка карт памяти">microSD/microSDHC</param>
+	<param name="Тип видеокамеры">Экшн-камеры</param>
+	<param name="Режим видеосъемки"><p>4K (16:9): 60, 50, 48, 30, 25, 24 c<br />4K (4:3): 30, 25, 24 кадров/с<br />2.7K (4:3): 30, 25, 24 кадров/с<br />2.7K (16:9): 60, 50, 48, 30, 25, 24 кадров/с<br />1080p: 240, 200, 120, 100, 60, 50, 48, 30, 25, 24 кадров/с<br />720p: 240, 200 кадров/с</p>
+<p>Видео HDR<br />4K: 30, 25, 24 кадров/с<br />2.7K : 30, 25, 24 кадров/с<br />1080p: 30, 25, 24 кадров/с</p>
+<p>Таймлапс<br />4K: 30, 25, 24 кадров/с<br />2.7K: 30, 25, 24 кадров/с<br />1080p: 30, 25, 24 кадров/с</p></param>
+	<param name="Разрешение видео"></param>
+	<param name="Ширина"></param>
+	<param name="Высота"></param>
+	<param name="Глубина"></param>
+	<param name="Наличие Wi-Fi">Есть</param>
+	<param name="Размер матрицы"></param>
+	<param name="Разъем для внешнего микрофона"></param>
+	<param name="Встроенный проектор">Нет</param>
+	<param name="Оптическая стабилизация"></param>
+	<param name="Оптический зум"></param>
+	<param name="Зарядное устройство"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	MSPARROTSEQ">
 	<url>http://store.drone.ua/product/parrot-sequoia-plus/</url>
@@ -5401,8 +5319,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	D.UA.PD1900">
 	<url>http://store.drone.ua/product/pd1900/</url>
@@ -5466,8 +5382,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.BX.000237">
 	<url>http://store.drone.ua/product/cendence-remote-controller/</url>
@@ -5507,8 +5421,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.MA.00000080.01">
 	<url>http://store.drone.ua/product/pult-dji-smart-controller/</url>
@@ -5572,8 +5484,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.PT.000649">
 	<url>http://store.drone.ua/product/kontroller-mavic/</url>
@@ -5607,8 +5517,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.PT.000792">
 	<url>http://store.drone.ua/product/spark-remote-controller/</url>
@@ -5646,8 +5554,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.PT.00000220.02">
 	<url>http://store.drone.ua/product/pult-upravlenija-gamesir-t1d/</url>
@@ -5704,8 +5610,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	CP.BX.000178.02">
 	<url>http://store.drone.ua/product/kontroller-inspire-2/</url>
@@ -5751,8 +5655,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	AGRASMG1PKIT">
 	<url>http://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
@@ -5784,8 +5686,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	DJIMG1SHUB">
 	<url>http://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
@@ -5820,8 +5720,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	DJIMG1CH">
 	<url>http://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
@@ -5853,8 +5751,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	DJIAGR1P">
 	<url>http://store.drone.ua/product/agras-mg-1p/</url>
@@ -5905,8 +5801,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	CP.TP.00000008.01">
 	<url>http://store.drone.ua/product/agras-mg-1s/</url>
@@ -5954,8 +5848,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PA.ST.02">
 	<url>http://store.drone.ua/product/anafi-thermal/</url>
@@ -5992,8 +5884,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PA.ST.03">
 	<url>http://store.drone.ua/product/anafi-work/</url>
@@ -6025,8 +5915,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PA.ST.04">
 	<url>http://store.drone.ua/product/anafi-extended/</url>
@@ -6062,8 +5950,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PA.ST.05">
 	<url>http://store.drone.ua/product/anafi/</url>
@@ -6107,8 +5993,6 @@ Anafi — ультрапортативный беспилотник, компа�
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PA.ST.06">
 	<url>http://store.drone.ua/product/bluegrass/</url>
@@ -6147,8 +6031,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PA.ST.07">
 	<url>http://store.drone.ua/product/mambo-fpv/</url>
@@ -6184,8 +6066,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PA.ST.11">
 	<url>http://store.drone.ua/product/bebop-2-fpv/</url>
@@ -6219,8 +6099,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PA.ST.14">
 	<url>http://store.drone.ua/product/bebop-2-power-fpv-pack/</url>
@@ -6254,8 +6132,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="false" id="
 	PA.ST.18">
 	<url>http://store.drone.ua/product/disco-pro-ag/</url>
@@ -6290,8 +6166,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PA.ST.19">
 	<url>http://store.drone.ua/product/parrot_skycontroller3/</url>
@@ -6325,8 +6199,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PA.ST.20">
 	<url>http://store.drone.ua/product/anafi_smart_battery/</url>
@@ -6359,8 +6231,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PA.ST.21">
 	<url>http://store.drone.ua/product/anafi_travel_bag/</url>
@@ -6396,8 +6266,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PA.ST.22">
 	<url>http://store.drone.ua/product/parrot_skycontroller_3_tablet_holder/</url>
@@ -6430,8 +6298,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	
-	
 	<offer available="true" id="
 	PA.ST.23">
 	<url>http://store.drone.ua/product/anafi_foldable_propellers/</url>
@@ -6464,6 +6330,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	</offers>
-	</shop>
-	</yml_catalog>
+</offers>	
+</shop>	
+</yml_catalog>
