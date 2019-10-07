@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-10-07 16:57">	
+<yml_catalog date="2019-10-07 17:28">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -13,8 +13,11 @@
 <category id="2" parentId="81202">Моноподы для селфи и аксессуары</category>	
 <category id="3" parentId="80002">Видеокамеры</category>	
 <category id="4" parentId="4658068">Стедикамы</category>	
+	
 </categories>	
 <offers>	
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000132.01">
 	<url>http://store.drone.ua/product/mavic-air-ref-black/</url>
@@ -100,6 +103,8 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000141.01">
 	<url>http://store.drone.ua/product/mavic-air-ref-white/</url>
@@ -185,6 +190,8 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000148.01">
 	<url>http://store.drone.ua/product/mavic-air-ref-red/</url>
@@ -270,6 +277,8 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000159.01">
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
@@ -355,6 +364,8 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000168.01">
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
@@ -440,6 +451,8 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000169.01.CP.PT.00000168.01">
 	<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
@@ -525,6 +538,8 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000075.01">
 	<url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
@@ -582,6 +597,8 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CP.PT.00000065.01">
 	<url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
@@ -639,6 +656,9 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
+	
 	<offer available="false" id="
 	CP.MA.00000014.01">
 	<url>http://store.drone.ua/product/mavic-2-zoom/</url>
@@ -681,6 +701,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.MA.00000013.01">
 	<url>http://store.drone.ua/product/mavic-2-pro/</url>
@@ -720,6 +742,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000242.01">
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
@@ -803,6 +827,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0/</url>
@@ -886,6 +912,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.PT.00000210.01">
 	<url>http://store.drone.ua/product/tello/</url>
@@ -939,6 +967,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.TL.00000015.01">
 	<url>http://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
@@ -993,6 +1023,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.TL.00000002.01">
 	<url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
@@ -1046,6 +1078,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	ST.IN.000001">
 	<url>http://store.drone.ua/product/insta360-one-x/</url>
@@ -1309,6 +1343,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.IN.000002">
 	<url>http://store.drone.ua/product/insta360-one/</url>
@@ -1499,6 +1535,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.IN.000003">
 	<url>http://store.drone.ua/product/insta360-pro/</url>
@@ -1726,6 +1764,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.IN.000004">
 	<url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
@@ -2016,6 +2056,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.IN.000005">
 	<url>http://store.drone.ua/product/insta360-titan/</url>
@@ -2286,6 +2328,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.IN.000006_S">
 	<url>http://store.drone.ua/product/insta360-nano-s-black/</url>
@@ -2486,6 +2530,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.IN.000006_B">
 	<url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
@@ -2688,6 +2734,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CINEVOX/A">
 	<url>http://store.drone.ua/product/insta360-evo/</url>
@@ -2949,6 +2997,10 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
+	
+	
 	<offer available="false" id="
 	CP.PT.000741">
 	<url>http://store.drone.ua/product/spark/</url>
@@ -2979,6 +3031,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.000743">
 	<url>http://store.drone.ua/product/spark-golyboi/</url>
@@ -3009,6 +3063,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.000744">
 	<url>http://store.drone.ua/product/spark-zelenyj-2/</url>
@@ -3039,6 +3095,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.000745">
 	<url>http://store.drone.ua/product/spark-krasnyj/</url>
@@ -3069,6 +3127,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.000742">
 	<url>http://store.drone.ua/product/spark-zheltyj/</url>
@@ -3099,6 +3159,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000194.01">
 	<url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
@@ -3132,6 +3194,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.PT.00000077.01">
 	<url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
@@ -3166,6 +3230,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.000587">
 	<url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
@@ -3199,6 +3265,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.PT.000601">
 	<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
@@ -3229,6 +3297,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	ST.0000015">
 	<url>http://store.drone.ua/product/tello-part-1-battery/</url>
@@ -3260,6 +3330,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.VL.00000014.01">
 	<url>http://store.drone.ua/product/goggles-racing-edition/</url>
@@ -3307,6 +3379,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.PT.000670">
 	<url>http://store.drone.ua/product/goggles/</url>
@@ -3353,6 +3427,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.000889">
 	<url>http://store.drone.ua/product/spark-fly-more-combo/</url>
@@ -3384,6 +3460,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.MA.00000037.01">
 	<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
@@ -3423,6 +3501,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000132.01_2">
 	<url>http://store.drone.ua/product/mavic-air-black/</url>
@@ -3489,6 +3569,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000141.01_2">
 	<url>http://store.drone.ua/product/mavic-air/</url>
@@ -3555,6 +3637,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000148.01_2">
 	<url>http://store.drone.ua/product/mavic-air-red/</url>
@@ -3621,6 +3705,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000159.01_2">
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
@@ -3687,6 +3773,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000168.01_2">
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
@@ -3753,6 +3841,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000169.01_2">
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
@@ -3819,6 +3909,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000075.01_2">
 	<url>http://store.drone.ua/product/mavic-pro-platinum/</url>
@@ -3861,6 +3953,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.PT.00000065.01_2">
 	<url>http://store.drone.ua/product/mavic-pro-platinum-combo/</url>
@@ -3903,6 +3997,9 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
+	
 	<offer available="false" id="
 	ST.CI.00001">
 	<url>http://store.drone.ua/product/podvodnyj-dron-gladius/</url>
@@ -3939,6 +4036,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	ST.CI.00002">
 	<url>http://store.drone.ua/product/gladius-mini/</url>
@@ -3978,6 +4077,8 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	ST.CI.00102">
 	<url>http://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
@@ -4012,7 +4113,9 @@
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	
+	
+	<offer available="false" id="
 	ST.CP.ZM.00000104.01">
 	<url>http://store.drone.ua/product/ronin-s-ref/</url>
 	<price>20175.02</price>
@@ -4064,6 +4167,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.ZM.00000097.01">
 	<url>http://store.drone.ua/product/osmo-pocket/</url>
@@ -4216,7 +4321,9 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	
+	
+	<offer available="false" id="
 	CP.ZM.00000064.01">
 	<url>http://store.drone.ua/product/osmo-mobile-2/</url>
 	<price>4620</price>
@@ -4361,6 +4468,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.ZM.00000104.01_2">
 	<url>http://store.drone.ua/product/ronin-s/</url>
@@ -4392,6 +4501,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PZM200">
 	<url>http://store.drone.ua/product/parazero-safeair-m-200/</url>
@@ -4476,6 +4587,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PZM600">
 	<url>http://store.drone.ua/product/parazero-safeair-m-600/</url>
@@ -4559,6 +4672,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PZPHANTOM">
 	<url>http://store.drone.ua/product/parazero-safeair-phantom/</url>
@@ -4631,6 +4746,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PZMAVIC">
 	<url>http://store.drone.ua/product/parazero-safeair-mavic/</url>
@@ -4701,6 +4818,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.RN.00000040.01">
 	<url>http://store.drone.ua/product/dji-ronin-sc/</url>
@@ -4731,6 +4850,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.RN.00000043.01">
 	<url>http://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
@@ -4761,6 +4882,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.OS.00000022.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3/</url>
@@ -4813,6 +4936,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.OS.00000040.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3-combo/</url>
@@ -4865,6 +4990,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.TR.00000006.01">
 	<url>http://store.drone.ua/product/dji-fpv-experience-combo/</url>
@@ -4969,6 +5096,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.TR.00000006.02">
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-1/</url>
@@ -5073,6 +5202,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.TR.00000006.03">
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-2/</url>
@@ -5177,6 +5308,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.OS.00000020.01">
 	<url>http://store.drone.ua/product/dji-osmo-action/</url>
@@ -5226,6 +5359,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	MSPARROTSEQ">
 	<url>http://store.drone.ua/product/parrot-sequoia-plus/</url>
@@ -5266,6 +5401,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	D.UA.PD1900">
 	<url>http://store.drone.ua/product/pd1900/</url>
@@ -5329,6 +5466,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.BX.000237">
 	<url>http://store.drone.ua/product/cendence-remote-controller/</url>
@@ -5368,6 +5507,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.MA.00000080.01">
 	<url>http://store.drone.ua/product/pult-dji-smart-controller/</url>
@@ -5431,6 +5572,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.PT.000649">
 	<url>http://store.drone.ua/product/kontroller-mavic/</url>
@@ -5464,6 +5607,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.PT.000792">
 	<url>http://store.drone.ua/product/spark-remote-controller/</url>
@@ -5501,6 +5646,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.PT.00000220.02">
 	<url>http://store.drone.ua/product/pult-upravlenija-gamesir-t1d/</url>
@@ -5557,6 +5704,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	CP.BX.000178.02">
 	<url>http://store.drone.ua/product/kontroller-inspire-2/</url>
@@ -5602,6 +5751,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	AGRASMG1PKIT">
 	<url>http://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
@@ -5633,6 +5784,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	DJIMG1SHUB">
 	<url>http://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
@@ -5667,6 +5820,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	DJIMG1CH">
 	<url>http://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
@@ -5698,6 +5853,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	DJIAGR1P">
 	<url>http://store.drone.ua/product/agras-mg-1p/</url>
@@ -5748,6 +5905,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	CP.TP.00000008.01">
 	<url>http://store.drone.ua/product/agras-mg-1s/</url>
@@ -5795,6 +5954,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PA.ST.02">
 	<url>http://store.drone.ua/product/anafi-thermal/</url>
@@ -5831,6 +5992,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PA.ST.03">
 	<url>http://store.drone.ua/product/anafi-work/</url>
@@ -5862,6 +6025,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PA.ST.04">
 	<url>http://store.drone.ua/product/anafi-extended/</url>
@@ -5897,6 +6062,8 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PA.ST.05">
 	<url>http://store.drone.ua/product/anafi/</url>
@@ -5940,6 +6107,8 @@ Anafi — ультрапортативный беспилотник, компа�
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PA.ST.06">
 	<url>http://store.drone.ua/product/bluegrass/</url>
@@ -5978,6 +6147,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PA.ST.07">
 	<url>http://store.drone.ua/product/mambo-fpv/</url>
@@ -6013,6 +6184,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PA.ST.11">
 	<url>http://store.drone.ua/product/bebop-2-fpv/</url>
@@ -6046,6 +6219,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PA.ST.14">
 	<url>http://store.drone.ua/product/bebop-2-power-fpv-pack/</url>
@@ -6079,6 +6254,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="false" id="
 	PA.ST.18">
 	<url>http://store.drone.ua/product/disco-pro-ag/</url>
@@ -6113,6 +6290,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PA.ST.19">
 	<url>http://store.drone.ua/product/parrot_skycontroller3/</url>
@@ -6146,6 +6325,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PA.ST.20">
 	<url>http://store.drone.ua/product/anafi_smart_battery/</url>
@@ -6178,6 +6359,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PA.ST.21">
 	<url>http://store.drone.ua/product/anafi_travel_bag/</url>
@@ -6213,6 +6396,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PA.ST.22">
 	<url>http://store.drone.ua/product/parrot_skycontroller_3_tablet_holder/</url>
@@ -6245,6 +6430,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
+	
+	
 	<offer available="true" id="
 	PA.ST.23">
 	<url>http://store.drone.ua/product/anafi_foldable_propellers/</url>
@@ -6277,6 +6464,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-</offers>	
-</shop>	
-</yml_catalog>
+	</offers>
+	</shop>
+	</yml_catalog>
