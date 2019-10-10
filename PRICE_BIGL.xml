@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-10-01 18:23">	
+<price date="2019-10-10 16:59">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -14,7 +14,7 @@
 	<item id="CP.PT.00000132.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
 	<url>http://store.drone.ua/product/mavic-air-black/</url>
-	<price>24390</price>
+	<price>22910</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
@@ -63,7 +63,7 @@
 	<item id="CP.PT.00000141.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
 	<url>http://store.drone.ua/product/mavic-air/</url>
-	<price>24390</price>
+	<price>22910</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -112,7 +112,7 @@
 	<item id="CP.PT.00000148.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
 	<url>http://store.drone.ua/product/mavic-air-red/</url>
-	<price>24390</price>
+	<price>22910</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -161,7 +161,7 @@
 	<item id="CP.PT.00000159.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
-	<price>30990</price>
+	<price>29110</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
@@ -210,7 +210,7 @@
 	<item id="CP.PT.00000168.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
-	<price>30990</price>
+	<price>29110</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
@@ -259,7 +259,7 @@
 	<item id="CP.PT.00000169.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
-	<price>30990</price>
+	<price>29110</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
@@ -308,7 +308,7 @@
 	<item id="CP.PT.00000075.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum</name>
 	<url>http://store.drone.ua/product/mavic-pro-platinum/</url>
-	<price>36270</price>
+	<price>34070</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
@@ -330,10 +330,10 @@
 	<vendorCode>CP.PT.00000075.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.PT.00000065.01" available="true">
+	<item id="CP.PT.00000065.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo</name>
 	<url>http://store.drone.ua/product/mavic-pro-platinum-combo/</url>
-	<price>42870</price>
+	<price>40270</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
@@ -355,10 +355,10 @@
 	<vendorCode>CP.PT.00000065.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.ZM.00000104.01" available="false">
+	<item id="CP.ZM.00000104.01" available="true">
 	<name>Стедикам DJI Ronin-S</name>
 	<url>http://store.drone.ua/product/ronin-s/</url>
-	<price>24720</price>
+	<price>23220</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -375,7 +375,7 @@
 	<item id="CP.ZM.00000064.01" available="false">
 	<name>Стедикам DJI Osmo Mobile 2</name>
 	<url>http://store.drone.ua/product/osmo-mobile-2/</url>
-	<price>4920</price>
+	<price>4620</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
@@ -506,7 +506,7 @@
 	<item id="ST.000075" available="true">
 	<name>Стедикам DJI Osmo Pocket</name>
 	<url>http://store.drone.ua/product/osmo-pocket/</url>
-	<price>11850</price>
+	<price>11130</price>
 	<categoryId>4</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
@@ -644,7 +644,7 @@
 	<item id="CP.VL.00000014.01" available="false">
 	<name>Очки виртуальной реальности DJI Goggles Racing Edition</name>
 	<url>http://store.drone.ua/product/goggles-racing-edition/</url>
-	<price>19770</price>
+	<price>18570</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture>
@@ -674,7 +674,7 @@
 	<item id="CP.PT.000670" available="true">
 	<name>Очки виртуальной реальности DJI Goggles</name>
 	<url>http://store.drone.ua/product/goggles/</url>
-	<price>13170</price>
+	<price>12370</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_1.png</picture>
@@ -703,7 +703,7 @@
 	<item id="CP.PT.000889" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark Fly More Combo</name>
 	<url>http://store.drone.ua/product/spark-fly-more-combo/</url>
-	<price>21420</price>
+	<price>20120</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
@@ -717,7 +717,7 @@
 	<item id="CP.MA.00000013.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro</name>
 	<url>http://store.drone.ua/product/mavic-2-pro/</url>
-	<price>47820</price>
+	<price>44920</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
@@ -739,7 +739,7 @@
 	<item id="CP.MA.00000014.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom</name>
 	<url>http://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>39990</price>
+	<price>37570</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
@@ -764,7 +764,7 @@
 	<item id="CP.MA.00000037.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit</name>
 	<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
-	<price>12510</price>
+	<price>11750</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</picture>
@@ -1312,7 +1312,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000242.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0</name>
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>49470</price>
+	<price>46470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
@@ -1378,7 +1378,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000232.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0</name>
 	<url>http://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>59370</price>
+	<price>55770</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -1444,7 +1444,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000210.01" available="true">
 	<name>Квадрокоптер (дрон) Ryze Tello</name>
 	<url>http://store.drone.ua/product/tello/</url>
-	<price>3600</price>
+	<price>3380</price>
 	<categoryId>1</categoryId>
 	<vendor>Ryze</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</picture>
@@ -1480,7 +1480,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.TL.00000015.01" available="true">
 	<name>Квадрокоптер (дрон) Ryze Tello Boost Combo</name>
 	<url>http://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
-	<price>5250</price>
+	<price>4930</price>
 	<categoryId>1</categoryId>
 	<vendor>Ryze</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</picture>
@@ -1517,7 +1517,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.TL.00000002.01" available="false">
 	<name>Квадрокоптер (дрон) Ryze Tello Iron Man Edition</name>
 	<url>http://store.drone.ua/product/dji-tello-iron-man-edition/</url>
-	<price>4590</price>
+	<price>4310</price>
 	<categoryId>1</categoryId>
 	<vendor>Ryze</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</picture>
@@ -1553,7 +1553,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000001" available="true">
 	<name>Action камера Insta360 One X</name>
 	<url>http://store.drone.ua/product/insta360-one-x/</url>
-	<price>12970</price>
+	<price>12720</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
@@ -1777,7 +1777,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000002" available="false">
 	<name>Action камера Insta360 One</name>
 	<url>http://store.drone.ua/product/insta360-one/</url>
-	<price>7380</price>
+	<price>7240</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</picture>
@@ -1928,7 +1928,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000003" available="false">
 	<name>Action камера Insta360 Pro</name>
 	<url>http://store.drone.ua/product/insta360-pro/</url>
-	<price>119570</price>
+	<price>117270</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</picture>
@@ -2116,7 +2116,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000004" available="false">
 	<name>Action камера Insta360 Pro 2</name>
 	<url>http://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
-	<price>163770</price>
+	<price>160620</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</picture>
@@ -2367,7 +2367,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000005" available="false">
 	<name>Action камера Insta360 Titan</name>
 	<url>http://store.drone.ua/product/insta360-titan/</url>
-	<price>493970</price>
+	<price>484470</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</picture>
@@ -2598,7 +2598,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000006_b" available="false">
 	<name>Action камера Insta360 Nano S</name>
 	<url>http://store.drone.ua/product/insta360-nano-s-black/</url>
-	<price>8290</price>
+	<price>8610</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</picture>
@@ -2759,7 +2759,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000006_s" available="false">
 	<name>Action камера Insta360 Nano S</name>
 	<url>http://store.drone.ua/product/insta360-nano-s-silver/</url>
-	<price>8290</price>
+	<price>8610</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</picture>
@@ -2922,7 +2922,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CINEVOX/A" available="true">
 	<name>Action камера Insta360 Evo</name>
 	<url>http://store.drone.ua/product/insta360-evo/</url>
-	<price>13490</price>
+	<price>13230</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</picture>
@@ -3202,7 +3202,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000741" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
 	<url>http://store.drone.ua/product/spark/</url>
-	<price>16470</price>
+	<price>15470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
@@ -3215,7 +3215,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000743" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
 	<url>http://store.drone.ua/product/spark-golyboi/</url>
-	<price>16470</price>
+	<price>15470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
@@ -3228,7 +3228,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000744" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
 	<url>http://store.drone.ua/product/spark-zelenyj-2/</url>
-	<price>16470</price>
+	<price>15470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
@@ -3241,7 +3241,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000745" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
 	<url>http://store.drone.ua/product/spark-krasnyj/</url>
-	<price>16470</price>
+	<price>15470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
@@ -3254,7 +3254,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000742" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
 	<url>http://store.drone.ua/product/spark-zheltyj/</url>
-	<price>16470</price>
+	<price>15470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
@@ -3264,10 +3264,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.PT.000742</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.PT.00000194.01" available="false">
+	<item id="CP.PT.00000194.01" available="true">
 	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh</name>
 	<url>http://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
-	<price>2610</price>
+	<price>2450</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
@@ -3283,7 +3283,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000077.01" available="true">
 	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh</name>
 	<url>http://store.drone.ua/product/accum-mavic-pro-platinum/</url>
-	<price>3270</price>
+	<price>3070</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
@@ -3300,7 +3300,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000587" available="false">
 	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh</name>
 	<url>http://store.drone.ua/product/batareja-dlja-mavic/</url>
-	<price>3270</price>
+	<price>3070</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
@@ -3316,7 +3316,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000601" available="true">
 	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh</name>
 	<url>http://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
-	<price>6240</price>
+	<price>5860</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
@@ -3329,7 +3329,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.0000015" available="true">
 	<name>Аккумулятор Ryze Tello 1100 mAh</name>
 	<url>http://store.drone.ua/product/tello-part-1-battery/</url>
-	<price>830</price>
+	<price>780</price>
 	<categoryId>2</categoryId>
 	<vendor>Ryze</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
@@ -3584,7 +3584,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.RN.00000040.01" available="true">
 	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
 	<url>http://store.drone.ua/product/dji-ronin-sc/</url>
-	<price>11850</price>
+	<price>11130</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</picture>
@@ -3600,7 +3600,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.RN.00000043.01" available="true">
 	<name>Стедикам DJI Ronin-SC Pro Combo (CP.RN.00000043.01)</name>
 	<url>http://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
-	<price>15150</price>
+	<price>14230</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_1.jpg</picture>
@@ -3613,10 +3613,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.RN.00000043.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.OS.00000022.01" available="true">
+	<item id="CP.OS.00000022.01" available="false">
 	<name>Стедикам DJI Osmo Mobile 3 (CP.OS.00000022.01)</name>
 	<url>http://store.drone.ua/product/osmo-mobile-3/</url>
-	<price>3600</price>
+	<price>3380</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</picture>
@@ -3651,10 +3651,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.OS.00000022.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.OS.00000040.01" available="true">
+	<item id="CP.OS.00000040.01" available="false">
 	<name>Стедикам DJI Osmo Mobile 3 Combo (CP.OS.00000040.01)</name>
 	<url>http://store.drone.ua/product/osmo-mobile-3-combo/</url>
-	<price>4260</price>
+	<price>4000</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_1.jpg</picture>
@@ -3689,10 +3689,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.OS.00000040.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.TR.00000006.01" available="true">
+	<item id="CP.TR.00000006.01" available="false">
 	<name>Очки DJI FPV Experience Combo (CP.TR.00000006.01)</name>
 	<url>http://store.drone.ua/product/dji-fpv-experience-combo/</url>
-	<price>29010</price>
+	<price>27250</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_1.jpg</picture>
@@ -3776,10 +3776,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.TR.00000006.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.TR.00000006.02" available="true">
+	<item id="CP.TR.00000006.02" available="false">
 	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.02)</name>
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-1/</url>
-	<price>32970</price>
+	<price>30970</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</picture>
@@ -3863,10 +3863,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.TR.00000006.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.TR.00000006.03" available="true">
+	<item id="CP.TR.00000006.03" available="false">
 	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.03)</name>
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-2/</url>
-	<price>32970</price>
+	<price>30970</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</picture>
@@ -3953,7 +3953,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.OS.00000020.01" available="true">
 	<name>Экшн-камера DJI Osmo Action (CP.OS.00000020.01)</name>
 	<url>http://store.drone.ua/product/dji-osmo-action/</url>
-	<price>12510</price>
+	<price>11750</price>
 	<categoryId>4</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Action_1.jpg</picture>
@@ -4049,7 +4049,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.BX.000237" available="false">
 	<name>Пульт управления DJI Cendence (CP.BX.000237)</name>
 	<url>http://store.drone.ua/product/cendence-remote-controller/</url>
-	<price>37920</price>
+	<price>35620</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</picture>
@@ -4071,7 +4071,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.MA.00000080.01" available="true">
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
 	<url>http://store.drone.ua/product/pult-dji-smart-controller/</url>
-	<price>21420</price>
+	<price>20120</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</picture>
@@ -4117,7 +4117,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.000649" available="true">
 	<name>Пульт управления DJI для Mavic Pro (CP.PT.000649)</name>
 	<url>http://store.drone.ua/product/kontroller-mavic/</url>
-	<price>11850</price>
+	<price>11130</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_1.jpg</picture>
@@ -4130,10 +4130,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.PT.000649</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.PT.000792" available="true">
+	<item id="CP.PT.000792" available="false">
 	<name>Пульт управления DJI для Spark (CP.PT.000792)</name>
 	<url>http://store.drone.ua/product/spark-remote-controller/</url>
-	<price>5580</price>
+	<price>5240</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_1.jpg</picture>
@@ -4153,7 +4153,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000220.02" available="true">
 	<name>Пульт управления GameSir T1d для Ryze Tello (CP.PT.00000220.02)</name>
 	<url>http://store.drone.ua/product/pult-upravlenija-gamesir-t1d/</url>
-	<price>1120</price>
+	<price>1050</price>
 	<categoryId>2</categoryId>
 	<vendor>GameSir</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_1.jpg</picture>
@@ -4189,10 +4189,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<vendorCode>CP.PT.00000220.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	</item>
-	<item id="CP.BX.000178.02" available="true">
+	<item id="CP.BX.000178.02" available="false">
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
 	<url>http://store.drone.ua/product/kontroller-inspire-2/</url>
-	<price>20760</price>
+	<price>19500</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</picture>
@@ -4220,7 +4220,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="AGRASMG1PKIT" available="false">
 	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
 	<url>http://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
-	<price>23760</price>
+	<price>22320</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</picture>
@@ -4234,7 +4234,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="DJIMG1SHUB" available="false">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<url>http://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
-	<price>39570</price>
+	<price>37170</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</picture>
@@ -4251,7 +4251,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="DJIMG1CH" available="false">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<url>http://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
-	<price>35640</price>
+	<price>33480</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</picture>
@@ -4265,7 +4265,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="DJIAGR1P" available="false">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>http://store.drone.ua/product/agras-mg-1p/</url>
-	<price>395970</price>
+	<price>371970</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</picture>
@@ -4298,7 +4298,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.TP.00000008.01" available="false">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<url>http://store.drone.ua/product/agras-mg-1s/</url>
-	<price>258620</price>
+	<price>242950</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</picture>
