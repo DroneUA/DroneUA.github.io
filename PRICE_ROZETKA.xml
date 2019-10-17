@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-10-10 16:53">	
+<yml_catalog date="2019-10-17 17:15">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -13,6 +13,7 @@
 <category id="2" parentId="81202">Моноподы для селфи и аксессуары</category>	
 <category id="3" parentId="80002">Видеокамеры</category>	
 <category id="4" parentId="4658068">Стедикамы</category>	
+<category id="5" parentId="84542">Запчасти для радиоуправляемых моделей</category>	
 </categories>	
 <offers>	
 	<offer available="false" id="
@@ -676,18 +677,22 @@
 Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br>
 Размеры: 202 x 185 x 486 мм]]></description>
 	<param name="Артикул">ST.CP.ZM.00000104.01</param>
+	<param name="Назначение"></param>
+	<param name="Максимальная нагрузка, кг">3.6</param>
+	<param name="Тип">Электронный стедикам</param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения">Bluetooth, USB Type-C</param>
 	<param name="Особенности"></param>
 	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">18650</param>
+	<param name="Время зарядки, ч">3</param>
+	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
@@ -3138,18 +3143,22 @@ Cистемные требования для приложения Ronin: iOS 9 
 </table>
 <p>&nbsp;</p>]]></description>
 	<param name="Артикул">CP.ZM.00000097.01</param>
+	<param name="Назначение"></param>
+	<param name="Максимальная нагрузка, кг"></param>
+	<param name="Тип">Электронный стедикам</param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения"></param>
 	<param name="Особенности"></param>
-	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Режимы съемки">Ultra HD (4K)</param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">875</param>
+	<param name="Время зарядки, ч">2</param>
+	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -3283,18 +3292,22 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">CP.ZM.00000064.01</param>
+	<param name="Назначение">Для смартфона</param>
+	<param name="Максимальная нагрузка, кг">0.24</param>
+	<param name="Тип"></param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения"></param>
 	<param name="Особенности"></param>
 	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">2600</param>
+	<param name="Время зарядки, ч">2</param>
+	<param name="Цвет">Серый</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -4268,18 +4281,22 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<name>Стедикам DJI Ronin-S (CP.ZM.00000104.01)</name>
 	<description><![CDATA[<p>Крепежное отверстие: 1/4""-20, 3/8""-16, М4<br />Разъем для зарядки аксессуаров: 12 В/2 А<br />Разъем камеры<br />8-контактный разъем<br />Емкость аккумулятора: 2400 мА*ч<br />Интерфейсы связи: Bluetooth 4.0, USB Type-C<br />Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br />Размеры: 202 x 185 x 486 мм</p>]]></description>
 	<param name="Артикул">CP.ZM.00000104.01</param>
+	<param name="Назначение"></param>
+	<param name="Максимальная нагрузка, кг">3.6</param>
+	<param name="Тип">Электронный стедикам</param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения">Bluetooth, USB Type-C</param>
 	<param name="Особенности"></param>
 	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">18650</param>
+	<param name="Время зарядки, ч">2</param>
+	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -4716,18 +4733,22 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
 	<description><![CDATA[<p>С легким дизайном и превосходной стабилизацией,&nbsp;<strong>Ronin-SC Pro Combo</strong>&nbsp;представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</p>]]></description>
 	<param name="Артикул">CP.RN.00000040.01</param>
+	<param name="Назначение">Для беззеркальной камеры</param>
+	<param name="Максимальная нагрузка, кг">2</param>
+	<param name="Тип">Электронный стедикам</param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения">Bluetooth, USB Type-C</param>
-	<param name="Особенности"></param>
+	<param name="Особенности">Складная конструкция, С блокировкой оси</param>
 	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">18650</param>
+	<param name="Время зарядки, ч">3</param>
+	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -4746,18 +4767,22 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<name>Стедикам DJI Ronin-SC Pro Combo (CP.RN.00000043.01)</name>
 	<description><![CDATA[<p>С легким дизайном и превосходной стабилизацией,&nbsp;<strong>Ronin-SC Pro Combo</strong>&nbsp;представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</p>]]></description>
 	<param name="Артикул">CP.RN.00000043.01</param>
+	<param name="Назначение">Для беззеркальной камеры</param>
+	<param name="Максимальная нагрузка, кг">2</param>
+	<param name="Тип">Электронный стедикам</param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения">Bluetooth, USB Type-C</param>
-	<param name="Особенности"></param>
+	<param name="Особенности">Складная конструкция, С блокировкой оси</param>
 	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">18650</param>
+	<param name="Время зарядки, ч">3</param>
+	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -4798,18 +4823,22 @@ Cистемные требования для приложения Ronin: iOS 9 
 <p><strong>Аккумулятор:</strong></p>
 <p>Тип 18650, емкость 2450 mAh</p>]]></description>
 	<param name="Артикул">CP.OS.00000022.01</param>
+	<param name="Назначение">Для смартфона</param>
+	<param name="Максимальная нагрузка, кг"></param>
+	<param name="Тип">Электронный стедикам</param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения">Bluetooth</param>
 	<param name="Особенности"></param>
 	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">2450</param>
+	<param name="Время зарядки, ч">3</param>
+	<param name="Цвет">Серый</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -4850,18 +4879,22 @@ Cистемные требования для приложения Ronin: iOS 9 
 <p><strong>Аккумулятор:</strong></p>
 <p>Тип 18650, емкость 2450 mAh</p>]]></description>
 	<param name="Артикул">CP.OS.00000040.01</param>
+	<param name="Назначение">Для смартфона</param>
+	<param name="Максимальная нагрузка, кг"></param>
+	<param name="Тип">Электронный стедикам</param>
+	<param name="Стабилизация">Трехосевая</param>
 	<param name="Тип подключения">Bluetooth</param>
 	<param name="Особенности"></param>
 	<param name="Режимы съемки"></param>
-	<param name="Питание"></param>
+	<param name="Питание">Аккумулятор</param>
 	<param name="Совместимость с камерами"></param>
 	<param name="Углы поворота (стабилизации)"></param>
 	<param name="Предельная диагональ телефона"></param>
 	<param name="Комплектация"></param>
 	<param name="Дополнительные характеристики"></param>
-	<param name="Емкость аккумулятора, мАч"></param>
-	<param name="Время зарядки, ч"></param>
-	<param name="Цвет"></param>
+	<param name="Емкость аккумулятора, мАч">2450</param>
+	<param name="Время зарядки, ч">3</param>
+	<param name="Цвет">Серый</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -4870,7 +4903,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>http://store.drone.ua/product/dji-fpv-experience-combo/</url>
 	<price>27250</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_3.jpg</picture>
@@ -4951,21 +4984,11 @@ Cистемные требования для приложения Ronin: iOS 9 
 </div>
 </div>]]></description>
 	<param name="Артикул">CP.TR.00000006.01</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">4920</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Радиоуправление</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Серый</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -4974,7 +4997,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-1/</url>
 	<price>30970</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_3.jpg</picture>
@@ -5055,21 +5078,11 @@ Cистемные требования для приложения Ronin: iOS 9 
 </div>
 </div>]]></description>
 	<param name="Артикул">CP.TR.00000006.02</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">4920</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Радиоуправление</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Серый</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5078,7 +5091,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>http://store.drone.ua/product/dji-fpv-fly-more-combo-mode-2/</url>
 	<price>30970</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_3.jpg</picture>
@@ -5159,21 +5172,11 @@ Cистемные требования для приложения Ronin: iOS 9 
 </div>
 </div>]]></description>
 	<param name="Артикул">CP.TR.00000006.03</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">4920</param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Радиоуправление</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Серый</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5284,7 +5287,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/parrot-sequoia-plus/</url>
 	<price>126720</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/SEQUOIA+_2.jpg</picture>
 	<vendor>Parrot</vendor>
@@ -5301,21 +5304,11 @@ USB-C кабель х 1</param>
 <p><strong>Автономный сенсор</strong></p>
 <p>Мультиспектральный сенсор Sequoia+ включает в себя GPS, что значительно увеличивает точность сбора данных. Устройство отслеживает позицию, высоту и скорость, соответственно регулируя свою работу</p>]]></description>
 	<param name="Артикул">MSPARROTSEQ</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Камеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черно-красный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5387,7 +5380,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/cendence-remote-controller/</url>
 	<price>35620</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_3.jpg</picture>
@@ -5403,21 +5396,11 @@ USB-C кабель х 1</param>
 <p>Монитор CrystalSky крепится на специальный держатель на пульте управления Cendence. Разборная конструкция Cendence позволяет легко устанавливать и снимать с него антенны, печатную плату, держатель устройств и аккумулятор для большей совместимости с будущими летательными аппаратами от DJI.</p>
 <p>Разъемы SDI и HDMI позволяют транслировать видеосигнал в 1080p 50 FPS и 720p 60 FPS. DJI Focus, Tracktenna и другие аксессуары можно подключить через разъем CAN. Tracktenna способна передавать сигнал на частотах 2.4 ГГц и 5.8 ГГц на большие расстояния. При использовании с Inspire 2 антенна может транслировать данные со скоростью 10 Мбит/с в радиусе 2 км. Это значительно улучшает качество видеопотока. Через разъем USB-A можно подключать другие мобильные устройства.</p>]]></description>
 	<param name="Артикул">CP.BX.000237</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5426,7 +5409,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/pult-dji-smart-controller/</url>
 	<price>20120</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_3.jpg</picture>
@@ -5466,21 +5449,11 @@ USB-C кабель х 1</param>
 <div><br />Модель: RM500</div>
 <div><br />Типы карт памяти:<br />microSD<br />Поддержка формата microSD объемом до 128 Гбайт, скоростью чтения и записи до UHS-1 Speed Grade 3<br />Примечания<br />DJI работает над расширением совместимости Smart Controller с другими моделями летательных аппаратов. Для получения актуальной информации посетите официальный сайт.</div>]]></description>
 	<param name="Артикул">CP.MA.00000080.01</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5489,7 +5462,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/kontroller-mavic/</url>
 	<price>11130</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_3.jpg</picture>
@@ -5499,21 +5472,11 @@ USB-C кабель х 1</param>
 	<name>Пульт управления DJI для Mavic Pro (CP.PT.000649)</name>
 	<description><![CDATA[DJI Mavic Remote Controller - пульт дистанционного управления предназначен для управления DJI Mavic и подвесом дрона. На LCD экране отображаются полетные данные. Есть возможность установить мобильное устройство в регулируемые ручки. Второй пульт управления дроном позволяет совместно управлять коптером и совместно снимать кадры с воздуха.]]></description>
 	<param name="Артикул">CP.PT.000649</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет"></param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5522,7 +5485,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/spark-remote-controller/</url>
 	<price>5240</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_3.jpg</picture>
@@ -5536,21 +5499,11 @@ USB-C кабель х 1</param>
 <p><strong>Характеристики:</strong></p>
 <p>Рабочая частота: 2.412 ~ 2.462 ГГц<br />Дальность передачи сигнала (на открытом пространстве): 2.412 ~ 2.462 ГГц (без препятствий и помех) Соответсвие требованиям FCC: 2000 м; Соответсвие требованиям CE: 500 м; Соответсвие требованиям SRRC: 500 м<br />EIRP: 2.400 ГГц FCC: &le;26 дБм; CE: &le;18 дБм; SRRC: &le;18 дБм<br />Мощность Передатчика: FCC: 23 дБм, EC: 17 дБм, SRRC: 20 дБм<br />Рабочий ток / напряжение: 950 мА при 3.7 В<br />Ёмкость аккумулятора: 2970 мАч<br />Поддерживаемый размер мобильного устройства: Поддерживаемая толщина: 6.5-8.5 мм; Максимальная длина: 160 мм<br />Рабочая температура: 0 &deg;C ~ 40 &deg;C</p>]]></description>
 	<param name="Артикул">CP.PT.000792</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5559,7 +5512,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/pult-upravlenija-gamesir-t1d/</url>
 	<price>1050</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_3.jpg</picture>
@@ -5592,21 +5545,11 @@ USB-C кабель х 1</param>
 <li>Ryze Tello</li>
 </ul>]]></description>
 	<param name="Артикул">CP.PT.00000220.02</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5615,7 +5558,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/kontroller-inspire-2/</url>
 	<price>19500</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_3.jpg</picture>
@@ -5637,21 +5580,11 @@ USB-C кабель х 1</param>
 <li>Рабочая температура: от -4 &deg; до 104 &deg; F (от -20 &deg; до 40 &deg; C)</li>
 </ul>]]></description>
 	<param name="Артикул">CP.BX.000178.02</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Серый</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5660,7 +5593,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
 	<price>22320</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>1</stock_quantity>
@@ -5668,21 +5601,11 @@ USB-C кабель х 1</param>
 	<description><![CDATA[<p>Интеллектуальная батарея <strong>DJI MG-12000P</strong>&nbsp;подходит для моделей дронов <strong>DJI Agras MG-1P</strong>&nbsp;и <strong>DJI MG-1S</strong>.</p>
 <p><strong>Емкость</strong>: 12 000 мА*ч</p>]]></description>
 	<param name="Артикул">AGRASMG1PKIT</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Аккумуляторы</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5691,7 +5614,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
 	<price>37170</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>1</stock_quantity>
@@ -5702,21 +5625,11 @@ USB-C кабель х 1</param>
 <li>6 разъемов для подключений</li>
 </ul>]]></description>
 	<param name="Артикул">DJIMG1SHUB</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Зарядные устройства</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера"></param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -5725,7 +5638,7 @@ USB-C кабель х 1</param>
 	<url>http://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
 	<price>33480</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_2.jpg</picture>
 	<vendor>DJI</vendor>
@@ -5733,21 +5646,11 @@ USB-C кабель х 1</param>
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<description><![CDATA[<p>Зарядная станция для зарядки интеллектуальной батареи, устанавливаемой в дрон&nbsp;<strong>DJI Agras 1S</strong></p>]]></description>
 	<param name="Артикул">DJIMG1CH</param>
-	<param name="Тип"></param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч">Аккумулятор, мА*ч</param>
-	<param name="Время полета">Время полета</param>
-	<param name="Высота полета">Высота полета</param>
-	<param name="Радиус действия аппаратуры">Радиус действия аппаратуры</param>
-	<param name="Приемник в комплекте">Приемник в комплекте</param>
-	<param name="Вес, г">Вес, г</param>
-	<param name="Комплект поставки">Комплект поставки</param>
-	<param name="Камера">Камера</param>
-	<param name="GPS-модуль">GPS-модуль</param>
-	<param name="Аппаратура управления">Аппаратура управления</param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Зарядные устройства</param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -6171,7 +6074,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/parrot_skycontroller3/</url>
 	<price>6570</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_2.jpg</picture>
 	<vendor>Parrot</vendor>
@@ -6181,21 +6084,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими дронами: ANAFI, ANAFI Thermal, ANAFI Work]]></description>
 	<param name="Артикул">PA.ST.19</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера">Без камеры</param>
-	<param name="GPS-модуль"></param>
-	<param name="Аппаратура управления"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -6204,7 +6097,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/anafi_smart_battery/</url>
 	<price>3300</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</picture>
 	<vendor>Parrot</vendor>
 	<stock_quantity>1</stock_quantity>
@@ -6213,21 +6106,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work]]></description>
 	<param name="Артикул">PA.ST.20</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Аккумуляторы</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера">Без камеры</param>
-	<param name="GPS-модуль">Без наличия</param>
-	<param name="Аппаратура управления">Без аппаратуры</param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -6236,7 +6119,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/anafi_travel_bag/</url>
 	<price>2610</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_3.jpg</picture>
@@ -6248,21 +6131,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими дронами: ANAFI и ANAFI Work]]></description>
 	<param name="Артикул">PA.ST.21</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Сумки</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера">Без камеры</param>
-	<param name="GPS-модуль">Без наличия</param>
-	<param name="Аппаратура управления">Без аппаратуры</param>
+	<param name="Цвет">Серый</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -6271,7 +6144,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/parrot_skycontroller_3_tablet_holder/</url>
 	<price>1290</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>1</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</picture>
 	<vendor>Parrot</vendor>
 	<stock_quantity>1</stock_quantity>
@@ -6280,21 +6153,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим с Skycontroller 3]]></description>
 	<param name="Артикул">PA.ST.22</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Крепления и монтажные комплекты</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера">Без камеры</param>
-	<param name="GPS-модуль">Без наличия</param>
-	<param name="Аппаратура управления">Без аппаратуры</param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
@@ -6303,7 +6166,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>http://store.drone.ua/product/anafi_foldable_propellers/</url>
 	<price>660</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</picture>
 	<vendor>Parrot</vendor>
 	<stock_quantity>1</stock_quantity>
@@ -6312,21 +6175,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work]]></description>
 	<param name="Артикул">PA.ST.23</param>
-	<param name="Тип">Аксессуары</param>
-	<param name="Цвет фюзеляжа"></param>
-	<param name="Длина, мм"></param>
-	<param name="Высота, мм"></param>
-	<param name="Тип двигателя"></param>
-	<param name="Аккумулятор, мА*ч"></param>
-	<param name="Время полета"></param>
-	<param name="Высота полета"></param>
-	<param name="Радиус действия аппаратуры"></param>
-	<param name="Приемник в комплекте"></param>
-	<param name="Вес, г"></param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Лопасти и пропеллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Камера">Без камеры</param>
-	<param name="GPS-модуль">Без наличия</param>
-	<param name="Аппаратура управления">Без аппаратуры</param>
+	<param name="Цвет">Серый</param>
+	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
