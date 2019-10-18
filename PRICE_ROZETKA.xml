@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-10-17 17:15">	
+<yml_catalog date="2019-10-18 19:29">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -640,7 +640,7 @@
 	<param name="Доставка/Оплата">100% предоплата.</param>
 	<state>Refurbished</state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.CP.ZM.00000104.01">
 	<url>http://store.drone.ua/product/ronin-s-ref/</url>
 	<price>20175.02</price>
@@ -3162,7 +3162,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.ZM.00000064.01">
 	<url>http://store.drone.ua/product/osmo-mobile-2/</url>
 	<price>4620</price>
@@ -4786,7 +4786,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.OS.00000022.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3/</url>
 	<price>3380</price>
@@ -4842,7 +4842,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.OS.00000040.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3-combo/</url>
 	<price>4000</price>
@@ -5475,7 +5475,7 @@ USB-C кабель х 1</param>
 	<param name="Габариты упаковки"></param>
 	<param name="Вид">Полетные контроллеры</param>
 	<param name="Комплект поставки"></param>
-	<param name="Цвет"></param>
+	<param name="Цвет">Черный</param>
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
