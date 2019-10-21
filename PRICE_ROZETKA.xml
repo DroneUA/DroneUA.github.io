@@ -4786,7 +4786,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.OS.00000022.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3/</url>
 	<price>3380</price>
@@ -4842,7 +4842,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.OS.00000040.01">
 	<url>http://store.drone.ua/product/osmo-mobile-3-combo/</url>
 	<price>4000</price>
