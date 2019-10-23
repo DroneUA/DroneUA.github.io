@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-10-11 17:45">	
+<price date="2019-10-23 17:57">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -59,6 +59,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000132.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000141.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
@@ -108,6 +112,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000141.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000148.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
@@ -157,6 +165,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000148.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000159.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
@@ -206,6 +218,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000159.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000168.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
@@ -255,6 +271,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000168.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000169.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
@@ -304,6 +324,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000169.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000075.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum</name>
@@ -329,6 +353,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000075.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000065.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo</name>
@@ -354,8 +382,12 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000065.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.ZM.00000104.01" available="true">
+	<item id="CP.ZM.00000104.01" available="false">
 	<name>Стедикам DJI Ronin-S</name>
 	<url>http://store.drone.ua/product/ronin-s/</url>
 	<price>23220</price>
@@ -371,6 +403,11 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.ZM.00000104.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Sistemy-stabilizatsii-dlya-video-foto-i-kinokamer</portal_category_url>
+	<country>Китай</country>
+	<param name="Назначение" unit="">Для видеокамеры/Фотокамеры</param>
+	<param name="Вид оборудования" unit="">Система стабилизации</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.ZM.00000064.01" available="false">
 	<name>Стедикам DJI Osmo Mobile 2</name>
@@ -502,6 +539,11 @@
 	<keywords>стедикам, сэдикам, стабилизатор</keywords>
 	<vendorCode>CP.ZM.00000064.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Sistemy-stabilizatsii-dlya-video-foto-i-kinokamer</portal_category_url>
+	<country>Китай</country>
+	<param name="Назначение" unit="">Для видеокамеры/Фотокамеры</param>
+	<param name="Вид оборудования" unit="">Система стабилизации</param>
+	<param name="Цвет" unit="">Серый</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.000075" available="true">
 	<name>Стедикам DJI Osmo Pocket</name>
@@ -640,6 +682,10 @@
 	<keywords>экшн-камера, камера, стедикам, сэдикам</keywords>
 	<vendorCode>CP.ZM.00000097.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.VL.00000014.01" available="false">
 	<name>Очки виртуальной реальности DJI Goggles Racing Edition</name>
@@ -670,6 +716,10 @@
 	<keywords>VR, очки, FPV</keywords>
 	<vendorCode>CP.VL.00000014.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Stereo-ochki</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit=""></param>
+	<param name="Цвет" unit=""></param>
+	<param name="Состояние" unit=""></param>
 	</item>
 	<item id="CP.PT.000670" available="true">
 	<name>Очки виртуальной реальности DJI Goggles</name>
@@ -699,6 +749,10 @@
 	<keywords>VR, очки, FPV</keywords>
 	<vendorCode>CP.PT.000670</vendorCode> 
 	<portal_category_url>https://bigl.ua/Stereo-ochki</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit=""></param>
+	<param name="Цвет" unit=""></param>
+	<param name="Состояние" unit=""></param>
 	</item>
 	<item id="CP.PT.000889" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark Fly More Combo</name>
@@ -713,6 +767,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.000889</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.MA.00000013.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro</name>
@@ -735,6 +793,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.MA.00000013.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.MA.00000014.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom</name>
@@ -760,6 +822,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.MA.00000014.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.MA.00000037.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit</name>
@@ -782,6 +848,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.MA.00000037.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000132.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
@@ -850,6 +920,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000132.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000141.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
@@ -918,6 +992,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000141.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000148.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
@@ -986,6 +1064,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000148.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000159.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
@@ -1054,6 +1136,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000159.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000168.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
@@ -1122,6 +1208,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000168.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000169.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
@@ -1190,6 +1280,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000169.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000075.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished</name>
@@ -1230,6 +1324,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000075.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000065.01_REF" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished</name>
@@ -1270,6 +1368,10 @@
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000065.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.ZM.00000104.01_REF" available="false">
 	<name>Стедикам DJI Ronin-S Refurbished</name>
@@ -1308,6 +1410,11 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>стедикам, сэдикам, стабилизатор</keywords>
 	<vendorCode>CP.ZM.00000104.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Sistemy-stabilizatsii-dlya-video-foto-i-kinokamer</portal_category_url>
+	<country>Китай</country>
+	<param name="Назначение" unit="">Для видеокамеры/Фотокамеры</param>
+	<param name="Вид оборудования" unit="">Система стабилизации</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Б/У</param>
 	</item>
 	<item id="CP.PT.00000242.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0</name>
@@ -1374,6 +1481,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000242.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000232.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0</name>
@@ -1440,6 +1551,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000232.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000210.01" available="true">
 	<name>Квадрокоптер (дрон) Ryze Tello</name>
@@ -1476,6 +1591,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.00000210.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TL.00000015.01" available="true">
 	<name>Квадрокоптер (дрон) Ryze Tello Boost Combo</name>
@@ -1513,6 +1632,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.TL.00000015.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TL.00000002.01" available="false">
 	<name>Квадрокоптер (дрон) Ryze Tello Iron Man Edition</name>
@@ -1549,6 +1672,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.TL.00000002.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.IN.000001" available="true">
 	<name>Action камера Insta360 One X</name>
@@ -1773,6 +1900,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>ST.IN.000001</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.IN.000002" available="false">
 	<name>Action камера Insta360 One</name>
@@ -1924,6 +2055,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>ST.IN.000002</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.IN.000003" available="false">
 	<name>Action камера Insta360 Pro</name>
@@ -2112,6 +2247,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>ST.IN.000003</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.IN.000004" available="false">
 	<name>Action камера Insta360 Pro 2</name>
@@ -2363,6 +2502,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>ST.IN.000004</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.IN.000005" available="false">
 	<name>Action камера Insta360 Titan</name>
@@ -2594,6 +2737,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>ST.IN.000005</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.IN.000006_b" available="false">
 	<name>Action камера Insta360 Nano S</name>
@@ -2755,6 +2902,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>ST.IN.000006</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.IN.000006_s" available="false">
 	<name>Action камера Insta360 Nano S</name>
@@ -2918,6 +3069,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>ST.IN.000006</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Серый</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CINEVOX/A" available="true">
 	<name>Action камера Insta360 Evo</name>
@@ -3140,6 +3295,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера</keywords>
 	<vendorCode>CINEVOX/A</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Профессиональная</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.CI.00001" available="false">
 	<name>Подводный дрон Chasing-Innovation Gladius</name>
@@ -3159,6 +3318,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон</keywords>
 	<vendorCode>ST.CI.00001</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.CI.00002" available="true">
 	<name>Подводный дрон Chasing-Innovation Gladius Mini</name>
@@ -3181,6 +3344,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон</keywords>
 	<vendorCode>ST.CI.00002</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.CI.00102" available="false">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini</name>
@@ -3198,6 +3365,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>рюкзак</keywords>
 	<vendorCode>ST.CI.00102</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000741" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
@@ -3211,6 +3382,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.000741</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000743" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
@@ -3224,6 +3399,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.000743</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000744" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
@@ -3237,6 +3416,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.000744</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000745" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
@@ -3250,6 +3433,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.000745</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000742" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark</name>
@@ -3263,6 +3450,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>CP.PT.000742</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000194.01" available="true">
 	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh</name>
@@ -3279,6 +3470,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.00000194.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000077.01" available="true">
 	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh</name>
@@ -3296,6 +3491,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.00000077.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000587" available="false">
 	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh</name>
@@ -3312,6 +3511,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.000587</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000601" available="true">
 	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh</name>
@@ -3325,6 +3528,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.000601</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.0000015" available="true">
 	<name>Аккумулятор Ryze Tello 1100 mAh</name>
@@ -3339,6 +3546,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>CP.PT.00000213.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZM200" available="false">
 	<name>Парашютная система Parazero SafeAir M-200</name>
@@ -3406,6 +3617,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>парашют, парашют для дрона, парашют для дронов, парашют для квадрокоптера, парашют для квадрокоптеров, безопасность, дрон</keywords>
 	<vendorCode>PZM200</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Израиль</country>
+	<param name="Тип" unit="">Парашют</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZM600" available="false">
 	<name>Парашютная система Parazero SafeAir M-600</name>
@@ -3472,6 +3687,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>парашют, парашют для дрона, парашют для дронов, парашют для квадрокоптера, парашют для квадрокоптеров, безопасность, дрон</keywords>
 	<vendorCode>PZM600</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Израиль</country>
+	<param name="Тип" unit="">Парашют</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZPHANTOM" available="true">
 	<name>Парашютная система Parazero SafeAir Phantom</name>
@@ -3527,6 +3746,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>парашют, парашют для дрона, парашют для дронов, парашют для квадрокоптера, парашют для квадрокоптеров, безопасность, дрон</keywords>
 	<vendorCode>PZPHANTOM</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Израиль</country>
+	<param name="Тип" unit="">Парашют</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZMAVIC" available="true">
 	<name>Парашютная система Parazero SafeAir Mavic</name>
@@ -3580,8 +3803,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>парашют, парашют для дрона, парашют для дронов, парашют для квадрокоптера, парашют для квадрокоптеров, безопасность, дрон</keywords>
 	<vendorCode>PZMAVIC</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Израиль</country>
+	<param name="Тип" unit="">Парашют</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.RN.00000040.01" available="true">
+	<item id="CP.RN.00000040.01" available="false">
 	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
 	<url>http://store.drone.ua/product/dji-ronin-sc/</url>
 	<price>11130</price>
@@ -3596,8 +3823,13 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>стедикам, сэдикам, стабилизатор</keywords>
 	<vendorCode>CP.RN.00000040.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Sistemy-stabilizatsii-dlya-video-foto-i-kinokamer</portal_category_url>
+	<country>Китай</country>
+	<param name="Назначение" unit="">Для видеокамеры/Фотокамеры</param>
+	<param name="Вид оборудования" unit="">Система стабилизации</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.RN.00000043.01" available="true">
+	<item id="CP.RN.00000043.01" available="false">
 	<name>Стедикам DJI Ronin-SC Pro Combo (CP.RN.00000043.01)</name>
 	<url>http://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
 	<price>14230</price>
@@ -3612,6 +3844,11 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>стедикам, сэдикам, стабилизатор</keywords>
 	<vendorCode>CP.RN.00000043.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Sistemy-stabilizatsii-dlya-video-foto-i-kinokamer</portal_category_url>
+	<country>Китай</country>
+	<param name="Назначение" unit="">Для видеокамеры/Фотокамеры</param>
+	<param name="Вид оборудования" unit="">Система стабилизации</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.OS.00000022.01" available="false">
 	<name>Стедикам DJI Osmo Mobile 3 (CP.OS.00000022.01)</name>
@@ -3650,6 +3887,11 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>стедикам, сэдикам, стабилизатор</keywords>
 	<vendorCode>CP.OS.00000022.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Sistemy-stabilizatsii-dlya-video-foto-i-kinokamer</portal_category_url>
+	<country>Китай</country>
+	<param name="Назначение" unit="">Для видеокамеры/Фотокамеры</param>
+	<param name="Вид оборудования" unit="">Система стабилизации</param>
+	<param name="Цвет" unit="">Серый</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.OS.00000040.01" available="false">
 	<name>Стедикам DJI Osmo Mobile 3 Combo (CP.OS.00000040.01)</name>
@@ -3688,6 +3930,11 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>стедикам, сэдикам, стабилизатор</keywords>
 	<vendorCode>CP.OS.00000040.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Sistemy-stabilizatsii-dlya-video-foto-i-kinokamer</portal_category_url>
+	<country>Китай</country>
+	<param name="Назначение" unit="">Для видеокамеры/Фотокамеры</param>
+	<param name="Вид оборудования" unit="">Система стабилизации</param>
+	<param name="Цвет" unit="">Серый</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TR.00000006.01" available="false">
 	<name>Очки DJI FPV Experience Combo (CP.TR.00000006.01)</name>
@@ -3775,6 +4022,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>VR, очки, FPV</keywords>
 	<vendorCode>CP.TR.00000006.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">FPV системы</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TR.00000006.02" available="false">
 	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.02)</name>
@@ -3862,6 +4113,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>VR, очки, FPV</keywords>
 	<vendorCode>CP.TR.00000006.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">FPV системы</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TR.00000006.03" available="false">
 	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.03)</name>
@@ -3949,6 +4204,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>VR, очки, FPV</keywords>
 	<vendorCode>CP.TR.00000006.03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">FPV системы</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.OS.00000020.01" available="true">
 	<name>Экшн-камера DJI Osmo Action (CP.OS.00000020.01)</name>
@@ -3984,6 +4243,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>экшн-камера, камера, видеокамера, фотокамера, action</keywords>
 	<vendorCode>CP.OS.00000020.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип видеокамеры" unit="">Экшн-камера</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MSPARROTSEQ" available="false">
 	<name>Мультиспектральная камера Parrot Sequoia+ (MSPARROTSEQ)</name>
@@ -4007,6 +4270,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>мультиспектральная камера, камера для беспилотников, камера для беспилотника, камера для дрона, камера для дронов, сенсор</keywords>
 	<vendorCode>MSPARROTSEQ</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="D.UA.PD1900" available="true">
 	<name>Дрон DroneUA PD1900 (D.UA.PD1900)</name>
@@ -4045,6 +4312,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, самолетного типа, самолет, самолёт</keywords>
 	<vendorCode>D.UA.PD1900</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Украина</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.BX.000237" available="false">
 	<name>Пульт управления DJI Cendence (CP.BX.000237)</name>
@@ -4067,6 +4338,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
 	<vendorCode>CP.BX.000237</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.MA.00000080.01" available="true">
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
@@ -4113,6 +4388,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
 	<vendorCode>CP.MA.00000080.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000649" available="true">
 	<name>Пульт управления DJI для Mavic Pro (CP.PT.000649)</name>
@@ -4129,6 +4408,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
 	<vendorCode>CP.PT.000649</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000792" available="false">
 	<name>Пульт управления DJI для Spark (CP.PT.000792)</name>
@@ -4149,6 +4432,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
 	<vendorCode>CP.PT.000792</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000220.02" available="true">
 	<name>Пульт управления GameSir T1d для Ryze Tello (CP.PT.00000220.02)</name>
@@ -4188,6 +4475,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
 	<vendorCode>CP.PT.00000220.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.BX.000178.02" available="false">
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
@@ -4216,6 +4507,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
 	<vendorCode>CP.BX.000178.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="AGRASMG1PKIT" available="false">
 	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
@@ -4230,6 +4525,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>AGRASMG1PKIT</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="DJIMG1SHUB" available="false">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
@@ -4247,6 +4546,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger</keywords>
 	<vendorCode>DJIMG1SHUB</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Зарядное устройство</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="DJIMG1CH" available="false">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
@@ -4261,6 +4564,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger</keywords>
 	<vendorCode>DJIMG1CH</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип" unit="">Зарядное устройство</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="DJIAGR1P" available="false">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
@@ -4294,6 +4601,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, гексакоптер</keywords>
 	<vendorCode>DJIAGR1P</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TP.00000008.01" available="false">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
@@ -4324,6 +4635,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, гексакоптер</keywords>
 	<vendorCode>CP.TP.00000008.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Китай</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.02" available="true">
 	<name>Квадрокоптер Parrot Anafi Thermal (PA.ST.02)</name>
@@ -4343,6 +4658,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.03" available="false">
 	<name>Квадрокоптер Parrot Anafi Work (PA.ST.03)</name>
@@ -4357,6 +4676,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.04" available="false">
 	<name>Квадрокоптер Parrot Anafi Extended (PA.ST.04)</name>
@@ -4375,6 +4698,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.04</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.05" available="false">
 	<name>Квадрокоптер Parrot Anafi (PA.ST.05)</name>
@@ -4401,6 +4728,10 @@ Anafi — ультрапортативный беспилотник, компа�
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.05</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.06" available="true">
 	<name>Квадрокоптер Parrot Bluegrass Fields (PA.ST.06)</name>
@@ -4422,6 +4753,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.06</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.07" available="false">
 	<name>Квадрокоптер Parrot Mambo FPV (PA.ST.07)</name>
@@ -4440,6 +4775,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.07</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.11" available="false">
 	<name>Квадрокоптер Parrot Bebop 2 FPV (PA.ST.11)</name>
@@ -4456,6 +4795,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.11</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.14" available="false">
 	<name>Квадрокоптер Parrot Bebop 2 Power - Pack FPV (PA.ST.14)</name>
@@ -4472,6 +4815,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>дрон, квадрокоптер</keywords>
 	<vendorCode>PA.ST.14</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.18" available="false">
 	<name>Дрон Parrot Disco-Pro AG (PA.ST.18)</name>
@@ -4489,6 +4836,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>дрон, самолетного типа, самолет, самолёт</keywords>
 	<vendorCode>PA.ST.18</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип модели" unit="">Квадрокоптер</param>
+	<param name="Цвет корпуса" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.19" available="false">
 	<name>Пульт управления Parrot Skycontroller 3 (PA.ST.19)</name>
@@ -4505,6 +4856,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>Контроллер, Remote Controller, Remote, Controller, Parrot, Пульт</keywords>
 	<vendorCode>PA.ST.19</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.20" available="false">
 	<name>Интеллектуальная батарея Parrot Anafi Smart battery (PA.ST.20)</name>
@@ -4520,6 +4875,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
 	<vendorCode>PA.ST.20</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.21" available="false">
 	<name>Сумка Parrot для Anafi (PA.ST.21)</name>
@@ -4538,6 +4897,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>Сумка, сумка для дрона, сумка для квадрокоптера</keywords>
 	<vendorCode>PA.ST.21</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.22" available="false">
 	<name>Держатель планшета Parrot для Skycontroller 3 (PA.ST.22)</name>
@@ -4553,6 +4916,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>Держатель для планшета, фиксатор, для планшета</keywords>
 	<vendorCode>PA.ST.22</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип" unit="">Крепежные элементы</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.23" available="false">
 	<name>Складные пропеллеры Parrot для Anafi (PA.ST.23)</name>
@@ -4568,6 +4935,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<keywords>Пропеллеры, лопасти, винты, Anafi, Parrot</keywords>
 	<vendorCode>PA.ST.23</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
+	<country>Франция</country>
+	<param name="Тип" unit="">Пропеллеры</param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 </items>	
 </price>
