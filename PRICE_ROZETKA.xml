@@ -3746,7 +3746,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000037.01">
 	<url>http://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>11750</price>
