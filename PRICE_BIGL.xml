@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-10-24 16:20">	
+<price date="2019-10-28 12:01">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -12,7 +12,7 @@
 </catalog>	
 <items>	
 	<item id="CP.PT.00000132.01" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black</name>
 	<url>http://store.drone.ua/product/mavic-air-black/</url>
 	<price>22910</price>
 	<categoryId>1</categoryId>
@@ -65,7 +65,7 @@
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000141.01" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White</name>
 	<url>http://store.drone.ua/product/mavic-air/</url>
 	<price>22910</price>
 	<categoryId>1</categoryId>
@@ -118,7 +118,7 @@
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000148.01" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red</name>
 	<url>http://store.drone.ua/product/mavic-air-red/</url>
 	<price>22910</price>
 	<categoryId>1</categoryId>
@@ -171,7 +171,7 @@
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000159.01" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Fly More Combo</name>
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
 	<price>29110</price>
 	<categoryId>1</categoryId>
@@ -224,7 +224,7 @@
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000168.01" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Fly More Combo</name>
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 	<price>29110</price>
 	<categoryId>1</categoryId>
@@ -277,7 +277,7 @@
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000169.01" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Fly More Combo</name>
 	<url>http://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
 	<price>29110</price>
 	<categoryId>1</categoryId>
@@ -713,7 +713,7 @@
 <li>Салфетка для очистки</li>
 </ul>]]></description>
 	<warranty>12</warranty>
-	<keywords>VR очки, FPV очки, FPV система, FPV системы, очки виртуальной реальности, виртуальная реальность, Goggles</keywords>
+	<keywords>VR, очки, FPV, VR очки, FPV очки, FPV система, FPV системы, очки виртуальной реальности, виртуальная реальность, Goggles</keywords>
 	<vendorCode>CP.VL.00000014.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Stereo-ochki</portal_category_url>
 	<country>Китай</country>
@@ -746,7 +746,7 @@
 <p><strong>Звук</strong><br />Вставьте наушники в специальный выход или используйте встроенные колонки для прослушивания звуковой дорожки видео, проигрываемого через HDMI-кабель.</p>
 <p><span class="rte-small"><em>[1] DJI Goggles поддерживают дроны Mavic Pro и летательные аппараты серий Phantom 4 и Inspire. Доступные функции зависят от используемого устройства DJI.</em></span><br /><span class="rte-small"><em>[2] Высокое качество (HD mode): 1080p/30 кадров/с, трансляция на ближнем расстоянии без помех; 720p/30 кадров/с: трансляция на дальнем расстоянии или при наличии помех; быстрая трансляция (Smooth Mode): 720p/60 кадров/с.</em></span><br /><span class="rte-small"><em>[3] С дроном Mavic Pro, беспроводная трансляция видео с дрона с разрешением 720p при 60 кадрах/с и запись видео с разрешением 720p при 120 кадрах/с.</em></span><br /><span class="rte-small"><em>[4] Актуально только для Mavic Pro с двумя парами очков и двумя пультами управления.</em></span><br /><span class="rte-small"><em>[5] При полете в очках виртуальной реальности необходимо присутствие напарника. Летательный аппарат должен оставаться в его зоне видимости.</em></span><br /><span class="rte-small"><em>[6] DJI Goggles могут проигрывать только видео, скачанное с дронов DJI.</em></span></p>]]></description>
 	<warranty>12</warranty>
-	<keywords>VR очки, FPV очки, FPV система, FPV системы, очки виртуальной реальности, виртуальная реальность, Goggles</keywords>
+	<keywords>VR, очки, FPV, VR очки, FPV очки, FPV система, FPV системы, очки виртуальной реальности, виртуальная реальность, Goggles</keywords>
 	<vendorCode>CP.PT.000670</vendorCode> 
 	<portal_category_url>https://bigl.ua/Stereo-ochki</portal_category_url>
 	<country>Китай</country>
@@ -854,7 +854,7 @@
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000132.01_REF" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Refurbished</name>
 	<url>http://store.drone.ua/product/mavic-air-ref-black/</url>
 	<price>17651</price>
 	<categoryId>1</categoryId>
@@ -926,7 +926,7 @@
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
 	<item id="CP.PT.00000141.01_REF" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Refurbished</name>
 	<url>http://store.drone.ua/product/mavic-air-ref-white/</url>
 	<price>17949</price>
 	<categoryId>1</categoryId>
@@ -998,7 +998,7 @@
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
 	<item id="CP.PT.00000148.01_REF" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Refurbished</name>
 	<url>http://store.drone.ua/product/mavic-air-ref-red/</url>
 	<price>17489</price>
 	<categoryId>1</categoryId>
@@ -1070,7 +1070,7 @@
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
 	<item id="CP.PT.00000159.01_REF" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Fly More Combo Refurbished</name>
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
 	<price>23799</price>
 	<categoryId>1</categoryId>
@@ -1142,7 +1142,7 @@
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
 	<item id="CP.PT.00000168.01_REF" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Fly More Combo Refurbished</name>
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
 	<price>23799</price>
 	<categoryId>1</categoryId>
@@ -1214,7 +1214,7 @@
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
 	<item id="CP.PT.00000169.01_REF" available="false">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Fly More Combo Refurbished</name>
 	<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
 	<price>23799</price>
 	<categoryId>1</categoryId>
@@ -3371,7 +3371,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Состояние" unit=""></param>
 	</item>
 	<item id="CP.PT.000741" available="false">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Alpine White</name>
 	<url>http://store.drone.ua/product/spark/</url>
 	<price>15470</price>
 	<categoryId>1</categoryId>
@@ -3388,7 +3388,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000743" available="false">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Sky Blue</name>
 	<url>http://store.drone.ua/product/spark-golyboi/</url>
 	<price>15470</price>
 	<categoryId>1</categoryId>
@@ -3405,7 +3405,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000744" available="false">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Meadow Green</name>
 	<url>http://store.drone.ua/product/spark-zelenyj-2/</url>
 	<price>15470</price>
 	<categoryId>1</categoryId>
@@ -3422,7 +3422,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000745" available="false">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Lava Red</name>
 	<url>http://store.drone.ua/product/spark-krasnyj/</url>
 	<price>15470</price>
 	<categoryId>1</categoryId>
@@ -3439,7 +3439,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000742" available="false">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Sunrise Yellow</name>
 	<url>http://store.drone.ua/product/spark-zheltyj/</url>
 	<price>15470</price>
 	<categoryId>1</categoryId>
@@ -4019,7 +4019,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 </div>
 </div>]]></description>
 	<warranty>12</warranty>
-	<keywords>VR, очки, FPV</keywords>
+	<keywords>VR, очки, FPV, VR очки, FPV очки, FPV система, FPV системы, очки виртуальной реальности, виртуальная реальность</keywords>
 	<vendorCode>CP.TR.00000006.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4110,7 +4110,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 </div>
 </div>]]></description>
 	<warranty>12</warranty>
-	<keywords>VR, очки, FPV</keywords>
+	<keywords>VR, очки, FPV, VR очки, FPV очки, FPV система, FPV системы, очки виртуальной реальности, виртуальная реальность</keywords>
 	<vendorCode>CP.TR.00000006.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4201,7 +4201,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 </div>
 </div>]]></description>
 	<warranty>12</warranty>
-	<keywords>VR, очки, FPV</keywords>
+	<keywords>VR, очки, FPV, VR очки, FPV очки, FPV система, FPV системы, очки виртуальной реальности, виртуальная реальность</keywords>
 	<vendorCode>CP.TR.00000006.03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4335,7 +4335,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <p>Монитор CrystalSky крепится на специальный держатель на пульте управления Cendence. Разборная конструкция Cendence позволяет легко устанавливать и снимать с него антенны, печатную плату, держатель устройств и аккумулятор для большей совместимости с будущими летательными аппаратами от DJI.</p>
 <p>Разъемы SDI и HDMI позволяют транслировать видеосигнал в 1080p 50 FPS и 720p 60 FPS. DJI Focus, Tracktenna и другие аксессуары можно подключить через разъем CAN. Tracktenna способна передавать сигнал на частотах 2.4 ГГц и 5.8 ГГц на большие расстояния. При использовании с Inspire 2 антенна может транслировать данные со скоростью 10 Мбит/с в радиусе 2 км. Это значительно улучшает качество видеопотока. Через разъем USB-A можно подключать другие мобильные устройства.</p>]]></description>
 	<warranty>6</warranty>
-	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
+	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт, Inspire 2</keywords>
 	<vendorCode>CP.BX.000237</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4385,7 +4385,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <div><br />Модель: RM500</div>
 <div><br />Типы карт памяти:<br />microSD<br />Поддержка формата microSD объемом до 128 Гбайт, скоростью чтения и записи до UHS-1 Speed Grade 3<br />Примечания<br />DJI работает над расширением совместимости Smart Controller с другими моделями летательных аппаратов. Для получения актуальной информации посетите официальный сайт.</div>]]></description>
 	<warranty>6</warranty>
-	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
+	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт, Mavic</keywords>
 	<vendorCode>CP.MA.00000080.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4405,7 +4405,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_4.jpg</picture>
 	<description><![CDATA[DJI Mavic Remote Controller - пульт дистанционного управления предназначен для управления DJI Mavic и подвесом дрона. На LCD экране отображаются полетные данные. Есть возможность установить мобильное устройство в регулируемые ручки. Второй пульт управления дроном позволяет совместно управлять коптером и совместно снимать кадры с воздуха.]]></description>
 	<warranty>6</warranty>
-	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
+	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт, Mavic, Mavic Pro</keywords>
 	<vendorCode>CP.PT.000649</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4429,7 +4429,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <p><strong>Характеристики:</strong></p>
 <p>Рабочая частота: 2.412 ~ 2.462 ГГц<br />Дальность передачи сигнала (на открытом пространстве): 2.412 ~ 2.462 ГГц (без препятствий и помех) Соответсвие требованиям FCC: 2000 м; Соответсвие требованиям CE: 500 м; Соответсвие требованиям SRRC: 500 м<br />EIRP: 2.400 ГГц FCC: &le;26 дБм; CE: &le;18 дБм; SRRC: &le;18 дБм<br />Мощность Передатчика: FCC: 23 дБм, EC: 17 дБм, SRRC: 20 дБм<br />Рабочий ток / напряжение: 950 мА при 3.7 В<br />Ёмкость аккумулятора: 2970 мАч<br />Поддерживаемый размер мобильного устройства: Поддерживаемая толщина: 6.5-8.5 мм; Максимальная длина: 160 мм<br />Рабочая температура: 0 &deg;C ~ 40 &deg;C</p>]]></description>
 	<warranty>6</warranty>
-	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
+	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт, Spark</keywords>
 	<vendorCode>CP.PT.000792</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4472,7 +4472,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <li>Ryze Tello</li>
 </ul>]]></description>
 	<warranty>6</warranty>
-	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
+	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт, Tello</keywords>
 	<vendorCode>CP.PT.00000220.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4504,7 +4504,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <li>Рабочая температура: от -4 &deg; до 104 &deg; F (от -20 &deg; до 40 &deg; C)</li>
 </ul>]]></description>
 	<warranty>6</warranty>
-	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт</keywords>
+	<keywords>Контроллер, Remote Controller, Remote, Controller, DJI, Пульт, Inspire 2</keywords>
 	<vendorCode>CP.BX.000178.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4522,7 +4522,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<description><![CDATA[<p>Интеллектуальная батарея <strong>DJI MG-12000P</strong>&nbsp;подходит для моделей дронов <strong>DJI Agras MG-1P</strong>&nbsp;и <strong>DJI MG-1S</strong>.</p>
 <p><strong>Емкость</strong>: 12 000 мА*ч</p>]]></description>
 	<warranty>6</warranty>
-	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
+	<keywords>аккумулятор, интеллектуальная батарея, Батарея Inspire 2, Аккумулятор Inspire 2, Интеллектуальная батарея Inspire 2</keywords>
 	<vendorCode>AGRASMG1PKIT</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4543,7 +4543,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <li>6 разъемов для подключений</li>
 </ul>]]></description>
 	<warranty>6</warranty>
-	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger</keywords>
+	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger, Agras, DJI Agras</keywords>
 	<vendorCode>DJIMG1SHUB</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4561,7 +4561,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_2.jpg</picture>
 	<description><![CDATA[<p>Зарядная станция для зарядки интеллектуальной батареи, устанавливаемой в дрон&nbsp;<strong>DJI Agras 1S</strong></p>]]></description>
 	<warranty>6</warranty>
-	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger</keywords>
+	<keywords>Зарядная станция, зарядное устройство, зарядка, Charger, Agras, DJI Agras</keywords>
 	<vendorCode>DJIMG1CH</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -4598,7 +4598,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <li>Рекомендуемая рабочая температура: От 0 до 40 &deg; C</li>
 </ul>]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, гексакоптер</keywords>
+	<keywords>дрон, гексакоптер, DJI, Agras</keywords>
 	<vendorCode>DJIAGR1P</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
@@ -4632,7 +4632,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <li>Рекомендуемая рабочая температура От 0 до 40 ?</li>
 </ul>]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, гексакоптер</keywords>
+	<keywords>дрон, гексакоптер, DJI, Agras</keywords>
 	<vendorCode>CP.TP.00000008.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
@@ -4655,7 +4655,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 
 Вы можете снимать показания температуры и измерять температуру конкретной точки, наблюдать тепловые потери в здании, идентифицировать или контролировать объекты.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Anafi, Parrot Anafi, Thermal</keywords>
 	<vendorCode>PA.ST.02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4673,7 +4673,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_2.png</picture>
 	<description><![CDATA[Летающая 4K HDR камера, которую вы можете взять с собой повсюду.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Anafi, Parrot Anafi, Work</keywords>
 	<vendorCode>PA.ST.03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4695,7 +4695,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<description><![CDATA[Расширенная версия Anafi Extended
 ]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Anafi, Parrot Anafi, Extented</keywords>
 	<vendorCode>PA.ST.04</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4725,7 +4725,7 @@ Anafi — ультрапортативный беспилотник, компа�
 
 В Anafi реализована система зарядки USB Type-C: заряжать его можно, подключив к смартфону или компьютеру. Дрон совместим с зарядными устройствами Power Delivery, которые заряжают до 60% быстрее, чем обычные 5W USB-A. Беспилотник оснащен мощным двигателем и может летать и снимать в течение 25 минут.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Anafi, Parrot Anafi</keywords>
 	<vendorCode>PA.ST.05</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4750,7 +4750,7 @@ Anafi — ультрапортативный беспилотник, компа�
 
 Parrot Bluegrass легко транспортируется благодаря съемным пропеллерам, его легко настроить, управлять им, обрабатывать данные и ремонтировать.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Bluegrass, Fields, Parrot Bluegrass</keywords>
 	<vendorCode>PA.ST.06</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4772,7 +4772,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_6.png</picture>
 	<description><![CDATA[Полностью погрузитесь в полет с Parrot Mambo. Используйте аксессуары: можно подключить камеру FPV к мини-радиоприемнику с использованием технологии Smart Block для записи и передачи контента в формате HD. Или оденьте ВР-гарнитуру Cockpitglasses, чтобы получить максимальные впечатления от вашего беспилотного летательного аппарата и познать новые ощущения скорости.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Mambo, Parrot Mambo, FPV</keywords>
 	<vendorCode>PA.ST.07</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4792,7 +4792,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_4.jpg</picture>
 	<description><![CDATA[Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Bebop, Parrot Bebop, FPV</keywords>
 	<vendorCode>PA.ST.11</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4812,7 +4812,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_4.png</picture>
 	<description><![CDATA[Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, квадрокоптер</keywords>
+	<keywords>дрон, квадрокоптер, Parrot, Bebop, Parrot Bebop, FPV</keywords>
 	<vendorCode>PA.ST.14</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4833,7 +4833,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/Disco-Pro_AG_5.jpg</picture>
 	<description><![CDATA[Parrot Disco-Pro AG — это многофункциональное беспилотное решение для фермеров, способное помочь им повысить рентабельность своих угодий. Это комплексное решение позволяет фермерам и мелким сельскохозяйственным кооперативам быстро получить представление о здоровье посевов, благодаря визуальной разведке культур и специализированным картам NDVI.]]></description>
 	<warranty>12</warranty>
-	<keywords>дрон, самолетного типа, самолет, самолёт</keywords>
+	<keywords>дрон, самолетного типа, самолет, самолёт, Parrot, Disco-Pro AG</keywords>
 	<vendorCode>PA.ST.18</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Франция</country>
@@ -4853,7 +4853,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими дронами: ANAFI, ANAFI Thermal, ANAFI Work]]></description>
 	<warranty>6</warranty>
-	<keywords>Контроллер, Remote Controller, Remote, Controller, Parrot, Пульт</keywords>
+	<keywords>Контроллер, Remote Controller, Remote, Controller, Parrot, Пульт, Parrot Skycontroller 3, Parrot, Skycontroller 3</keywords>
 	<vendorCode>PA.ST.19</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Франция</country>
@@ -4872,7 +4872,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work]]></description>
 	<warranty>6</warranty>
-	<keywords>аккумулятор, интеллектуальная, батарея</keywords>
+	<keywords>аккумулятор, интеллектуальная, батарея, Parrot, Anafi</keywords>
 	<vendorCode>PA.ST.20</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Франция</country>
@@ -4894,7 +4894,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими дронами: ANAFI и ANAFI Work]]></description>
 	<warranty>6</warranty>
-	<keywords>Сумка, сумка для дрона, сумка для квадрокоптера</keywords>
+	<keywords>Сумка, сумка для дрона, сумка для квадрокоптера, Parrot, Anafi</keywords>
 	<vendorCode>PA.ST.21</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Франция</country>
@@ -4913,7 +4913,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим с Skycontroller 3]]></description>
 	<warranty>6</warranty>
-	<keywords>Держатель для планшета, фиксатор, для планшета</keywords>
+	<keywords>Держатель для планшета, фиксатор, для планшета, Parrot, Skycontroller 3</keywords>
 	<vendorCode>PA.ST.22</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Франция</country>
@@ -4932,7 +4932,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 
 Совместим со следующими беспилотниками: ANAFI, ANAFI Thermal и ANAFI Work]]></description>
 	<warranty>6</warranty>
-	<keywords>Пропеллеры, лопасти, винты, Anafi, Parrot</keywords>
+	<keywords>Пропеллеры, лопасти, винты, Anafi, Parrot, Пропеллеры для Anafi, Лопасти для Anafi, Винты для Anafi, Пропеллеры Parrot Anafi, Лопасти Parrot Anafi, Винты Parrot Anafi,</keywords>
 	<vendorCode>PA.ST.23</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Франция</country>
