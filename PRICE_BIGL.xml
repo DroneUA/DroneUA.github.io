@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-10-28 15:31">	
+<price date="2019-10-29 19:41">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -717,9 +717,9 @@
 	<vendorCode>CP.VL.00000014.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Stereo-ochki</portal_category_url>
 	<country>Китай</country>
-	<param name="Тип видеокамеры" unit=""></param>
-	<param name="Цвет" unit=""></param>
-	<param name="Состояние" unit=""></param>
+	<param name="Тип" unit="">Очки виртуальной реальности</param>
+	<param name="Цвет" unit="">Черный</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000670" available="true">
 	<name>Очки виртуальной реальности DJI Goggles</name>
@@ -750,9 +750,9 @@
 	<vendorCode>CP.PT.000670</vendorCode> 
 	<portal_category_url>https://bigl.ua/Stereo-ochki</portal_category_url>
 	<country>Китай</country>
-	<param name="Тип видеокамеры" unit=""></param>
-	<param name="Цвет" unit=""></param>
-	<param name="Состояние" unit=""></param>
+	<param name="Тип" unit="">Очки виртуальной реальности</param>
+	<param name="Цвет" unit="">Белый</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000889" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark Fly More Combo</name>
@@ -3368,7 +3368,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit=""></param>
 	<param name="Материал изготовления" unit=""></param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000741" available="false">
 	<name>Квадрокоптер (дрон) DJI Spark Alpine White</name>
@@ -3473,7 +3473,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Аккумулятор</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000077.01" available="true">
 	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh</name>
@@ -3494,7 +3494,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Аккумулятор</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000587" available="false">
 	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh</name>
@@ -3514,7 +3514,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Аккумулятор</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000601" available="true">
 	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh</name>
@@ -3531,7 +3531,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Аккумулятор</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.0000015" available="true">
 	<name>Аккумулятор Ryze Tello 1100 mAh</name>
@@ -3549,7 +3549,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Аккумулятор</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZM200" available="false">
 	<name>Парашютная система Parazero SafeAir M-200</name>
@@ -3620,7 +3620,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Израиль</country>
 	<param name="Тип" unit="">Парашют</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZM600" available="false">
 	<name>Парашютная система Parazero SafeAir M-600</name>
@@ -3690,7 +3690,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Израиль</country>
 	<param name="Тип" unit="">Парашют</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZPHANTOM" available="true">
 	<name>Парашютная система Parazero SafeAir Phantom</name>
@@ -3749,7 +3749,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Израиль</country>
 	<param name="Тип" unit="">Парашют</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PZMAVIC" available="true">
 	<name>Парашютная система Parazero SafeAir Mavic</name>
@@ -3806,7 +3806,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Израиль</country>
 	<param name="Тип" unit="">Парашют</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.RN.00000040.01" available="false">
 	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
@@ -4025,7 +4025,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">FPV системы</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TR.00000006.02" available="false">
 	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.02)</name>
@@ -4116,7 +4116,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">FPV системы</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.TR.00000006.03" available="false">
 	<name>Очки DJI FPV Fly More Combo (CP.TR.00000006.03)</name>
@@ -4207,7 +4207,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">FPV системы</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.OS.00000020.01" available="true">
 	<name>Экшн-камера DJI Osmo Action (CP.OS.00000020.01)</name>
@@ -4273,7 +4273,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Франция</country>
 	<param name="Тип" unit=""></param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="D.UA.PD1900" available="true">
 	<name>Дрон DroneUA PD1900 (D.UA.PD1900)</name>
@@ -4341,7 +4341,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Пульт управления</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.MA.00000080.01" available="true">
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
@@ -4391,7 +4391,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Пульт управления</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000649" available="true">
 	<name>Пульт управления DJI для Mavic Pro (CP.PT.000649)</name>
@@ -4411,7 +4411,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Пульт управления</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.000792" available="false">
 	<name>Пульт управления DJI для Spark (CP.PT.000792)</name>
@@ -4435,7 +4435,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Пульт управления</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.PT.00000220.02" available="true">
 	<name>Пульт управления GameSir T1d для Ryze Tello (CP.PT.00000220.02)</name>
@@ -4478,7 +4478,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Пульт управления</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.BX.000178.02" available="false">
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
@@ -4510,7 +4510,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Пульт управления</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="AGRASMG1PKIT" available="false">
 	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
@@ -4528,7 +4528,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Аккумулятор</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="DJIMG1SHUB" available="false">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
@@ -4549,7 +4549,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Зарядное устройство</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="DJIMG1CH" available="false">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
@@ -4567,7 +4567,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<country>Китай</country>
 	<param name="Тип" unit="">Зарядное устройство</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="DJIAGR1P" available="false">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
@@ -4859,7 +4859,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Франция</country>
 	<param name="Тип" unit="">Пульт управления</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.20" available="false">
 	<name>Интеллектуальная батарея Parrot Anafi Smart battery (PA.ST.20)</name>
@@ -4878,7 +4878,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Франция</country>
 	<param name="Тип" unit="">Аккумулятор</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.21" available="false">
 	<name>Сумка Parrot для Anafi (PA.ST.21)</name>
@@ -4900,7 +4900,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Франция</country>
 	<param name="Тип" unit=""></param>
 	<param name="Материал изготовления" unit=""></param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.22" available="false">
 	<name>Держатель планшета Parrot для Skycontroller 3 (PA.ST.22)</name>
@@ -4919,7 +4919,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Франция</country>
 	<param name="Тип" unit="">Крепежные элементы</param>
 	<param name="Материал изготовления" unit="">Пластик</param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PA.ST.23" available="false">
 	<name>Складные пропеллеры Parrot для Anafi (PA.ST.23)</name>
@@ -4938,7 +4938,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Франция</country>
 	<param name="Тип" unit="">Пропеллеры</param>
 	<param name="Материал изготовления" unit=""></param>
-	<param name="Состояние" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 </items>	
 </price>
