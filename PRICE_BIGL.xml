@@ -4437,7 +4437,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000220.02" available="true">
+	<item id="CP.PT.00000220.02" available="false">
 	<name>Пульт управления GameSir T1d для Ryze Tello (CP.PT.00000220.02)</name>
 	<url>http://store.drone.ua/product/pult-upravlenija-gamesir-t1d/</url>
 	<price>1050</price>
