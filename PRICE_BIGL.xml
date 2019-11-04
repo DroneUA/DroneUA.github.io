@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-11-04 11:07">	
+<price date="2019-11-04 12:50">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -872,7 +872,7 @@
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit=""></param>
 	</item>
-	<item id="CP.PT.00000132.01_REF" available="false">
+	<item id="CP.PT.00000132.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Refurbished (CP.PT.00000132.01)</name>
 	<url>http://store.drone.ua/product/mavic-air-ref-black/</url>
 	<price>17651</price>
@@ -944,7 +944,7 @@
 	<param name="Цвет корпуса" unit="">Черный</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.PT.00000141.01_REF" available="false">
+	<item id="CP.PT.00000141.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Refurbished (CP.PT.00000141.01)</name>
 	<url>http://store.drone.ua/product/mavic-air-ref-white/</url>
 	<price>17949</price>
@@ -1016,7 +1016,7 @@
 	<param name="Цвет корпуса" unit="">Белый</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.PT.00000148.01_REF" available="false">
+	<item id="CP.PT.00000148.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Refurbished (CP.PT.00000148.01)</name>
 	<url>http://store.drone.ua/product/mavic-air-ref-red/</url>
 	<price>17489</price>
@@ -1088,7 +1088,7 @@
 	<param name="Цвет корпуса" unit="">Красный</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.PT.00000159.01_REF" available="false">
+	<item id="CP.PT.00000159.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Fly More Combo Refurbished (CP.PT.00000159.01)</name>
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
 	<price>23799</price>
@@ -1160,7 +1160,7 @@
 	<param name="Цвет корпуса" unit="">Черный</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.PT.00000168.01_REF" available="false">
+	<item id="CP.PT.00000168.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Fly More Combo Refurbished (CP.PT.00000168.01)</name>
 	<url>http://store.drone.ua/product/mavic-air-fly-more-combo/</url>
 	<price>23799</price>
@@ -1232,7 +1232,7 @@
 	<param name="Цвет корпуса" unit="">Белый</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.PT.00000169.01_REF" available="false">
+	<item id="CP.PT.00000169.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Fly More Combo Refurbished (CP.PT.00000169.01)</name>
 	<url>http://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
 	<price>23799</price>
@@ -1304,7 +1304,7 @@
 	<param name="Цвет корпуса" unit="">Красный</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.PT.00000075.01_REF" available="false">
+	<item id="CP.PT.00000075.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished (CP.PT.00000075.01)</name>
 	<url>http://store.drone.ua/product/mavic-pro-platinum-ref/</url>
 	<price>23806</price>
@@ -1348,7 +1348,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.PT.00000065.01_REF" available="false">
+	<item id="CP.PT.00000065.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished (CP.PT.00000065.01)</name>
 	<url>http://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
 	<price>29698</price>
@@ -1392,7 +1392,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Б/У</param>
 	</item>
-	<item id="CP.ZM.00000104.01_REF" available="false">
+	<item id="CP.ZM.00000104.01_REF" available="">
 	<name>Стедикам DJI Ronin-S Refurbished (CP.ZM.00000104.01)</name>
 	<url>http://store.drone.ua/product/ronin-s-ref/</url>
 	<price>17854</price>
