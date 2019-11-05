@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-11-04 13:43">	
+<price date="2019-11-05 13:42">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -4976,6 +4976,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000003068</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000007806" available="false">
 	<name>Набор DJI Osmo Charging Kit (ST.00000007806)</name>
@@ -5033,6 +5036,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.BX.000167</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.BX.000169" available="false">
 	<name>Квадрокоптер DJI Inspire 2 Professional (CP.BX.000169)</name>
@@ -5052,6 +5058,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.BX.000169</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.0000004" available="false">
 	<name>Квадрокоптер DJI Inspire 2 Premium (ST.0000004)</name>
@@ -5071,9 +5080,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.0000004</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004017" available="false">
-	<name>Камера с подвесом DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
 	<price>43370</price>
 	<categoryId>2</categoryId>
@@ -5089,9 +5101,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004017</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004015" available="false">
-	<name>Камера с подвесом DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
 	<price>46470</price>
 	<categoryId>2</categoryId>
@@ -5107,9 +5122,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004015</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004014" available="false">
-	<name>Камера с подвесом DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
 	<price>46470</price>
 	<categoryId>2</categoryId>
@@ -5125,9 +5143,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004014</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004013" available="false">
-	<name>Камера с подвесом DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
 	<price>46470</price>
 	<categoryId>2</categoryId>
@@ -5143,9 +5164,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004013</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004012" available="false">
-	<name>Камера с подвесом DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/</url>
 	<price>151870</price>
 	<categoryId>2</categoryId>
@@ -5161,9 +5185,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004012</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004020" available="false">
-	<name>Подвес DJI Zenmuse X5S Gimbal and Camera (Lens Excluded) (ST.00000004020)</name>
+	<name>Подвес с камерой DJI Zenmuse X5S без объектива (ST.00000004020)</name>
 	<url>http://store.drone.ua/product/zenmuse-x5s-gimbal-and-camera-lens-excluded/</url>
 	<price>49570</price>
 	<categoryId>2</categoryId>
@@ -5177,9 +5204,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004020</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004019" available="false">
-	<name>Камера с подвесом DJI Zenmuse X5S (ST.00000004019)</name>
+	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
 	<url>http://store.drone.ua/product/zenmuse-x5s/</url>
 	<price>68170</price>
 	<categoryId>2</categoryId>
@@ -5197,9 +5227,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004019</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004011" available="false">
-	<name>Камера с подвесом DJI Zenmuse X7 (ST.00000004011)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 (ST.00000004011)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7/</url>
 	<price>92970</price>
 	<categoryId>2</categoryId>
@@ -5217,9 +5250,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004011</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.000000011501" available="false">
-	<name>Квадрокоптер DJI P4 Multispectral Phantmo 4 Multispectral | DroneUA (ST.000000011501)</name>
+	<name>Квадрокоптер DJI P4 Multispectral (ST.000000011501)</name>
 	<url>http://store.drone.ua/product/p4-multispectral/</url>
 	<price>230000</price>
 	<categoryId>1</categoryId>
@@ -5236,6 +5272,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.000000011501</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.000000011518" available="false">
 	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (ST.000000011518)</name>
@@ -5255,9 +5294,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.000000011518</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.EN.00000108.01-1" available="false">
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual + Smart Controller (CP.EN.00000108.01-1)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>http://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
 	<price>130520</price>
 	<categoryId>1</categoryId>
@@ -5274,6 +5316,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.EN.00000108.01-1</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.EN.00000108.01" available="true">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP.EN.00000108.01)</name>
@@ -5292,9 +5337,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.EN.00000108.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000006344" available="false">
-	<name>Квадрокоптер DJI Mavic 2 Enterprise + Smart Controller (ST.00000006344)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST.00000006344)</name>
 	<url>http://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
 	<price>107480</price>
 	<categoryId>1</categoryId>
@@ -5308,6 +5356,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000006344</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000003212" available="false">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (ST.00000003212)</name>
@@ -5323,6 +5374,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000003212</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000006316" available="true">
 	<name>Набор DJI Mavic 2 Enterprise Fly More Kit (ST.00000006316)</name>
@@ -5337,6 +5391,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000006316</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000006323" available="false">
 	<name>Аккумулятор DJI Mavic 2 Enterprise (ST.00000006323)</name>
@@ -5351,6 +5408,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000006323</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000006325" available="false">
 	<name>Прожектор DJI Mavic 2 Enterprise Spotlight (ST.00000006325)</name>
@@ -5365,6 +5425,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000006325</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000006327" available="false">
 	<name>Кейс DJI Mavic 2 Enterprise (ST.00000006327)</name>
@@ -5379,6 +5442,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000006327</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000008210" available="false">
 	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (ST.00000008210)</name>
@@ -5399,6 +5465,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000008210</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000003160" available="true">
 	<name>Квадрокоптер DJI Phantom 4 RTK (ST.00000003160)</name>
@@ -5419,6 +5488,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000003160</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.000000010836" available="false">
 	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST.000000010836)</name>
@@ -5433,6 +5505,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.000000010836</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000004491" available="false">
 	<name>Мобильная станция DJI D-RTK 2 (ST.00000004491)</name>
@@ -5447,6 +5522,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000004491</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.000000010835" available="false">
 	<name>Пульт управления DJI Phantom 4 RTK SDK (ST.000000010835)</name>
@@ -5465,6 +5543,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.000000010835</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Пульт управления</param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000009846" available="false">
 	<name>Штатив для базовой станции DJI D-RTK 2 (ST.00000009846)</name>
@@ -5479,6 +5560,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000009846</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.EN.00000048.01" available="false">
 	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP.EN.00000048.01)</name>
@@ -5498,6 +5582,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.EN.00000048.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.EN.00000054.01" available="false">
 	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP.EN.00000054.01)</name>
@@ -5519,6 +5606,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.EN.00000054.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.EN.00000062" available="false">
 	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP.EN.00000062)</name>
@@ -5537,6 +5627,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.EN.00000062</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000002931" available="false">
 	<name>Зарядное устройство-хаб для серии DJI Phantom 4 (ST.00000002931)</name>
@@ -5556,6 +5649,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000002931</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Зарядное устройство</param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000003914" available="false">
 	<name>Зарядное устройство-хаб для DJI Inspire 2 / Ronin 2 (ST.00000003914)</name>
@@ -5575,6 +5671,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000003914</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Зарядное устройство</param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CP.SB.000307" available="false">
 	<name>Гексакоптер DJI Matrice 600 Pro (CP.SB.000307)</name>
@@ -5595,6 +5694,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CP.SB.000307</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип модели" unit=""></param>
+	<param name="Цвет корпуса" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.000000011350" available="false">
 	<name>Интеллектуальная батарея DJI TB47S для Matrice 600 (6PCS) (ST.000000011350)</name>
@@ -5612,6 +5714,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.000000011350</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.00000008269" available="false">
 	<name>Зарядное устройство DJI Hex Charger (ST.00000008269)</name>
@@ -5631,6 +5736,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.00000008269</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Зарядное устройство</param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ST.000000011349" available="false">
 	<name>Интеллектуальная батарея DJI TB47S для Matrice 600 (ST.000000011349)</name>
@@ -5648,6 +5756,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>ST.000000011349</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
+	<param name="Тип" unit="">Аккумулятор</param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CR3-2600W-01" available="false">
 	<name>Кейс HPRC 2600W для Zhiyun Crane 3 Lab (CR3-2600W-01)</name>
@@ -5682,6 +5793,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>TYH-4600W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="Z190-2700W-01" available="false">
 	<name>Кейс HPRC 2700W для Sony PXWZ190V (Z190-2700W-01)</name>
@@ -5749,6 +5863,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>BEB2600W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="BEB2600-01" available="false">
 	<name>Кейс HPRC 2600 для Parrot Bebop (BEB2600-01)</name>
@@ -5764,9 +5881,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>BEB2600-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="BEBBAGLG-01" available="false">
-	<name>Кейс HPRC Soft Bag для Parrot Bebop + Skycontroller (BEBBAGLG-01)</name>
+	<name>Кейс HPRC Soft Bag для Parrot Bebop &amp; Skycontroller (BEBBAGLG-01)</name>
 	<url>http://store.drone.ua/product/hprc_bebbaglg-01/</url>
 	<price>7070</price>
 	<categoryId>2</categoryId>
@@ -5782,6 +5902,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>BEBBAGLG-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="GH52460-01" available="false">
 	<name>Кейс HPRC 2460 для Panasonic Lumix GH5 (GH52460-01)</name>
@@ -5915,6 +6038,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>SPK2300YEL-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="SPK2300RED-01" available="false">
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300RED-01)</name>
@@ -5929,6 +6055,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>SPK2300RED-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="SPK2300BLU-01" available="false">
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300BLU-01)</name>
@@ -5943,6 +6072,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>SPK2300BLU-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="SPK2300BLK-01" available="false">
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300BLK-01)</name>
@@ -5957,6 +6089,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>SPK2300BLK-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA2700-03" available="false">
 	<name>Кейс HPRC 2700 для DJI Phantom 2/2 Vision/2 Vision+ (PHA2700-03)</name>
@@ -5971,6 +6106,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA2700-03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAVBAG35-02" available="false">
 	<name>Рюкзак HPRC для DJI Mavic 2 Pro/Zoom (MAVBAG35-02)</name>
@@ -5987,6 +6125,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAVBAG35-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAV2400RED-01" available="false">
 	<name>Кейс HPRC 2400 Red для Mavic Pro Fly More Combo (MAV2400RED-01)</name>
@@ -6001,6 +6142,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAV2400RED-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAV2400BLK-01" available="false">
 	<name>Кейс HPRC 2400 Black для DJI Mavic Pro Fly More Combo (MAV2400BLK-01)</name>
@@ -6015,6 +6159,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAV2400BLK-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAV2400BLU-01" available="false">
 	<name>Кейс HPRC 2400 Blu для Mavic Pro Fly More Combo (MAV2400BLU-01)</name>
@@ -6029,6 +6176,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAV2400BLU-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAV2400BLK-02" available="false">
 	<name>Кейс HPRC 2400 Black для DJI Mavic 2 Pro/Zoom (MAV2400BLK-02)</name>
@@ -6043,9 +6193,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAV2400BLK-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="INS2-2780WCOM-01" available="false">
-	<name>Кейс HPRC Combo 2780W для DJI Inspire 2 + BAT2550W-01 (INS2-2780WCOM-01)</name>
+	<name>Кейс HPRC Combo 2780W для DJI Inspire 2 &amp; BAT2550W-01 (INS2-2780WCOM-01)</name>
 	<url>http://store.drone.ua/product/hprc_ins2-2780wcom-01/</url>
 	<price>23840</price>
 	<categoryId>2</categoryId>
@@ -6057,6 +6210,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>INS2-2780WCOM-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="SPKBAG35-01" available="false">
 	<name>Кейс HPRC Soft Bag для DJI Spark Fly More Combo (SPKBAG35-01)</name>
@@ -6075,6 +6231,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>SPKBAG35-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit="">Пластик</param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="ROS3500-01" available="false">
 	<name>Рюкзак HPRC 3500 для DJI Ronin-S (ROS3500-01)</name>
@@ -6184,7 +6343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Италия</country>
 	</item>
 	<item id="PHA4RTKGS-2780W-01" available="false">
-	<name>Кейс HPRC 2780W для DJI Phantom 4 RTK + Ground Station (PHA4RTKGS-2780W-01)</name>
+	<name>Кейс HPRC 2780W для DJI Phantom 4 RTK &amp; Ground Station (PHA4RTKGS-2780W-01)</name>
 	<url>http://store.drone.ua/product/hprc_pha4rtkgs-2780w-01/</url>
 	<price>31930</price>
 	<categoryId>2</categoryId>
@@ -6205,6 +6364,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA4RTKGS-2780W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA4RTK-2700W-01" available="false">
 	<name>Кейс HPRC 2700W для DJI Phantom 4 RTK (PHA4RTK-2700W-01)</name>
@@ -6221,6 +6383,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA4RTK-2700W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA4-BAG27-01" available="false">
 	<name>Кейс HPRC Soft Bag для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ (PHA4-BAG27-01)</name>
@@ -6240,6 +6405,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA4-BAG27-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA4-BAGLG-01" available="false">
 	<name>Кейс HPRC Soft Bag для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ Prop Guards (PHA4-BAGLG-01)</name>
@@ -6257,6 +6425,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA4-BAGLG-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA4-2700W-01" available="false">
 	<name>Кейс HPRC 2700W для DJI Phantom 4 (PHA4-2700W-01)</name>
@@ -6275,6 +6446,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA4-2700W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA4-2710-01" available="false">
 	<name>Кейс HPRC 2710 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ (PHA4-2710-01)</name>
@@ -6292,6 +6466,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA4-2710-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA3-BAGLG-01" available="false">
 	<name>Кейс HPRC Soft Bag для DJI Phantom 3 Professional/Advanced W/ Prop Guards (PHA3-BAGLG-01)</name>
@@ -6309,6 +6486,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA3-BAGLG-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA2700W-03" available="false">
 	<name>Кейс HPRC 2700W для DJI Phantom 2 / 2 Vision / 2 Vision+ (PHA2700W-03)</name>
@@ -6325,6 +6505,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA2700W-03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA3-2700W-01" available="false">
 	<name>Кейс HPRC 2700W для DJI Phantom 3 Professional/Advanced (PHA3-2700W-01)</name>
@@ -6341,6 +6524,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA3-2700W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="OSMPKT-1400-01" available="false">
 	<name>Кейс HPRC 1400 для DJI Osmo Pocket (OSMPKT-1400-01)</name>
@@ -6401,7 +6587,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Италия</country>
 	</item>
 	<item id="MAVBAG35-03" available="false">
-	<name>Рюкзак HPRC 3500 with Foam для Mavic 2 Pro/Zoom + Smart Controller (MAVBAG35-03)</name>
+	<name>Рюкзак HPRC 3500 with Foam для Mavic 2 Pro/Zoom &amp; Smart Controller (MAVBAG35-03)</name>
 	<url>http://store.drone.ua/product/hprc_mavbag35-03/</url>
 	<price>4810</price>
 	<categoryId>2</categoryId>
@@ -6417,9 +6603,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAVBAG35-03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAV2-2400BLK-02" available="false">
-	<name>Кейс HPRC для DJI Mavic 2 Pro/Zoom + Smart Controller (MAV2-2400BLK-02)</name>
+	<name>Кейс HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-2400BLK-02)</name>
 	<url>http://store.drone.ua/product/hprc_mav2-2400blk-02/</url>
 	<price>5970</price>
 	<categoryId>2</categoryId>
@@ -6434,9 +6623,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAV2-2400BLK-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAV2-3500BLK-02" available="false">
-	<name>Рюкзак HPRC 3500 для DJI Mavic 2 Pro/Zoom + Smart Controller (MAV2-3500BLK-02)</name>
+	<name>Рюкзак HPRC 3500 для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-3500BLK-02)</name>
 	<url>http://store.drone.ua/product/hprc_mav2-3500blk-02/</url>
 	<price>9790</price>
 	<categoryId>2</categoryId>
@@ -6451,6 +6643,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAV2-3500BLK-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="M210-4600W-04" available="false">
 	<name>Кейс HPRC 4600W для DJI Matrice 200/210 (M210-4600W-04)</name>
@@ -6468,6 +6663,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>M210-4600W-04</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="BAT2550W-01" available="false">
 	<name>Кейс HPRC Battery Case HPRC2550W для DJI Inspire 2/Pro (BAT2550W-01)</name>
@@ -6484,6 +6682,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>BAT2550W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="BAT2400-02" available="false">
 	<name>Кейс HPRC Phantom/Inspire Battery Case (BAT2400-02)</name>
@@ -6503,6 +6704,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>BAT2400-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="INS2780W-01" available="false">
 	<name>Кейс HPRC 2780W для DJI Inspire 1 Pro Landing Mode Case (INS2780W-01)</name>
@@ -6522,6 +6726,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>INS2780W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="INS2-4600W-02" available="false">
 	<name>Кейс HPRC 4600W для DJI Inspire 2 (INS2-4600W-02)</name>
@@ -6539,6 +6746,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>INS2-4600W-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="INS2-2780W-02" available="false">
 	<name>Кейс HPRC 2780W для DJI Inspire 2 (INS2-2780W-02)</name>
@@ -6556,6 +6766,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>INS2-2780W-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="GGS-2460-01" available="false">
 	<name>Кейс HPRC 2460 для DJI Goggles (GGS-2460-01)</name>
@@ -6573,6 +6786,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>GGS-2460-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="DRTK6500W-01" available="false">
 	<name>Кейс HPRC 6500W для DJI D-RTK2 (DRTK6500W-01)</name>
@@ -6589,6 +6805,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>DRTK6500W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="CEN2460-02" available="false">
 	<name>Кейс HPRC 2460 для DJI Cendence Remote Controller and Crystalsky (CEN2460-02)</name>
@@ -6605,6 +6824,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>CEN2460-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="GLA2710-01" available="false">
 	<name>Кейс HPRC 2710 для Chasing Innovation Gladius Mini (GLA2710-01)</name>
@@ -6625,6 +6847,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>GLA2710-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="C200-2600-01" available="false">
 	<name>Кейс HPRC 2600 для Canon Eos C200 (C200-2600-01)</name>
@@ -6678,7 +6903,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Италия</country>
 	</item>
 	<item id="URS2730W-03" available="false">
-	<name>Кейс HPRC 2730W для Blackmagic Ursa Mini Pro + Ursa Broadcast (URS2730W-03)</name>
+	<name>Кейс HPRC 2730W для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast (URS2730W-03)</name>
 	<url>http://store.drone.ua/product/hprc_urs2730w-03/</url>
 	<price>17500</price>
 	<categoryId>6</categoryId>
@@ -6763,7 +6988,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Италия</country>
 	</item>
 	<item id="MAC4800W-01" available="false">
-	<name>Кейс HPRC Apple Imac 27&#8243; Case (MAC4800W-01)</name>
+	<name>Кейс HPRC Apple iMac 27&#8243; Case (MAC4800W-01)</name>
 	<url>http://store.drone.ua/product/hprc_mac4800w-01/</url>
 	<price>16090</price>
 	<categoryId>7</categoryId>
@@ -6794,6 +7019,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>SOL2700W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTMAV3500-02" available="false">
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom для модели HPRC3500 (KTMAV3500-02)</name>
@@ -6808,6 +7036,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTMAV3500-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTMAV2400-02" available="false">
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom для модели HPRC2400 (KTMAV2400-02)</name>
@@ -6822,6 +7053,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTMAV2400-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA-0009" available="false">
 	<name>Ложемент HPRC для DJI Phantom 3 для кейса 2700 (PHA-0009)</name>
@@ -6836,6 +7070,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA-0009</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA-0011" available="false">
 	<name>Ложемент HPRC для DJI Phantom 4 для кейса 2700W (PHA-0011)</name>
@@ -6850,6 +7087,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA-0011</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="PHA-0008" available="false">
 	<name>Ложемент HPRC для DJI Phantom 3 для кейса 2700W (PHA-0008)</name>
@@ -6864,6 +7104,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>PHA-0008</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTPHA4-2700W-01" available="false">
 	<name>Ложемент HPRC для DJI Phantom 4 Adv./Prof. для моделей 2700W/2710 (KTPHA4-2700W-01)</name>
@@ -6878,6 +7121,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTPHA4-2700W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTINS2-4600W-01" available="false">
 	<name>Ложемент HPRC для DJI Inspire 2 для кейса HPRC4600W (KTINS2-4600W-01)</name>
@@ -6892,6 +7138,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTINS2-4600W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTINS2-2780W-01" available="false">
 	<name>Ложемент HPRC для DJI Inspire 2 для кейса HPRC2780W (KTINS2-2780W-01)</name>
@@ -6906,6 +7155,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTINS2-2780W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="INS-0002" available="false">
 	<name>Ложемент HPRC для DJI Inspire 1/Pro для модели HPRC2730W (INS-0002)</name>
@@ -6920,6 +7172,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>INS-0002</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="BAT2550W-02" available="false">
 	<name>Ложемент HPRC 2550W для аккумуляторов TB55/TB50 &#8212; DJI Matrice 200/210 (BAT2550W-02)</name>
@@ -6934,6 +7189,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>BAT2550W-02</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="MAVCONV-01" available="false">
 	<name>Ложемент HPRC Conversion Kit для DJI Mavic Air для MAV2400/MAV3500 (MAVCONV-01)</name>
@@ -6954,9 +7212,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>MAVCONV-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTZ190-2700W-01" available="false">
-	<name>Ложемент HPRC для Sony Pxwz190V для модели HPRC2700W (KTZ190-2700W-01)</name>
+	<name>Ложемент HPRC для Sony PXWZ190V для модели HPRC2700W (KTZ190-2700W-01)</name>
 	<url>http://store.drone.ua/product/hprc_ktz190-2700w-01/</url>
 	<price>8100</price>
 	<categoryId>6</categoryId>
@@ -6984,7 +7245,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Италия</country>
 	</item>
 	<item id="KTURS2730W-03" available="false">
-	<name>Ложемент HPRC для Blackmagic Ursa Mini Pro + Ursa Broadcast для кейса HPRC2730W (KTURS2730W-03)</name>
+	<name>Ложемент HPRC для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast для кейса HPRC2730W (KTURS2730W-03)</name>
 	<url>http://store.drone.ua/product/hprc_kturs2730w-03/</url>
 	<price>8200</price>
 	<categoryId>6</categoryId>
@@ -7094,6 +7355,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTPHA4-RTK-2700W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTNSM19-2730W-01" available="false">
 	<name>Ложемент HPRC для Atomos Sumo 19&#8243; для кейса HPRC2730W (KTNSM19-2730W-01)</name>
@@ -7126,7 +7390,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<country>Италия</country>
 	</item>
 	<item id="KTMAV2400-03" available="false">
-	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom + Smart Controller для кейса HPRC2400 (KTMAV2400-03)</name>
+	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller для кейса HPRC2400 (KTMAV2400-03)</name>
 	<url>http://store.drone.ua/product/hprc_ktmav2400-03/</url>
 	<price>3070</price>
 	<categoryId>2</categoryId>
@@ -7138,6 +7402,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTMAV2400-03</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTCR3-2600W-01" available="false">
 	<name>Ложемент HPRC для Zhiyun Crane 3 Lab для HPRC2600W (KTCR3-2600W-01)</name>
@@ -7194,6 +7461,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTBAT2550W-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTMAV2400-01" available="false">
 	<name>Ложемент HPRC для DJI Mavic для кейса HPRC2400 (KTMAV2400-01)</name>
@@ -7208,6 +7478,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTMAV2400-01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 	<item id="KTM210-4600W-04" available="false">
 	<name>Ложемент HPRC для DJI Matrice 200/210 для кейса HPRC4600W (KTM210-4600W-04)</name>
@@ -7222,6 +7495,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendorCode>KTM210-4600W-04</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Италия</country>
+	<param name="Тип" unit=""></param>
+	<param name="Материал изготовления" unit=""></param>
+	<param name="Состояние" unit="">Новое</param>
 	</item>
 </items>	
 </price>
