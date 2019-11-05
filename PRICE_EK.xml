@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2019-11-04 17:50">	
+<yml_catalog date="2019-11-05 13:08">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -927,7 +927,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004017">
-	<name>Камера с подвесом DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -936,7 +936,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004015">
-	<name>Камера с подвесом DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -945,7 +945,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004014">
-	<name>Камера с подвесом DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -954,7 +954,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004013">
-	<name>Камера с подвесом DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -963,7 +963,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004012">
-	<name>Камера с подвесом DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -972,7 +972,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004020">
-	<name>Подвес DJI Zenmuse X5S Gimbal and Camera (ST.00000004020)</name>
+	<name>Подвес с камерой DJI Zenmuse X5S без объектива (ST.00000004020)</name>
 	<url>http://store.drone.ua/product/zenmuse-x5s-gimbal-and-camera-lens-excluded/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -981,7 +981,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004019">
-	<name>Камера с подвесом DJI Zenmuse X5S (ST.00000004019)</name>
+	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
 	<url>http://store.drone.ua/product/zenmuse-x5s/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -990,7 +990,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000004011">
-	<name>Камера с подвесом DJI Zenmuse X7 (ST.00000004011)</name>
+	<name>Подвес с камерой DJI Zenmuse X7 (ST.00000004011)</name>
 	<url>http://store.drone.ua/product/zenmuse-x7/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -999,7 +999,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.000000011501">
-	<name>Квадрокоптер DJI P4 Multispectral Phantmo 4 Multispectral | DroneUA (ST.000000011501)</name>
+	<name>Квадрокоптер DJI P4 Multispectral (ST.000000011501)</name>
 	<url>http://store.drone.ua/product/p4-multispectral/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -1017,7 +1017,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="CP.EN.00000108.01-1">
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual + Smart Controller (CP.EN.00000108.01-1)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>http://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -1035,7 +1035,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	</item>
 	<item id="ST.00000006344">
-	<name>Квадрокоптер DJI Mavic 2 Enterprise + Smart Controller (ST.00000006344)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST.00000006344)</name>
 	<url>http://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -1287,7 +1287,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Кейс HPRC BEB2600-01 для Parrot Bebop. Размеры: 543 x 419 x 218 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC BEB2600-01 для защиты Parrot Bebop от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="BEBBAGLG-01">
-	<name>Кейс HPRC Soft Bag для Parrot Bebop + Skycontroller (BEBBAGLG-01)</name>
+	<name>Кейс HPRC Soft Bag для Parrot Bebop &amp; Skycontroller (BEBBAGLG-01)</name>
 	<url>http://store.drone.ua/product/hprc_bebbaglg-01/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -1449,7 +1449,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>HPRC MAV2400BLK-02 для DJI Mavic 2 Pro/Zoom. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>HPRC MAV2400BLK-02 для защиты DJI Mavic 2 Pro/Zoom от механических повреждений при транспортировке.</p></description>
 	</item>
 	<item id="INS2-2780WCOM-01">
-	<name>Кейс HPRC Combo 2780W для DJI Inspire 2 + BAT2550W-01 (INS2-2780WCOM-01)</name>
+	<name>Кейс HPRC Combo 2780W для DJI Inspire 2 &amp; BAT2550W-01 (INS2-2780WCOM-01)</name>
 	<url>http://store.drone.ua/product/hprc_ins2-2780wcom-01/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -1521,7 +1521,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Форма для кейса HPRC RMX2730W-01 для Ronin MX для модели 2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC RMX2730W-01 для защиты Ronin MX для модели 2730W. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="PHA4RTKGS-2780W-01">
-	<name>Кейс HPRC 2780W для DJI Phantom 4 RTK + Ground Station (PHA4RTKGS-2780W-01)</name>
+	<name>Кейс HPRC 2780W для DJI Phantom 4 RTK &amp; Ground Station (PHA4RTKGS-2780W-01)</name>
 	<url>http://store.drone.ua/product/hprc_pha4rtkgs-2780w-01/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -1629,7 +1629,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Кейс HPRC OSMACT-1400-01 для DJI Osmo Action. Размеры: 200 x 142 x 48 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC OSMACT-1400-01 для защиты DJI Osmo Action от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="MAVBAG35-03">
-	<name>Рюкзак HPRC 3500 with Foam для Mavic 2 Pro/Zoom + Smart Controller (MAVBAG35-03)</name>
+	<name>Рюкзак HPRC 3500 with Foam для Mavic 2 Pro/Zoom &amp; Smart Controller (MAVBAG35-03)</name>
 	<url>http://store.drone.ua/product/hprc_mavbag35-03/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -1638,7 +1638,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Рюкзак HPRC MAVBAG35-03 для Mavic 2 Pro/Zoom + Smart Controller. Размеры: 445 x 320 x 106 мм.</p><p><strong>Особенности:</strong></p><p>Рюкзак HPRC MAVBAG35-03 для защиты Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке.</p></description>
 	</item>
 	<item id="MAV2-2400BLK-02">
-	<name>Кейс HPRC для DJI Mavic 2 Pro/Zoom + Smart Controller (MAV2-2400BLK-02)</name>
+	<name>Кейс HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-2400BLK-02)</name>
 	<url>http://store.drone.ua/product/hprc_mav2-2400blk-02/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -1647,7 +1647,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Кейс HPRC MAV2-2400BLK-02 для DJI Mavic 2 Pro/Zoom + Smart Controller. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC MAV2-2400BLK-02 для защиты DJI Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="MAV2-3500BLK-02">
-	<name>Рюкзак HPRC 3500 для DJI Mavic 2 Pro/Zoom + Smart Controller (MAV2-3500BLK-02)</name>
+	<name>Рюкзак HPRC 3500 для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-3500BLK-02)</name>
 	<url>http://store.drone.ua/product/hprc_mav2-3500blk-02/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -1773,7 +1773,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Кейс HPRC BRO4800W-01 для Brompton Folding Bike Case. Размеры: 776 x 380 x 649 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC BRO4800W-01 для защиты Brompton Folding Bike Case от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="URS2730W-03">
-	<name>Кейс HPRC 2730W для Blackmagic Ursa Mini Pro + Ursa Broadcast (URS2730W-03)</name>
+	<name>Кейс HPRC 2730W для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast (URS2730W-03)</name>
 	<url>http://store.drone.ua/product/hprc_urs2730w-03/</url>
 	<price>0</price>
 	<categoryId>8</categoryId>
@@ -1818,7 +1818,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Кейс HPRC NJAV-2300-01 для Atomos Ninja V. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC NJAV-2300-01 для защиты Atomos Ninja V от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="MAC4800W-01">
-	<name>Кейс HPRC Apple Imac 27&#8243; Case (MAC4800W-01)</name>
+	<name>Кейс HPRC Apple iMac 27&#8243; Case (MAC4800W-01)</name>
 	<url>http://store.drone.ua/product/hprc_mac4800w-01/</url>
 	<price>0</price>
 	<categoryId>12</categoryId>
@@ -1935,7 +1935,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Набор HPRC MAVCONV-01 для моделей MAV2400 и MAV3500 на Mavic Air.</p><p><strong>Особенности:</strong></p><p>Набор HPRC MAVCONV-01 для защиты Mavic Air от механических повреждений при транспортировке, для моделей MAV2400 и MAV3500.</p></description>
 	</item>
 	<item id="KTZ190-2700W-01">
-	<name>Ложемент HPRC для Sony Pxwz190V для модели HPRC2700W (KTZ190-2700W-01)</name>
+	<name>Ложемент HPRC для Sony PXWZ190V для модели HPRC2700W (KTZ190-2700W-01)</name>
 	<url>http://store.drone.ua/product/hprc_ktz190-2700w-01/</url>
 	<price>0</price>
 	<categoryId>8</categoryId>
@@ -1953,7 +1953,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Форма для кейса HPRC KTVEN2730W-01 для Sony Venice для модели HPRC2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTVEN2730W-01 для защиты Sony Venice для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="KTURS2730W-03">
-	<name>Ложемент HPRC для Blackmagic Ursa Mini Pro + Ursa Broadcast для кейса HPRC2730W (KTURS2730W-03)</name>
+	<name>Ложемент HPRC для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast для кейса HPRC2730W (KTURS2730W-03)</name>
 	<url>http://store.drone.ua/product/hprc_kturs2730w-03/</url>
 	<price>0</price>
 	<categoryId>8</categoryId>
@@ -2043,7 +2043,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description><p>Форма для кейса HPRC KTNJAV2300-01 для Atomos Ninja V для модели HPRC2300. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTNJAV2300-01 для защиты Atomos Ninja V для модели HPRC2300. Основа из плотной пены защищает устройство и его компоненты.</p></description>
 	</item>
 	<item id="KTMAV2400-03">
-	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom + Smart Controller для кейса HPRC2400 (KTMAV2400-03)</name>
+	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller для кейса HPRC2400 (KTMAV2400-03)</name>
 	<url>http://store.drone.ua/product/hprc_ktmav2400-03/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
