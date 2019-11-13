@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-11-05 17:40</date>	
+<date>2019-11-13 17:20</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -121,7 +121,7 @@
 	<url>http://store.drone.ua/product/mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000075.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
 	<priceRUAH>34070</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -249,7 +249,7 @@
 	<url>http://store.drone.ua/product/mavic-2-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000013.01/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Pro.jpg</image>
 	<priceRUAH>44920</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1509,7 +1509,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000003068</code>
 	<vendor>DJI</vendor>
 	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
-	<description></description>
+	<description>Интеллектуальная батарея DJI TB50 Совместимость: Квадрокоптер DJI Inspire 2 Стедикам DJI Ronin2 Квадрокоптер DJI Matrice 200 Емкость: 4280 mAh </description>
 	<url>http://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000003068/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</image>
 	<priceRUAH>7180</priceRUAH>
@@ -1525,7 +1525,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000007806</code>
 	<vendor>DJI</vendor>
 	<name>Набор DJI Osmo Charging Kit (ST.00000007806)</name>
-	<description></description>
+	<description> Зарядное устройство может заряжать три батареи. Интеллектуальная система зарядки значительно повышает эффективность Для полной зарядки трех аккумуляторов требуется всего 130 минут. В коробке: Зарядная станция Osmo Action x 1 Батарея Osmo Action x 2 Батарея Osmo Action x 2 Характеристики: Osmo Action Charging Hub: Размер: 55.3 x 47.6 x 25.3 мм Вес: 37.5 г Аккумулятор Osmo Action: Размер: 37.9 x 40.8 x 15.1 мм Вес: 30 г Чехол для батареи Osmo Action: Размер: 18.8 x 49 x 44.6 мм Вес: 10 г Совместимость: Osmo Action </description>
 	<url>http://store.drone.ua/product/dji-osmo-part-6-charging-kit-eu/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=ST.00000007806/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_1.jpg</image>
 	<priceRUAH>2760</priceRUAH>
@@ -1541,7 +1541,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.000000010931</code>
 	<vendor>DJI</vendor>
 	<name>Трипод DJI Osmo Grip (ST.000000010931)</name>
-	<description></description>
+	<description>Надежно размещайте Osmo Mobile 3 и другие совместимые продукты практически на любой поверхности. Штатив Osmo Grip Tripod для установки Osmo Mobile 3 и других совместимых продуктов на поверхности, для обеспечения стабильности положения. Комплектация: Osmo Grip Tripod 1 Характеристики: Размеры: Длина: 138 мм Диаметр основания: 32 мм Вес: 72 г Совместимость: Osmo Mobile 3 Osmo Mobile 2 </description>
 	<url>http://store.drone.ua/product/osmo-part1-grip-tripod/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=ST.000000010931/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_1.jpg</image>
 	<priceRUAH>900</priceRUAH>
@@ -1557,11 +1557,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>CP.BX.000167</code>
 	<vendor>DJI</vendor>
 	<name>Квадрокоптер DJI Inspire 2 (CP.BX.000167)</name>
-	<description></description>
+	<description>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ. Inspire 2 квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S) Квадрокоптер оснащен дублированной системой батарей с подогревом, сенсорами для облета препятствий и отдельной курсовой FPV-камерой для пилота на двухосевом подвесе с управляемым углом наклона Профессиональное качество съемки Дрон оснащен новейшей системой обработки изображений CineCore 2.0, способной записывать видео качеством 5.2К CinemaDNG, Apple ProRes и других. Система встроена в носу аппарата и совместима с любой подключенной к подвесу камерой (на данный момент X4S или X5S) Распознавание препятствий Система передних и нижних сенсоров позволяет различать препятствия по курсу на расстоянии до 30 м, обеспечивая защищенный полет на скорости до 54 км\ч. Верхние инфракрасные сенсоры сканируют пространство над коптером, различая препятствия на расстоянии до 5 м, что делает безопасным полет в закрытых помещениях. Системы распознавания препятствий активны в обычном полете, режиме возврата домой (RTH), а также в интеллектуальных полетных режимах. Они являются ядром системы DJI FlightAutonomy, обеспечивающей, кроме этого, точное висение и распознавание пригодности территории для посадки Режим Spotlight Pro Этот режим позволяет выполнять сложные съемки даже без участия оператора камеры. Он позволяет сфокусироваться на объекте съемки независимо от направления полета дрона. Если подвес близок к ограничению его хода, коптер поворачивается сам в нужную сторону без влияния на его пилотирование Интеллектуальные режимы полета Владельцу Inspire 2 доступен целый ряд интеллектуальных режимов полета. Среди них Point of Interest, Waypoint, QuickSpin, TapFly, ActiveTrack Умный возврат домой Оптические сенсоры позволяют дрону создавать карту его маршрута в режиме реального времени во время полета. При активации режима возврата домой курсовая камера позволяет распознавать объекты на расстоянии до 200 м, планируя безопасный маршрут возвращения Новейшая система передачи видео Дрон оснащен последней версией системы DJI Lightbridge, позволяющей передавать видеосигнал 1080/720р на расстояние до 7 км, включая изображение с основной и курсовой камер. Возможно переключение между частотами 2.4 и 5.8 Ghz. Технология беспроводной передачи видео позволяет получить сигнал с одного передатчика управления на другой на расстоянии до 100 м без потери качества изображения Доступен также режим Broadcast для прямой видеотрансляции с дрона Расширенные полетные возможности Мощная мотоустановка Inspire 2 позволяет ему развивать максимальную скорость 94 км\ч, набирать и снижать высоту со скоростью соответственно 6 и 9 м\с, разгоняться от 0 до 80 км\ч всего за 5 секунд. Высококачественная система управления делает пилотирование очень предсказуемым и точным. Дрон может летать даже на высотах 2500-5000 м над уровнем моря (используя опциональные воздушные винты). Система питания из двух батарей с подогревом позволяет летать при температурах до 20 град. Цельсия Повышенная надежность DJI уделила большое внимание надежности ее флагманского дрона. Ключевые модули (барометр, IMU, силовая батарея, управляющий сигнал на моторы) дублированы. Новейшая система распознавания препятствий минимизирует риски аварии. Силовая установка тестировалась несколько тысяч часов. Управляющий сигнал на моторы идет через ШИМ-порт (PWM) с резервированием сигналов последовательного порта на случай отказа порта ШИМ Удобное программное обеспечение Inspire 2 управляется с помощью новейшего мощного приложения DJI GO 4, обеспечивающего полный контроль и настройку дрона </description>
 	<url>http://store.drone.ua/product/inspire-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.BX.000167/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire2_1.png</image>
 	<priceRUAH>105370</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1573,7 +1573,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>CP.BX.000169</code>
 	<vendor>DJI</vendor>
 	<name>Квадрокоптер DJI Inspire 2 Professional (CP.BX.000169)</name>
-	<description></description>
+	<description>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ. Inspire 2 квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S) Квадрокоптер оснащен дублированной системой батарей с подогревом, сенсорами для облета препятствий и отдельной курсовой FPV-камерой для пилота на двухосевом подвесе с управляемым углом наклона Профессиональное качество съемки Дрон оснащен новейшей системой обработки изображений CineCore 2.0, способной записывать видео качеством 5.2К CinemaDNG, Apple ProRes и других. Система встроена в носу аппарата и совместима с любой подключенной к подвесу камерой (на данный момент X4S или X5S) Распознавание препятствий Система передних и нижних сенсоров позволяет различать препятствия по курсу на расстоянии до 30 м, обеспечивая защищенный полет на скорости до 54 км\ч. Верхние инфракрасные сенсоры сканируют пространство над коптером, различая препятствия на расстоянии до 5 м, что делает безопасным полет в закрытых помещениях. Системы распознавания препятствий активны в обычном полете, режиме возврата домой (RTH), а также в интеллектуальных полетных режимах. Они являются ядром системы DJI FlightAutonomy, обеспечивающей, кроме этого, точное висение и распознавание пригодности территории для посадки Режим Spotlight Pro Этот режим позволяет выполнять сложные съемки даже без участия оператора камеры. Он позволяет сфокусироваться на объекте съемки независимо от направления полета дрона. Если подвес близок к ограничению его хода, коптер поворачивается сам в нужную сторону без влияния на его пилотирование Интеллектуальные режимы полета Владельцу Inspire 2 доступен целый ряд интеллектуальных режимов полета. Среди них Point of Interest, Waypoint, QuickSpin, TapFly, ActiveTrack Умный возврат домой Оптические сенсоры позволяют дрону создавать карту его маршрута в режиме реального времени во время полета. При активации режима возврата домой курсовая камера позволяет распознавать объекты на расстоянии до 200 м, планируя безопасный маршрут возвращения Новейшая система передачи видео Дрон оснащен последней версией системы DJI Lightbridge, позволяющей передавать видеосигнал 1080/720р на расстояние до 7 км, включая изображение с основной и курсовой камер. Возможно переключение между частотами 2.4 и 5.8 Ghz. Технология беспроводной передачи видео позволяет получить сигнал с одного передатчика управления на другой на расстоянии до 100 м без потери качества изображения Доступен также режим Broadcast для прямой видеотрансляции с дрона Расширенные полетные возможности Мощная мотоустановка Inspire 2 позволяет ему развивать максимальную скорость 94 км\ч, набирать и снижать высоту со скоростью соответственно 6 и 9 м\с, разгоняться от 0 до 80 км\ч всего за 5 секунд. Высококачественная система управления делает пилотирование очень предсказуемым и точным. Дрон может летать даже на высотах 2500-5000 м над уровнем моря (используя опциональные воздушные винты). Система питания из двух батарей с подогревом позволяет летать при температурах до 20 град. Цельсия Повышенная надежность DJI уделила большое внимание надежности ее флагманского дрона. Ключевые модули (барометр, IMU, силовая батарея, управляющий сигнал на моторы) дублированы. Новейшая система распознавания препятствий минимизирует риски аварии. Силовая установка тестировалась несколько тысяч часов. Управляющий сигнал на моторы идет через ШИМ-порт (PWM) с резервированием сигналов последовательного порта на случай отказа порта ШИМ Удобное программное обеспечение Inspire 2 управляется с помощью новейшего мощного приложения DJI GO 4, обеспечивающего полный контроль и настройку дрона </description>
 	<url>http://store.drone.ua/product/inspire-2-professional/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.BX.000169/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Professional_1.jpg</image>
 	<priceRUAH>353210</priceRUAH>
@@ -1589,7 +1589,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.0000004</code>
 	<vendor>DJI</vendor>
 	<name>Квадрокоптер DJI Inspire 2 Premium (ST.0000004)</name>
-	<description></description>
+	<description>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ. Inspire 2 квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S) Квадрокоптер оснащен дублированной системой батарей с подогревом, сенсорами для облета препятствий и отдельной курсовой FPV-камерой для пилота на двухосевом подвесе с управляемым углом наклона Профессиональное качество съемки Дрон оснащен новейшей системой обработки изображений CineCore 2.0, способной записывать видео качеством 5.2К CinemaDNG, Apple ProRes и других. Система встроена в носу аппарата и совместима с любой подключенной к подвесу камерой (на данный момент X4S или X5S) Распознавание препятствий Система передних и нижних сенсоров позволяет различать препятствия по курсу на расстоянии до 30 м, обеспечивая защищенный полет на скорости до 54 км\ч. Верхние инфракрасные сенсоры сканируют пространство над коптером, различая препятствия на расстоянии до 5 м, что делает безопасным полет в закрытых помещениях. Системы распознавания препятствий активны в обычном полете, режиме возврата домой (RTH), а также в интеллектуальных полетных режимах. Они являются ядром системы DJI FlightAutonomy, обеспечивающей, кроме этого, точное висение и распознавание пригодности территории для посадки Режим Spotlight Pro Этот режим позволяет выполнять сложные съемки даже без участия оператора камеры. Он позволяет сфокусироваться на объекте съемки независимо от направления полета дрона. Если подвес близок к ограничению его хода, коптер поворачивается сам в нужную сторону без влияния на его пилотирование Интеллектуальные режимы полета Владельцу Inspire 2 доступен целый ряд интеллектуальных режимов полета. Среди них Point of Interest, Waypoint, QuickSpin, TapFly, ActiveTrack Умный возврат домой Оптические сенсоры позволяют дрону создавать карту его маршрута в режиме реального времени во время полета. При активации режима возврата домой курсовая камера позволяет распознавать объекты на расстоянии до 200 м, планируя безопасный маршрут возвращения Новейшая система передачи видео Дрон оснащен последней версией системы DJI Lightbridge, позволяющей передавать видеосигнал 1080/720р на расстояние до 7 км, включая изображение с основной и курсовой камер. Возможно переключение между частотами 2.4 и 5.8 Ghz. Технология беспроводной передачи видео позволяет получить сигнал с одного передатчика управления на другой на расстоянии до 100 м без потери качества изображения Доступен также режим Broadcast для прямой видеотрансляции с дрона Расширенные полетные возможности Мощная мотоустановка Inspire 2 позволяет ему развивать максимальную скорость 94 км\ч, набирать и снижать высоту со скоростью соответственно 6 и 9 м\с, разгоняться от 0 до 80 км\ч всего за 5 секунд. Высококачественная система управления делает пилотирование очень предсказуемым и точным. Дрон может летать даже на высотах 2500-5000 м над уровнем моря (используя опциональные воздушные винты). Система питания из двух батарей с подогревом позволяет летать при температурах до 20 град. Цельсия Повышенная надежность DJI уделила большое внимание надежности ее флагманского дрона. Ключевые модули (барометр, IMU, силовая батарея, управляющий сигнал на моторы) дублированы. Новейшая система распознавания препятствий минимизирует риски аварии. Силовая установка тестировалась несколько тысяч часов. Управляющий сигнал на моторы идет через ШИМ-порт (PWM) с резервированием сигналов последовательного порта на случай отказа порта ШИМ Удобное программное обеспечение Inspire 2 управляется с помощью новейшего мощного приложения DJI GO 4, обеспечивающего полный контроль и настройку дрона </description>
 	<url>http://store.drone.ua/product/inspire-2-premium/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.0000004/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Premium_1.jpg</image>
 	<priceRUAH>441750</priceRUAH>
@@ -1605,7 +1605,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004017</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
-	<description></description>
+	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 50mm F2.8 LS ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 7 группах (включая 2 асферических элемента) Мин.фокусное расстояние: 0.93 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004017/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</image>
 	<priceRUAH>43370</priceRUAH>
@@ -1621,7 +1621,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004015</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
-	<description></description>
+	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 35mm F2.8 LS ASPH Масса: около 180 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.85 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004015/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</image>
 	<priceRUAH>46470</priceRUAH>
@@ -1637,7 +1637,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004014</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
-	<description></description>
+	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 24mm F2.8 LS ASPH Масса: около 178 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.65 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004014/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</image>
 	<priceRUAH>46470</priceRUAH>
@@ -1653,7 +1653,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004013</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
-	<description></description>
+	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL-S 16mm F2.8 ND ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 13 элементов в 12 группах (включая 4 асферических элемента) Мин.фокусное расстояние: 0.40 м Диаметр: 46 мм Размеры (диаметр*длина): 55 69.1 мм (с блендой) Другие: Встроенный ND-фильтр </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004013/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</image>
 	<priceRUAH>46470</priceRUAH>
@@ -1669,7 +1669,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004012</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
-	<description></description>
+	<description>Набор объективов для подвеса DJI Zenmuse X7: DL-S 16mm F2.8 ND ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 13 элементов в 12 группах (включая 4 асферических элемента) Мин.фокусное расстояние: 0.40 м Диаметр: 46 мм Размеры (диаметр*длина): 55 69.1 мм (с блендой) Другие: Встроенный ND-фильтр DL 24mm F2.8 LS ASPH Масса: около 178 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.65 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор DL 35mm F2.8 LS ASPH Масса: около 180 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.85 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор DL 50mm F2.8 LS ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 7 группах (включая 2 асферических элемента) Мин.фокусное расстояние: 0.93 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004012/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_1.jpg</image>
 	<priceRUAH>151870</priceRUAH>
@@ -1685,7 +1685,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004020</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X5S без объектива (ST.00000004020)</name>
-	<description></description>
+	<description>Подвес для дронов серии Inspire 2 и Matrice 200 Поддерживаемые объективы: PANASONIC LUMIX 15 MM / 1.7 (WITH BALANCING RING AND LENS HOOD) PANASONIC LUMIX 14-42 MM/3.5-5.6 HD OLYMPUS M.ZUIKO 12 MM /2.0 (WITH BALANCING RING) OLYMPUS M.ZUIKO 17 MM / 1.8 (WITH BALANCING RING) OLYMPUS M.ZUIKO 25 MM / 1.8 OLYMPUS M.ZUIKO 45 MM / 1.8 OLYMPUS M.ZUIKO 9-18 MM / 4.0-5.6 DJI MFT 15 MM / 1.7 ASPH (WITH BALANCING RING AND LENS HOOD) </description>
 	<url>http://store.drone.ua/product/zenmuse-x5s-gimbal-and-camera-lens-excluded/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004020/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_1.jpg</image>
 	<priceRUAH>49570</priceRUAH>
@@ -1701,7 +1701,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004019</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
-	<description></description>
+	<description>Подвес с камерой для дронов серии Inspire 2 и Matrice 200 Объектив в комплекте: DJI MFT 15 MM / 1.7 ASPH (WITH BALANCING RING AND LENS HOOD) Поддерживаемые объективы: PANASONIC LUMIX 15 MM / 1.7 (WITH BALANCING RING AND LENS HOOD) PANASONIC LUMIX 14-42 MM/3.5-5.6 HD OLYMPUS M.ZUIKO 12 MM /2.0 (WITH BALANCING RING) OLYMPUS M.ZUIKO 17 MM / 1.8 (WITH BALANCING RING) OLYMPUS M.ZUIKO 25 MM / 1.8 OLYMPUS M.ZUIKO 45 MM / 1.8 OLYMPUS M.ZUIKO 9-18 MM / 4.0-5.6 </description>
 	<url>http://store.drone.ua/product/zenmuse-x5s/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004019/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_1.jpg</image>
 	<priceRUAH>68170</priceRUAH>
@@ -1717,7 +1717,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000004011</code>
 	<vendor>DJI</vendor>
 	<name>Подвес с камерой DJI Zenmuse X7 (ST.00000004011)</name>
-	<description></description>
+	<description>Zenmuse X7 - компактная камера формата Супер-35. Она оснащена встроенным стабилизатором и предназначена для профессиональной киносъемки. Камера совместима с дроном Inspire 2, что позволяет использовать ее для съемки с воздуха. CMOS-матрица в 24 Мп и динамическим диапазоном 14 шагов снимает детализированное видео в разрешении 6K (CinemaDNG) и в 5.2K (Apple ProRes*). Доступна функция серийной фотосъемки в RAW (20 кадров/с) с максимальным разрешением 24 Мп. X7 - первая камера с креплением DL, созданным для удобной установки и быстрой смены объектива. Она также оснащена новой цветовой системой DJI Cinema Color System, упрощающей процесс обработки. DJI Zenmuse X7 позволит снимать сцены так, как их видите вы. Эти инновации дают создателям фильмов возможность достижения новых высот и запечатления своего видения при помощи DJI Zenmuse X7. Х7 оснащена фотоматрицей Супер-35, способной снимать несжатое видео в разрешении 6К при 30 кадрах/с и в 3.9К при 59.94 кадрах/с. Размер одного пикселя достигает 3.91 мкм , а диагональ сенсора равна 26,6 мм при записи видео. Матрица такого размера чувствительнее к свету, а динамический диапазон в 14 шагов - шире ДД камеры Zenmuse X5S (12.8 шага). Кроме того, ОСШ Х7 равен 44 дБ, что на 5 дБ выше шумоподавляющей способности X5S, а диапазон тональности достигает 9.41 бит. Эти характеристики дают больше творческой свободы на съемочной площадке. Система крепления DJI DL Фотоматрица Х7 создана с использованием FSI-Cu, технологии, задействующей более тонкие соединительные элементы. Благодаря этому свет падает на сенсор под большим углом, что увеличивает светочувствительность матрицы. Кроме того, это позволяет использовать более компактное крепление объектива, не снижая качества изображения. Рабочий отрезок объектива с байонетом DL меньше 17 мм - примерно треть размера крепления PL. Компактность крепления снижает массу всей камеры - X7 весит около 620 г с объективом. Дрон Inspire 2 с X7 весит около 4 кг, а по функциональности не уступает более тяжелому оборудованию, весящему до 40 кг. </description>
 	<url>http://store.drone.ua/product/zenmuse-x7/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004011/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_1.jpg</image>
 	<priceRUAH>92970</priceRUAH>
@@ -2037,7 +2037,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000002931</code>
 	<vendor>DJI</vendor>
 	<name>Зарядное устройство-хаб для серии DJI Phantom 4 (ST.00000002931)</name>
-	<description></description>
+	<description>Хаб-зарядное устройство для аккумуляторов на дроны DJI серии Phantom 4 Совместимость: DJI Phantom 4 Series </description>
 	<url>http://store.drone.ua/product/phantom-4-series-battery-charging-hub/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000002931/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_1.jpg</image>
 	<priceRUAH>3070</priceRUAH>
@@ -2053,7 +2053,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ST.00000003914</code>
 	<vendor>DJI</vendor>
 	<name>Зарядное устройство-хаб для DJI Inspire 2 / Ronin 2 (ST.00000003914)</name>
-	<description></description>
+	<description>Хаб-зарядное устройство для аккумуляторов на дроны DJI серии Inspire 2 / Ronin 2 Совместимость: Квадрокоптер DJI Inspire 2 Стедикам DJI Ronin 2 </description>
 	<url>http://store.drone.ua/product/inspire-2-ronin-2-battery-charging-hub/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000003914/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_1.jpg</image>
 	<priceRUAH>1830</priceRUAH>
@@ -2133,7 +2133,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>CR3-2600W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2600W для Zhiyun Crane 3 Lab (CR3-2600W-01)</name>
-	<description><p>Кейс HPRC CR3-2600W-01 для Zhiyun Crane 3 Lab. Размеры: 546 x 423 x 250 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC CR3-2600W-01 для защиты Zhiyun Crane 3 Lab от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC CR3-2600W-01 для Zhiyun Crane 3 Lab. Размеры: 546 x 423 x 250 мм. Особенности: Высокопрочный кейс HPRC CR3-2600W-01 для защиты Zhiyun Crane 3 Lab от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_cr3-2600w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=CR3-2600W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/CR3-2600W-01___01.jpg</image>
 	<priceRUAH>14330</priceRUAH>
@@ -2149,7 +2149,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>TYH-4600W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 4600W для Typhoon H (TYH-4600W-01)</name>
-	<description><p>Кейс HPRC TYH-4600W-01 для Typhoon H. Размеры: 611 x 611 x 345 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC TYH-4600W-01 для защиты Typhoon H от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC TYH-4600W-01 для Typhoon H. Размеры: 611 x 611 x 345 мм. Особенности: Высокопрочный кейс HPRC TYH-4600W-01 для защиты Typhoon H от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_tyh-4600w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=TYH-4600W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/TYH-4600W-01___01.jpg</image>
 	<priceRUAH>14480</priceRUAH>
@@ -2165,7 +2165,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>Z190-2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700W для Sony PXWZ190V (Z190-2700W-01)</name>
-	<description><p>Кейс HPRC Z190-2700W-01 для Sony Pxwz190V. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC Z190-2700W-01 для защиты Sony PXWZ190V от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC Z190-2700W-01 для Sony Pxwz190V. Размеры: 620 x 520 x 275 мм. Особенности: Высокопрочный кейс HPRC Z190-2700W-01 для защиты Sony PXWZ190V от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_z190-2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=Z190-2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/Z190-2700W-01___01.jpg</image>
 	<priceRUAH>16250</priceRUAH>
@@ -2181,7 +2181,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>VEN2730W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2730W для Sony Venice (VEN2730W-01)</name>
-	<description><p>Кейс HPRC VEN2730W-01 для Sony Venice. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC VEN2730W-01 для защиты Sony Venice от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC VEN2730W-01 для Sony Venice. Размеры: 620 x 520 x 350 мм. Особенности: Высокопрочный кейс HPRC VEN2730W-01 для защиты Sony Venice от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ven2730w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=VEN2730W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/VEN2730W-01___01.jpg</image>
 	<priceRUAH>25520</priceRUAH>
@@ -2197,7 +2197,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ALP2460-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2460 для Sony Alpha 7 (ALP2460-01)</name>
-	<description><p>Кейс HPRC ALP2460-01 для Sony Alpha 7. Размеры: 434 x 371 x 193 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC ALP2460-01 для защиты Sony Alpha 7 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC ALP2460-01 для Sony Alpha 7. Размеры: 434 x 371 x 193 мм. Особенности: Высокопрочный кейс HPRC ALP2460-01 для защиты Sony Alpha 7 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_alp2460-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=ALP2460-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/ALP2460-01___01.jpg</image>
 	<priceRUAH>5400</priceRUAH>
@@ -2213,7 +2213,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>BEB2600W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2600W для Parrot Bebop (BEB2600W-01)</name>
-	<description><p>Кейс HPRC BEB2600W-01 для Parrot Bebop. Размеры: 546 x 423 x 250 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC BEB2600W-01 для защиты Parrot Bebop от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC BEB2600W-01 для Parrot Bebop. Размеры: 546 x 423 x 250 мм. Особенности: Высокопрочный кейс HPRC BEB2600W-01 для защиты Parrot Bebop от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_beb2600w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=BEB2600W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600W-01___01.jpg</image>
 	<priceRUAH>7790</priceRUAH>
@@ -2229,7 +2229,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>BEB2600-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2600 для Parrot Bebop (BEB2600-01)</name>
-	<description><p>Кейс HPRC BEB2600-01 для Parrot Bebop. Размеры: 543 x 419 x 218 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC BEB2600-01 для защиты Parrot Bebop от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC BEB2600-01 для Parrot Bebop. Размеры: 543 x 419 x 218 мм. Особенности: Высокопрочный кейс HPRC BEB2600-01 для защиты Parrot Bebop от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_beb2600-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=BEB2600-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600-01___01.jpg</image>
 	<priceRUAH>5170</priceRUAH>
@@ -2245,7 +2245,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>BEBBAGLG-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Soft Bag для Parrot Bebop &amp; Skycontroller (BEBBAGLG-01)</name>
-	<description><p>Кейс HPRC BEBBAGLG-01 для Parrot Bebop + Skycontroller. Размеры: 480 x 405 x 365 мм.</p><p><strong>Особенности:</strong></p><p>Кейс HPRC BEBBAGLG-01 для защиты Parrot Bebop + Skycontroller от механических повреждений при транспортировке.</p></description>
+	<description>Кейс HPRC BEBBAGLG-01 для Parrot Bebop + Skycontroller. Размеры: 480 x 405 x 365 мм. Особенности: Кейс HPRC BEBBAGLG-01 для защиты Parrot Bebop + Skycontroller от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_bebbaglg-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=BEBBAGLG-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BEBBAGLG-01___01.jpg</image>
 	<priceRUAH>7070</priceRUAH>
@@ -2261,7 +2261,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>GH52460-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2460 для Panasonic Lumix GH5 (GH52460-01)</name>
-	<description><p>Кейс HPRC GH52460-01 для Panasonic Lumix Gh5. Размеры: 434 x 371 x 193 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC GH52460-01 для защиты Panasonic Lumix GH5 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC GH52460-01 для Panasonic Lumix Gh5. Размеры: 434 x 371 x 193 мм. Особенности: Высокопрочный кейс HPRC GH52460-01 для защиты Panasonic Lumix GH5 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_gh52460-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=GH52460-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/GH52460-01___01.jpg</image>
 	<priceRUAH>5400</priceRUAH>
@@ -2277,7 +2277,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>D850-2460-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2460 для Nikon D850 (D850-2460-01)</name>
-	<description><p>Кейс HPRC D850-2460-01 для Nikon D850. Размеры: 434 x 371 x 193 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC D850-2460-01 для защиты Nikon D850 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC D850-2460-01 для Nikon D850. Размеры: 434 x 371 x 193 мм. Особенности: Высокопрочный кейс HPRC D850-2460-01 для защиты Nikon D850 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_d850-2460-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=D850-2460-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/D850-2460-01___01.jpg</image>
 	<priceRUAH>7170</priceRUAH>
@@ -2293,7 +2293,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>LEM2460-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2460 для Leica M (LEM2460-01)</name>
-	<description><p>Кейс HPRC LEM2460-01 для Leica M. Размеры: 434 x 371 x 193 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC LEM2460-01 для защиты Leica M от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC LEM2460-01 для Leica M. Размеры: 434 x 371 x 193 мм. Особенности: Высокопрочный кейс HPRC LEM2460-01 для защиты Leica M от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_lem2460-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=LEM2460-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/LEM2460-01___01.jpg</image>
 	<priceRUAH>9650</priceRUAH>
@@ -2309,7 +2309,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>LEM2400-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2400 для Leica M (LEM2400-01)</name>
-	<description><p>Кейс HPRC LEM2400-01 для Leica M. Размеры: 405 x 330 x 170 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC LEM2400-01 для защиты Leica M от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC LEM2400-01 для Leica M. Размеры: 405 x 330 x 170 мм. Особенности: Высокопрочный кейс HPRC LEM2400-01 для защиты Leica M от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_lem2400-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=LEM2400-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/LEM2400-01___01.jpg</image>
 	<priceRUAH>6650</priceRUAH>
@@ -2325,7 +2325,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>GPR7-1400-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 1400 для Go Pro Hero 7 (GPR7-1400-01)</name>
-	<description><p>Кейс HPRC GPR7-1400-01 для Go Pro Hero 7. Размеры: 200 x 142 x 48 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC GPR7-1400-01 для защиты Go Pro Hero 7 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC GPR7-1400-01 для Go Pro Hero 7. Размеры: 200 x 142 x 48 мм. Особенности: Высокопрочный кейс HPRC GPR7-1400-01 для защиты Go Pro Hero 7 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_gpr7-1400-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=GPR7-1400-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/GPR7-1400-01___01.jpg</image>
 	<priceRUAH>1900</priceRUAH>
@@ -2341,7 +2341,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>FFS-4600W-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 4600W Resin Cases для Movipro Free Fly System (FFS-4600W-02)</name>
-	<description><p>Кейс HPRC FFS-4600W-02 для Movipro Free Fly System. Размеры: 611 x 611 x 345 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC FFS-4600W-02 для защиты Movipro Free Fly System от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC FFS-4600W-02 для Movipro Free Fly System. Размеры: 611 x 611 x 345 мм. Особенности: Высокопрочный кейс HPRC FFS-4600W-02 для защиты Movipro Free Fly System от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ffs-4600w-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=FFS-4600W-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/FFS-4600W-02___01.jpg</image>
 	<priceRUAH>20650</priceRUAH>
@@ -2357,7 +2357,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAV3500BLK-02</code>
 	<vendor>HPRC</vendor>
 	<name>Рюкзак HPRC 3500 Black для DJI Mavic 2 Pro/Zoom &#8212; Hasselblad (MAV3500BLK-02)</name>
-	<description><p>HPRC MAV3500BLK-02 для DJI Mavic 2 Pro/Zoom &#8212; Hasselblad. Размеры: 433 x 319 x 169 мм.</p><p><strong>Особенности:</strong></p><p>HPRC MAV3500BLK-02 для защиты DJI Mavic 2 Pro/Zoom &#8212; Hasselblad от механических повреждений при транспортировке.</p></description>
+	<description>HPRC MAV3500BLK-02 для DJI Mavic 2 Pro/Zoom Hasselblad. Размеры: 433 x 319 x 169 мм. Особенности: HPRC MAV3500BLK-02 для защиты DJI Mavic 2 Pro/Zoom Hasselblad от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mav3500blk-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=MAV3500BLK-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV3500BLK-02___01.jpg</image>
 	<priceRUAH>9790</priceRUAH>
@@ -2373,7 +2373,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>SPK2300YEL-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300YEL-01)</name>
-	<description><p>HPRC SPK2300YEL-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>HPRC SPK2300YEL-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>HPRC SPK2300YEL-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм. Особенности: HPRC SPK2300YEL-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_spk2300yel-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=SPK2300YEL-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300YEL-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
@@ -2389,7 +2389,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>SPK2300RED-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300RED-01)</name>
-	<description><p>HPRC SPK2300RED-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>HPRC SPK2300RED-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>HPRC SPK2300RED-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм. Особенности: HPRC SPK2300RED-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_spk2300red-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=SPK2300RED-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300RED-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
@@ -2405,7 +2405,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>SPK2300BLU-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300BLU-01)</name>
-	<description><p>HPRC SPK2300BLU-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>HPRC SPK2300BLU-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>HPRC SPK2300BLU-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм. Особенности: HPRC SPK2300BLU-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_spk2300blu-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=SPK2300BLU-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300BLU-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
@@ -2421,7 +2421,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>SPK2300BLK-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300BLK-01)</name>
-	<description><p>HPRC SPK2300BLK-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>HPRC SPK2300BLK-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>HPRC SPK2300BLK-01 для DJI Spark Fly More Combo. Размеры: 335 x 289 x 155 мм. Особенности: HPRC SPK2300BLK-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_spk2300blk-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=SPK2300BLK-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300BLK-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
@@ -2437,7 +2437,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA2700-03</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700 для DJI Phantom 2/2 Vision/2 Vision+ (PHA2700-03)</name>
-	<description><p>HPRC PHA2700-03 для DJI Phantom 2/2 Vision/2 Vision+ Black-Red Foam. Размеры: 617 x 525 x 227 мм.</p><p><strong>Особенности:</strong></p><p>HPRC PHA2700-03 для защиты DJI Phantom 2/2 Vision/2 Vision+ Black-Red Foam от механических повреждений при транспортировке.</p></description>
+	<description>HPRC PHA2700-03 для DJI Phantom 2/2 Vision/2 Vision+ Black-Red Foam. Размеры: 617 x 525 x 227 мм. Особенности: HPRC PHA2700-03 для защиты DJI Phantom 2/2 Vision/2 Vision+ Black-Red Foam от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_pha2700-03/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA2700-03/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA2700-03___01.jpg</image>
 	<priceRUAH>9750</priceRUAH>
@@ -2453,7 +2453,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAVBAG35-02</code>
 	<vendor>HPRC</vendor>
 	<name>Рюкзак HPRC для DJI Mavic 2 Pro/Zoom (MAVBAG35-02)</name>
-	<description><p>HPRC MAVBAG35-02 для Mavic 2 Pr0/Zoom. Размеры: 445 x 320 x 106 мм.</p><p><strong>Особенности:</strong></p><p>HPRC MAVBAG35-02 для защиты Mavic 2 Pr0/Zoom от механических повреждений при транспортировке.</p></description>
+	<description>HPRC MAVBAG35-02 для Mavic 2 Pr0/Zoom. Размеры: 445 x 320 x 106 мм. Особенности: HPRC MAVBAG35-02 для защиты Mavic 2 Pr0/Zoom от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mavbag35-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAVBAG35-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-02___01.jpg</image>
 	<priceRUAH>4810</priceRUAH>
@@ -2469,7 +2469,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAV2400RED-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2400 Red для Mavic Pro Fly More Combo (MAV2400RED-01)</name>
-	<description><p>HPRC MAV2400RED-01 для Mavic Pro Fly More Combo. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>HPRC MAV2400RED-01 для защиты Mavic Pro Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>HPRC MAV2400RED-01 для Mavic Pro Fly More Combo. Размеры: 380 x 266 x 152 мм. Особенности: HPRC MAV2400RED-01 для защиты Mavic Pro Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mav2400red-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAV2400RED-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400RED-01___01.jpg</image>
 	<priceRUAH>5480</priceRUAH>
@@ -2485,7 +2485,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAV2400BLK-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2400 Black для DJI Mavic Pro Fly More Combo (MAV2400BLK-01)</name>
-	<description><p>HPRC MAV2400BLK-01 для Mavic Pro Fly More Combo. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>HPRC MAV2400BLK-01 для защиты Mavic Pro Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>HPRC MAV2400BLK-01 для Mavic Pro Fly More Combo. Размеры: 380 x 266 x 152 мм. Особенности: HPRC MAV2400BLK-01 для защиты Mavic Pro Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mav2400blk-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAV2400BLK-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLK-01___01.jpg</image>
 	<priceRUAH>5480</priceRUAH>
@@ -2501,7 +2501,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAV2400BLU-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2400 Blu для Mavic Pro Fly More Combo (MAV2400BLU-01)</name>
-	<description><p>HPRC MAV2400BLU-01 для Mavic Pro Fly More Combo. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>HPRC MAV2400BLU-01 для защиты Mavic Pro Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>HPRC MAV2400BLU-01 для Mavic Pro Fly More Combo. Размеры: 380 x 266 x 152 мм. Особенности: HPRC MAV2400BLU-01 для защиты Mavic Pro Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mav2400blu-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAV2400BLU-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLU-01___01.jpg</image>
 	<priceRUAH>5480</priceRUAH>
@@ -2517,7 +2517,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAV2400BLK-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2400 Black для DJI Mavic 2 Pro/Zoom (MAV2400BLK-02)</name>
-	<description><p>HPRC MAV2400BLK-02 для DJI Mavic 2 Pro/Zoom. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>HPRC MAV2400BLK-02 для защиты DJI Mavic 2 Pro/Zoom от механических повреждений при транспортировке.</p></description>
+	<description>HPRC MAV2400BLK-02 для DJI Mavic 2 Pro/Zoom. Размеры: 380 x 266 x 152 мм. Особенности: HPRC MAV2400BLK-02 для защиты DJI Mavic 2 Pro/Zoom от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mav2400blk-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAV2400BLK-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLK-02___01.jpg</image>
 	<priceRUAH>5910</priceRUAH>
@@ -2533,7 +2533,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>INS2-2780WCOM-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Combo 2780W для DJI Inspire 2 &amp; BAT2550W-01 (INS2-2780WCOM-01)</name>
-	<description><p>HPRC INS2-2780WCOM-01 для DJI Inspire 2 + Bat2550W-01.</p><p><strong>Особенности:</strong></p><p>HPRC INS2-2780WCOM-01 для защиты DJI Inspire 2 + Bat2550W-01 от механических повреждений при транспортировке.</p></description>
+	<description>HPRC INS2-2780WCOM-01 для DJI Inspire 2 + Bat2550W-01. Особенности: HPRC INS2-2780WCOM-01 для защиты DJI Inspire 2 + Bat2550W-01 от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_ins2-2780wcom-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=INS2-2780WCOM-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-2780WCOM-01___01.jpg</image>
 	<priceRUAH>23840</priceRUAH>
@@ -2549,7 +2549,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>SPKBAG35-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Soft Bag для DJI Spark Fly More Combo (SPKBAG35-01)</name>
-	<description><p>Кейс HPRC SPKBAG35-01 для DJI Spark Fly More Combo. Размеры: 445 x 320 x 105 мм.</p><p><strong>Особенности:</strong></p><p>Кейс HPRC SPKBAG35-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке.</p></description>
+	<description>Кейс HPRC SPKBAG35-01 для DJI Spark Fly More Combo. Размеры: 445 x 320 x 105 мм. Особенности: Кейс HPRC SPKBAG35-01 для защиты DJI Spark Fly More Combo от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_spkbag35-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=SPKBAG35-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPKBAG35-01___01.jpg</image>
 	<priceRUAH>4190</priceRUAH>
@@ -2565,7 +2565,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ROS3500-01</code>
 	<vendor>HPRC</vendor>
 	<name>Рюкзак HPRC 3500 для DJI Ronin-S (ROS3500-01)</name>
-	<description><p>Рюкзак HPRC ROS3500-01 для DJI Ronin-S. Размеры: 498 x 370 x 185 мм.</p><p><strong>Особенности:</strong></p><p>Рюкзак HPRC ROS3500-01 для защиты DJI Ronin-S от механических повреждений при транспортировке.</p></description>
+	<description>Рюкзак HPRC ROS3500-01 для DJI Ronin-S. Размеры: 498 x 370 x 185 мм. Особенности: Рюкзак HPRC ROS3500-01 для защиты DJI Ronin-S от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_ros3500-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=ROS3500-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/ROS3500-01___01.jpg</image>
 	<priceRUAH>9610</priceRUAH>
@@ -2581,7 +2581,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ROS2550W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2550W для DJI Ronin-S (ROS2550W-01)</name>
-	<description><p>Кейс HPRC ROS2550W-01 для DJI Ronin-S. Размеры: 549 x 346 x 236 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC ROS2550W-01 для защиты DJI Ronin-S от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC ROS2550W-01 для DJI Ronin-S. Размеры: 549 x 346 x 236 мм. Особенности: Высокопрочный кейс HPRC ROS2550W-01 для защиты DJI Ronin-S от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ros2550w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=ROS2550W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/ROS2550W-01___01.jpg</image>
 	<priceRUAH>10110</priceRUAH>
@@ -2597,7 +2597,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ROS2500-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2500 для DJI Ronin-S (ROS2500-01)</name>
-	<description><p>Кейс HPRC ROS2500-01 для DJI Ronin S. Размеры: 478 x 390 x 194 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC ROS2500-01 для защиты DJI Ronin-S от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC ROS2500-01 для DJI Ronin S. Размеры: 478 x 390 x 194 мм. Особенности: Высокопрочный кейс HPRC ROS2500-01 для защиты DJI Ronin-S от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ros2500-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=ROS2500-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/ROS2500-01___01.jpg</image>
 	<priceRUAH>5910</priceRUAH>
@@ -2613,7 +2613,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>RON2-2780W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2780W для DJI Ronin 2 (RON2-2780W-01)</name>
-	<description><p>Кейс HPRC RON2-2780W-01 для DJI Ronin 2. Размеры: 810 x 586.50 x 479 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC RON2-2780W-01 для защиты DJI Ronin 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC RON2-2780W-01 для DJI Ronin 2. Размеры: 810 x 586.50 x 479 мм. Особенности: Высокопрочный кейс HPRC RON2-2780W-01 для защиты DJI Ronin 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ron2-2780w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=RON2-2780W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/RON2-2780W-01___01.jpg</image>
 	<priceRUAH>18710</priceRUAH>
@@ -2629,7 +2629,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ROM2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700W для DJI Ronin-M (ROM2700W-01)</name>
-	<description><p>Кейс HPRC ROM2700W-01 для DJI Ronin-M. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC ROM2700W-01 для защиты DJI Ronin-M от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC ROM2700W-01 для DJI Ronin-M. Размеры: 620 x 520 x 275 мм. Особенности: Высокопрочный кейс HPRC ROM2700W-01 для защиты DJI Ronin-M от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_rom2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=ROM2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/ROM2700W-01___01.jpg</image>
 	<priceRUAH>11260</priceRUAH>
@@ -2645,7 +2645,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>RMX2730W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2730W для DJI Ronin MX (RMX2730W-01)</name>
-	<description><p>Форма для кейса HPRC RMX2730W-01 для Ronin MX для модели 2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC RMX2730W-01 для защиты Ronin MX для модели 2730W. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC RMX2730W-01 для Ronin MX для модели 2730W. Размеры: 620 x 520 x 350 мм. Особенности: Форма для кейса HPRC RMX2730W-01 для защиты Ronin MX для модели 2730W. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_rmx2730w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=RMX2730W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/RMX2730W-01___01.jpg</image>
 	<priceRUAH>12870</priceRUAH>
@@ -2661,7 +2661,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA4RTKGS-2780W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2780W для DJI Phantom 4 RTK &amp; Ground Station (PHA4RTKGS-2780W-01)</name>
-	<description><p>Кейс HPRC PHA4RTKGS-2780W-01 для DJI Phantom 4 Rtk + Ground Station. Размеры: 810 x 586.50 x 479 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA4RTKGS-2780W-01 для защиты DJI Phantom 4 Rtk + Ground Station от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA4RTKGS-2780W-01 для DJI Phantom 4 Rtk + Ground Station. Размеры: 810 x 586.50 x 479 мм. Особенности: Высокопрочный кейс HPRC PHA4RTKGS-2780W-01 для защиты DJI Phantom 4 Rtk + Ground Station от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha4rtkgs-2780w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA4RTKGS-2780W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTKGS-2780W-01___01.jpg</image>
 	<priceRUAH>31930</priceRUAH>
@@ -2677,7 +2677,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA4RTK-2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700W для DJI Phantom 4 RTK (PHA4RTK-2700W-01)</name>
-	<description><p>Кейс HPRC PHA4RTK-2700W-01 для DJI Phantom 4Rtk. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA4RTK-2700W-01 для защиты DJI Phantom 4Rtk от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA4RTK-2700W-01 для DJI Phantom 4Rtk. Размеры: 620 x 520 x 275 мм. Особенности: Высокопрочный кейс HPRC PHA4RTK-2700W-01 для защиты DJI Phantom 4Rtk от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha4rtk-2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA4RTK-2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTK-2700W-01___01.jpg</image>
 	<priceRUAH>15070</priceRUAH>
@@ -2693,7 +2693,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA4-BAG27-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Soft Bag для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ (PHA4-BAG27-01)</name>
-	<description><p>Кейс HPRC PHA4-BAG27-01 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+. Размеры: 560 x 470 x 235 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA4-BAG27-01 для защиты DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA4-BAG27-01 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+. Размеры: 560 x 470 x 235 мм. Особенности: Высокопрочный кейс HPRC PHA4-BAG27-01 для защиты DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha4-bag27-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA4-BAG27-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAG27-01___01.jpg</image>
 	<priceRUAH>5170</priceRUAH>
@@ -2709,7 +2709,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA4-BAGLG-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Soft Bag для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ Prop Guards (PHA4-BAGLG-01)</name>
-	<description><p>Кейс HPRC PHA4-BAGLG-01 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ Prop Guards. Размеры: 570 x 570 x 250 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA4-BAGLG-01 для защиты DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ Prop Guards от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA4-BAGLG-01 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ Prop Guards. Размеры: 570 x 570 x 250 мм. Особенности: Высокопрочный кейс HPRC PHA4-BAGLG-01 для защиты DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ Prop Guards от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha4-baglg-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA4-BAGLG-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAGLG-01___01.jpg</image>
 	<priceRUAH>7440</priceRUAH>
@@ -2725,7 +2725,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA4-2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700W для DJI Phantom 4 (PHA4-2700W-01)</name>
-	<description><p>Кейс HPRC PHA4-2700W-01 для DJI Phantom 4. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA4-2700W-01 для защиты DJI Phantom 4 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA4-2700W-01 для DJI Phantom 4. Размеры: 620 x 520 x 275 мм. Особенности: Высокопрочный кейс HPRC PHA4-2700W-01 для защиты DJI Phantom 4 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha4-2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA4-2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2700W-01___01.jpg</image>
 	<priceRUAH>10170</priceRUAH>
@@ -2741,7 +2741,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA4-2710-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2710 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ (PHA4-2710-01)</name>
-	<description><p>Кейс HPRC PHA4-2710-01 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+. Размеры: 617 x 525 x 280 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA4-2710-01 для защиты DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA4-2710-01 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+. Размеры: 617 x 525 x 280 мм. Особенности: Высокопрочный кейс HPRC PHA4-2710-01 для защиты DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha4-2710-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA4-2710-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2710-01___01.jpg</image>
 	<priceRUAH>6450</priceRUAH>
@@ -2757,7 +2757,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA3-BAGLG-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Soft Bag для DJI Phantom 3 Professional/Advanced W/ Prop Guards (PHA3-BAGLG-01)</name>
-	<description><p>Кейс HPRC PHA3-BAGLG-01 для DJI Phantom 3 Professional/Advanced W/ Prop Guards. Размеры: 570 x 570 x 250 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA3-BAGLG-01 для защиты DJI Phantom 3 Professional/Advanced W/ Prop Guards. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA3-BAGLG-01 для DJI Phantom 3 Professional/Advanced W/ Prop Guards. Размеры: 570 x 570 x 250 мм. Особенности: Высокопрочный кейс HPRC PHA3-BAGLG-01 для защиты DJI Phantom 3 Professional/Advanced W/ Prop Guards. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha3-baglg-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA3-BAGLG-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-BAGLG-01___01.jpg</image>
 	<priceRUAH>7400</priceRUAH>
@@ -2773,7 +2773,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA2700W-03</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700W для DJI Phantom 2 / 2 Vision / 2 Vision+ (PHA2700W-03)</name>
-	<description><p>Кейс HPRC PHA2700W-03 для DJI Phantom 2/2 Vision/2 Vision+m. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA2700W-03 для защиты DJI Phantom 2 / 2 Vision / 2 Vision+. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA2700W-03 для DJI Phantom 2/2 Vision/2 Vision+m. Размеры: 620 x 520 x 275 мм. Особенности: Высокопрочный кейс HPRC PHA2700W-03 для защиты DJI Phantom 2 / 2 Vision / 2 Vision+. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha2700w-03/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA2700W-03/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA2700W-03___01.jpg</image>
 	<priceRUAH>10480</priceRUAH>
@@ -2789,7 +2789,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA3-2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700W для DJI Phantom 3 Professional/Advanced (PHA3-2700W-01)</name>
-	<description><p>Кейс HPRC PHA3-2700W-01 для DJI Phantom 3 Professional и Advanced. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC PHA3-2700W-01 для защиты DJI Phantom 3 Professional и Advanced. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC PHA3-2700W-01 для DJI Phantom 3 Professional и Advanced. Размеры: 620 x 520 x 275 мм. Особенности: Высокопрочный кейс HPRC PHA3-2700W-01 для защиты DJI Phantom 3 Professional и Advanced. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_pha3-2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA3-2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-2700W-01___01.jpg</image>
 	<priceRUAH>10170</priceRUAH>
@@ -2805,7 +2805,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>OSMPKT-1400-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 1400 для DJI Osmo Pocket (OSMPKT-1400-01)</name>
-	<description><p>Кейс HPRC OSMPKT-1400-01 для DJI Osmo Pocket. Размеры: 200 x 142 x 48 мм.</p><p><strong>Особенности:</strong></p><p>Кейс HPRC OSMPKT-1400-01 для защиты DJI Osmo Pocket от механических повреждений при транспортировке. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC OSMPKT-1400-01 для DJI Osmo Pocket. Размеры: 200 x 142 x 48 мм. Особенности: Кейс HPRC OSMPKT-1400-01 для защиты DJI Osmo Pocket от механических повреждений при транспортировке. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_osmpkt-1400-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=OSMPKT-1400-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/OSMPKT-1400-01___01.jpg</image>
 	<priceRUAH>1550</priceRUAH>
@@ -2821,7 +2821,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>OSM2350-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2350 для DJI Osmo/Osmo+ (OSM2350-02)</name>
-	<description><p>Кейс HPRC OSM2350-02 для DJI Osmo/Osmo +. Размеры: 365 x 290 x 115 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC OSM2350-02 для защиты DJI Osmo/Osmo+ от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC OSM2350-02 для DJI Osmo/Osmo +. Размеры: 365 x 290 x 115 мм. Особенности: Высокопрочный кейс HPRC OSM2350-02 для защиты DJI Osmo/Osmo+ от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_osm2350-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=OSM2350-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/OSM2350-02___01.jpg</image>
 	<priceRUAH>3230</priceRUAH>
@@ -2837,7 +2837,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>OSMACT-1400-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 1400 для DJI Osmo Action (OSMACT-1400-01)</name>
-	<description><p>Кейс HPRC OSMACT-1400-01 для DJI Osmo Action. Размеры: 200 x 142 x 48 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC OSMACT-1400-01 для защиты DJI Osmo Action от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC OSMACT-1400-01 для DJI Osmo Action. Размеры: 200 x 142 x 48 мм. Особенности: Высокопрочный кейс HPRC OSMACT-1400-01 для защиты DJI Osmo Action от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_osmact-1400-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=OSMACT-1400-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/OSMACT-1400-01___01.jpg</image>
 	<priceRUAH>1900</priceRUAH>
@@ -2853,7 +2853,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAVBAG35-03</code>
 	<vendor>HPRC</vendor>
 	<name>Рюкзак HPRC 3500 with Foam для Mavic 2 Pro/Zoom &amp; Smart Controller (MAVBAG35-03)</name>
-	<description><p>Рюкзак HPRC MAVBAG35-03 для Mavic 2 Pro/Zoom + Smart Controller. Размеры: 445 x 320 x 106 мм.</p><p><strong>Особенности:</strong></p><p>Рюкзак HPRC MAVBAG35-03 для защиты Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке.</p></description>
+	<description>Рюкзак HPRC MAVBAG35-03 для Mavic 2 Pro/Zoom + Smart Controller. Размеры: 445 x 320 x 106 мм. Особенности: Рюкзак HPRC MAVBAG35-03 для защиты Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mavbag35-03/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAVBAG35-03/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-03___01.jpg</image>
 	<priceRUAH>4810</priceRUAH>
@@ -2869,7 +2869,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAV2-2400BLK-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-2400BLK-02)</name>
-	<description><p>Кейс HPRC MAV2-2400BLK-02 для DJI Mavic 2 Pro/Zoom + Smart Controller. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC MAV2-2400BLK-02 для защиты DJI Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC MAV2-2400BLK-02 для DJI Mavic 2 Pro/Zoom + Smart Controller. Размеры: 380 x 266 x 152 мм. Особенности: Высокопрочный кейс HPRC MAV2-2400BLK-02 для защиты DJI Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_mav2-2400blk-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAV2-2400BLK-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-2400BLK-02___01.jpg</image>
 	<priceRUAH>5970</priceRUAH>
@@ -2885,7 +2885,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAV2-3500BLK-02</code>
 	<vendor>HPRC</vendor>
 	<name>Рюкзак HPRC 3500 для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-3500BLK-02)</name>
-	<description><p>Рюкзак HPRC MAV2-3500BLK-02 для DJI Mavic 2 Pro/Zoom + Smart Controller. Размеры: 433 x 319 x 169 мм.</p><p><strong>Особенности:</strong></p><p>Рюкзак HPRC MAV2-3500BLK-02 для защиты DJI Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке.</p></description>
+	<description>Рюкзак HPRC MAV2-3500BLK-02 для DJI Mavic 2 Pro/Zoom + Smart Controller. Размеры: 433 x 319 x 169 мм. Особенности: Рюкзак HPRC MAV2-3500BLK-02 для защиты DJI Mavic 2 Pro/Zoom + Smart Controller от механических повреждений при транспортировке. </description>
 	<url>http://store.drone.ua/product/hprc_mav2-3500blk-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAV2-3500BLK-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-3500BLK-02___01.jpg</image>
 	<priceRUAH>9790</priceRUAH>
@@ -2901,7 +2901,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>M210-4600W-04</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 4600W для DJI Matrice 200/210 (M210-4600W-04)</name>
-	<description><p>Кейс HPRC M210-4600W-04 для DJI Matrice 200/210. Размеры: 611 x 611 x 345 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC M210-4600W-04 для защиты DJI Matrice 200/210 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC M210-4600W-04 для DJI Matrice 200/210. Размеры: 611 x 611 x 345 мм. Особенности: Высокопрочный кейс HPRC M210-4600W-04 для защиты DJI Matrice 200/210 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_m210-4600w-04/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=M210-4600W-04/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/M210-4600W-04___01.jpg</image>
 	<priceRUAH>21740</priceRUAH>
@@ -2917,7 +2917,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>BAT2550W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Battery Case HPRC2550W для DJI Inspire 2/Pro (BAT2550W-01)</name>
-	<description><p>Кейс HPRC BAT2550W-01 для аккумуляторов на Inpire 2. Размеры: 549 x 346 x 236 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC BAT2550W-01 для защиты аккумуляторов на Inpire 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC BAT2550W-01 для аккумуляторов на Inpire 2. Размеры: 549 x 346 x 236 мм. Особенности: Высокопрочный кейс HPRC BAT2550W-01 для защиты аккумуляторов на Inpire 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_bat2550w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=BAT2550W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BAT2550W-01___01.jpg</image>
 	<priceRUAH>9610</priceRUAH>
@@ -2933,7 +2933,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>BAT2400-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Phantom/Inspire Battery Case (BAT2400-02)</name>
-	<description><p>Кейс HPRC BAT2400-02 для аккумуляторов на Inpire/Phantom. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC BAT2400-02 для защиты аккумуляторов на Inpire/Phantom от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC BAT2400-02 для аккумуляторов на Inpire/Phantom. Размеры: 380 x 266 x 152 мм. Особенности: Высокопрочный кейс HPRC BAT2400-02 для защиты аккумуляторов на Inpire/Phantom от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_bat2400-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=BAT2400-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BAT2400-02___01.jpg</image>
 	<priceRUAH>4930</priceRUAH>
@@ -2949,7 +2949,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>INS2780W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2780W для DJI Inspire 1 Pro Landing Mode Case (INS2780W-01)</name>
-	<description><p>Кейс HPRC INS2780W-01 для DJI Inspire 1 Pro Landing Mode Case. Размеры: 810 x 586.5 x 388 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC INS2780W-01 для защиты DJI Inspire 1 Pro Landing Mode Case от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC INS2780W-01 для DJI Inspire 1 Pro Landing Mode Case. Размеры: 810 x 586.5 x 388 мм. Особенности: Высокопрочный кейс HPRC INS2780W-01 для защиты DJI Inspire 1 Pro Landing Mode Case от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ins2780w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=INS2780W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/INS2780W-01___01.jpg</image>
 	<priceRUAH>17710</priceRUAH>
@@ -2965,7 +2965,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>INS2-4600W-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 4600W для DJI Inspire 2 (INS2-4600W-02)</name>
-	<description><p>Кейс HPRC INS2-4600W-02 для DJI Inspire 2. Размеры: 611 x 611 x 345 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC INS2-4600W-02 для защиты DJI Inspire 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC INS2-4600W-02 для DJI Inspire 2. Размеры: 611 x 611 x 345 мм. Особенности: Высокопрочный кейс HPRC INS2-4600W-02 для защиты DJI Inspire 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ins2-4600w-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=INS2-4600W-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-4600W-02___01.jpg</image>
 	<priceRUAH>16330</priceRUAH>
@@ -2981,7 +2981,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>INS2-2780W-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2780W для DJI Inspire 2 (INS2-2780W-02)</name>
-	<description><p>Кейс HPRC INS2-2780W-02 для DJI Inspire 2. Размеры: 810 x 586.5 x 388 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC INS2-2780W-02 для защиты DJI Inspire 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC INS2-2780W-02 для DJI Inspire 2. Размеры: 810 x 586.5 x 388 мм. Особенности: Высокопрочный кейс HPRC INS2-2780W-02 для защиты DJI Inspire 2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ins2-2780w-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=INS2-2780W-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-2780W-02___01.jpg</image>
 	<priceRUAH>18480</priceRUAH>
@@ -2997,7 +2997,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>GGS-2460-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2460 для DJI Goggles (GGS-2460-01)</name>
-	<description><p>Кейс HPRC GGS-2460-01 для DJI Goggles. Размеры: 434 x 371 x 193 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC GGS-2460-01 для защиты DJI Goggles от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC GGS-2460-01 для DJI Goggles. Размеры: 434 x 371 x 193 мм. Особенности: Высокопрочный кейс HPRC GGS-2460-01 для защиты DJI Goggles от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ggs-2460-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=GGS-2460-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/GGS-2460-01___01.jpg</image>
 	<priceRUAH>4170</priceRUAH>
@@ -3013,7 +3013,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>DRTK6500W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 6500W для DJI D-RTK2 (DRTK6500W-01)</name>
-	<description><p>Кейс HPRC DRTK6500W-01 для DJI D-RTK2. Размеры: 1330 x 335 x 285 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC DRTK6500W-01 для защиты DJI D-RTK2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC DRTK6500W-01 для DJI D-RTK2. Размеры: 1330 x 335 x 285 мм. Особенности: Высокопрочный кейс HPRC DRTK6500W-01 для защиты DJI D-RTK2 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_drtk6500w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=DRTK6500W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/DRTK6500W-01___01.jpg</image>
 	<priceRUAH>24370</priceRUAH>
@@ -3029,7 +3029,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>CEN2460-02</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2460 для DJI Cendence Remote Controller and Crystalsky (CEN2460-02)</name>
-	<description><p>Кейс HPRC CEN2460-02 для DJI Cendence Remote Controller, Crystalsky. Размеры: 434 x 371 x 193 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC CEN2460-02 для защиты DJI Cendence Remote Controller, Crystalsky от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC CEN2460-02 для DJI Cendence Remote Controller, Crystalsky. Размеры: 434 x 371 x 193 мм. Особенности: Высокопрочный кейс HPRC CEN2460-02 для защиты DJI Cendence Remote Controller, Crystalsky от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_cen2460-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CEN2460-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/CEN2460-02___01.jpg</image>
 	<priceRUAH>6000</priceRUAH>
@@ -3045,7 +3045,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>GLA2710-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2710 для Chasing Innovation Gladius Mini (GLA2710-01)</name>
-	<description><p>Кейс HPRC GLA2710-01 для Chasing Innovation Gladius Mini. Размеры: 617 x 525 x 280 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC GLA2710-01 для защиты Chasing Innovation Gladius Mini от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC GLA2710-01 для Chasing Innovation Gladius Mini. Размеры: 617 x 525 x 280 мм. Особенности: Высокопрочный кейс HPRC GLA2710-01 для защиты Chasing Innovation Gladius Mini от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_gla2710-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=GLA2710-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/GLA2710-01___01.jpg</image>
 	<priceRUAH>12160</priceRUAH>
@@ -3061,7 +3061,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>C200-2600-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2600 для Canon Eos C200 (C200-2600-01)</name>
-	<description><p>Кейс HPRC C200-2600-01 для Canon Eos C200. Размеры: 534 x 419 x 198 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC C200-2600-01 для защиты Canon Eos C200 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC C200-2600-01 для Canon Eos C200. Размеры: 534 x 419 x 198 мм. Особенности: Высокопрочный кейс HPRC C200-2600-01 для защиты Canon Eos C200 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_c200-2600-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=C200-2600-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/C200-2600-01___01.jpg</image>
 	<priceRUAH>10750</priceRUAH>
@@ -3077,7 +3077,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>C100-2600-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2600 для Canon Eos C100 (C100-2600-01)</name>
-	<description><p>Кейс HPRC C100-2600-01 для Canon Eos C100. Размеры: 534 x 419 x 198 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC C100-2600-01 для защиты Canon Eos C100 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC C100-2600-01 для Canon Eos C100. Размеры: 534 x 419 x 198 мм. Особенности: Высокопрочный кейс HPRC C100-2600-01 для защиты Canon Eos C100 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_c100-2600-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=C100-2600-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/C100-2600-01___01.jpg</image>
 	<priceRUAH>10750</priceRUAH>
@@ -3093,7 +3093,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>BRO4800W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Brompton Folding Bike Case (BRO4800W-01)</name>
-	<description><p>Кейс HPRC BRO4800W-01 для Brompton Folding Bike Case. Размеры: 776 x 380 x 649 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC BRO4800W-01 для защиты Brompton Folding Bike Case от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC BRO4800W-01 для Brompton Folding Bike Case. Размеры: 776 x 380 x 649 мм. Особенности: Высокопрочный кейс HPRC BRO4800W-01 для защиты Brompton Folding Bike Case от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_bro4800w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=sport/transportirovochnye-velokejsy-i-chehlyutm_content=BRO4800W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BRO4800W-01___01.jpg</image>
 	<priceRUAH>11910</priceRUAH>
@@ -3109,7 +3109,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>URS2730W-03</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2730W для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast (URS2730W-03)</name>
-	<description><p>Кейс HPRC URS2730W-03 для Ursa Mini Pro + Ursa Broadcast. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC URS2730W-03 для защиты Ursa Mini Pro + Ursa Broadcast от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC URS2730W-03 для Ursa Mini Pro + Ursa Broadcast. Размеры: 620 x 520 x 350 мм. Особенности: Высокопрочный кейс HPRC URS2730W-03 для защиты Ursa Mini Pro + Ursa Broadcast от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_urs2730w-03/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=URS2730W-03/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/URS2730W-03___01.jpg</image>
 	<priceRUAH>17500</priceRUAH>
@@ -3125,7 +3125,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PKT2400-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2400 для Blackmagic Pocket 4K (PKT2400-01)</name>
-	<description><p>Кейс HPRC PKT2400-01 для Blackmagic Pocket 4K. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Кейс HPRC PKT2400-01 для защиты Blackmagic Pocket 4K.</p></description>
+	<description>Кейс HPRC PKT2400-01 для Blackmagic Pocket 4K. Размеры: 380 x 266 x 152 мм. Особенности: Кейс HPRC PKT2400-01 для защиты Blackmagic Pocket 4K. </description>
 	<url>http://store.drone.ua/product/hprc_pkt2400-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=PKT2400-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PKT2400-01___01.jpg</image>
 	<priceRUAH>6500</priceRUAH>
@@ -3141,7 +3141,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>ADV1-2710-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2710 для Blackmagic Design Atem 1 M/E Advanced Panel (ADV1-2710-01)</name>
-	<description><p>Кейс HPRC ADV1-2710-01 для Blackmagic Design Atem. Размеры: 617 x 535 x 280 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC ADV1-2710-01 для защиты Blackmagic Design Atem от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC ADV1-2710-01 для Blackmagic Design Atem. Размеры: 617 x 535 x 280 мм. Особенности: Высокопрочный кейс HPRC ADV1-2710-01 для защиты Blackmagic Design Atem от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_adv1-2710-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=ADV1-2710-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/ADV1-2710-01___01.jpg</image>
 	<priceRUAH>11440</priceRUAH>
@@ -3157,7 +3157,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>SM19-2730W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2730W для Atomos Sumo 19&#8243; (SM19-2730W-01)</name>
-	<description><p>Кейс HPRC SM19-2730W-01 для Atomos Sumo 19&#8243;. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC SM19-2730W-01 для защиты Atomos Sumo 19&#8243; от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC SM19-2730W-01 для Atomos Sumo 19 . Размеры: 620 x 520 x 350 мм. Особенности: Высокопрочный кейс HPRC SM19-2730W-01 для защиты Atomos Sumo 19 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_sm19-2730w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=SM19-2730W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SM19-2730W-01___01.jpg</image>
 	<priceRUAH>18390</priceRUAH>
@@ -3173,7 +3173,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>NJAV-2300-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2300 для Atomos Ninja V (NJAV-2300-01)</name>
-	<description><p>Кейс HPRC NJAV-2300-01 для Atomos Ninja V. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC NJAV-2300-01 для защиты Atomos Ninja V от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC NJAV-2300-01 для Atomos Ninja V. Размеры: 335 x 289 x 155 мм. Особенности: Высокопрочный кейс HPRC NJAV-2300-01 для защиты Atomos Ninja V от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_njav-2300-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=NJAV-2300-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/NJAV-2300-01___01.jpg</image>
 	<priceRUAH>5180</priceRUAH>
@@ -3189,7 +3189,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAC4800W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC Apple iMac 27&#8243; Case (MAC4800W-01)</name>
-	<description><p>Кейс HPRC MAC4800W-01 для Apple Imac 27&#8243;. Размеры: 776 x 380 x 649 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC MAC4800W-01 для защиты Apple Imac 27&#8243; от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC MAC4800W-01 для Apple Imac 27 . Размеры: 776 x 380 x 649 мм. Особенности: Высокопрочный кейс HPRC MAC4800W-01 для защиты Apple Imac 27 от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_mac4800w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=computer/sumki-kejsy-ryukzaki-dlya-noutbukovutm_content=MAC4800W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAC4800W-01___01.jpg</image>
 	<priceRUAH>16090</priceRUAH>
@@ -3205,7 +3205,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>SOL2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Кейс HPRC 2700W для 3DR Solo (SOL2700W-01)</name>
-	<description><p>Кейс HPRC SOL2700W-01 для 3DR Solo. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Высокопрочный кейс HPRC SOL2700W-01 для защиты 3DR Solo от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты.</p></description>
+	<description>Кейс HPRC SOL2700W-01 для 3DR Solo. Размеры: 620 x 520 x 275 мм. Особенности: Высокопрочный кейс HPRC SOL2700W-01 для защиты 3DR Solo от механических повреждений при транспортировке. Внешняя ударопрочная оболочка, в паре с внутренней отделкой из пены, защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_sol2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=SOL2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SOL2700W-01___01.jpg</image>
 	<priceRUAH>10170</priceRUAH>
@@ -3221,7 +3221,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTMAV3500-02</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom для модели HPRC3500 (KTMAV3500-02)</name>
-	<description><p>Форма для кейса HPRC KTMAV3500-02 для DJI Mavic 2 Pro/Zoom. Размеры: 433 x 319 x 169 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTMAV3500-02 для защиты DJI Mavic 2 Pro/Zoom, для модели HPRC3500. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTMAV3500-02 для DJI Mavic 2 Pro/Zoom. Размеры: 433 x 319 x 169 мм. Особенности: Форма для кейса HPRC KTMAV3500-02 для защиты DJI Mavic 2 Pro/Zoom, для модели HPRC3500. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktmav3500-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTMAV3500-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV3500-02___01.jpg</image>
 	<priceRUAH>4530</priceRUAH>
@@ -3237,7 +3237,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTMAV2400-02</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom для модели HPRC2400 (KTMAV2400-02)</name>
-	<description><p>Форма для кейса HPRC KTMAV2400-02 для DJI Mavic 2 Pro/Zoom. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTMAV2400-02 для защиты DJI Mavic 2 Pro/Zoom для модели HPRC2400</p></description>
+	<description>Форма для кейса HPRC KTMAV2400-02 для DJI Mavic 2 Pro/Zoom. Размеры: 380 x 266 x 152 мм. Особенности: Форма для кейса HPRC KTMAV2400-02 для защиты DJI Mavic 2 Pro/Zoom для модели HPRC2400 </description>
 	<url>http://store.drone.ua/product/hprc_ktmav2400-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTMAV2400-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-02___01.jpg</image>
 	<priceRUAH>3200</priceRUAH>
@@ -3253,7 +3253,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA-0009</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Phantom 3 для кейса 2700 (PHA-0009)</name>
-	<description><p>Форма для кейса HPRC PHA-0009 для Phantom 3 Foam Kit for Case 2700. Размеры: 555 x 459 x 205 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC PHA-0009 для защиты Phantom 3 для модели HPRC2700.</p></description>
+	<description>Форма для кейса HPRC PHA-0009 для Phantom 3 Foam Kit for Case 2700. Размеры: 555 x 459 x 205 мм. Особенности: Форма для кейса HPRC PHA-0009 для защиты Phantom 3 для модели HPRC2700. </description>
 	<url>http://store.drone.ua/product/hprc_pha-0009/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA-0009/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0009___01.jpg</image>
 	<priceRUAH>4030</priceRUAH>
@@ -3269,7 +3269,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA-0011</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Phantom 4 для кейса 2700W (PHA-0011)</name>
-	<description><p>Форма для кейса HPRC PHA-0011 для Phantom 4 Foam Kit for Case 2700W. Размеры: 555 x 459 x 256 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC PHA-0011 для защиты Phantom 4 для модели HPRC2700W.</p></description>
+	<description>Форма для кейса HPRC PHA-0011 для Phantom 4 Foam Kit for Case 2700W. Размеры: 555 x 459 x 256 мм. Особенности: Форма для кейса HPRC PHA-0011 для защиты Phantom 4 для модели HPRC2700W. </description>
 	<url>http://store.drone.ua/product/hprc_pha-0011/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA-0011/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0011___01.jpg</image>
 	<priceRUAH>4500</priceRUAH>
@@ -3285,7 +3285,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>PHA-0008</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Phantom 3 для кейса 2700W (PHA-0008)</name>
-	<description><p>Форма для кейса HPRC PHA-0008 для Phantom 3 Foam Kit for Case 2700W. Размеры: 555 x 459 x 256 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC PHA-0008 для защиты Phantom 3 для модели HPRC2700W.</p></description>
+	<description>Форма для кейса HPRC PHA-0008 для Phantom 3 Foam Kit for Case 2700W. Размеры: 555 x 459 x 256 мм. Особенности: Форма для кейса HPRC PHA-0008 для защиты Phantom 3 для модели HPRC2700W. </description>
 	<url>http://store.drone.ua/product/hprc_pha-0008/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PHA-0008/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0008___01.jpg</image>
 	<priceRUAH>4500</priceRUAH>
@@ -3301,7 +3301,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTPHA4-2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Phantom 4 Adv./Prof. для моделей 2700W/2710 (KTPHA4-2700W-01)</name>
-	<description><p>Форма для кейса HPRC KTPHA4-2700W-01 для Phantom 4 Adv. и Prof. для модели 2700W и 2710 Black. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTPHA4-2700W-01 для защиты Phantom 4 Adv./Prof. для моделей 2700W и 2710. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTPHA4-2700W-01 для Phantom 4 Adv. и Prof. для модели 2700W и 2710 Black. Размеры: 620 x 520 x 275 мм. Особенности: Форма для кейса HPRC KTPHA4-2700W-01 для защиты Phantom 4 Adv./Prof. для моделей 2700W и 2710. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktpha4-2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTPHA4-2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTPHA4-2700W-01___01.jpg</image>
 	<priceRUAH>3550</priceRUAH>
@@ -3317,7 +3317,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTINS2-4600W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Inspire 2 для кейса HPRC4600W (KTINS2-4600W-01)</name>
-	<description><p>Форма для кейса HPRC KTINS2-4600W-01 для DJI Inspire 2 для модели 4600W. Размеры: 611 x 611 x 345 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTINS2-4600W-01 для защиты DJI Inspire 2 для модели 4600W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTINS2-4600W-01 для DJI Inspire 2 для модели 4600W. Размеры: 611 x 611 x 345 мм. Особенности: Форма для кейса HPRC KTINS2-4600W-01 для защиты DJI Inspire 2 для модели 4600W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktins2-4600w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTINS2-4600W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTINS2-4600W-01___01.jpg</image>
 	<priceRUAH>9550</priceRUAH>
@@ -3333,7 +3333,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTINS2-2780W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Inspire 2 для кейса HPRC2780W (KTINS2-2780W-01)</name>
-	<description><p>Форма для кейса HPRC KTINS2-2780W-01 для DJI Inspire 2 для модели 2780W. Размеры: 810 x 586.5 x 388 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTINS2-2780W-01 для защиты DJI Inspire 2 для модели 2780W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTINS2-2780W-01 для DJI Inspire 2 для модели 2780W. Размеры: 810 x 586.5 x 388 мм. Особенности: Форма для кейса HPRC KTINS2-2780W-01 для защиты DJI Inspire 2 для модели 2780W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktins2-2780w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTINS2-2780W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTINS2-2780W-01___01.jpg</image>
 	<priceRUAH>10750</priceRUAH>
@@ -3349,7 +3349,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>INS-0002</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Inspire 1/Pro для модели HPRC2730W (INS-0002)</name>
-	<description><p>Форма для кейса HPRC INS-0002 для Inspire 1/Pro для модели 2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC INS-0002 для защиты Inspire 1/Pro для модели HPRC2730W.</p></description>
+	<description>Форма для кейса HPRC INS-0002 для Inspire 1/Pro для модели 2730W. Размеры: 620 x 520 x 350 мм. Особенности: Форма для кейса HPRC INS-0002 для защиты Inspire 1/Pro для модели HPRC2730W. </description>
 	<url>http://store.drone.ua/product/hprc_ins-0002/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=INS-0002/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/INS-0002___01.jpg</image>
 	<priceRUAH>4810</priceRUAH>
@@ -3365,7 +3365,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>BAT2550W-02</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC 2550W для аккумуляторов TB55/TB50 &#8212; DJI Matrice 200/210 (BAT2550W-02)</name>
-	<description><p>HPRC BAT2550W-02 для DJI Matrice 200/210 Tb55/Tb50. Размеры: 549 x 346 x 236 мм.</p><p><strong>Особенности:</strong></p><p>HPRC 2550W для аккумуляторов DJI TB55/TB50 для дронов серии Matrice 200/210.</p></description>
+	<description>HPRC BAT2550W-02 для DJI Matrice 200/210 Tb55/Tb50. Размеры: 549 x 346 x 236 мм. Особенности: HPRC 2550W для аккумуляторов DJI TB55/TB50 для дронов серии Matrice 200/210. </description>
 	<url>http://store.drone.ua/product/hprc_bat2550w-02/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=BAT2550W-02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTBAT2550W-02___01.jpg</image>
 	<priceRUAH>10610</priceRUAH>
@@ -3381,7 +3381,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>MAVCONV-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC Conversion Kit для DJI Mavic Air для MAV2400/MAV3500 (MAVCONV-01)</name>
-	<description><p>Набор HPRC MAVCONV-01 для моделей MAV2400 и MAV3500 на Mavic Air.</p><p><strong>Особенности:</strong></p><p>Набор HPRC MAVCONV-01 для защиты Mavic Air от механических повреждений при транспортировке, для моделей MAV2400 и MAV3500.</p></description>
+	<description>Набор HPRC MAVCONV-01 для моделей MAV2400 и MAV3500 на Mavic Air. Особенности: Набор HPRC MAVCONV-01 для защиты Mavic Air от механических повреждений при транспортировке, для моделей MAV2400 и MAV3500. </description>
 	<url>http://store.drone.ua/product/hprc_mavconv-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MAVCONV-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAVCONV-01___01.jpg</image>
 	<priceRUAH>240</priceRUAH>
@@ -3397,7 +3397,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTZ190-2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Sony PXWZ190V для модели HPRC2700W (KTZ190-2700W-01)</name>
-	<description><p>Форма для кейса HPRC KTZ190-2700W-01 для Sony Pxwz190V для модели HPRC2700W. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTZ190-2700W-01 для защиты Sony Pxwz190V для модели HPRC2700W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTZ190-2700W-01 для Sony Pxwz190V для модели HPRC2700W. Размеры: 620 x 520 x 275 мм. Особенности: Форма для кейса HPRC KTZ190-2700W-01 для защиты Sony Pxwz190V для модели HPRC2700W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktz190-2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTZ190-2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTZ190-2700W-01___01.jpg</image>
 	<priceRUAH>8100</priceRUAH>
@@ -3413,7 +3413,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTVEN2730W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Sony Venice для модели HPRC2730W (KTVEN2730W-01)</name>
-	<description><p>Форма для кейса HPRC KTVEN2730W-01 для Sony Venice для модели HPRC2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTVEN2730W-01 для защиты Sony Venice для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTVEN2730W-01 для Sony Venice для модели HPRC2730W. Размеры: 620 x 520 x 350 мм. Особенности: Форма для кейса HPRC KTVEN2730W-01 для защиты Sony Venice для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktven2730w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTVEN2730W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTVEN2730W-01___01.jpg</image>
 	<priceRUAH>14680</priceRUAH>
@@ -3429,7 +3429,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTURS2730W-03</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast для кейса HPRC2730W (KTURS2730W-03)</name>
-	<description><p>Форма для кейса HPRC KTURS2730W-03 для Ursa Mini Pro + Ursa Broadcast для модели HPRC2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTURS2730W-03 для защиты Ursa Mini Pro + Ursa Broadcast для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTURS2730W-03 для Ursa Mini Pro + Ursa Broadcast для модели HPRC2730W. Размеры: 620 x 520 x 350 мм. Особенности: Форма для кейса HPRC KTURS2730W-03 для защиты Ursa Mini Pro + Ursa Broadcast для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_kturs2730w-03/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTURS2730W-03/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTURS2730W-03___01.jpg</image>
 	<priceRUAH>8200</priceRUAH>
@@ -3445,7 +3445,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTROS3500-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Ronin-S для HPRC3500 (KTROS3500-01)</name>
-	<description><p>Форма для кейса HPRC KTROS3500-01 для DJI Ronin-S для модели HPRC3500. Размеры: 498 x 370 x 185 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTROS3500-01 для защиты DJI Ronin-S для модели HPRC3500. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTROS3500-01 для DJI Ronin-S для модели HPRC3500. Размеры: 498 x 370 x 185 мм. Особенности: Форма для кейса HPRC KTROS3500-01 для защиты DJI Ronin-S для модели HPRC3500. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktros3500-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTROS3500-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROS3500-01___01.jpg</image>
 	<priceRUAH>2360</priceRUAH>
@@ -3461,7 +3461,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTROS2550W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Ronin-S для кейса HPRC2550W (KTROS2550W-01)</name>
-	<description><p>Форма для кейса HPRC KTROS2550W-01 для DJI Ronin-S для модели HPRC2550W. Размеры: 549 x 346 x 236 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTROS2550W-01 для защиты DJI Ronin-S для модели HPRC2550W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTROS2550W-01 для DJI Ronin-S для модели HPRC2550W. Размеры: 549 x 346 x 236 мм. Особенности: Форма для кейса HPRC KTROS2550W-01 для защиты DJI Ronin-S для модели HPRC2550W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktros2550w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTROS2550W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROS2550W-01___01.jpg</image>
 	<priceRUAH>3690</priceRUAH>
@@ -3477,7 +3477,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTROS2500-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Ronin-S для кейса HPRC 2500 (KTROS2500-01)</name>
-	<description><p>Форма для кейса HPRC KTROS2500-01 для DJI Ronin S для модели HPRC2500. Размеры: 478 x 390 x 194 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTROS2500-01 для защиты DJI Ronin-S для модели HPRC2500. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTROS2500-01 для DJI Ronin S для модели HPRC2500. Размеры: 478 x 390 x 194 мм. Особенности: Форма для кейса HPRC KTROS2500-01 для защиты DJI Ronin-S для модели HPRC2500. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktros2500-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTROS2500-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROS2500-01___01.jpg</image>
 	<priceRUAH>2080</priceRUAH>
@@ -3493,7 +3493,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTROM2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Ronin-M для кейса HPRC2700W (KTROM2700W-01)</name>
-	<description><p>Форма для кейса HPRC KTROM2700W-01 для DJI Ronin-M для модели HPRC2700W. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTROM2700W-01 для защиты DJI Ronin-M для модели кейса HPRC2700W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTROM2700W-01 для DJI Ronin-M для модели HPRC2700W. Размеры: 620 x 520 x 275 мм. Особенности: Форма для кейса HPRC KTROM2700W-01 для защиты DJI Ronin-M для модели кейса HPRC2700W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktrom2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTROM2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROM2700W-01___01.jpg</image>
 	<priceRUAH>5650</priceRUAH>
@@ -3509,7 +3509,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTRMX2730W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Ronin MX для кейса 2730W (KTRMX2730W-01)</name>
-	<description><p>Форма для кейса HPRC KTRMX2730W-01 для DJI Ronin MX для модели 2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTRMX2730W-01 для защиты DJI Ronin MX для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTRMX2730W-01 для DJI Ronin MX для модели 2730W. Размеры: 620 x 520 x 350 мм. Особенности: Форма для кейса HPRC KTRMX2730W-01 для защиты DJI Ronin MX для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktrmx2730w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTRMX2730W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTRMX2730W-01___01.jpg</image>
 	<priceRUAH>6450</priceRUAH>
@@ -3525,7 +3525,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTPKT2400-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Blackmagic Pocket 4K для кейса HPRC2400 (KTPKT2400-01)</name>
-	<description><p>Форма для кейса HPRC KTPKT2400-01 для Blackmagic Pocket 4K для модели HPRC2400. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTPKT2400-01 для защиты Blackmagic Pocket 4K для модели HPRC2400. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTPKT2400-01 для Blackmagic Pocket 4K для модели HPRC2400. Размеры: 380 x 266 x 152 мм. Особенности: Форма для кейса HPRC KTPKT2400-01 для защиты Blackmagic Pocket 4K для модели HPRC2400. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktpkt2400-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTPKT2400-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTPKT2400-01___01.jpg</image>
 	<priceRUAH>3200</priceRUAH>
@@ -3541,7 +3541,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTPHA4-RTK-2700W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Phantom 4 RTK для HPRC2700W (KTPHA4-RTK-2700W-01)</name>
-	<description><p>Форма для кейса HPRC KTPHA4-RTK-2700W-01 для DJI Phantom 4RTK для модели HPRC2700W. Размеры: 620 x 520 x 275 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTPHA4-RTK-2700W-01 для защиты DJI Phantom 4RTK для модели HPRC2700W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTPHA4-RTK-2700W-01 для DJI Phantom 4RTK для модели HPRC2700W. Размеры: 620 x 520 x 275 мм. Особенности: Форма для кейса HPRC KTPHA4-RTK-2700W-01 для защиты DJI Phantom 4RTK для модели HPRC2700W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktpha4-rtk-2700w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTPHA4-RTK-2700W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTPHA4-RTK-2700W-01___01.jpg</image>
 	<priceRUAH>6620</priceRUAH>
@@ -3557,7 +3557,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTNSM19-2730W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Atomos Sumo 19&#8243; для кейса HPRC2730W (KTNSM19-2730W-01)</name>
-	<description><p>Форма для кейса HPRC KTNSM19-2730W-01 для Atomos Sumo 19&#8243; для модели HPRC2730W. Размеры: 620 x 520 x 350 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTNSM19-2730W-01 для защиты Atomos Sumo 19&#8243; для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTNSM19-2730W-01 для Atomos Sumo 19 для модели HPRC2730W. Размеры: 620 x 520 x 350 мм. Особенности: Форма для кейса HPRC KTNSM19-2730W-01 для защиты Atomos Sumo 19 для модели HPRC2730W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktnsm19-2730w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTNSM19-2730W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTNSM19-2730W-01___01.jpg</image>
 	<priceRUAH>9300</priceRUAH>
@@ -3573,7 +3573,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTNJAV2300-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Atomos Ninja V для HPRC2300 (KTNJAV2300-01)</name>
-	<description><p>Форма для кейса HPRC KTNJAV2300-01 для Atomos Ninja V для модели HPRC2300. Размеры: 335 x 289 x 155 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTNJAV2300-01 для защиты Atomos Ninja V для модели HPRC2300. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTNJAV2300-01 для Atomos Ninja V для модели HPRC2300. Размеры: 335 x 289 x 155 мм. Особенности: Форма для кейса HPRC KTNJAV2300-01 для защиты Atomos Ninja V для модели HPRC2300. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktnjav2300-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTNJAV2300-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTNJAV2300-01___01.jpg</image>
 	<priceRUAH>2050</priceRUAH>
@@ -3589,7 +3589,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTMAV2400-03</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller для кейса HPRC2400 (KTMAV2400-03)</name>
-	<description><p>Форма для кейса HPRC KTMAV2400-03 для DJI Mavic 2 Pro/Zoom + Smart Controller для модели HPRC2400. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTMAV2400-03 для защиты DJI Mavic 2 Pro/Zoom + Smart Controller для модели HPRC2400. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTMAV2400-03 для DJI Mavic 2 Pro/Zoom + Smart Controller для модели HPRC2400. Размеры: 380 x 266 x 152 мм. Особенности: Форма для кейса HPRC KTMAV2400-03 для защиты DJI Mavic 2 Pro/Zoom + Smart Controller для модели HPRC2400. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktmav2400-03/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTMAV2400-03/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-03___01.jpg</image>
 	<priceRUAH>3070</priceRUAH>
@@ -3605,7 +3605,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTCR3-2600W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Zhiyun Crane 3 Lab для HPRC2600W (KTCR3-2600W-01)</name>
-	<description><p>Форма для кейса HPRC KTCR3-2600W-01 для Zhiyun Crane 3 Lab для модели HPRC2600W. Размеры: 546 x 423 x 250 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTCR3-2600W-01 для защиты Zhiyun Crane 3 Lab для модели HPRC2600W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTCR3-2600W-01 для Zhiyun Crane 3 Lab для модели HPRC2600W. Размеры: 546 x 423 x 250 мм. Особенности: Форма для кейса HPRC KTCR3-2600W-01 для защиты Zhiyun Crane 3 Lab для модели HPRC2600W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktcr3-2600w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTCR3-2600W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTCR3-2600W-01___01.jpg</image>
 	<priceRUAH>7290</priceRUAH>
@@ -3621,7 +3621,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTC200-2600-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Canon EOS C200 для HPRC2600 (KTC200-2600-01)</name>
-	<description><p>Форма для кейса HPRC KTC200-2600-01 для Canon Eos C200 для модели HPRC2600. Размеры: 534 x 419 x 198 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTC200-2600-01 для защиты Canon EOS C200, для модели HPRC2600. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTC200-2600-01 для Canon Eos C200 для модели HPRC2600. Размеры: 534 x 419 x 198 мм. Особенности: Форма для кейса HPRC KTC200-2600-01 для защиты Canon EOS C200, для модели HPRC2600. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktc200-2600-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTC200-2600-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTC200-2600-01___01.jpg</image>
 	<priceRUAH>5520</priceRUAH>
@@ -3637,7 +3637,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTC100-2600-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для Canon C100 для HPRC2600 (KTC100-2600-01)</name>
-	<description><p>Форма для кейса HPRC KTC100-2600-01 для Canon C100 для модели HPRC2600. Размеры: 534 x 419 x 198 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTC100-2600-01 для защиты Canon C100, для модели кейса HPRC2600. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTC100-2600-01 для Canon C100 для модели HPRC2600. Размеры: 534 x 419 x 198 мм. Особенности: Форма для кейса HPRC KTC100-2600-01 для защиты Canon C100, для модели кейса HPRC2600. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktc100-2600-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sumki-dlya-foto-i-videoutm_content=KTC100-2600-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTC100-2600-01___01.jpg</image>
 	<priceRUAH>5520</priceRUAH>
@@ -3653,7 +3653,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTBAT2550W-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для аккумуляторов DJI Inspire 2/Pro для кейса 2550W (KTBAT2550W-01)</name>
-	<description><p>Форма для кейса HPRC KTBAT2550W-01 для DJI Inspire 2/Pro. Размеры: 549 x 346 x 236 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTBAT2550W-01 для DJI Inspire 2/Pro, для модели HPRC2550W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTBAT2550W-01 для DJI Inspire 2/Pro. Размеры: 549 x 346 x 236 мм. Особенности: Форма для кейса HPRC KTBAT2550W-01 для DJI Inspire 2/Pro, для модели HPRC2550W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktbat2550w-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTBAT2550W-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTBAT2550W-01___01.jpg</image>
 	<priceRUAH>4070</priceRUAH>
@@ -3669,7 +3669,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTMAV2400-01</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Mavic для кейса HPRC2400 (KTMAV2400-01)</name>
-	<description><p>Форма для кейса HPRC KTMAV2400-01 для DJI Mavic. Размеры: 380 x 266 x 152 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTMAV2400-01 для защиты DJI Mavic от механических повреждений при транспортировке. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTMAV2400-01 для DJI Mavic. Размеры: 380 x 266 x 152 мм. Особенности: Форма для кейса HPRC KTMAV2400-01 для защиты DJI Mavic от механических повреждений при транспортировке. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktmav2400-01/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTMAV2400-01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-01___01.jpg</image>
 	<priceRUAH>2190</priceRUAH>
@@ -3685,7 +3685,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<code>KTM210-4600W-04</code>
 	<vendor>HPRC</vendor>
 	<name>Ложемент HPRC для DJI Matrice 200/210 для кейса HPRC4600W (KTM210-4600W-04)</name>
-	<description><p>Форма для кейса HPRC KTM210-4600W-04 для DJI Matrice 200 или 210 для модели HPRC4600W. Размеры: 611 x 611 x 345 мм.</p><p><strong>Особенности:</strong></p><p>Форма для кейса HPRC KTM210-4600W-04 для защиты DJI Matrice 200 или 210 для модели HPRC4600W. Основа из плотной пены защищает устройство и его компоненты.</p></description>
+	<description>Форма для кейса HPRC KTM210-4600W-04 для DJI Matrice 200 или 210 для модели HPRC4600W. Размеры: 611 x 611 x 345 мм. Особенности: Форма для кейса HPRC KTM210-4600W-04 для защиты DJI Matrice 200 или 210 для модели HPRC4600W. Основа из плотной пены защищает устройство и его компоненты. </description>
 	<url>http://store.drone.ua/product/hprc_ktm210-4600w-04/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=KTM210-4600W-04/</url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTM210-4600W-04___01.jpg</image>
 	<priceRUAH>13260</priceRUAH>
