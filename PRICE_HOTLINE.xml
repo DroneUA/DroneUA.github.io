@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-11-13 17:20</date>	
+<date>2019-11-15 16:13</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -528,13 +528,13 @@
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST.IN.000002</id>
+	<id>305000</id>
 	<categoryId>6</categoryId>
-	<code>ST.IN.000002</code>
+	<code>305000</code>
 	<vendor>Insta360</vendor>
-	<name>Панорамная камера Insta360 One (ST.IN.000002)</name>
+	<name>Панорамная камера Insta360 One (305000)</name>
 	<description>Компактная панорамная камера Insta360 ONE способна записывать видео в формате 4K@30fps и делать 24 МП фото. При этом, она может эксплуатировать как со смартфоном (под Micro-USB и USB-C необходимы переходники), так и независимо.</description>
-	<url>http://store.drone.ua/product/insta360-one/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/aksessuary-dlya-planshetovutm_content=ST.IN.000002/</url>
+	<url>http://store.drone.ua/product/insta360-one/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/aksessuary-dlya-planshetovutm_content=305000/</url>
 	<image>http://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</image>
 	<priceRUAH>7240</priceRUAH>
 	<stock days="">Под заказ</stock>
@@ -1504,13 +1504,13 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST.00000003068</id>
+	<id>CP.BX.000202</id>
 	<categoryId>2</categoryId>
-	<code>ST.00000003068</code>
+	<code>CP.BX.000202</code>
 	<vendor>DJI</vendor>
-	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
+	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (CP.BX.000202)</name>
 	<description>Интеллектуальная батарея DJI TB50 Совместимость: Квадрокоптер DJI Inspire 2 Стедикам DJI Ronin2 Квадрокоптер DJI Matrice 200 Емкость: 4280 mAh </description>
-	<url>http://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000003068/</url>
+	<url>http://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.BX.000202/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</image>
 	<priceRUAH>7180</priceRUAH>
 	<stock days="">Под заказ</stock>
@@ -1604,7 +1604,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST.00000004017</code>
 	<vendor>DJI</vendor>
-	<name>Подвес с камерой DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
+	<name>Объектив DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 50mm F2.8 LS ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 7 группах (включая 2 асферических элемента) Мин.фокусное расстояние: 0.93 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004017/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -1620,7 +1620,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST.00000004015</code>
 	<vendor>DJI</vendor>
-	<name>Подвес с камерой DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
+	<name>Объектив DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 35mm F2.8 LS ASPH Масса: около 180 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.85 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004015/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -1636,7 +1636,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST.00000004014</code>
 	<vendor>DJI</vendor>
-	<name>Подвес с камерой DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
+	<name>Объектив DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 24mm F2.8 LS ASPH Масса: около 178 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.65 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004014/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -1652,7 +1652,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST.00000004013</code>
 	<vendor>DJI</vendor>
-	<name>Подвес с камерой DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
+	<name>Объектив DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL-S 16mm F2.8 ND ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 13 элементов в 12 группах (включая 4 асферических элемента) Мин.фокусное расстояние: 0.40 м Диаметр: 46 мм Размеры (диаметр*длина): 55 69.1 мм (с блендой) Другие: Встроенный ND-фильтр </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004013/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</image>
@@ -1668,7 +1668,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST.00000004012</code>
 	<vendor>DJI</vendor>
-	<name>Подвес с камерой DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
+	<name>Набор объективов DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
 	<description>Набор объективов для подвеса DJI Zenmuse X7: DL-S 16mm F2.8 ND ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 13 элементов в 12 группах (включая 4 асферических элемента) Мин.фокусное расстояние: 0.40 м Диаметр: 46 мм Размеры (диаметр*длина): 55 69.1 мм (с блендой) Другие: Встроенный ND-фильтр DL 24mm F2.8 LS ASPH Масса: около 178 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.65 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор DL 35mm F2.8 LS ASPH Масса: около 180 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.85 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор DL 50mm F2.8 LS ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 7 группах (включая 2 асферических элемента) Мин.фокусное расстояние: 0.93 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>http://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004012/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_1.jpg</image>
@@ -1696,13 +1696,13 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST.00000004019</id>
+	<id>CP.ZM.000496</id>
 	<categoryId>2</categoryId>
-	<code>ST.00000004019</code>
+	<code>CP.ZM.000496</code>
 	<vendor>DJI</vendor>
-	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
+	<name>Подвес с камерой DJI Zenmuse X5S (CP.ZM.000496)</name>
 	<description>Подвес с камерой для дронов серии Inspire 2 и Matrice 200 Объектив в комплекте: DJI MFT 15 MM / 1.7 ASPH (WITH BALANCING RING AND LENS HOOD) Поддерживаемые объективы: PANASONIC LUMIX 15 MM / 1.7 (WITH BALANCING RING AND LENS HOOD) PANASONIC LUMIX 14-42 MM/3.5-5.6 HD OLYMPUS M.ZUIKO 12 MM /2.0 (WITH BALANCING RING) OLYMPUS M.ZUIKO 17 MM / 1.8 (WITH BALANCING RING) OLYMPUS M.ZUIKO 25 MM / 1.8 OLYMPUS M.ZUIKO 45 MM / 1.8 OLYMPUS M.ZUIKO 9-18 MM / 4.0-5.6 </description>
-	<url>http://store.drone.ua/product/zenmuse-x5s/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004019/</url>
+	<url>http://store.drone.ua/product/zenmuse-x5s/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.ZM.000496/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_1.jpg</image>
 	<priceRUAH>68170</priceRUAH>
 	<stock days="">Под заказ</stock>
@@ -1712,13 +1712,13 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST.00000004011</id>
+	<id>CP.BX.00000028.01</id>
 	<categoryId>2</categoryId>
-	<code>ST.00000004011</code>
+	<code>CP.BX.00000028.01</code>
 	<vendor>DJI</vendor>
-	<name>Подвес с камерой DJI Zenmuse X7 (ST.00000004011)</name>
+	<name>Подвес DJI Zenmuse X7 (CP.BX.00000028.01)</name>
 	<description>Zenmuse X7 - компактная камера формата Супер-35. Она оснащена встроенным стабилизатором и предназначена для профессиональной киносъемки. Камера совместима с дроном Inspire 2, что позволяет использовать ее для съемки с воздуха. CMOS-матрица в 24 Мп и динамическим диапазоном 14 шагов снимает детализированное видео в разрешении 6K (CinemaDNG) и в 5.2K (Apple ProRes*). Доступна функция серийной фотосъемки в RAW (20 кадров/с) с максимальным разрешением 24 Мп. X7 - первая камера с креплением DL, созданным для удобной установки и быстрой смены объектива. Она также оснащена новой цветовой системой DJI Cinema Color System, упрощающей процесс обработки. DJI Zenmuse X7 позволит снимать сцены так, как их видите вы. Эти инновации дают создателям фильмов возможность достижения новых высот и запечатления своего видения при помощи DJI Zenmuse X7. Х7 оснащена фотоматрицей Супер-35, способной снимать несжатое видео в разрешении 6К при 30 кадрах/с и в 3.9К при 59.94 кадрах/с. Размер одного пикселя достигает 3.91 мкм , а диагональ сенсора равна 26,6 мм при записи видео. Матрица такого размера чувствительнее к свету, а динамический диапазон в 14 шагов - шире ДД камеры Zenmuse X5S (12.8 шага). Кроме того, ОСШ Х7 равен 44 дБ, что на 5 дБ выше шумоподавляющей способности X5S, а диапазон тональности достигает 9.41 бит. Эти характеристики дают больше творческой свободы на съемочной площадке. Система крепления DJI DL Фотоматрица Х7 создана с использованием FSI-Cu, технологии, задействующей более тонкие соединительные элементы. Благодаря этому свет падает на сенсор под большим углом, что увеличивает светочувствительность матрицы. Кроме того, это позволяет использовать более компактное крепление объектива, не снижая качества изображения. Рабочий отрезок объектива с байонетом DL меньше 17 мм - примерно треть размера крепления PL. Компактность крепления снижает массу всей камеры - X7 весит около 620 г с объективом. Дрон Inspire 2 с X7 весит около 4 кг, а по функциональности не уступает более тяжелому оборудованию, весящему до 40 кг. </description>
-	<url>http://store.drone.ua/product/zenmuse-x7/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004011/</url>
+	<url>http://store.drone.ua/product/zenmuse-x7/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.BX.00000028.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_1.jpg</image>
 	<priceRUAH>92970</priceRUAH>
 	<stock days="">Под заказ</stock>
