@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-11-15 16:13</date>	
+<date>2019-11-18 16:26</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -1520,13 +1520,13 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST.00000007806</id>
+	<id>CP.OS.00000030.01</id>
 	<categoryId>7</categoryId>
-	<code>ST.00000007806</code>
+	<code>CP.OS.00000030.01</code>
 	<vendor>DJI</vendor>
-	<name>Набор DJI Osmo Charging Kit (ST.00000007806)</name>
+	<name>Набор DJI Зарядное и 2 аккумулятора Osmo Action Charging Kit (CP.OS.00000030.01)</name>
 	<description> Зарядное устройство может заряжать три батареи. Интеллектуальная система зарядки значительно повышает эффективность Для полной зарядки трех аккумуляторов требуется всего 130 минут. В коробке: Зарядная станция Osmo Action x 1 Батарея Osmo Action x 2 Батарея Osmo Action x 2 Характеристики: Osmo Action Charging Hub: Размер: 55.3 x 47.6 x 25.3 мм Вес: 37.5 г Аккумулятор Osmo Action: Размер: 37.9 x 40.8 x 15.1 мм Вес: 30 г Чехол для батареи Osmo Action: Размер: 18.8 x 49 x 44.6 мм Вес: 10 г Совместимость: Osmo Action </description>
-	<url>http://store.drone.ua/product/dji-osmo-part-6-charging-kit-eu/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=ST.00000007806/</url>
+	<url>http://store.drone.ua/product/dji-osmo-part-6-charging-kit-eu/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=CP.OS.00000030.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_1.jpg</image>
 	<priceRUAH>2760</priceRUAH>
 	<stock days="">Под заказ</stock>
