@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-11-19 12:30">	
+<yml_catalog date="2019-11-19 17:17">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -6671,7 +6671,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_5.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>1</stock_quantity>
-	<name>Объектив DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
+	<name>Набор объективов DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
 	<description><![CDATA[<p>Набор объективов для подвеса DJI Zenmuse X7:</p>
 <p>&nbsp;</p>
 <p><strong>DL-S 16mm F2.8 ND ASPH</strong></p>
