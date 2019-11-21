@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-11-19 12:42</date>	
+<date>2019-11-21 16:11</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -3693,6 +3693,150 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000106</id>
+	<categoryId>2</categoryId>
+	<code>ST.MM.00000106</code>
+	<vendor>DJI</vendor>
+	<name>Пропеллеры DJI Mavic Mini (ST.MM.00000106)</name>
+	<description>Обзор: Эти винты, специально разработанные для Mavic Mini, обеспечивают более тихий полет и мощную тягу. Особенности: Небольшой размер, тихий полет и мощная тяга для Mavic Mini.</description>
+	<url>https://store.drone.ua/product/mavic-mini-propellers/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000106/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_1.jpg</image>
+	<priceRUAH>370</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000107</id>
+	<categoryId>2</categoryId>
+	<code>ST.MM.00000107</code>
+	<vendor>DJI</vendor>
+	<name>Интеллектуальная батарея DJI Mavic Mini (ST.MM.00000107)</name>
+	<description>Mavic Mini Intelligent Flight Battery обеспечивает максимальное время полета 30 минут. Благодаря встроенной интеллектуальной системе управления батареями DJI, состояние батареи контролируется и отображается в режиме реального времени, что позволяет вам меньше концентрироваться на уровнях мощности и больше на полете.</description>
+	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000107/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</image>
+	<priceRUAH>1400</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000108</id>
+	<categoryId>2</categoryId>
+	<code>ST.MM.00000108</code>
+	<vendor>DJI</vendor>
+	<name>Зарядная станция DJI Mavic Mini (ST.MM.00000108)</name>
+	<description>Двухсторонняя зарядная станция может последовательно заряжать до трех аккумуляторов. Для зарядки всех аккумуляторов с помощью зарядного устройства DJI 18 Вт USB требуется 270 минут. Его также можно использовать для хранения и транспортировки батарей, и для зарядки Вашего мобильного устройства или пульта дистанционного управления.</description>
+	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000108/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_1.jpg</image>
+	<priceRUAH>1210</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000109</id>
+	<categoryId>2</categoryId>
+	<code>ST.MM.00000109</code>
+	<vendor>DJI</vendor>
+	<name>Зарядная база DJI Mavic Mini (ST.MM.00000109)</name>
+	<description>В коробке: Bell Jar x 1 Зарядная база x 1 Магнитный MicroUSB x 1 Характеристики: Модель: TE-MCB-001 Рабочая температура: от 5 градусов до 45 ? (от 41 градусов до 113 градусов F) Вход: 5В / 3А 9В / 2А 12В / 1.5А Выход: 5В / 3А 9В / 2А 12В / 1.5А Совместимость: Mavic Mini </description>
+	<url>https://store.drone.ua/product/mavic-mini-charging-base/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000109/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_1.jpg</image>
+	<priceRUAH>1210</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000113</id>
+	<categoryId>2</categoryId>
+	<code>ST.MM.00000113</code>
+	<vendor>DJI</vendor>
+	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
+	<description>Защита винтов и повышение безопасности полета в помещениях или в местах с большим количеством препятствий.</description>
+	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000113/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_1.jpg</image>
+	<priceRUAH>590</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000117</id>
+	<categoryId>2</categoryId>
+	<code>ST.MM.00000117</code>
+	<vendor>DJI</vendor>
+	<name>Сумка DJI Mavic Mini (ST.MM.00000117)</name>
+	<description>Фирменная сумка, которая легко помещает Mavic Mini, двустороннюю зарядную станцию, пульт дистанционного управления и другие мелкие предметы, такие как Osmo Pocket и Osmo Action.</description>
+	<url>https://store.drone.ua/product/dji-mini-bag/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000117/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_1.jpg</image>
+	<priceRUAH>1090</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee type="shop">6</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000101</id>
+	<categoryId>1</categoryId>
+	<code>ST.MM.00000101</code>
+	<vendor>DJI</vendor>
+	<name>Квадрокоптер DJI Mavic Mini (ST.MM.00000101)</name>
+	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
+	<url>https://store.drone.ua/product/dji-mavic-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.MM.00000101/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</image>
+	<priceRUAH>12370</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.MM.00000102</id>
+	<categoryId>1</categoryId>
+	<code>ST.MM.00000102</code>
+	<vendor>DJI</vendor>
+	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
+	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
+	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.MM.00000102/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</image>
+	<priceRUAH>15470</priceRUAH>
+	<stock days="">Под заказ</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>ST.000000011597</id>
+	<categoryId>1</categoryId>
+	<code>ST.000000011597</code>
+	<vendor>Chasing-Innovation</vendor>
+	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
+	<description>Самый маленький в мире, самый умный и доступный подводный дрон нового поколения. DORY приглашает Вас исследовать новые места в спокойных водах, таких как море, озеро или пруд.</description>
+	<url>https://store.drone.ua/product/chasing-dory/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.000000011597/</url>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
+	<priceRUAH>18560</priceRUAH>
+	<stock>В наличии</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 </items></price>
