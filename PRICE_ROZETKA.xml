@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-11-19 17:17">	
+<yml_catalog date="2019-11-21 12:23">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -9171,6 +9171,385 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Под заказ. Бесплатная доставка. Срок доставки: До четырех недель</param>
 	<state></state>
 	<price_opt>12332</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000106">
+	<url>https://store.drone.ua/product/mavic-mini-propellers/</url>
+	<price>370</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>5</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_3.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Пропеллеры DJI Mavic Mini (ST.MM.00000106)</name>
+	<description><![CDATA[<p><strong>Обзор:</strong></p>
+<div>Эти винты, специально разработанные для Mavic Mini, обеспечивают более тихий полет и мощную тягу.<br /><br /><strong>Особенности:</strong></div>
+<div>Небольшой размер, тихий полет и мощная тяга для Mavic Mini.</div>
+<p><strong>Характеристики:</strong></p>
+<ul>
+<li>Диаметр x шаг: 119,38 x 66,04 мм (4.7 x 2.6 дюйма)</li>
+<li>Вес: 0.5 г каждый</li>
+</ul>
+<p><strong>Совместимость:</strong></p>
+<ul>
+<li>Mavic Mini</li>
+</ul>]]></description>
+	<param name="Артикул">ST.MM.00000106</param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Лопасти и пропеллеры</param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	<price_opt>344</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000107">
+	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
+	<price>1400</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>5</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_4.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Интеллектуальная батарея DJI Mavic Mini (ST.MM.00000107)</name>
+	<description><![CDATA[<div><strong>Обзор:</strong><br />Mavic Mini Intelligent Flight Battery обеспечивает максимальное время полета 30 минут.&nbsp;Благодаря встроенной интеллектуальной системе управления батареями DJI, состояние батареи контролируется и отображается в режиме реального времени, что позволяет вам меньше концентрироваться на уровнях мощности и больше на полете.<br /><br /><strong>Особенности:</strong></div>
+<ul>
+<li>Обеспечивает до 30 минут полета</li>
+</ul>
+<div><strong>В коробке:</strong></div>
+<ul>
+<li>Интеллектуальная летная батарея x 1</li>
+</ul>
+<p><strong>Характеристики:</strong></p>
+<ul>
+<li>Модель: MB2-2400mAh-7.2V</li>
+<li>Номинальная емкость: 2400 мАч</li>
+<li>Тип батареи: литий-ионный 2S</li>
+<li>Номинальное напряжение: 7.2 В</li>
+<li>Напряжение ограниченного заряда: 8,4 В</li>
+<li>Максимальная мощность зарядки: 24 Вт</li>
+<li>Температура зарядки: от 5 &deg; до 40 &deg; C (от 41 &deg; до 104 &deg; F)</li>
+</ul>
+<p><strong>Совместимость:</strong></p>
+<ul>
+<li>Mavic Mini</li>
+</ul>]]></description>
+	<param name="Артикул">ST.MM.00000107</param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Аккумуляторы</param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	<price_opt>1302</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000108">
+	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/</url>
+	<price>1210</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>5</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_6.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Зарядная станция DJI Mavic Mini (ST.MM.00000108)</name>
+	<description><![CDATA[<div>
+<div><strong>Обзор:</strong></div>
+<div>Двухсторонняя зарядная станция может последовательно заряжать до трех аккумуляторов. Для зарядки всех аккумуляторов с помощью зарядного устройства DJI 18 Вт USB требуется 270 минут. Его также можно использовать для хранения и транспортировки батарей, и для зарядки Вашего мобильного устройства или пульта дистанционного управления.<br /><br /><strong>Особенности:</strong></div>
+<ul>
+<li>Удобная зарядка трех батарей</li>
+<li>Может использоваться в качестве зарядного устройства для батарей Mavic Mini и блока питания для зарядки внешних устройств</li>
+</ul>
+<div><strong>В коробке:</strong></div>
+<ul>
+<li>Зарядная станция x 1</li>
+<li>Микро USB-кабель x 1</li>
+</ul>
+<div><strong>Характеристики:</strong></div>
+<ul>
+<li>Рабочая температура: от 5 &deg; до 40 &deg; C (от 41 &deg; до 104 &deg; F)</li>
+<li>Вход: 5В / 2А 9В / 2А 12В / 2А</li>
+<li>Выход порта USB: Макс. 5 В / 2 А</li>
+<li>Вес: прибл. 80 г</li>
+<li>Тип зарядного устройства: рекомендуется USB-зарядное устройство DJI 18 Вт. Или USB-зарядное устройство, сертифицированное FCC / CE, которое поддерживает протокол Quick Charge.</li>
+<li>Тип батареи: MB2-2400mAh-7.2V,&nbsp;MB3-1100mAh-7.6V</li>
+<li>Время зарядки: * Для трех батарей MB2-2400mAh-7.2V: прибл. 270 минут Для трех батарей MB3-1100mAh-7.6 В: прибл. 150 минут<br />* Измерено в контролируемой среде (комнатная температура 25 &deg; C) с использованием USB-зарядного устройства DJI 18 Вт. Данные приведены только для справки и зависят от фактического времени зарядки, мощности зарядного устройства, зарядного кабеля, температуры и других факторов.</li>
+</ul>
+<div><strong>Совместимость</strong></div>
+<ul>
+<li>Mavic Mini</li>
+</ul>
+</div>]]></description>
+	<param name="Артикул">ST.MM.00000108</param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Зарядные устройства</param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	<price_opt>1125</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000109">
+	<url>https://store.drone.ua/product/mavic-mini-charging-base/</url>
+	<price>1210</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>5</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_6.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Зарядная база DJI Mavic Mini (ST.MM.00000109)</name>
+	<description><![CDATA[<p><strong>В коробке:</strong></p>
+<div>
+<ul>
+<li>Bell Jar x 1</li>
+<li>Зарядная база x 1</li>
+<li>Магнитный MicroUSB x 1</li>
+</ul>
+</div>
+<div><strong>Характеристики:</strong></div>
+<div>
+<ul>
+<li>Модель: TE-MCB-001</li>
+<li>Рабочая температура: от 5 &deg; до 45 ? (от 41 &deg; до 113 &deg; F)</li>
+<li>Вход: 5В / 3А 9В / 2А 12В / 1.5А</li>
+<li>Выход: 5В / 3А 9В / 2А 12В / 1.5А</li>
+</ul>
+</div>
+<div><strong>Совместимость:</strong></div>
+<div>
+<ul>
+<li>Mavic Mini</li>
+</ul>
+</div>]]></description>
+	<param name="Артикул">ST.MM.00000109</param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Зарядные устройства</param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет"></param>
+	<param name="Назначение">Для квадрокоптеров</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	<price_opt>1125</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000113">
+	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
+	<price>590</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>5</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_5.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
+	<description><![CDATA[Защита винтов и повышение безопасности полета в помещениях или в местах с большим количеством препятствий.]]></description>
+	<param name="Артикул">ST.MM.00000113</param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Защита лопастей</param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	<price_opt>549</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000117">
+	<url>https://store.drone.ua/product/dji-mini-bag/</url>
+	<price>1090</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>5</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_6.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Сумка DJI Mini (ST.MM.00000117)</name>
+	<description><![CDATA[Фирменная сумка, которая легко помещает Mavic Mini, двустороннюю зарядную станцию, пульт дистанционного управления и другие мелкие предметы, такие как Osmo Pocket и Osmo Action.]]></description>
+	<param name="Артикул">ST.MM.00000117</param>
+	<param name="Габариты упаковки"></param>
+	<param name="Вид">Сумки</param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Черный</param>
+	<param name="Назначение">Для квадрокоптеров</param>
+	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
+	<state></state>
+	<price_opt>1014</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000101">
+	<url>https://store.drone.ua/product/dji-mavic-mini/</url>
+	<price>12370</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Mini (ST.MM.00000101)</name>
+	<description><![CDATA[<p><strong>Компактность и портативность</strong></p>
+<p>Легкий как смартфон<br />Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрировать<br />во многих странах.</p>
+<p><strong>Увеличенное время полета</strong></p>
+<p>Быстрая зарядка &ndash;<br />длительный полет<br />Масса Mavic Mini позволяет дрону находиться в воздухе дольше по сравнению со схожими аэрокамерами, доступными на рынке. Наслаждайтесь полетом до 30 минут при полностью заряженном аккумуляторе.</p>
+<p><strong>Легко и просто.</strong></p>
+<p>Научитесь летать прямо сейчас!<br />Приложение DJI Fly отличают интуитивность и простота использования. С его помощью вы сможете создавать невероятные кадры всего в несколько нажатий. Приложение включает в себя функцию обучения полетам, чтобы вы быстро освоили Mavic Mini.</p>
+<p><strong>Быстрая съемка</strong></p>
+<p>Сложные кадры? Легко!<br />Всего в несколько нажатий вы можете создать голливудский шедевр с помощью режимов быстрой съемки &laquo;Дрони&raquo;, &laquo;Круг&raquo;, &laquo;Спираль&raquo; и &laquo;Ракета&raquo;. Просто выберите один из режимов, а Mavic Mini выполнит необходимые движения во время съемки. Автоматически сгенерированным коротким видео можно легко поделиться с друзьями в соцсетях.</p>
+<p><strong>Безопасность полетов</strong></p>
+<p>Полет без забот<br />Используйте Mavic Mini с защитой 360&deg; для предохранения пропеллеров и повышения уровня безопасности полетов[5]. Высокотехнологичные датчики обеспечивают точное позиционирование.</p>
+<p><strong>Кинематографический режим</strong><br />Плавные движения для восхитительных результатов<br />Замедлите скорость полета и движений Mavic Mini для дополнительной точности и стабильности. Этот режим особенно полезен при полетах в ограниченном пространстве и наличии препятствий.</p>
+<p><strong>Шаблоны одним нажатием</strong></p>
+<p>Приложение работает за Вас<br />Приложение DJI Fly содержит различные шаблоны, которые позволяют создавать великолепные видео одним нажатием. Даже новички без опыта видеомонтажа могут превратить любой момент в хит соцсетей.</p>
+<p><strong>Популярные места для полетов</strong></p>
+<p>Узнайте о живописных местах неподалеку<br />Приложение DJI Fly предоставляет пользователям доступ к социальной сети SkyPixel, где они могут публиковать сделанные с воздуха фото и видео. Вдохновляйтесь работами других, публикуйте свои собственные и узнавайте о популярных местах для аэрофотосъемки неподалеку[6].</p>
+<p><strong>Пульт управления</strong></p>
+<p>Наблюдайте за миром&nbsp;с помощью Mavic Mini!<br />Пульт управления поддерживает передачу видеосигнала в формате HD на расстоянии до<br />4 км. Он оборудован съемными джойстиками, которые хранятся внутри самого устройства.</p>
+<p><strong>Примечания:</strong></p>
+<p>1. Взлетная масса летательного аппарата включает в себя вес аккумулятора и пропеллеров. Перед использованием ознакомьтесь с местными законами и соблюдайте технику безопасности при полетах в присутствии других людей.<br />2. Измерения производились при постоянной скорости 14 км/ч без ветра.<br />3. 4 км для модели с выполнением стандарта FCC (MT1SS5) и 2 км для модели с выполнением стандарта CE (MT1SD25). Измерения производились на открытом пространстве без помех.<br />4. Для работы системы визуального позиционирования полет должен проходить над неотражающей распознаваемой поверхностью при достаточном освещении. Это возможно при высоте полета 0.5&ndash;30 м. Точность вертикального и горизонтального позиционирования находится в пределах &plusmn;0.1 м.<br />5. Набор &laquo;Fly More&raquo; включает в себя защиту для пропеллеров 360&deg;.<br />6. Функция &laquo;Где лучше летать&raquo; доступна только для Китая. Все отображаемые в местах для полетов местоположения основываются на добровольно предоставленных пользователями SkyPixel отметках. DJI никогда не использует и не публикует данные пользователей без их согласия. Всегда проверяйте правила полета и следуйте им.<br />7. Набор &laquo;Fly More&raquo; включает в себя многофункциональный зарядный концентратор.<br />8. Аксессуары сторонних производителей приобретаются отдельно.<br />9. Масса аксессуаров должна составлять не более 30 грамм. Перед взлетом убедитесь, что адаптер с кнопками и подсоединенные устройства надежно закреплены.</p>]]></description>
+	<param name="Артикул">ST.MM.00000101</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Серый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2600</param>
+	<param name="Время полета">30 минут (измерения производились при полете со скоростью 14 км/ч без ветра)</param>
+	<param name="Высота полета">3000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Пара запасных пропеллеров, Кабель MicroUSB, Кабель для пульта управления Lightning, Кабель для пульта управления MicroUSB, Кабель для пульта управления Type-C, Пара дополнительных джойстиков (Стиков), Отвертка, Запасной болт</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	<state></state>
+	<price_opt>11504</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000102">
+	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
+	<price>15470</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_7.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
+	<description><![CDATA[<p><strong>Компактность и портативность</strong></p>
+<p>Легкий как смартфон<br />Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрировать<br />во многих странах.</p>
+<p><strong>Увеличенное время полета</strong></p>
+<p>Быстрая зарядка &ndash;<br />длительный полет<br />Масса Mavic Mini позволяет дрону находиться в воздухе дольше по сравнению со схожими аэрокамерами, доступными на рынке. Наслаждайтесь полетом до 30 минут при полностью заряженном аккумуляторе.</p>
+<p><strong>Легко и просто.</strong></p>
+<p>Научитесь летать прямо сейчас!<br />Приложение DJI Fly отличают интуитивность и простота использования. С его помощью вы сможете создавать невероятные кадры всего в несколько нажатий. Приложение включает в себя функцию обучения полетам, чтобы вы быстро освоили Mavic Mini.</p>
+<p><strong>Быстрая съемка</strong></p>
+<p>Сложные кадры? Легко!<br />Всего в несколько нажатий вы можете создать голливудский шедевр с помощью режимов быстрой съемки &laquo;Дрони&raquo;, &laquo;Круг&raquo;, &laquo;Спираль&raquo; и &laquo;Ракета&raquo;. Просто выберите один из режимов, а Mavic Mini выполнит необходимые движения во время съемки. Автоматически сгенерированным коротким видео можно легко поделиться с друзьями в соцсетях.</p>
+<p><strong>Безопасность полетов</strong></p>
+<p>Полет без забот<br />Используйте Mavic Mini с защитой 360&deg; для предохранения пропеллеров и повышения уровня безопасности полетов[5]. Высокотехнологичные датчики обеспечивают точное позиционирование.</p>
+<p><strong>Кинематографический режим</strong><br />Плавные движения для восхитительных результатов<br />Замедлите скорость полета и движений Mavic Mini для дополнительной точности и стабильности. Этот режим особенно полезен при полетах в ограниченном пространстве и наличии препятствий.</p>
+<p><strong>Шаблоны одним нажатием</strong></p>
+<p>Приложение работает за Вас<br />Приложение DJI Fly содержит различные шаблоны, которые позволяют создавать великолепные видео одним нажатием. Даже новички без опыта видеомонтажа могут превратить любой момент в хит соцсетей.</p>
+<p><strong>Популярные места для полетов</strong></p>
+<p>Узнайте о живописных местах неподалеку<br />Приложение DJI Fly предоставляет пользователям доступ к социальной сети SkyPixel, где они могут публиковать сделанные с воздуха фото и видео. Вдохновляйтесь работами других, публикуйте свои собственные и узнавайте о популярных местах для аэрофотосъемки неподалеку[6].</p>
+<p><strong>Пульт управления</strong></p>
+<p>Наблюдайте за миром&nbsp;с помощью Mavic Mini!<br />Пульт управления поддерживает передачу видеосигнала в формате HD на расстоянии до<br />4 км. Он оборудован съемными джойстиками, которые хранятся внутри самого устройства.</p>
+<p><strong>Примечания:</strong></p>
+<p>1. Взлетная масса летательного аппарата включает в себя вес аккумулятора и пропеллеров. Перед использованием ознакомьтесь с местными законами и соблюдайте технику безопасности при полетах в присутствии других людей.<br />2. Измерения производились при постоянной скорости 14 км/ч без ветра.<br />3. 4 км для модели с выполнением стандарта FCC (MT1SS5) и 2 км для модели с выполнением стандарта CE (MT1SD25). Измерения производились на открытом пространстве без помех.<br />4. Для работы системы визуального позиционирования полет должен проходить над неотражающей распознаваемой поверхностью при достаточном освещении. Это возможно при высоте полета 0.5&ndash;30 м. Точность вертикального и горизонтального позиционирования находится в пределах &plusmn;0.1 м.<br />5. Набор &laquo;Fly More&raquo; включает в себя защиту для пропеллеров 360&deg;.<br />6. Функция &laquo;Где лучше летать&raquo; доступна только для Китая. Все отображаемые в местах для полетов местоположения основываются на добровольно предоставленных пользователями SkyPixel отметках. DJI никогда не использует и не публикует данные пользователей без их согласия. Всегда проверяйте правила полета и следуйте им.<br />7. Набор &laquo;Fly More&raquo; включает в себя многофункциональный зарядный концентратор.<br />8. Аксессуары сторонних производителей приобретаются отдельно.<br />9. Масса аксессуаров должна составлять не более 30 грамм. Перед взлетом убедитесь, что адаптер с кнопками и подсоединенные устройства надежно закреплены.</p>]]></description>
+	<param name="Артикул">ST.MM.00000102</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Серый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч">2600</param>
+	<param name="Время полета">30 минут (измерения производились при полете со скоростью 14 км/ч без ветра)</param>
+	<param name="Высота полета">3000 м</param>
+	<param name="Радиус действия аппаратуры">С пультом управления</param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки">Квадрокоптер, Пульт управления, Пара запасных пропеллеров, Кабель MicroUSB, Аккумуляторы x 3, Защита пропеллеров, Многофункциональный зарядный концентратор, Сумка для переноски, Кабель для пульта управления Lightning, Кабель для пульта управления MicroUSB, Кабель для пульта управления Type-C, Пара дополнительных джойстиков (Стиков), Отвертка, Запасной болт</param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	<state></state>
+	<price_opt>14387</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.000000011597">
+	<url>https://store.drone.ua/product/chasing-dory/</url>
+	<price>18560</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_7.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_8.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_9.jpg</picture>
+	<vendor>Chasing-Innovation</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
+	<description><![CDATA[<p>Самый маленький в мире, самый умный и доступный подводный дрон нового поколения.<br /><br />DORY приглашает Вас исследовать новые места в спокойных водах, таких как море, озеро или пруд.<br />Wi-Fi буй от DORY остается подключенным к мобильному устройству на расстоянии до 15 метров, а 15-метровый подводный трос даст Вам еще больше свободы в перемещении.<br /><br />Меньший, чем лист бумаги, DORY может поместиться в наплечную сумку и легко транспортироваться. DORY на 56% легче и на 65% меньше по сравнению с предыдущим дроном GLADIUS MINI.<br /><br /><strong>Получить идеальный угол</strong><br />Наклон под углом 45 градусов позволяет плавно сканировать дно океана.<br /><br /><strong>Высокая точность позиционирования</strong><br />GPS Wi-Fi буй обеспечивает точные показания, поэтому Вы всегда знаете свое местонахождение. С предупреждающей системой Вы никогда не будете отключены внезапно.<br /><br /><strong>Зафиксируйте свой уровень</strong><br />С помощью Depth Lock вы можете поддерживать стабильность дронов на той глубине, которую вы выберете<br /><br /><strong>Один час изучения</strong><br />Аккумулятор емкостью 4800 мАч обеспечивает 1 час работы при полной зарядке. Заряжается только дрон, а не каждый компонент, как в других дронах.<br /><br /><strong>Яркие фото в любых условиях</strong><br />Камера DORY 1080p расширяет границы возможного с объективом f / 1.6 для плохой видимости.<br /><br /><strong>Идеальное освещение для исследования</strong><br />Два источника света на 250 люмен освещают воду, не подавляя глаза или обитателей океана<br /><br /><strong>Восстановить истинные цвета под водой</strong><br />Наш интеллектуальный алгоритм восстановления цвета сохраняет фотографии яркими в любых условиях.<br /><br /><strong>Интуитивно понятное управление, подключи, погружайся и играй</strong><br />Не требуется сложный пульт &mdash; просто включите интуитивно понятное приложение прямо на Вашем мобильном устройстве. Управляйте всем &mdash; от погружения до наклона и поддержания определенной глубины &mdash; все это с помощью телефона.<br /><br /><strong>Инновационный режим совместной игры</strong><br />DORY&rsquo;s Duo Device Co-play позволяет одному человеку управлять дроном, а другому &mdash; камерой и видео для максимального удовольствия.<br /><br /><strong>Настроить визуальные эффекты</strong><br />Настройте визуальные эффекты с 19 фильтрами изображений и простым редактированием видео.<br /><br /><strong>Делитесь в соцсетях</strong><br />Быстро и легко обменивайтесь кадрами на Facebook, Instagram и других приложениях, даже в прямом эфире!<br /><br /><strong>Гидродинамический дизайн</strong><br />Гидродинамический дизайн DORY сочетает в себе самые важные функции в гладком, компактном корпусе.</p>]]></description>
+	<param name="Артикул">ST.000000011597</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Желтый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета">60 минут</param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">Без наличия</param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	<state></state>
+	<price_opt>17261</price_opt>
 	</offer>
 </offers>	
 </shop>	
