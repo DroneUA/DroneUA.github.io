@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2019-11-19 12:38">	
+<yml_catalog date="2019-11-21 17:07">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -22,7 +22,7 @@
 </catalog>	
 <items>	
 	<item id="CP.PT.00000132.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black (CP.PT.00000132.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-black/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -31,7 +31,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000141.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White (CP.PT.00000141.01)</name>
 	<url>https://store.drone.ua/product/mavic-air/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -40,7 +40,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000148.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Air</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red (CP.PT.00000148.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-red/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -49,7 +49,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000159.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Onyx Black (CP.PT.00000159.01)</name>
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -58,7 +58,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000168.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Arctic White (CP.PT.00000168.01)</name>
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -67,7 +67,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000169.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Flame Red (CP.PT.00000169.01)</name>
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -76,7 +76,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000075.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum (CP.PT.00000075.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -85,7 +85,7 @@
 	<description>Съемка в 4K с интеллектуальным режимом, система распознавания жестов, максимальная скорость - 65 км/ч, ёмкость аккумуляторов позволяет использовать дрон до 30 минут в воздухе.</description>
 	</item>
 	<item id="CP.PT.00000065.01">
-	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo (CP.PT.00000065.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo/</url>
 	<price>40270</price>
 	<categoryId>1</categoryId>
@@ -94,7 +94,7 @@
 	<description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
 	</item>
 	<item id="CP.ZM.00000104.01">
-	<name>Стедикам DJI Ronin-S</name>
+	<name>Стедикам DJI Ronin-S (CP.ZM.00000104.01)</name>
 	<url>https://store.drone.ua/product/ronin-s/</url>
 	<price>0</price>
 	<categoryId>2</categoryId>
@@ -103,7 +103,7 @@
 	<description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
 	</item>
 	<item id="CP.ZM.00000064.01">
-	<name>Стедикам DJI Osmo Mobile 2</name>
+	<name>Стедикам DJI Osmo Mobile 2 (CP.ZM.00000064.01)</name>
 	<url>https://store.drone.ua/product/osmo-mobile-2/</url>
 	<price>0</price>
 	<categoryId>2</categoryId>
@@ -112,7 +112,7 @@
 	<description>Монопод-стабилизатор второго поколения для смартфонов, с клавишами управления. Емкость аккумулятора позволит использовать до 15 часов.</description>
 	</item>
 	<item id="ST.000075">
-	<name>Стедикам DJI Osmo Pocket</name>
+	<name>Стедикам DJI Osmo Pocket (ST.000075)</name>
 	<url>https://store.drone.ua/product/osmo-pocket/</url>
 	<price>11130</price>
 	<categoryId>2</categoryId>
@@ -121,7 +121,7 @@
 	<description>Экшн-камера, представляет из себя смесь стедикама с экшн-камерой, съемка производится в разрешении 4K 60fps.</description>
 	</item>
 	<item id="CP.VL.00000014.01">
-	<name>Очки виртуальной реальности DJI Goggles Racing Edition</name>
+	<name>Очки виртуальной реальности DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
 	<price>0</price>
 	<categoryId>3</categoryId>
@@ -130,7 +130,7 @@
 	<description>DJI Goggles - созданы для полета на устройствах DJI с обзором от первого лица. Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) - все, что нужно для полета в новом измерении.</description>
 	</item>
 	<item id="CP.PT.000670">
-	<name>Очки виртуальной реальности DJI Goggles</name>
+	<name>Очки виртуальной реальности DJI Goggles (CP.PT.000670)</name>
 	<url>https://store.drone.ua/product/goggles/</url>
 	<price>0</price>
 	<categoryId>3</categoryId>
@@ -139,7 +139,7 @@
 	<description>DJI Goggles - созданы для полета на устройствах DJI с обзором от первого лица. Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) - все, что нужно для полета в новом измерении.</description>
 	</item>
 	<item id="CP.PT.000889">
-	<name>Квадрокоптер (дрон) DJI Spark Fly More Combo</name>
+	<name>Квадрокоптер (дрон) DJI Spark Fly More Combo (CP.PT.000889)</name>
 	<url>https://store.drone.ua/product/spark-fly-more-combo/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -148,7 +148,7 @@
 	<description>Комбо набор дополнительно включает в себя пульт управления, защиту пропеллеров, дополнительный аккумулятор, хаб и сумку-переноску.</description>
 	</item>
 	<item id="CP.MA.00000013.01">
-	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro</name>
+	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -157,7 +157,7 @@
 	<description>Дрон с камерой Hasselblad с возможностью настройки диафрагмы и скоростью полета до 72 км/ч.</description>
 	</item>
 	<item id="CP.MA.00000014.01">
-	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom</name>
+	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -166,7 +166,7 @@
 	<description>Дрон с 3-х осевой стабилизацией, широкоугольным обьективом, и фокусным расстоянием, эквивалентным 35 мм.</description>
 	</item>
 	<item id="CP.MA.00000037.01">
-	<name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit</name>
+	<name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -175,7 +175,7 @@
 	<description>Расширенный набор для Mavic 2 состоящий из: Intelligent Flight Batteries ? 2, Mavic 2 Car Charger ? 1, Battery Charging Hub ? 1, Battery to Power Bank Adapter ? 1, Low-Noise Propellers ? 2 Pairs, Mavic 2 Shoulder Bag ? 1.</description>
 	</item>
 	<item id="CP.PT.00000132.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Refurbished (CP.PT.00000132.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-black/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -184,7 +184,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000141.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Refurbished (CP.PT.00000141.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-white/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -193,7 +193,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000148.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Refurbished (CP.PT.00000148.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-red/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -202,7 +202,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000159.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Fly More Combo Refurbished (CP.PT.00000159.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -211,7 +211,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000168.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Fly More Combo Refurbished (CP.PT.00000168.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -220,7 +220,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000169.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Fly More Combo Refurbished (CP.PT.00000169.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -229,7 +229,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	</item>
 	<item id="CP.PT.00000075.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished (CP.PT.00000075.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-ref/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -238,7 +238,7 @@
 	<description>Съемка в 4K с интеллектуальным режимом, система распознавания жестов, максимальная скорость - 65 км/ч, ёмкость аккумуляторов позволяет использовать дрон до 30 минут в воздухе.</description>
 	</item>
 	<item id="CP.PT.00000065.01_REF">
-	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished</name>
+	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished (CP.PT.00000065.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -247,7 +247,7 @@
 	<description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
 	</item>
 	<item id="CP.ZM.00000104.01_REF">
-	<name>Стедикам DJI Ronin-S Refurbished</name>
+	<name>Стедикам DJI Ronin-S Refurbished (CP.ZM.00000104.01)</name>
 	<url>https://store.drone.ua/product/ronin-s-ref/</url>
 	<price>0</price>
 	<categoryId>2</categoryId>
@@ -256,7 +256,7 @@
 	<description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
 	</item>
 	<item id="CP.PT.00000242.01">
-	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0</name>
+	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0 (CP.PT.00000242.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -265,7 +265,7 @@
 	<description>Новый дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles. Как и модели Phantom 4 Pro и Advanced, Phantom 4 Pro V2.0 оснащен 1-дюймовой матрицей с разрешением 20 Мп, способной снимать видео в качестве 4К с частотой 60 кадров/с и серии фото с частотой 14 кадров/с.</description>
 	</item>
 	<item id="CP.PT.00000232.01">
-	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0</name>
+	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0 (CP.PT.00000232.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -274,7 +274,7 @@
 	<description>Новый дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles. Как и модели Phantom 4 Pro и Advanced, Phantom 4 Pro+ V2.0 оснащен 1-дюймовой матрицей с разрешением 20 Мп, способной снимать видео в качестве 4К с частотой 60 кадров/с и серии фото с частотой 14 кадров/с.</description>
 	</item>
 	<item id="CP.PT.00000210.01">
-	<name>Квадрокоптер (дрон) Ryze Tello</name>
+	<name>Квадрокоптер (дрон) Ryze Tello (CP.PT.00000210.01)</name>
 	<url>https://store.drone.ua/product/tello/</url>
 	<price>3380</price>
 	<categoryId>1</categoryId>
@@ -283,7 +283,7 @@
 	<description>Самый компактный умный дрон с применением технологий DJI, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 	</item>
 	<item id="CP.TL.00000015.01">
-	<name>Квадрокоптер (дрон) Ryze Tello Boost Combo</name>
+	<name>Квадрокоптер (дрон) Ryze Tello Boost Combo (CP.TL.00000015.01)</name>
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
 	<price>4930</price>
 	<categoryId>1</categoryId>
@@ -292,7 +292,7 @@
 	<description>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 	</item>
 	<item id="CP.TL.00000002.01">
-	<name>Квадрокоптер (дрон) Ryze Tello Iron Man Edition</name>
+	<name>Квадрокоптер (дрон) Ryze Tello Iron Man Edition (CP.TL.00000002.01)</name>
 	<url>https://store.drone.ua/product/dji-tello-iron-man-edition/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -301,7 +301,7 @@
 	<description>DJI общими усилиями с Marvel и Disney представили рынку новый дрон — Ryze Tello Iron Man Edition, который имеет новый стильный облик, вдохновленный культовой броней «железного человека». </description>
 	</item>
 	<item id="ST.IN.000001">
-	<name>Action камера Insta360 One X</name>
+	<name>Action камера Insta360 One X (ST.IN.000001)</name>
 	<url>https://store.drone.ua/product/insta360-one-x/</url>
 	<price>12720</price>
 	<categoryId>4</categoryId>
@@ -310,7 +310,7 @@
 	<description>С панорамной камерой Insta360 ONE X Вы можете снимать 360-видео с максимальным разрешением 5.7@30fps и делать 360-фото 18 МП. Экшн-камера имеет компактные размеры для комфортной эксплуатации в любых условиях.</description>
 	</item>
 	<item id="ST.IN.000002">
-	<name>Action камера Insta360 One</name>
+	<name>Action камера Insta360 One (ST.IN.000002)</name>
 	<url>https://store.drone.ua/product/insta360-one/</url>
 	<price>0</price>
 	<categoryId>4</categoryId>
@@ -319,7 +319,7 @@
 	<description>Компактная панорамная камера Insta360 ONE способна записывать видео в формате 4K@30fps и делать 24 МП фото. При этом, она может эксплуатировать как со смартфоном (под Micro-USB и USB-C необходимы переходники), так и независимо.</description>
 	</item>
 	<item id="ST.IN.000003">
-	<name>Action камера Insta360 Pro</name>
+	<name>Action камера Insta360 Pro (ST.IN.000003)</name>
 	<url>https://store.drone.ua/product/insta360-pro/</url>
 	<price>0</price>
 	<categoryId>4</categoryId>
@@ -328,7 +328,7 @@
 	<description>Первое поколение профессиональной VR-камеры Insta360 Pro, способной снимать 2D/3D видео и фото с разрешением до 8K, а также вести онлайн-трансляцию.</description>
 	</item>
 	<item id="ST.IN.000004">
-	<name>Action камера Insta360 Pro 2</name>
+	<name>Action камера Insta360 Pro 2 (ST.IN.000004)</name>
 	<url>https://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
 	<price>0</price>
 	<categoryId>4</categoryId>
@@ -337,7 +337,7 @@
 	<description>Сферическая VR-камера Insta360 Pro 2 способна снимать 8K-видео 2D/3D и делать фото с разрешением до 12000 x 12000 пикселей. Одно из лучших решений на современном рынке.</description>
 	</item>
 	<item id="ST.IN.000005">
-	<name>Action камера Insta360 Titan</name>
+	<name>Action камера Insta360 Titan (ST.IN.000005)</name>
 	<url>https://store.drone.ua/product/insta360-titan/</url>
 	<price>0</price>
 	<categoryId>4</categoryId>
@@ -346,7 +346,7 @@
 	<description>Кинематографическая сферическая камера Insta360 TITAN способна снимать 360-градусное и VR-видео с разрешением до 11K. Профессиональный инструмент для серьезных проектов.</description>
 	</item>
 	<item id="ST.IN.000006">
-	<name>Action камера Insta360 Nano S</name>
+	<name>Action камера Insta360 Nano S (ST.IN.000006)</name>
 	<url>https://store.drone.ua/product/insta360-nano-s-black/</url>
 	<price>0</price>
 	<categoryId>4</categoryId>
@@ -355,7 +355,7 @@
 	<description>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.</description>
 	</item>
 	<item id="ST.IN.000006">
-	<name>Action камера Insta360 Nano S</name>
+	<name>Action камера Insta360 Nano S (ST.IN.000006)</name>
 	<url>https://store.drone.ua/product/insta360-nano-s-silver/</url>
 	<price>0</price>
 	<categoryId>4</categoryId>
@@ -364,7 +364,7 @@
 	<description>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.</description>
 	</item>
 	<item id="CINEVOX/A">
-	<name>Action камера Insta360 Evo</name>
+	<name>Action камера Insta360 Evo (CINEVOX/A)</name>
 	<url>https://store.drone.ua/product/insta360-evo/</url>
 	<price>13230</price>
 	<categoryId>4</categoryId>
@@ -373,7 +373,7 @@
 	<description>Компактная раскладная камера Insta360 EVO способна записывать видео в формате 3D/2D с углом обхвата 360° или 180° и разрешением до 5.7К. Удобный просмотр на смартфоне или в режиме VR в очках Oculus GO, HTC Vive Focus или Samsung Gear VR.</description>
 	</item>
 	<item id="ST.CI.00001">
-	<name>Подводный дрон Chasing-Innovation Gladius</name>
+	<name>Подводный дрон Chasing-Innovation Gladius (ST.CI.00001)</name>
 	<url>https://store.drone.ua/product/podvodnyj-dron-gladius/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -382,7 +382,7 @@
 	<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.</description>
 	</item>
 	<item id="ST.CI.00002">
-	<name>Подводный дрон Chasing-Innovation Gladius Mini</name>
+	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
 	<url>https://store.drone.ua/product/gladius-mini/</url>
 	<price>52770</price>
 	<categoryId>1</categoryId>
@@ -391,7 +391,7 @@
 	<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.</description>
 	</item>
 	<item id="ST.CI.00102">
-	<name>Рюкзак Chasing-Innovation для Gladius Mini</name>
+	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
 	<price>0</price>
 	<categoryId>6</categoryId>
@@ -400,7 +400,7 @@
 	<description>Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation</description>
 	</item>
 	<item id="CP.PT.000741">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Alpine White (CP.PT.000741)</name>
 	<url>https://store.drone.ua/product/spark/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -409,7 +409,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	</item>
 	<item id="CP.PT.000743">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Sky Blue (CP.PT.000743)</name>
 	<url>https://store.drone.ua/product/spark-golyboi/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -418,7 +418,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	</item>
 	<item id="CP.PT.000744">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Meadow Green (CP.PT.000744)</name>
 	<url>https://store.drone.ua/product/spark-zelenyj-2/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -427,7 +427,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	</item>
 	<item id="CP.PT.000745">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Lava Red (CP.PT.000745)</name>
 	<url>https://store.drone.ua/product/spark-krasnyj/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -436,7 +436,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	</item>
 	<item id="CP.PT.000742">
-	<name>Квадрокоптер (дрон) DJI Spark</name>
+	<name>Квадрокоптер (дрон) DJI Spark Sunrise Yellow (CP.PT.000742)</name>
 	<url>https://store.drone.ua/product/spark-zheltyj/</url>
 	<price>0</price>
 	<categoryId>1</categoryId>
@@ -445,7 +445,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	</item>
 	<item id="CP.PT.00000194.01">
-	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh</name>
+	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 	<price>2450</price>
 	<categoryId>5</categoryId>
@@ -454,7 +454,7 @@
 	<description>Аккумулятор для DJI Mavic Air 2375 мА*ч</description>
 	</item>
 	<item id="CP.PT.00000077.01">
-	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh</name>
+	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh (CP.PT.00000077.01)</name>
 	<url>https://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 	<price>3070</price>
 	<categoryId>5</categoryId>
@@ -463,7 +463,7 @@
 	<description>Аккумулятор для DJI Mavic Pro Platinum 3830 мА*ч</description>
 	</item>
 	<item id="CP.PT.000587">
-	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh</name>
+	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh (CP.PT.000587)</name>
 	<url>https://store.drone.ua/product/batareja-dlja-mavic/</url>
 	<price>0</price>
 	<categoryId>5</categoryId>
@@ -472,7 +472,7 @@
 	<description>Аккумулятор для DJI Mavic Pro 3830 мА*ч</description>
 	</item>
 	<item id="CP.PT.000601">
-	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh</name>
+	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh (CP.PT.000601)</name>
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 	<price>0</price>
 	<categoryId>5</categoryId>
@@ -481,7 +481,7 @@
 	<description>Аккумулятор для DJI Phantom 4 5870 мА*ч</description>
 	</item>
 	<item id="ST.0000015">
-	<name>Аккумулятор Ryze Tello 1100 mAh</name>
+	<name>Аккумулятор Ryze Tello 1100 mAh (ST.0000015)</name>
 	<url>https://store.drone.ua/product/tello-part-1-battery/</url>
 	<price>780</price>
 	<categoryId>5</categoryId>
@@ -490,7 +490,7 @@
 	<description>Аккумулятор для Ryze Tello 1100 мА*ч</description>
 	</item>
 	<item id="PZM200">
-	<name>Парашютная система Parazero SafeAir M-200</name>
+	<name>Парашютная система Parazero SafeAir M-200 (PZM200)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-200/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -501,7 +501,7 @@
 Обеспечивает безопасность полезной нагрузки, имущества, и людей. Оборудование предназначено для выполнения полетов BVLOS и выполнения автономных операций.</description>
 	</item>
 	<item id="PZM600">
-	<name>Парашютная система Parazero SafeAir M-600</name>
+	<name>Парашютная система Parazero SafeAir M-600 (PZM600)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-600/</url>
 	<price>0</price>
 	<categoryId>7</categoryId>
@@ -512,7 +512,7 @@
 Обеспечивает безопасность полезной нагрузки, имущества, и людей. Оборудование предназначено для выполнения полетов BVLOS и выполнения автономных операций.</description>
 	</item>
 	<item id="PZPHANTOM">
-	<name>Парашютная система Parazero SafeAir Phantom</name>
+	<name>Парашютная система Parazero SafeAir Phantom (PZPHANTOM)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
 	<price>14820</price>
 	<categoryId>7</categoryId>
@@ -522,7 +522,7 @@
 Обеспечивает безопасность дрона и полезной нагрузки.</description>
 	</item>
 	<item id="PZMAVIC">
-	<name>Парашютная система Parazero SafeAir Mavic</name>
+	<name>Парашютная система Parazero SafeAir Mavic (PZMAVIC)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
 	<price>9900</price>
 	<categoryId>7</categoryId>
@@ -2104,6 +2104,87 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendor>HPRC</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTM210-4600W-04___01.jpg</image>
 	<description>Форма для кейса HPRC KTM210-4600W-04 для DJI Matrice 200 или 210 для модели HPRC4600W. Размеры: 611 x 611 x 345 мм. Особенности: Форма для кейса HPRC KTM210-4600W-04 для защиты DJI Matrice 200 или 210 для модели HPRC4600W. Основа из плотной пены защищает устройство и его компоненты. </description>
+	</item>
+	<item id="ST.MM.00000106">
+	<name>Пропеллеры DJI Mavic Mini (ST.MM.00000106)</name>
+	<url>https://store.drone.ua/product/mavic-mini-propellers/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_1.jpg</image>
+	<description>Обзор: Эти винты, специально разработанные для Mavic Mini, обеспечивают более тихий полет и мощную тягу. Особенности: Небольшой размер, тихий полет и мощная тяга для Mavic Mini.</description>
+	</item>
+	<item id="ST.MM.00000107">
+	<name>Интеллектуальная батарея DJI Mavic Mini (ST.MM.00000107)</name>
+	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
+	<price>0</price>
+	<categoryId>5</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</image>
+	<description>Mavic Mini Intelligent Flight Battery обеспечивает максимальное время полета 30 минут. Благодаря встроенной интеллектуальной системе управления батареями DJI, состояние батареи контролируется и отображается в режиме реального времени, что позволяет вам меньше концентрироваться на уровнях мощности и больше на полете.</description>
+	</item>
+	<item id="ST.MM.00000108">
+	<name>Зарядная станция DJI Mavic Mini (ST.MM.00000108)</name>
+	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_1.jpg</image>
+	<description>Двухсторонняя зарядная станция может последовательно заряжать до трех аккумуляторов. Для зарядки всех аккумуляторов с помощью зарядного устройства DJI 18 Вт USB требуется 270 минут. Его также можно использовать для хранения и транспортировки батарей, и для зарядки Вашего мобильного устройства или пульта дистанционного управления.</description>
+	</item>
+	<item id="ST.MM.00000109">
+	<name>Зарядная база DJI Mavic Mini (ST.MM.00000109)</name>
+	<url>https://store.drone.ua/product/mavic-mini-charging-base/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_1.jpg</image>
+	<description>В коробке: Bell Jar x 1 Зарядная база x 1 Магнитный MicroUSB x 1 Характеристики: Модель: TE-MCB-001 Рабочая температура: от 5 градусов до 45 ? (от 41 градусов до 113 градусов F) Вход: 5В / 3А 9В / 2А 12В / 1.5А Выход: 5В / 3А 9В / 2А 12В / 1.5А Совместимость: Mavic Mini </description>
+	</item>
+	<item id="ST.MM.00000113">
+	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
+	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_1.jpg</image>
+	<description>Защита винтов и повышение безопасности полета в помещениях или в местах с большим количеством препятствий.</description>
+	</item>
+	<item id="ST.MM.00000117">
+	<name>Сумка DJI Mavic Mini (ST.MM.00000117)</name>
+	<url>https://store.drone.ua/product/dji-mini-bag/</url>
+	<price>0</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_1.jpg</image>
+	<description>Фирменная сумка, которая легко помещает Mavic Mini, двустороннюю зарядную станцию, пульт дистанционного управления и другие мелкие предметы, такие как Osmo Pocket и Osmo Action.</description>
+	</item>
+	<item id="ST.MM.00000101">
+	<name>Квадрокоптер DJI Mavic Mini (ST.MM.00000101)</name>
+	<url>https://store.drone.ua/product/dji-mavic-mini/</url>
+	<price>0</price>
+	<categoryId>1</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</image>
+	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
+	</item>
+	<item id="ST.MM.00000102">
+	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
+	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
+	<price>0</price>
+	<categoryId>1</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</image>
+	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
+	</item>
+	<item id="ST.000000011597">
+	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
+	<url>https://store.drone.ua/product/chasing-dory/</url>
+	<price>18560</price>
+	<categoryId>1</categoryId>
+	<vendor>Chasing-Innovation</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
+	<description>Самый маленький в мире, самый умный и доступный подводный дрон нового поколения. DORY приглашает Вас исследовать новые места в спокойных водах, таких как море, озеро или пруд.</description>
 	</item>
 </items>	
 </shop>	
