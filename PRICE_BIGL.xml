@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-11-21 13:43">	
+<price date="2019-11-21 15:42">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -7823,7 +7823,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <div>Небольшой размер, тихий полет и мощная тяга для Mavic Mini.</div>
 <p><strong>Характеристики:</strong></p>
 <ul>
-<li>Диаметр x шаг: 119,38 x 66,04 мм (4.7 x 2.6 дюйма)</li>
+<li>Диаметр x шаг: 119.38 x 66.04 мм (4.7 x 2.6 дюйма)</li>
 <li>Вес: 0.5 г каждый</li>
 </ul>
 <p><strong>Совместимость:</strong></p>
@@ -8097,7 +8097,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.000000011597" available="false">
+	<item id="ST.000000011597" available="true">
 	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
 	<url>https://store.drone.ua/product/chasing-dory/</url>
 	<price>18560</price>
