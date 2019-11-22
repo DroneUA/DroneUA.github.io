@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2019-11-21 17:07">	
+<yml_catalog date="2019-11-22 18:03">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -114,7 +114,7 @@
 	<item id="ST.000075">
 	<name>Стедикам DJI Osmo Pocket (ST.000075)</name>
 	<url>https://store.drone.ua/product/osmo-pocket/</url>
-	<price>11130</price>
+	<price>9580</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Osmo_Pocket.jpg</image>
@@ -276,7 +276,7 @@
 	<item id="CP.PT.00000210.01">
 	<name>Квадрокоптер (дрон) Ryze Tello (CP.PT.00000210.01)</name>
 	<url>https://store.drone.ua/product/tello/</url>
-	<price>3380</price>
+	<price>2760</price>
 	<categoryId>1</categoryId>
 	<vendor>Ryze</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_Tello_1.jpg</image>
@@ -285,7 +285,7 @@
 	<item id="CP.TL.00000015.01">
 	<name>Квадрокоптер (дрон) Ryze Tello Boost Combo (CP.TL.00000015.01)</name>
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
-	<price>4930</price>
+	<price>3690</price>
 	<categoryId>1</categoryId>
 	<vendor>Ryze</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_Tello_Boost_Combo_1.jpg</image>
@@ -596,7 +596,7 @@
 	<item id="CP.OS.00000020.01">
 	<name>Экшн-камера DJI Osmo Action (CP.OS.00000020.01)</name>
 	<url>https://store.drone.ua/product/dji-osmo-action/</url>
-	<price>11750</price>
+	<price>8650</price>
 	<categoryId>4</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_1.jpg</image>
