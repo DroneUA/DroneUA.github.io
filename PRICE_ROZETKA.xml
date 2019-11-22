@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-11-21 15:34">	
+<yml_catalog date="2019-11-22 18:07">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -963,7 +963,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.PT.00000210.01">
 	<url>https://store.drone.ua/product/tello/</url>
-	<price>3380</price>
+	<price>2760</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</picture>
@@ -1012,12 +1012,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>3143</price_opt>
+	<price_opt>2567</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.TL.00000015.01">
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
-	<price>4930</price>
+	<price>3690</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</picture>
@@ -1067,12 +1067,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>4585</price_opt>
+	<price_opt>3432</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.TL.00000002.01">
 	<url>https://store.drone.ua/product/dji-tello-iron-man-edition/</url>
-	<price>4310</price>
+	<price>3070</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</picture>
@@ -1121,7 +1121,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>4008</price_opt>
+	<price_opt>2855</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.IN.000001">
@@ -3037,7 +3037,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.ZM.00000097.01">
 	<url>https://store.drone.ua/product/osmo-pocket/</url>
-	<price>11130</price>
+	<price>9580</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
@@ -3189,7 +3189,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>10351</price_opt>
+	<price_opt>8909</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.ZM.00000064.01">
@@ -3665,7 +3665,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.VL.00000014.01">
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
-	<price>18570</price>
+	<price>15470</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture>
@@ -3708,7 +3708,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>17270</price_opt>
+	<price_opt>14387</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.000670">
@@ -4320,7 +4320,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.ZM.00000104.01_2">
 	<url>https://store.drone.ua/product/ronin-s/</url>
-	<price>23220</price>
+	<price>18570</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -4351,7 +4351,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>21595</price_opt>
+	<price_opt>17270</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CI.00001">
