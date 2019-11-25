@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-11-22 18:07">	
+<yml_catalog date="2019-11-25 13:13">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -3191,7 +3191,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>8909</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.ZM.00000064.01">
 	<url>https://store.drone.ua/product/osmo-mobile-2/</url>
 	<price>4620</price>
@@ -3789,7 +3789,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>18712</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.MA.00000037.01">
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>11750</price>
@@ -4231,7 +4231,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>27072</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000075.01_2">
 	<url>https://store.drone.ua/product/mavic-pro-platinum/</url>
 	<price>34070</price>
