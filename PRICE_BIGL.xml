@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-11-22 18:13">	
+<price date="2019-11-25 13:19">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -334,7 +334,7 @@
 	<param name="Цвет корпуса" unit="">Красный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000075.01" available="false">
+	<item id="CP.PT.00000075.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum (CP.PT.00000075.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum/</url>
 	<price>34070</price>
@@ -414,7 +414,7 @@
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.ZM.00000064.01" available="false">
+	<item id="CP.ZM.00000064.01" available="true">
 	<name>Стедикам DJI Osmo Mobile 2 (CP.ZM.00000064.01)</name>
 	<url>https://store.drone.ua/product/osmo-mobile-2/</url>
 	<price>4620</price>
@@ -846,7 +846,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.MA.00000037.01" available="false">
+	<item id="CP.MA.00000037.01" available="true">
 	<name>Набор DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>11750</price>
