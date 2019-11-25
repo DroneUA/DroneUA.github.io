@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-11-22 17:59</date>	
+<date>2019-11-25 13:42</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -121,7 +121,7 @@
 	<url>https://store.drone.ua/product/mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000075.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
 	<priceRUAH>34070</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -169,7 +169,7 @@
 	<url>https://store.drone.ua/product/osmo-mobile-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/monopody-dlya-selfi-selfie-stickutm_content=CP.ZM.00000064.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Mobile_2.jpg</image>
 	<priceRUAH>4620</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -281,7 +281,7 @@
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.MA.00000037.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</image>
 	<priceRUAH>11750</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
