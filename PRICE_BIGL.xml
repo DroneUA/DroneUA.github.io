@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-11-25 13:19">	
+<price date="2019-11-29 16:35">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -228,7 +228,7 @@
 	<param name="Цвет корпуса" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000168.01" available="false">
+	<item id="CP.PT.00000168.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Fly More Combo (CP.PT.00000168.01)</name>
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 	<price>29110</price>
@@ -692,7 +692,7 @@
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.VL.00000014.01" available="false">
+	<item id="CP.VL.00000014.01" available="true">
 	<name>Очки виртуальной реальности DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
 	<price>15470</price>
@@ -1438,7 +1438,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000242.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0 (CP.PT.00000242.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>52670</price>
+	<price>46470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
@@ -4362,7 +4362,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.MA.00000080.01" available="true">
+	<item id="CP.MA.00000080.01" available="false">
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
 	<price>20120</price>
@@ -8015,7 +8015,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.MM.00000101" available="false">
+	<item id="ST.MM.00000101" available="true">
 	<name>Квадрокоптер DJI Mavic Mini (ST.MM.00000101)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini/</url>
 	<price>12370</price>
@@ -8056,7 +8056,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.MM.00000102" available="false">
+	<item id="ST.MM.00000102" available="true">
 	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
 	<price>15470</price>
