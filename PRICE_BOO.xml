@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-11-29 16:47">	
+<yml_catalog date="2019-11-29 18:12">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -4781,7 +4781,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.RN.00000040.01">
 	<url>https://store.drone.ua/product/dji-ronin-sc/</url>
-	<price>11130</price>
+	<price>9890</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</picture>
@@ -4811,12 +4811,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>10351</price_opt>
+	<price_opt>9198</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.RN.00000043.01">
 	<url>https://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
-	<price>14230</price>
+	<price>12990</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_1.jpg</picture>
@@ -4846,12 +4846,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>13234</price_opt>
+	<price_opt>12081</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.OS.00000022.01">
 	<url>https://store.drone.ua/product/osmo-mobile-3/</url>
-	<price>3380</price>
+	<price>3070</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</picture>
@@ -4903,12 +4903,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Серый</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>3143</price_opt>
+	<price_opt>2855</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.OS.00000040.01">
 	<url>https://store.drone.ua/product/osmo-mobile-3-combo/</url>
-	<price>4000</price>
+	<price>3690</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_1.jpg</picture>
@@ -4960,7 +4960,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Серый</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>3720</price_opt>
+	<price_opt>3432</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.TR.00000006.01">
