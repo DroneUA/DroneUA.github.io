@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2019-11-25 13:47">	
+<yml_catalog date="2019-11-29 16:51">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -60,7 +60,7 @@
 	<item id="CP.PT.00000168.01">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Arctic White (CP.PT.00000168.01)</name>
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
-	<price>0</price>
+	<price>29110</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
@@ -123,7 +123,7 @@
 	<item id="CP.VL.00000014.01">
 	<name>Очки виртуальной реальности DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
-	<price>0</price>
+	<price>15470</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Goggles_Racing_Edition.jpg</image>
@@ -632,7 +632,7 @@
 	<item id="CP.MA.00000080.01">
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
-	<price>20120</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</image>
@@ -2162,7 +2162,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000101">
 	<name>Квадрокоптер DJI Mavic Mini (ST.MM.00000101)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini/</url>
-	<price>0</price>
+	<price>12370</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</image>
@@ -2171,7 +2171,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000102">
 	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
-	<price>0</price>
+	<price>15470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</image>
