@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-11-26 10:54">	
+<yml_catalog date="2019-11-29 16:47">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -3662,7 +3662,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>725</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.VL.00000014.01">
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
 	<price>15470</price>
@@ -4097,7 +4097,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>27072</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000168.01_2">
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 	<price>29110</price>
@@ -5372,7 +5372,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>33127</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000080.01">
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
 	<price>20120</price>
