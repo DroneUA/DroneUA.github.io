@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-11-29 18:12">	
+<yml_catalog date="2019-12-02 18:52">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -795,7 +795,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000242.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>46470</price>
+	<price>52670</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
@@ -874,7 +874,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>43217</price_opt>
+	<price_opt>48983</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.00000232.01">
