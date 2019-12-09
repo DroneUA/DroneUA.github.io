@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2019-12-02 18:41">	
+<price date="2019-12-06 19:09">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -363,7 +363,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000065.01" available="true">
+	<item id="CP.PT.00000065.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo (CP.PT.00000065.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo/</url>
 	<price>40270</price>
@@ -1575,7 +1575,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000210.01" available="true">
+	<item id="CP.PT.00000210.01" available="false">
 	<name>Квадрокоптер (дрон) Ryze Tello (CP.PT.00000210.01)</name>
 	<url>https://store.drone.ua/product/tello/</url>
 	<price>2760</price>
@@ -8056,7 +8056,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.MM.00000102" available="true">
+	<item id="ST.MM.00000102" available="false">
 	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
 	<price>15470</price>
