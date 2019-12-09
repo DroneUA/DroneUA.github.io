@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2019-12-02 18:58</date>	
+<date>2019-12-09 10:17</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -137,7 +137,7 @@
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000065.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
 	<priceRUAH>40270</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -473,7 +473,7 @@
 	<url>https://store.drone.ua/product/tello/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000210.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</image>
 	<priceRUAH>2760</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3817,7 +3817,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.MM.00000102/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</image>
 	<priceRUAH>15470</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
