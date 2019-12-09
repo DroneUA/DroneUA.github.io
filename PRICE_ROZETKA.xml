@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-12-02 18:52">	
+<yml_catalog date="2019-12-06 19:20">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -960,7 +960,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>51866</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000210.01">
 	<url>https://store.drone.ua/product/tello/</url>
 	<price>2760</price>
@@ -4274,7 +4274,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>31685</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000065.01_2">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo/</url>
 	<price>40270</price>
