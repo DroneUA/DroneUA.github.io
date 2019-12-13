@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2019-12-06 19:24">	
+<yml_catalog date="2019-12-13 19:08">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -60,7 +60,7 @@
 	<item id="CP.PT.00000168.01">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Fly More Combo Arctic White (CP.PT.00000168.01)</name>
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
-	<price>29110</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
@@ -105,7 +105,7 @@
 	<item id="CP.ZM.00000064.01">
 	<name>Стедикам DJI Osmo Mobile 2 (CP.ZM.00000064.01)</name>
 	<url>https://store.drone.ua/product/osmo-mobile-2/</url>
-	<price>4620</price>
+	<price>0</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Osmo_Mobile_2.jpg</image>
@@ -150,7 +150,7 @@
 	<item id="CP.MA.00000013.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>0</price>
+	<price>44920</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Pro.jpg</image>
@@ -159,7 +159,7 @@
 	<item id="CP.MA.00000014.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>0</price>
+	<price>37570</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Zoom.jpg</image>
@@ -393,7 +393,7 @@
 	<item id="ST.CI.00102">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>0</price>
+	<price>8220</price>
 	<categoryId>6</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</image>
@@ -474,7 +474,7 @@
 	<item id="CP.PT.000601">
 	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh (CP.PT.000601)</name>
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
-	<price>0</price>
+	<price>5860</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</image>
@@ -533,7 +533,7 @@
 	<item id="CP.RN.00000040.01">
 	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
 	<url>https://store.drone.ua/product/dji-ronin-sc/</url>
-	<price>9890</price>
+	<price>0</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</image>
@@ -551,7 +551,7 @@
 	<item id="CP.OS.00000022.01">
 	<name>Стедикам DJI Osmo Mobile 3 (CP.OS.00000022.01)</name>
 	<url>https://store.drone.ua/product/osmo-mobile-3/</url>
-	<price>0</price>
+	<price>3070</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</image>
@@ -668,7 +668,7 @@
 	<item id="CP.BX.000178.02">
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
 	<url>https://store.drone.ua/product/kontroller-inspire-2/</url>
-	<price>0</price>
+	<price>19500</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</image>
@@ -754,7 +754,7 @@
 	<item id="PA.ST.05">
 	<name>Квадрокоптер Parrot Anafi (PA.ST.05)</name>
 	<url>https://store.drone.ua/product/anafi/</url>
-	<price>0</price>
+	<price>23070</price>
 	<categoryId>1</categoryId>
 	<vendor>Parrot</vendor>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</image>
@@ -1028,7 +1028,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP.EN.00000108.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise-dual/</url>
-	<price>111320</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_1.jpg</image>
@@ -1100,7 +1100,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003160">
 	<name>Квадрокоптер DJI Phantom 4 RTK (ST.00000003160)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk/</url>
-	<price>218880</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_1.png</image>
@@ -1172,7 +1172,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000002931">
 	<name>Зарядное устройство-хаб для серии DJI Phantom 4 (ST.00000002931)</name>
 	<url>https://store.drone.ua/product/phantom-4-series-battery-charging-hub/</url>
-	<price>0</price>
+	<price>3070</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_1.jpg</image>
