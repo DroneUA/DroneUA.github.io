@@ -9172,7 +9172,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>12332</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000106">
 	<url>https://store.drone.ua/product/mavic-mini-propellers/</url>
 	<price>370</price>
@@ -9206,7 +9206,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>344</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000107">
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
 	<price>1400</price>
@@ -9251,7 +9251,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1302</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000108">
 	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/</url>
 	<price>1210</price>
@@ -9303,7 +9303,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000109">
 	<url>https://store.drone.ua/product/mavic-mini-charging-base/</url>
 	<price>1210</price>
@@ -9351,7 +9351,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000113">
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
 	<price>590</price>
@@ -9376,7 +9376,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>549</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000117">
 	<url>https://store.drone.ua/product/dji-mini-bag/</url>
 	<price>1090</price>
@@ -9402,7 +9402,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1014</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000101">
 	<url>https://store.drone.ua/product/dji-mavic-mini/</url>
 	<price>12370</price>
@@ -9457,7 +9457,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>11504</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000102">
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
 	<price>15470</price>
