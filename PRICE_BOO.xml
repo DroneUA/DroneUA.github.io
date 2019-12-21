@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2019-12-13 19:03">	
+<yml_catalog date="2019-12-21 17:41">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -3896,7 +3896,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>21306</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000141.01_2">
 	<url>https://store.drone.ua/product/mavic-air/</url>
 	<price>22910</price>
@@ -4231,7 +4231,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>27072</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000075.01_2">
 	<url>https://store.drone.ua/product/mavic-pro-platinum/</url>
 	<price>34070</price>
@@ -4778,7 +4778,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>9207</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.RN.00000040.01">
 	<url>https://store.drone.ua/product/dji-ronin-sc/</url>
 	<price>9890</price>
@@ -4813,7 +4813,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>9198</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.RN.00000043.01">
 	<url>https://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
 	<price>12990</price>
@@ -9172,7 +9172,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>12332</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000106">
 	<url>https://store.drone.ua/product/mavic-mini-propellers/</url>
 	<price>370</price>
@@ -9206,7 +9206,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>344</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000107">
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
 	<price>1400</price>
@@ -9251,7 +9251,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1302</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000108">
 	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/</url>
 	<price>1210</price>
@@ -9303,7 +9303,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000109">
 	<url>https://store.drone.ua/product/mavic-mini-charging-base/</url>
 	<price>1210</price>
@@ -9351,7 +9351,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000113">
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
 	<price>590</price>
@@ -9376,7 +9376,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>549</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000117">
 	<url>https://store.drone.ua/product/dji-mini-bag/</url>
 	<price>1090</price>
