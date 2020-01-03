@@ -7993,7 +7993,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.MM.00000117" available="true">
+	<item id="ST.MM.00000117" available="false">
 	<name>Сумка DJI Mavic Mini (ST.MM.00000117)</name>
 	<url>https://store.drone.ua/product/dji-mini-bag/</url>
 	<price>1090</price>
