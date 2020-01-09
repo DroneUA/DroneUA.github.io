@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-01-02 17:36">	
+<yml_catalog date="2020-01-09 10:14">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -2775,7 +2775,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CINEVOX/A">
 	<url>https://store.drone.ua/product/insta360-evo/</url>
-	<price>13230</price>
+	<price>10970</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</picture>
@@ -3032,7 +3032,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Зарядное устройство"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>12304</price_opt>
+	<price_opt>10202</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.ZM.00000097.01">
@@ -9206,7 +9206,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>344</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000107">
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
 	<price>1400</price>
@@ -9376,7 +9376,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>549</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000117">
 	<url>https://store.drone.ua/product/dji-mini-bag/</url>
 	<price>1090</price>
