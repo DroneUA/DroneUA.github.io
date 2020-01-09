@@ -1699,7 +1699,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000001" available="true">
 	<name>Action камера Insta360 One X (ST.IN.000001)</name>
 	<url>https://store.drone.ua/product/insta360-one-x/</url>
-	<price>12720</price>
+	<price>9999</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
