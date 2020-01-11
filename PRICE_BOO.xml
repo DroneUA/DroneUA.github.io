@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-01-09 18:58">	
+<yml_catalog date="2020-01-11 16:59">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -1385,7 +1385,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Зарядное устройство"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>11830</price_opt>
+	<price_opt>9299</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.IN.000002">
@@ -5345,7 +5345,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.BX.000237">
 	<url>https://store.drone.ua/product/cendence-remote-controller/</url>
-	<price>34540</price>
+	<price>42740</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</picture>
@@ -5370,7 +5370,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>32122</price_opt>
+	<price_opt>39748</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.MA.00000080.01">
@@ -5528,7 +5528,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.BX.000178.02">
 	<url>https://store.drone.ua/product/kontroller-inspire-2/</url>
-	<price>18910</price>
+	<price>23400</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</picture>
@@ -5559,7 +5559,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>17586</price_opt>
+	<price_opt>21762</price_opt>
 	</offer>
 	<offer available="false" id="
 	AGRASMG1PKIT">
@@ -6658,7 +6658,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>43217</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.00000004012">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/</url>
 	<price>151870</price>
@@ -6750,7 +6750,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004020">
 	<url>https://store.drone.ua/product/zenmuse-x5s-gimbal-and-camera-lens-excluded/</url>
-	<price>48070</price>
+	<price>49570</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_1.jpg</picture>
@@ -6779,12 +6779,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>44705</price_opt>
+	<price_opt>46100</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.00000004019">
 	<url>https://store.drone.ua/product/zenmuse-x5s/</url>
-	<price>66100</price>
+	<price>68170</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_1.jpg</picture>
@@ -6820,7 +6820,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>61473</price_opt>
+	<price_opt>63398</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.00000004011">
@@ -6912,7 +6912,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1646</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CR3-2600W-01">
 	<url>https://store.drone.ua/product/hprc_cr3-2600w-01/</url>
 	<price>14330</price>
@@ -6937,7 +6937,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>13327</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	TYH-4600W-01">
 	<url>https://store.drone.ua/product/hprc_tyh-4600w-01/</url>
 	<price>14480</price>
@@ -6960,7 +6960,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>13466</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	Z190-2700W-01">
 	<url>https://store.drone.ua/product/hprc_z190-2700w-01/</url>
 	<price>16250</price>
@@ -6983,7 +6983,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>15113</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	VEN2730W-01">
 	<url>https://store.drone.ua/product/hprc_ven2730w-01/</url>
 	<price>25520</price>
@@ -7008,7 +7008,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>23734</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ALP2460-01">
 	<url>https://store.drone.ua/product/hprc_alp2460-01/</url>
 	<price>5400</price>
@@ -7033,7 +7033,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5022</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	BEB2600W-01">
 	<url>https://store.drone.ua/product/hprc_beb2600w-01/</url>
 	<price>7790</price>
@@ -7055,7 +7055,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7245</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	BEB2600-01">
 	<url>https://store.drone.ua/product/hprc_beb2600-01/</url>
 	<price>5170</price>
@@ -7077,7 +7077,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4808</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	BEBBAGLG-01">
 	<url>https://store.drone.ua/product/hprc_bebbaglg-01/</url>
 	<price>7070</price>
@@ -7102,7 +7102,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6575</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	GH52460-01">
 	<url>https://store.drone.ua/product/hprc_gh52460-01/</url>
 	<price>5400</price>
@@ -7129,7 +7129,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5022</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	D850-2460-01">
 	<url>https://store.drone.ua/product/hprc_d850-2460-01/</url>
 	<price>7170</price>
@@ -7152,7 +7152,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6668</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	LEM2460-01">
 	<url>https://store.drone.ua/product/hprc_lem2460-01/</url>
 	<price>9650</price>
@@ -7174,7 +7174,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>8975</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	LEM2400-01">
 	<url>https://store.drone.ua/product/hprc_lem2400-01/</url>
 	<price>6650</price>
@@ -7196,7 +7196,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6185</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	GPR7-1400-01">
 	<url>https://store.drone.ua/product/hprc_gpr7-1400-01/</url>
 	<price>1900</price>
@@ -7222,7 +7222,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1767</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	FFS-4600W-02">
 	<url>https://store.drone.ua/product/hprc_ffs-4600w-02/</url>
 	<price>20650</price>
@@ -7249,7 +7249,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>19205</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAV3500BLK-02">
 	<url>https://store.drone.ua/product/hprc_mav3500blk-02/</url>
 	<price>9790</price>
@@ -7270,7 +7270,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9105</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	SPK2300YEL-01">
 	<url>https://store.drone.ua/product/hprc_spk2300yel-01/</url>
 	<price>3400</price>
@@ -7291,7 +7291,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3162</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	SPK2300RED-01">
 	<url>https://store.drone.ua/product/hprc_spk2300red-01/</url>
 	<price>3400</price>
@@ -7312,7 +7312,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3162</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	SPK2300BLU-01">
 	<url>https://store.drone.ua/product/hprc_spk2300blu-01/</url>
 	<price>3400</price>
@@ -7333,7 +7333,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3162</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	SPK2300BLK-01">
 	<url>https://store.drone.ua/product/hprc_spk2300blk-01/</url>
 	<price>3400</price>
@@ -7354,7 +7354,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3162</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA2700-03">
 	<url>https://store.drone.ua/product/hprc_pha2700-03/</url>
 	<price>9750</price>
@@ -7375,7 +7375,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9068</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAVBAG35-02">
 	<url>https://store.drone.ua/product/hprc_mavbag35-02/</url>
 	<price>4810</price>
@@ -7398,7 +7398,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4473</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAV2400RED-01">
 	<url>https://store.drone.ua/product/hprc_mav2400red-01/</url>
 	<price>5480</price>
@@ -7419,7 +7419,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5096</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAV2400BLK-01">
 	<url>https://store.drone.ua/product/hprc_mav2400blk-01/</url>
 	<price>5480</price>
@@ -7440,7 +7440,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5096</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAV2400BLU-01">
 	<url>https://store.drone.ua/product/hprc_mav2400blu-01/</url>
 	<price>5480</price>
@@ -7461,7 +7461,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5096</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAV2400BLK-02">
 	<url>https://store.drone.ua/product/hprc_mav2400blk-02/</url>
 	<price>5910</price>
@@ -7482,7 +7482,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5496</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	INS2-2780WCOM-01">
 	<url>https://store.drone.ua/product/hprc_ins2-2780wcom-01/</url>
 	<price>23840</price>
@@ -7503,7 +7503,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>22171</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	SPKBAG35-01">
 	<url>https://store.drone.ua/product/hprc_spkbag35-01/</url>
 	<price>4190</price>
@@ -7528,7 +7528,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3897</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ROS3500-01">
 	<url>https://store.drone.ua/product/hprc_ros3500-01/</url>
 	<price>9610</price>
@@ -7552,7 +7552,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>8937</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ROS2550W-01">
 	<url>https://store.drone.ua/product/hprc_ros2550w-01/</url>
 	<price>10110</price>
@@ -7577,7 +7577,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9402</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ROS2500-01">
 	<url>https://store.drone.ua/product/hprc_ros2500-01/</url>
 	<price>5910</price>
@@ -7600,7 +7600,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5496</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	RON2-2780W-01">
 	<url>https://store.drone.ua/product/hprc_ron2-2780w-01/</url>
 	<price>18710</price>
@@ -7627,7 +7627,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>17400</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ROM2700W-01">
 	<url>https://store.drone.ua/product/hprc_rom2700w-01/</url>
 	<price>11260</price>
@@ -7651,7 +7651,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>10472</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	RMX2730W-01">
 	<url>https://store.drone.ua/product/hprc_rmx2730w-01/</url>
 	<price>12870</price>
@@ -7677,7 +7677,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>11969</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA4RTKGS-2780W-01">
 	<url>https://store.drone.ua/product/hprc_pha4rtkgs-2780w-01/</url>
 	<price>31930</price>
@@ -7707,7 +7707,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>29695</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA4RTK-2700W-01">
 	<url>https://store.drone.ua/product/hprc_pha4rtk-2700w-01/</url>
 	<price>15070</price>
@@ -7730,7 +7730,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>14015</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA4-BAG27-01">
 	<url>https://store.drone.ua/product/hprc_pha4-bag27-01/</url>
 	<price>5170</price>
@@ -7756,7 +7756,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4808</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA4-BAGLG-01">
 	<url>https://store.drone.ua/product/hprc_pha4-baglg-01/</url>
 	<price>7440</price>
@@ -7780,7 +7780,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6919</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA4-2700W-01">
 	<url>https://store.drone.ua/product/hprc_pha4-2700w-01/</url>
 	<price>10170</price>
@@ -7805,7 +7805,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9458</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA4-2710-01">
 	<url>https://store.drone.ua/product/hprc_pha4-2710-01/</url>
 	<price>6450</price>
@@ -7829,7 +7829,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5999</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA3-BAGLG-01">
 	<url>https://store.drone.ua/product/hprc_pha3-baglg-01/</url>
 	<price>7400</price>
@@ -7853,7 +7853,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6882</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA2700W-03">
 	<url>https://store.drone.ua/product/hprc_pha2700w-03/</url>
 	<price>10480</price>
@@ -7876,7 +7876,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9746</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA3-2700W-01">
 	<url>https://store.drone.ua/product/hprc_pha3-2700w-01/</url>
 	<price>10170</price>
@@ -7899,7 +7899,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9458</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	OSMPKT-1400-01">
 	<url>https://store.drone.ua/product/hprc_osmpkt-1400-01/</url>
 	<price>1550</price>
@@ -7923,7 +7923,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1442</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	OSM2350-02">
 	<url>https://store.drone.ua/product/hprc_osm2350-02/</url>
 	<price>3230</price>
@@ -7950,7 +7950,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3004</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	OSMACT-1400-01">
 	<url>https://store.drone.ua/product/hprc_osmact-1400-01/</url>
 	<price>1900</price>
@@ -7978,7 +7978,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1767</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAVBAG35-03">
 	<url>https://store.drone.ua/product/hprc_mavbag35-03/</url>
 	<price>4810</price>
@@ -8003,7 +8003,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4473</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAV2-2400BLK-02">
 	<url>https://store.drone.ua/product/hprc_mav2-2400blk-02/</url>
 	<price>5970</price>
@@ -8027,7 +8027,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5552</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAV2-3500BLK-02">
 	<url>https://store.drone.ua/product/hprc_mav2-3500blk-02/</url>
 	<price>9790</price>
@@ -8051,7 +8051,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9105</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	M210-4600W-04">
 	<url>https://store.drone.ua/product/hprc_m210-4600w-04/</url>
 	<price>21740</price>
@@ -8075,7 +8075,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>20218</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	BAT2550W-01">
 	<url>https://store.drone.ua/product/hprc_bat2550w-01/</url>
 	<price>9610</price>
@@ -8098,7 +8098,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>8937</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	BAT2400-02">
 	<url>https://store.drone.ua/product/hprc_bat2400-02/</url>
 	<price>4930</price>
@@ -8124,7 +8124,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4585</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	INS2780W-01">
 	<url>https://store.drone.ua/product/hprc_ins2780w-01/</url>
 	<price>17710</price>
@@ -8150,7 +8150,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>16470</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	INS2-4600W-02">
 	<url>https://store.drone.ua/product/hprc_ins2-4600w-02/</url>
 	<price>16330</price>
@@ -8174,7 +8174,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>15187</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	INS2-2780W-02">
 	<url>https://store.drone.ua/product/hprc_ins2-2780w-02/</url>
 	<price>18480</price>
@@ -8198,7 +8198,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>17186</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	GGS-2460-01">
 	<url>https://store.drone.ua/product/hprc_ggs-2460-01/</url>
 	<price>4170</price>
@@ -8222,7 +8222,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3878</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	DRTK6500W-01">
 	<url>https://store.drone.ua/product/hprc_drtk6500w-01/</url>
 	<price>24370</price>
@@ -8245,7 +8245,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>22664</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CEN2460-02">
 	<url>https://store.drone.ua/product/hprc_cen2460-02/</url>
 	<price>6000</price>
@@ -8268,7 +8268,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5580</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	GLA2710-01">
 	<url>https://store.drone.ua/product/hprc_gla2710-01/</url>
 	<price>12160</price>
@@ -8295,7 +8295,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>11309</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	C200-2600-01">
 	<url>https://store.drone.ua/product/hprc_c200-2600-01/</url>
 	<price>10750</price>
@@ -8318,7 +8318,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9998</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	C100-2600-01">
 	<url>https://store.drone.ua/product/hprc_c100-2600-01/</url>
 	<price>10750</price>
@@ -8341,7 +8341,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9998</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	BRO4800W-01">
 	<url>https://store.drone.ua/product/hprc_bro4800w-01/</url>
 	<price>11910</price>
@@ -8365,7 +8365,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>11076</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	URS2730W-03">
 	<url>https://store.drone.ua/product/hprc_urs2730w-03/</url>
 	<price>17500</price>
@@ -8389,7 +8389,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>16275</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PKT2400-01">
 	<url>https://store.drone.ua/product/hprc_pkt2400-01/</url>
 	<price>6500</price>
@@ -8412,7 +8412,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6045</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ADV1-2710-01">
 	<url>https://store.drone.ua/product/hprc_adv1-2710-01/</url>
 	<price>11440</price>
@@ -8436,7 +8436,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>10639</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	SM19-2730W-01">
 	<url>https://store.drone.ua/product/hprc_sm19-2730w-01/</url>
 	<price>18390</price>
@@ -8462,7 +8462,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>17103</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	NJAV-2300-01">
 	<url>https://store.drone.ua/product/hprc_njav-2300-01/</url>
 	<price>5180</price>
@@ -8485,7 +8485,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4817</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAC4800W-01">
 	<url>https://store.drone.ua/product/hprc_mac4800w-01/</url>
 	<price>16090</price>
@@ -8511,7 +8511,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>14964</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	SOL2700W-01">
 	<url>https://store.drone.ua/product/hprc_sol2700w-01/</url>
 	<price>10170</price>
@@ -8534,7 +8534,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9458</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTMAV3500-02">
 	<url>https://store.drone.ua/product/hprc_ktmav3500-02/</url>
 	<price>4530</price>
@@ -8555,7 +8555,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4213</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTMAV2400-02">
 	<url>https://store.drone.ua/product/hprc_ktmav2400-02/</url>
 	<price>3200</price>
@@ -8576,7 +8576,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>2976</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA-0009">
 	<url>https://store.drone.ua/product/hprc_pha-0009/</url>
 	<price>4030</price>
@@ -8597,7 +8597,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3748</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA-0011">
 	<url>https://store.drone.ua/product/hprc_pha-0011/</url>
 	<price>4500</price>
@@ -8618,7 +8618,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4185</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PHA-0008">
 	<url>https://store.drone.ua/product/hprc_pha-0008/</url>
 	<price>4500</price>
@@ -8639,7 +8639,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4185</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTPHA4-2700W-01">
 	<url>https://store.drone.ua/product/hprc_ktpha4-2700w-01/</url>
 	<price>3550</price>
@@ -8660,7 +8660,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3302</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTINS2-4600W-01">
 	<url>https://store.drone.ua/product/hprc_ktins2-4600w-01/</url>
 	<price>9550</price>
@@ -8681,7 +8681,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>8882</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTINS2-2780W-01">
 	<url>https://store.drone.ua/product/hprc_ktins2-2780w-01/</url>
 	<price>10750</price>
@@ -8702,7 +8702,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9998</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	INS-0002">
 	<url>https://store.drone.ua/product/hprc_ins-0002/</url>
 	<price>4810</price>
@@ -8723,7 +8723,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4473</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	BAT2550W-02">
 	<url>https://store.drone.ua/product/hprc_bat2550w-02/</url>
 	<price>10610</price>
@@ -8744,7 +8744,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>9867</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	MAVCONV-01">
 	<url>https://store.drone.ua/product/hprc_mavconv-01/</url>
 	<price>240</price>
@@ -8771,7 +8771,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>223</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTZ190-2700W-01">
 	<url>https://store.drone.ua/product/hprc_ktz190-2700w-01/</url>
 	<price>8100</price>
@@ -8792,7 +8792,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7533</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTVEN2730W-01">
 	<url>https://store.drone.ua/product/hprc_ktven2730w-01/</url>
 	<price>14680</price>
@@ -8813,7 +8813,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>13652</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTURS2730W-03">
 	<url>https://store.drone.ua/product/hprc_kturs2730w-03/</url>
 	<price>8200</price>
@@ -8834,7 +8834,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7626</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTROS3500-01">
 	<url>https://store.drone.ua/product/hprc_ktros3500-01/</url>
 	<price>2360</price>
@@ -8855,7 +8855,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>2195</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTROS2550W-01">
 	<url>https://store.drone.ua/product/hprc_ktros2550w-01/</url>
 	<price>3690</price>
@@ -8876,7 +8876,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3432</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTROS2500-01">
 	<url>https://store.drone.ua/product/hprc_ktros2500-01/</url>
 	<price>2080</price>
@@ -8897,7 +8897,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1934</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTROM2700W-01">
 	<url>https://store.drone.ua/product/hprc_ktrom2700w-01/</url>
 	<price>5650</price>
@@ -8918,7 +8918,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5255</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTRMX2730W-01">
 	<url>https://store.drone.ua/product/hprc_ktrmx2730w-01/</url>
 	<price>6450</price>
@@ -8939,7 +8939,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5999</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTPKT2400-01">
 	<url>https://store.drone.ua/product/hprc_ktpkt2400-01/</url>
 	<price>3200</price>
@@ -8960,7 +8960,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>2976</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTPHA4-RTK-2700W-01">
 	<url>https://store.drone.ua/product/hprc_ktpha4-rtk-2700w-01/</url>
 	<price>6620</price>
@@ -8981,7 +8981,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6157</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTNSM19-2730W-01">
 	<url>https://store.drone.ua/product/hprc_ktnsm19-2730w-01/</url>
 	<price>9300</price>
@@ -9004,7 +9004,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>8649</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTNJAV2300-01">
 	<url>https://store.drone.ua/product/hprc_ktnjav2300-01/</url>
 	<price>2050</price>
@@ -9025,7 +9025,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1907</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTMAV2400-03">
 	<url>https://store.drone.ua/product/hprc_ktmav2400-03/</url>
 	<price>3070</price>
@@ -9046,7 +9046,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>2855</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTCR3-2600W-01">
 	<url>https://store.drone.ua/product/hprc_ktcr3-2600w-01/</url>
 	<price>7290</price>
@@ -9067,7 +9067,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6780</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTC200-2600-01">
 	<url>https://store.drone.ua/product/hprc_ktc200-2600-01/</url>
 	<price>5520</price>
@@ -9088,7 +9088,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5134</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTC100-2600-01">
 	<url>https://store.drone.ua/product/hprc_ktc100-2600-01/</url>
 	<price>5520</price>
@@ -9109,7 +9109,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5134</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTBAT2550W-01">
 	<url>https://store.drone.ua/product/hprc_ktbat2550w-01/</url>
 	<price>4070</price>
@@ -9130,7 +9130,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3785</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTMAV2400-01">
 	<url>https://store.drone.ua/product/hprc_ktmav2400-01/</url>
 	<price>2190</price>
@@ -9151,7 +9151,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>2037</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	KTM210-4600W-04">
 	<url>https://store.drone.ua/product/hprc_ktm210-4600w-04/</url>
 	<price>13260</price>
