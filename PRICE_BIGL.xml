@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-01-09 18:46">	
+<price date="2020-01-11 16:19">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -4339,7 +4339,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.BX.000237" available="false">
 	<name>Пульт управления DJI Cendence (CP.BX.000237)</name>
 	<url>https://store.drone.ua/product/cendence-remote-controller/</url>
-	<price>34540</price>
+	<price>42740</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</picture>
@@ -4502,7 +4502,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.BX.000178.02" available="true">
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
 	<url>https://store.drone.ua/product/kontroller-inspire-2/</url>
-	<price>18910</price>
+	<price>23400</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</picture>
@@ -5458,7 +5458,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004020" available="false">
 	<name>Подвес DJI Zenmuse X5S без объектива (ST.00000004020)</name>
 	<url>https://store.drone.ua/product/zenmuse-x5s-gimbal-and-camera-lens-excluded/</url>
-	<price>48070</price>
+	<price>49570</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_1.jpg</picture>
@@ -5488,7 +5488,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004019" available="false">
 	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
 	<url>https://store.drone.ua/product/zenmuse-x5s/</url>
-	<price>66100</price>
+	<price>68170</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_1.jpg</picture>
@@ -5550,7 +5550,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011501" available="false">
 	<name>Квадрокоптер DJI P4 Multispectral (ST.000000011501)</name>
 	<url>https://store.drone.ua/product/p4-multispectral/</url>
-	<price>223030</price>
+	<price>230360</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</picture>
@@ -5572,7 +5572,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011518" available="false">
 	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (ST.000000011518)</name>
 	<url>https://store.drone.ua/product/p4-multispectral-d-rtk-2-high-precision-gnss-mobile-station-combo/</url>
-	<price>331370</price>
+	<price>341720</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</picture>
@@ -5594,7 +5594,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01-1" available="false">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
-	<price>126560</price>
+	<price>130520</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</picture>
@@ -5616,7 +5616,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01" available="false">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP.EN.00000108.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise-dual/</url>
-	<price>107950</price>
+	<price>111320</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_1.jpg</picture>
@@ -5637,7 +5637,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006344" available="false">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST.00000006344)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
-	<price>104220</price>
+	<price>107480</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</picture>
@@ -5656,7 +5656,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003212" available="false">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (ST.00000003212)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise/</url>
-	<price>85600</price>
+	<price>88280</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</picture>
@@ -5750,7 +5750,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000008210" available="false">
 	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (ST.00000008210)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-d-rtk-2-mobile-station-combo/</url>
-	<price>290440</price>
+	<price>299520</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_1.png</picture>
@@ -5773,7 +5773,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003160" available="false">
 	<name>Квадрокоптер DJI Phantom 4 RTK (ST.00000003160)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk/</url>
-	<price>212250</price>
+	<price>218880</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_1.png</picture>
@@ -5796,7 +5796,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000010836" available="false">
 	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST.000000010836)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
-	<price>201080</price>
+	<price>207360</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_1.png</picture>
@@ -5813,7 +5813,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004491" available="false">
 	<name>Мобильная станция DJI D-RTK 2 (ST.00000004491)</name>
 	<url>https://store.drone.ua/product/d-rtk-2/</url>
-	<price>134050</price>
+	<price>138240</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</picture>
@@ -5830,7 +5830,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000010835" available="false">
 	<name>Пульт управления DJI Phantom 4 RTK SDK (ST.000000010835)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk-remote-controller/</url>
-	<price>26070</price>
+	<price>26880</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_Remote_Controller_1.jpg</picture>
@@ -5868,7 +5868,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000048.01" available="false">
 	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP.EN.00000048.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-200-v2-combo/</url>
-	<price>240170</price>
+	<price>247680</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</picture>
@@ -5890,7 +5890,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000054.01" available="false">
 	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP.EN.00000054.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/</url>
-	<price>316510</price>
+	<price>326400</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</picture>
@@ -5914,7 +5914,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000062" available="false">
 	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP.EN.00000062)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-rtk-v2-combo/</url>
-	<price>446840</price>
+	<price>460800</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</picture>
@@ -5988,7 +5988,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.SB.000307" available="false">
 	<name>Гексакоптер DJI Matrice 600 Pro (CP.SB.000307)</name>
 	<url>https://store.drone.ua/product/matrice-600-pro/</url>
-	<price>212210</price>
+	<price>218840</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_1.jpg</picture>
@@ -6011,7 +6011,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011350" available="false">
 	<name>Интеллектуальная батарея DJI TB47S для Matrice 600 (6PCS) (ST.000000011350)</name>
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery-6pcs/</url>
-	<price>36770</price>
+	<price>42740</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_1.jpg</picture>
@@ -6031,7 +6031,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000008269" available="false">
 	<name>Зарядное устройство DJI Hex Charger (ST.00000008269)</name>
 	<url>https://store.drone.ua/product/dji-hex-charger/</url>
-	<price>10490</price>
+	<price>13400</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Hex_Charger_1.jpg</picture>
