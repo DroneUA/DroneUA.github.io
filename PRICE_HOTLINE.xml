@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-01-16 11:59</date>	
+<date>2020-01-23 18:14</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -456,8 +456,8 @@
 	<description>Новый дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles. Как и модели Phantom 4 Pro и Advanced, Phantom 4 Pro+ V2.0 оснащен 1-дюймовой матрицей с разрешением 20 Мп, способной снимать видео в качестве 4К с частотой 60 кадров/с и серии фото с частотой 14 кадров/с.</description>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000232.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</image>
-	<priceRUAH>55770</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<priceRUAH>61970</priceRUAH>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -473,7 +473,7 @@
 	<url>https://store.drone.ua/product/tello/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000210.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</image>
 	<priceRUAH>3380</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -958,7 +958,7 @@
 	<url>https://store.drone.ua/product/osmo-mobile-3/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/monopody-dlya-selfi-selfie-stickutm_content=CP.OS.00000022.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</image>
 	<priceRUAH>3380</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2009,7 +2009,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000054.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</image>
 	<priceRUAH>326400</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
