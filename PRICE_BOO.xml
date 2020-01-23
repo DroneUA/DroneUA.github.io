@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-01-16 11:52">	
+<yml_catalog date="2020-01-23 18:08">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -718,7 +718,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_2.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<description><![CDATA[<p><strong>Mavic 2 Zoom</strong><br />На Mavic 2 Zoom установлена 1/2,3-дюймовая матрица с разрешением в 12 мегапикселей, оснащенная четырехкратным зумом, включая двукратный оптический зум (24 мм - 48 мм). Его главной задачей является динамическая перспектива. Делайте любые снимки - с широким углом обзора либо на небольшом расстоянии.</p>
 <p></p>
@@ -761,7 +761,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_2.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<description><![CDATA[<p><strong>Mavic 2 Pro</strong><br /><strong>с камерой Hasselblad</strong><br />Изготовленные в Швеции высококвалифицированными сотрудниками камеры Hasselblad известны эргономичным дизайном и превосходным качеством изображений. С 1941 года эти камеры использовались для создания легендарных фотографий: высадка на Луну - одна из них. В результате двух лет неустанной совместной исследовательской работы с Hasselblad Mavic 2 Pro оснащен совершенно новой камерой Hasselblad L1D-20c. Камера L1D-20c работает по уникальной технологии Hasselblad Natural Colour Solution (HNCS)5, позволяющей пользователям делать великолепные снимки с воздуха с разрешением в 20 мегапикселей и потрясающими цветами.</p>
 <p></p>
@@ -806,7 +806,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Phantom 4 Pro V2.0 (CP.PT.00000242.01)</name>
 	<description><![CDATA[<p>Дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles.</p>
 <p><strong>Характеристики:</strong></p>
@@ -876,10 +876,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>48983</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>55770</price>
+	<price>61970</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -890,7 +890,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Phantom 4 Pro+ V2.0 (CP.PT.00000232.01)</name>
 	<description><![CDATA[<p>Дрон оснащен системой передачи сигнала OcuSync HD, поддерживающей автоматическое переключение между двумя частотами и беспроводное соединение с очками DJI Goggles.</p>
 <p><strong>Характеристики:</strong></p>
@@ -958,9 +958,9 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>51866</price_opt>
+	<price_opt>57632</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000210.01">
 	<url>https://store.drone.ua/product/tello/</url>
 	<price>3380</price>
@@ -973,7 +973,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_5.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_6.jpg</picture>
 	<vendor>Ryze</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Ryze Tello (CP.PT.00000210.01)</name>
 	<description><![CDATA[<p>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</p>
 <p><strong>Характеристики:</strong></p>
@@ -1028,7 +1028,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_7.jpg</picture>
 	<vendor>Ryze</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Ryze Tello Boost Combo (CP.TL.00000015.01)</name>
 	<description><![CDATA[<p>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</p>
 <p><strong>Характеристики:</strong></p>
@@ -1082,7 +1082,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_5.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_6.jpg</picture>
 	<vendor>Ryze</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Ryze Tello Iron Man Edition (CP.TL.00000002.01)</name>
 	<description><![CDATA[<p>DJI, Ryze, Marvel и Disney представили рынку новый дрон - Ryze Tello Iron Man Edition, который имеет новый стильный облик, вдохновленный культовой броней «Железного человека». <strong><br /></strong></p>
 <p><strong>Характеристики:</strong></p>
@@ -1136,7 +1136,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_5.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_6.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 One X (ST.IN.000001)</name>
 	<description><![CDATA[<p>С панорамной камерой Insta360 ONE X Вы можете снимать 360-видео с максимальным разрешением 5.7@30fps и делать 360-фото 18 МП. Экшн-камера имеет компактные размеры для комфортной эксплуатации в любых условиях.</p>
 <table class="uk-table uk-table-justify">
@@ -1404,7 +1404,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_9.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_10.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 One (ST.IN.000002)</name>
 	<description><![CDATA[<p>Компактная панорамная камера Insta360 ONE способна записывать видео в формате 4K@30fps и делать 24 МП фото. При этом, она может эксплуатировать как со смартфоном (под Micro-USB и USB-C необходимы переходники), так и независимо.<br /><br /></p>
 <table class="uk-table uk-table-justify">
@@ -1592,7 +1592,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_7.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 Pro (ST.IN.000003)</name>
 	<description><![CDATA[<p>Первое поколение профессиональной VR-камеры Insta360 Pro, способной снимать 2D/3D видео и фото с разрешением до 8K, а также вести онлайн-трансляцию.<br /><br /></p>
 <table class="uk-table uk-table-justify">
@@ -1822,7 +1822,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_8.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_9.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 Pro 2 (ST.IN.000004)</name>
 	<description><![CDATA[<p>Сферическая VR-камера Insta360 Pro 2 способна снимать 8K-видео 2D/3D и делать фото с разрешением до 12000 x 12000 пикселей. Одно из лучших решений на современном рынке.<br /><br /></p>
 <table class="uk-table uk-table-justify">
@@ -2109,7 +2109,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_4.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_5.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 Titan (ST.IN.000005)</name>
 	<description><![CDATA[<p>Кинематографическая сферическая камера Insta360 TITAN способна снимать 360-градусное и VR-видео с разрешением до 11K. Профессиональный инструмент для серьезных проектов.<br /><br /></p>
 <table class="uk-table uk-table-justify">
@@ -2380,7 +2380,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_4.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_5.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 Nano S (ST.IN.000006_S)</name>
 	<description><![CDATA[<p>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.<br /><br /></p>
 <table class="uk-table uk-table-justify">
@@ -2583,7 +2583,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_7.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 Nano S (ST.IN.000006_B)</name>
 	<description><![CDATA[<p>Компактная камера Insta360 Nano S предназначена для съемки панорамных видеороликов в формате 4K и 20 МП фотографий в паре с iPhone. Просто подсоедините ее с Lightning-разъему и она готова к использованию.<br /><br /></p>
 <table class="uk-table uk-table-justify">
@@ -2788,7 +2788,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_8.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_9.jpg</picture>
 	<vendor>Insta360</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Видеокамера Insta360 Evo (CINEVOX/A)</name>
 	<description><![CDATA[<p>Компактная раскладная камера Insta360 EVO способна записывать видео в формате 3D/2D с углом обхвата 360&deg; или 180&deg; и разрешением до 5.7К. Удобный просмотр на смартфоне или в режиме VR в очках Oculus GO, HTC Vive Focus или Samsung Gear VR.<br /><br /></p>
 <table class="uk-table uk-table-justify">
@@ -3046,7 +3046,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Стедикам DJI OSMO Pocket (CP.ZM.00000097.01)</name>
 	<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
 <table class="table-specs">
@@ -3202,7 +3202,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Стедикам DJI OSMO Mobile 2 (CP.ZM.00000064.01)</name>
 	<description><![CDATA[<h3 class="section-title">ОБЩИЕ</h3>
 <table class="table-specs">
@@ -3349,7 +3349,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Spark Alpine White (CP.PT.000741)</name>
 	<description><![CDATA[]]></description>
 	<param name="Артикул">CP.PT.000741</param>
@@ -3380,7 +3380,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Spark Sky Blue (CP.PT.000743)</name>
 	<description><![CDATA[]]></description>
 	<param name="Артикул">CP.PT.000743</param>
@@ -3411,7 +3411,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Spark Meadow Green (CP.PT.000744)</name>
 	<description><![CDATA[]]></description>
 	<param name="Артикул">CP.PT.000744</param>
@@ -3442,7 +3442,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Spark Lava Red (CP.PT.000745)</name>
 	<description><![CDATA[]]></description>
 	<param name="Артикул">CP.PT.000745</param>
@@ -3473,7 +3473,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Spark Sunrise Yellow (CP.PT.000742)</name>
 	<description><![CDATA[]]></description>
 	<param name="Артикул">CP.PT.000742</param>
@@ -3507,7 +3507,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
 	<description><![CDATA[Аккумулятор для DJI Mavic Air 2375 мА*ч]]></description>
 	<param name="Артикул">CP.PT.00000194.01</param>
@@ -3542,7 +3542,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh (CP.PT.00000077.01)</name>
 	<description><![CDATA[Аккумулятор для DJI Mavic Pro Platinum 3830 мА*ч]]></description>
 	<param name="Артикул">CP.PT.00000077.01</param>
@@ -3576,7 +3576,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI Mavic Pro 3830 mAh (CP.PT.000587)</name>
 	<description><![CDATA[Аккумулятор для DJI Mavic Pro 3830 мА*ч]]></description>
 	<param name="Артикул">CP.PT.000587</param>
@@ -3607,7 +3607,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh (CP.PT.000601)</name>
 	<description><![CDATA[Аккумулятор для DJI Phantom 4 5870 мА*ч]]></description>
 	<param name="Артикул">CP.PT.000601</param>
@@ -3639,7 +3639,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture>
 	<vendor>Ryze</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Аккумулятор Ryze Tello 1100 mAh (ST.0000015)</name>
 	<description><![CDATA[Аккумулятор для Ryze Tello 1100 мА*ч]]></description>
 	<param name="Артикул">ST.0000015</param>
@@ -3670,7 +3670,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Шлем DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
 	<description><![CDATA[<p><strong>Стильный и улучшенный аксессуар.&nbsp;</strong><br />Новая VR-гарнитура была разработана специально для гонок на квадрокоптерах. Дизайн обновленной версии напоминает предыдущую модель, но отличается широким спектром ярких деталей. Прежде всего, очки выполнены в черном матовом цвете, а оголовье отделано стильной красной кожей высокого качества.</p>
 <p><strong>Максимальное качество изображения.&nbsp;</strong><br />Будучи спроектированными специально для гонок, очки DJI Goggles RE совместимы с модулем передачи видеосигнала OcuSync и высокопроизводительным модулем камеры. Таким образом гарантируется улучшенная передача цифрового видеосигнала на расстояние до 7 км. OcuSync предлагает двухдиапазонную передачу видеосигнала 2.4 и 5.8 ГГц с задержкой до 50 мс. Данный модуль совместим с широким спектром летательных аппаратов, идеально подходит для беспроигрышных беспилотных гонок.</p>
@@ -3720,7 +3720,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_2.png</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Шлем DJI Goggles White (CP.PT.000670)</name>
 	<description><![CDATA[<p><strong>DJI Goggles&nbsp;</strong>- удобные очки, созданные для полета на устройствах&nbsp;<strong>DJI</strong>&nbsp;с обзором от первого лица. [1] Два крупных экрана высокого разрешения, беспроводная передача видеопотока на большом расстоянии с минимальной задержкой сигнала и прямой доступ к управлению съемкой и дроном (включая режимы ActiveTrack, TapFly, огибание рельефа, кинематографический и режим штатива) &mdash; все, что нужно для полета в новом измерении.</p>
 <p><strong>Бесперебойная передача сигнала</strong><br />DJI Goggles передают потоковое видео с разрешением 720p и частотой обновления 60 кадров/с или с 1080р/30 на близком расстоянии [2] , с минимальной задержкой сигнала &mdash; всего лишь 110 мс. [3] С системой беспроводной передачи сигнала DJI OcuSync к Mavic Pro можно одновременно подключить до четырех устройств. [4] Антенны, вшитые в наголовную ленту очков, обеспечивают радиопокрытие на все 360&deg;. Соединение не прервется, даже если летательный аппарат находится позади вас. [5] Транслируй видеопоток с очков и делись радостью полета с друзьями!</p>
@@ -3766,7 +3766,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Spark Fly More Combo (CP.PT.000889)</name>
 	<description><![CDATA[]]></description>
 	<param name="Артикул">CP.PT.000889</param>
@@ -3797,7 +3797,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Набор DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
 	<description><![CDATA[<p>Комплект&nbsp;<strong>Mavic 2 Fly More</strong>&nbsp;от&nbsp;<strong>DJI</strong>&nbsp;включает в себя множество дополнительных аксессуаров для квадрокоптера&nbsp;<strong>Mavic 2 Pro</strong>&nbsp;или&nbsp;<strong>Mavic 2 Zoom</strong>. С помощью этих деталей в вашем распоряжении увеличение времени полетов, которое вы можете потратить на съемку идеального материала с помощью&nbsp;<strong>Mavic 2</strong>.</p>
 <p><strong>В коробке:</strong></p>
@@ -3843,7 +3843,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Air Onyx Black (CP.PT.00000132.01)</name>
 	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
@@ -3910,7 +3910,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Air Arctic White (CP.PT.00000141.01)</name>
 	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
@@ -3977,7 +3977,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Air Flame Red (CP.PT.00000148.01)</name>
 	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
@@ -4044,7 +4044,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Air Fly More Combo Onyx Black (CP.PT.00000159.01)</name>
 	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
@@ -4111,7 +4111,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Air Fly More Combo Arctic White (CP.PT.00000168.01)</name>
 	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
@@ -4178,7 +4178,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_6.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Air Fly More Combo Flame Red (CP.PT.00000169.01)</name>
 	<description><![CDATA[<p><strong>Размеры:</strong> 168 &times; 184 &times; 64 мм<br /><strong>Интерфейсы:</strong> USB Lightning, Micro USB (Type-B), USB Type-C<br /><strong>Разрешение видео:</strong></p>
 <ul>
@@ -4244,7 +4244,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_5.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Pro Platinum (CP.PT.00000075.01)</name>
 	<description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
 <ul>
@@ -4287,7 +4287,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_5.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Pro Platinum Fly More Combo (CP.PT.00000065.01)</name>
 	<description><![CDATA[<p><strong>Матрица:</strong> 1/2,3&rdquo; CMOS, число эффективных пикселей: 12.35 Мп (Общее число пикселей: 12.71 Мп)<br /><strong>Макс. размер изображения:</strong> 4000 &times; 3000<br /><strong>Режимы видеосъемки:</strong></p>
 <ul>
@@ -4329,7 +4329,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_4.jpg</picture>
 <picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Стедикам DJI Ronin-S (CP.ZM.00000104.01)</name>
 	<description><![CDATA[<p>Крепежное отверстие: 1/4""-20, 3/8""-16, М4<br />Разъем для зарядки аксессуаров: 12 В/2 А<br />Разъем камеры<br />8-контактный разъем<br />Емкость аккумулятора: 2400 мА*ч<br />Интерфейсы связи: Bluetooth 4.0, USB Type-C<br />Cистемные требования для приложения Ronin: iOS 9 или выше, Android 4.4 или выше<br />Размеры: 202 x 185 x 486 мм</p>]]></description>
 	<param name="Артикул">CP.ZM.00000104.01</param>
@@ -4367,7 +4367,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_7.jpg</picture>
 	<vendor>Chasing-Innovation</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Подводный дрон Chasing-Innovation Gladius (ST.CI.00001)</name>
 	<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.]]></description>
 	<param name="Артикул">ST.CI.00001</param>
@@ -4407,7 +4407,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_9.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_10.png</picture>
 	<vendor>Chasing-Innovation</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
 	<description><![CDATA[Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.]]></description>
 	<param name="Артикул">ST.CI.00002</param>
@@ -4442,7 +4442,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_5.jpg</picture>
 	<vendor>Chasing-Innovation</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Рюкзак для Gladius Mini (ST.CI.00102)</name>
 	<description><![CDATA[Рюкзак для подводного дрона Gladius Mini от производителя Chasing-Innovation]]></description>
 	<param name="Артикул">ST.CI.00102</param>
@@ -4479,7 +4479,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-200_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-200_7.jpg</picture>
 	<vendor>Parazero</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Парашютная система Parazero SafeAir M-200 (PZM200)</name>
 	<description><![CDATA[<p>Автономная парашютная система безопасности для дронов серии Matrice 200 от Parazero.<br />Совместимость со всеми моделями M200, M210 и M210 RTK от DJI, включая D-RTK.<br />Обеспечивает безопасность полезной нагрузки, имущества, и людей. Оборудование предназначено для выполнения полетов BVLOS и выполнения автономных операций.</p>
 <h2>Умная и эффективная защита</h2>
@@ -4563,7 +4563,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-600_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-600_6.jpg</picture>
 	<vendor>Parazero</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Парашютная система Parazero SafeAir M-600 (PZM600)</name>
 	<description><![CDATA[<p>Автономная парашютная система безопасности Matrice 600 от Parazero.<br />Совместимость со всеми моделями M600 от DJI, включая D-RTK.<br />Обеспечивает безопасность полезной нагрузки, имущества, и людей. Оборудование предназначено для выполнения полетов BVLOS и выполнения автономных операций.</p>
 <h2>Умная и эффективная защита</h2>
@@ -4647,7 +4647,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Mavic_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Mavic_6.jpg</picture>
 	<vendor>Parazero</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Парашютная система Parazero SafeAir Phantom (PZPHANTOM)</name>
 	<description><![CDATA[<p>Автономная парашютная система безопасности Parazero SafeAir Phantom для модели DJI Phantom 4.<br />Обеспечивает безопасность дрона и полезной нагрузки.</p>
 <p>ParaZero предлагает интеллектуальное и интуитивно понятное решение для решения проблем безопасности путем разработки лучшей в своем классе автономной системы безопасности беспилотных летательных аппаратов.</p>
@@ -4719,7 +4719,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_5.jpg</picture>
 	<vendor>Parazero</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Парашютная система Parazero SafeAir Mavic (PZMAVIC)</name>
 	<description><![CDATA[<p>Парашютная система для&nbsp;DJI Mavic Pro и Mavic 2.</p>
 <p>ParaZero предлагает лучшее решение проблем безопасности дрона и полезной нагрузки.<br />Система совместима с моделями серии Mavic и Mavic Pro от производителя DJI.&nbsp;Система безопасности анализирует параметры полета на предмет аномалий. При выявлении&nbsp; критического сбоя, система отключает питание роторов и запускает набор действий для успешного приземления дрона.</p>
@@ -4789,7 +4789,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Стедикам DJI Ronin-SC (CP.RN.00000040.01)</name>
 	<description><![CDATA[<p>С легким дизайном и превосходной стабилизацией,&nbsp;<strong>Ronin-SC Pro Combo</strong>&nbsp;представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</p>]]></description>
 	<param name="Артикул">CP.RN.00000040.01</param>
@@ -4824,7 +4824,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Стедикам DJI Ronin-SC Pro Combo (CP.RN.00000043.01)</name>
 	<description><![CDATA[<p>С легким дизайном и превосходной стабилизацией,&nbsp;<strong>Ronin-SC Pro Combo</strong>&nbsp;представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</p>]]></description>
 	<param name="Артикул">CP.RN.00000043.01</param>
@@ -4848,7 +4848,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>13234</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.OS.00000022.01">
 	<url>https://store.drone.ua/product/osmo-mobile-3/</url>
 	<price>3380</price>
@@ -4860,7 +4860,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Стедикам DJI Osmo Mobile 3 (CP.OS.00000022.01)</name>
 	<description><![CDATA[<ul>
 <li>Трех-осевой стабилизатор</li>
@@ -4917,7 +4917,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Стедикам DJI Osmo Mobile 3 Combo (CP.OS.00000040.01)</name>
 	<description><![CDATA[<ul>
 <li>Трех-осевой стабилизатор</li>
@@ -4975,7 +4975,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Шлем DJI FPV Experience Combo (CP.TR.00000006.01)</name>
 	<description><![CDATA[<p>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, &ndash; все это позволяет по-новому взглянуть на сферу гонок дронов.</p>
 <p>&nbsp;</p>
@@ -5070,7 +5070,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Шлем DJI FPV Fly More Combo (Mode 1) (CP.TR.00000006.02)</name>
 	<description><![CDATA[<p>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, &ndash; все это позволяет по-новому взглянуть на сферу гонок дронов.</p>
 <p>&nbsp;</p>
@@ -5165,7 +5165,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Шлем DJI FPV Fly More Combo (Mode 2) (CP.TR.00000006.03)</name>
 	<description><![CDATA[<p>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, &ndash; все это позволяет по-новому взглянуть на сферу гонок дронов.</p>
 <p>&nbsp;</p>
@@ -5256,7 +5256,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<picture>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/SEQUOIA+_2.jpg</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Мультиспектральная камера Parrot Sequoia+ (MSPARROTSEQ)</name>
 	<description><![CDATA[<p>Мультиспектральная камера Sequoia+ &mdash; это инструмент для сельскохозяйственных полей. Локальное определение проблемы для точечного решения позволяет сократить использование удобрений и пестицидов, повышая урожайность.</p>
 <p>Sequoia+ &ndash; универсальное решение от Parrot, позволяющее использовать его с любыми беспилотными летательными аппаратами. Благодаря двум сенсорам &ndash; мультиспектральному и сенсору освещенности, камера дает возможность анализировать жизнеспособность растений, фиксируя впитываемое и отражаемое ими количество света</p>
@@ -5290,7 +5290,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/PD1900_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/PD1900_5.jpg</picture>
 	<vendor>DroneUA</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Дрон DroneUA PD1900 (D.UA.PD1900)</name>
 	<description><![CDATA[PD1900 — это дрон самолетного типа производства DroneUA, это решение всё в одном для получения данных аэрофотосъемки высокого разрешения. Самолетная платформа обладает существенной прочностью и характеристиками покрытия, за 100 минут полетного времени способна покрыть до 1500 Га площади.
 
@@ -5356,7 +5356,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления DJI Cendence (CP.BX.000237)</name>
 	<description><![CDATA[<p>Пульт управления Cendence задумывался в качестве дополнения к комплексному решению, состоящему из дрона Inspire 2, антенны Tracktenna и монитора CrystalSky. Будучи необходимым элементом этого решения, Cendence оборудован модулями и компонентами, помогающими полностью раскрыть потенциал Inspire 2.</p>
 <p>Несмотря на то, что пульт управления Cendence создавался для Inspire 2, он также совместим с другими устройствами DJI профессионального уровня. Пульт оснащен пятью каналами аналогового управления и более десятью настраиваемыми кнопками, обеспечивающими полный контроль над системой. Кроме того, вы можете менять антенны, подключать дополнительные модули через разъемы HDMI, SDI, USB и CAN и устанавливать внешние мониторы на монтажный кронштейн.</p>
@@ -5385,7 +5385,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
 	<description><![CDATA[<p>Пульт DJI Smart Controller разработан для управления Mavic 2 и другими дронами, работающими на OcuSync 2.01. Встроенный 5,5-дюймовый дисплей обеспечивает качественное и яркое изображение даже при ярком свете. Интуитивный интерфейс и предустановленные программы, такие как SkyTalk и DJI GO 4 делают полет на дроне простым и удобным &ndash; от взлета до посадки.</p>
 <p>Совместим с Mavic 2 Zoom, Mavic 2 Pro и серией Mavic 2 Enterprise</p>
@@ -5437,7 +5437,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления DJI для Mavic Pro (CP.PT.000649)</name>
 	<description><![CDATA[DJI Mavic Remote Controller - пульт дистанционного управления предназначен для управления DJI Mavic и подвесом дрона. На LCD экране отображаются полетные данные. Есть возможность установить мобильное устройство в регулируемые ручки. Второй пульт управления дроном позволяет совместно управлять коптером и совместно снимать кадры с воздуха.]]></description>
 	<param name="Артикул">CP.PT.000649</param>
@@ -5462,7 +5462,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления DJI для Spark (CP.PT.000792)</name>
 	<description><![CDATA[<p>Пульт дистанционного управления с новой системой передачи Wi-Fi сигнала, способный управлять дроном и подвесом камеры при максимальной дальности передачи до 2 км (в режиме FCC).</p>
 <p>Пульт может подключаться по беспроводной сети к мобильным устройствам для отображения живого видео в приложении DJI GO 4. Cкладные зажимы пульта позволят безопасно прикрепить ваше мобильное устройство. Максимальное время работы пульта дистанционного управления составляет примерно 2.5 часа.</p>
@@ -5491,7 +5491,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_6.jpg</picture>
 	<vendor>GameSir</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления GameSir T1d для Ryze Tello (CP.PT.00000220.02)</name>
 	<description><![CDATA[<div>Этот контроллер может мгновенно превратить ваш смартфон в контроллер беспилотника, разработанный для обеспечения легкого ощущения, бесперебойной работы и удобной работы.&nbsp;С двумя высокоточными 3D-джойстиками контроллер может ориентировать ваш самолет в любом месте, делая возможным более сложные маневры.&nbsp;Контроллер имеет высокоскоростное соединение с режимом подключения GameSir, поэтому вы можете сразу же начать полет.</div>
 <div><br /><strong>Особенности:</strong></div>
@@ -5535,7 +5535,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_3.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
 	<description><![CDATA[<p><strong>Система передачи видео</strong><br />Последнее обновление технологии DJI Lightbridge имеет эффективное расстояние передачи до 4,6 миль (7 км) * и способно передавать видео 1080p / 720p, а также FPV на пилот и камеру. Пользователи также могут переключаться между контрольными частотами 2,4 ГГц и 5,8 ГГц **, чтобы снизить уровень шума и повысить стабильность сигнала.<br />* Беспрепятственный, без помех, соответствует требованиям FCC.<br />** Передача 5,8 ГГц недоступна в некоторых регионах в соответствии с местными правилами.<br /><br /><strong>Ведущие и ведомые контроллеры</strong></p>
 <p>Новая технология беспроводной передачи HD-изображений отправляет видеоинформацию с главного контроллера на подчиненный контроллер, и два контроллера могут находиться на расстоянии до 100 м без потери качества изображения.<br /><br /><strong>Режим вещания</strong></p>
@@ -5569,7 +5569,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
 	<description><![CDATA[<p>Интеллектуальная батарея <strong>DJI MG-12000P</strong>&nbsp;подходит для моделей дронов <strong>DJI Agras MG-1P</strong>&nbsp;и <strong>DJI MG-1S</strong>.</p>
 <p><strong>Емкость</strong>: 12 000 мА*ч</p>]]></description>
@@ -5591,7 +5591,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<description><![CDATA[<p>Зарядная станция для зарядки интеллектуальных батарей, устанавливаемых в дроны&nbsp;<strong>DJI Agras 1S</strong>&nbsp;и <strong>DJI Agras 1P</strong></p>
 <p><strong>Особенности:</strong></p>
@@ -5617,7 +5617,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_2.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<description><![CDATA[<p>Зарядная станция для зарядки интеллектуальной батареи, устанавливаемой в дрон&nbsp;<strong>DJI Agras 1S</strong></p>]]></description>
 	<param name="Артикул">DJIMG1CH</param>
@@ -5643,7 +5643,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<description><![CDATA[<p>Этот дрон-опрыскиватель предназначен для внесения средств защиты на полях со сложным рельефом или большим количеством препятствий. Дроны данной серии способны объединяться в стаи для быстрой работы на полях.</p>
 <p><strong>Характеристики:</strong></p>
@@ -5691,7 +5691,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_3.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<description><![CDATA[<p>Этот дрон-опрыскиватель предназначен для внесения средств защиты на полях с преимущественно ровным рельефом.</p>
 <p><strong>Характеристики:</strong></p>
@@ -5739,7 +5739,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_2_3.png</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_3.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Anafi Thermal (PA.ST.02)</name>
 	<description><![CDATA[ANAFI Thermal позволит проводить съемку как обычной камерой, так и тепловизором, что позволит рассмотреть утечки тепла в конструкциях и любых других объектах.
 
@@ -5775,7 +5775,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_1.png</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_2.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Anafi Work (PA.ST.03)</name>
 	<description><![CDATA[Летающая 4K HDR камера, которую вы можете взять с собой повсюду.]]></description>
 	<param name="Артикул">PA.ST.03</param>
@@ -5810,7 +5810,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_5.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Anafi Extended (PA.ST.04)</name>
 	<description><![CDATA[Расширенная версия Anafi Extended
 ]]></description>
@@ -5847,7 +5847,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_5.png</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_6.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Anafi (PA.ST.05)</name>
 	<description><![CDATA[Anafi имеет встроенную камеру, которая снимает потрясающие 4K HDR-видео со скоростью 100 Мбит/с и резкие 21-мегапиксельные фотографии. 4K Cinema обеспечивает профессиональное качество видео, поскольку оно записывается в формате 17: 9. HDR улучшает все видимые детали, уменьшая чрезмерно яркие огни и очень темные тени в кадре. Камера ANAFI оснащена широкоугольным асферическим объективом. Оптика объектива была спроектирована таким образом, чтобы уменьшить объектив и хроматические аберрации.
 
@@ -5890,7 +5890,7 @@ Anafi — ультрапортативный беспилотник, компа�
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_5.jpg</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Bluegrass Fields (PA.ST.06)</name>
 	<description><![CDATA[Parrot Bluegrass — многоцелевой квадрокоптер, предназначенный для сельского хозяйства. Он помогает фермерам повысить рентабельность инвестиций, используя 2 встроенных камеры, видеокамеры и мультиспектральный датчик Parrot Sequoia.
 
@@ -5930,7 +5930,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_5.png</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_6.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Mambo FPV (PA.ST.07)</name>
 	<description><![CDATA[Полностью погрузитесь в полет с Parrot Mambo. Используйте аксессуары: можно подключить камеру FPV к мини-радиоприемнику с использованием технологии Smart Block для записи и передачи контента в формате HD. Или оденьте ВР-гарнитуру Cockpitglasses, чтобы получить максимальные впечатления от вашего беспилотного летательного аппарата и познать новые ощущения скорости.]]></description>
 	<param name="Артикул">PA.ST.07</param>
@@ -5964,7 +5964,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_4.jpg</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Bebop 2 FPV (PA.ST.11)</name>
 	<description><![CDATA[Компактный высокопроизводительный дрон, оснащенный FPV-системой. В комплекте очки для смартфона Parrot Cockpitglasses и передатчик управления Parrot SkyController 2. Этот набор позволит получить удовольствие от точности пилотирования, в том числе на удаленном расстоянии, и полноты погружения – как будто Вы сами находитесь в кабине дрона, а также снимать отличные фото и видео.]]></description>
 	<param name="Артикул">PA.ST.11</param>
@@ -5998,7 +5998,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_3.png</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_4.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер Parrot Bebop 2 Power - Pack FPV (PA.ST.14)</name>
 	<description><![CDATA[Bebop 2 Power – последняя и наиболее продвинутая модель в линейке Bebop. Две сменные батареи обеспечивают суммарно 60 минут в воздухе, а видеоочки и мощный интеллектуальный полетный контроллер позволяют максимально использовать возможности дрона.]]></description>
 	<param name="Артикул">PA.ST.14</param>
@@ -6033,7 +6033,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/Disco-Pro_AG_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/Disco-Pro_AG_5.jpg</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Дрон Parrot Disco-Pro AG (PA.ST.18)</name>
 	<description><![CDATA[Parrot Disco-Pro AG — это многофункциональное беспилотное решение для фермеров, способное помочь им повысить рентабельность своих угодий. Это комплексное решение позволяет фермерам и мелким сельскохозяйственным кооперативам быстро получить представление о здоровье посевов, благодаря визуальной разведке культур и специализированным картам NDVI.]]></description>
 	<param name="Артикул">PA.ST.18</param>
@@ -6065,7 +6065,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_2.jpg</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления Parrot Skycontroller 3 (PA.ST.19)</name>
 	<description><![CDATA[Parrot Skycontroller 3 был специально разработан для обеспечения эргономичного взаимодействия с дронами ANAFI. Управляйте своим беспилотником легко и безопасно с помощью Parrot Skycontroller 3. Его антенны обеспечивают мощную систему передачи до 4 км. После первого сопряжения с Вашим беспилотником он будет автоматически подключаться при каждом включении ANAFI.
 
@@ -6088,7 +6088,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея Parrot Anafi Smart battery (PA.ST.20)</name>
 	<description><![CDATA[LiPo USB-C аккумулятор, который позволяет дрону летать до 25 минут (26 минут с ANAFI Thermal).
 
@@ -6114,7 +6114,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_4.jpg</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Сумка Parrot для Anafi (PA.ST.21)</name>
 	<description><![CDATA[Эта ультракомпактная дорожная сумка, созданная специально для ANAFI, вмещает в себя все необходимые элементы. Сумка легко подходит для ANAFI, Parrot Skycontroller 3, 2 дополнительных интеллектуальных батарей, USB-кабелей типа C и Вашего смартфона. Сумка размером 30 см х 21 см х 11.5 см.
 
@@ -6137,7 +6137,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Держатель планшета Parrot для Skycontroller 3 (PA.ST.22)</name>
 	<description><![CDATA[Монтажный кронштейн для планшета до 10 дюймов. Он очень просто фиксируется на пульте дистанционного управления Parrot Skycontroller 3 Вашего беспилотника ANAFI. Вы можете наслаждаться простым просмотром собранных данных.
 
@@ -6160,7 +6160,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</picture>
 	<vendor>Parrot</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Складные пропеллеры Parrot для Anafi (PA.ST.23)</name>
 	<description><![CDATA[Anafi использует четыре складных винта с двумя лопастями, которые укрепляют компактный дизайн дрона. Винт может быть заменен в случае повреждения.
 
@@ -6187,7 +6187,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_4.png</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
 	<description><![CDATA[<p>Интеллектуальная батарея <strong>DJI TB50</strong></p>
 <p><strong>Совместимость:</strong></p>
@@ -6221,7 +6221,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Набор аккумуляторов &amp; Зарядное устройство DJI Osmo Action Charging Kit (ST.00000007806)</name>
 	<description><![CDATA[<div>
 <div>Зарядное устройство&nbsp;может заряжать&nbsp;три батареи.</div>
@@ -6289,7 +6289,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Трипод DJI Osmo Grip (ST.000000010931)</name>
 	<description><![CDATA[<p>Надежно размещайте Osmo Mobile 3 и другие совместимые продукты практически на любой поверхности.</p>
 <p>Штатив Osmo Grip Tripod для установки Osmo Mobile 3 и других совместимых продуктов на поверхности, для обеспечения стабильности положения.</p>
@@ -6330,7 +6330,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire2_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire2_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Inspire 2 (CP.BX.000167)</name>
 	<description><![CDATA[<p>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ.</p>
 <p><strong>Inspire 2</strong> &ndash; квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна &ndash; она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S)</p>
@@ -6389,7 +6389,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Professional_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Professional_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Inspire 2 Professional (CP.BX.000169)</name>
 	<description><![CDATA[<p>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ.</p>
 <p><strong>Inspire 2</strong> &ndash; квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна &ndash; она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S)</p>
@@ -6448,7 +6448,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Premium_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Premium_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Inspire 2 Premium (ST.0000004)</name>
 	<description><![CDATA[<p>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ.</p>
 <p><strong>Inspire 2</strong> &ndash; квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна &ndash; она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S)</p>
@@ -6506,7 +6506,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Объектив DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<description><![CDATA[<p>Объектив для подвеса серии DJI Zenmuse X7</p>
 <p><strong>Объектив:</strong></p>
@@ -6547,7 +6547,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Объектив DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<description><![CDATA[<p>Объектив для подвеса серии DJI Zenmuse X7</p>
 <p><strong>Объектив:</strong></p>
@@ -6588,7 +6588,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Объектив DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<description><![CDATA[<p>Объектив для подвеса серии DJI Zenmuse X7</p>
 <p><strong>Объектив:</strong></p>
@@ -6629,7 +6629,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Объектив DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<description><![CDATA[<p>Объектив для подвеса серии DJI Zenmuse X7</p>
 <p><strong>Объектив:</strong></p>
@@ -6670,7 +6670,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Набор объективов DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
 	<description><![CDATA[<p>Набор объективов для подвеса DJI Zenmuse X7:</p>
 <p>&nbsp;</p>
@@ -6757,7 +6757,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_3.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Подвес DJI Zenmuse X5S без объектива (ST.00000004020)</name>
 	<description><![CDATA[<p>Подвес для дронов серии Inspire 2&nbsp;и Matrice 200</p>
 <p><strong>Поддерживаемые объективы:</strong></p>
@@ -6795,7 +6795,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
 	<description><![CDATA[<p>Подвес с камерой для дронов серии Inspire 2&nbsp;и Matrice 200</p>
 <p><strong>Объектив&nbsp;в комплекте:</strong></p>
@@ -6836,7 +6836,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Подвес DJI Zenmuse X7 (ST.00000004011)</name>
 	<description><![CDATA[<p>Zenmuse X7 - компактная камера формата Супер-35. Она оснащена встроенным стабилизатором и предназначена для профессиональной киносъемки. Камера совместима с дроном Inspire 2, что позволяет использовать ее для съемки с воздуха. CMOS-матрица в 24 Мп и динамическим диапазоном 14 шагов снимает детализированное видео в разрешении 6K (CinemaDNG) и в 5.2K (Apple ProRes*). Доступна функция серийной фотосъемки в RAW (20 кадров/с) с максимальным разрешением 24 Мп.<br />X7 - первая камера с креплением DL, созданным для удобной установки и быстрой смены объектива. Она также оснащена новой цветовой системой DJI Cinema Color System, упрощающей процесс обработки. DJI Zenmuse X7 позволит снимать сцены так, как их видите вы. Эти инновации дают создателям фильмов возможность достижения новых высот и запечатления своего видения при помощи DJI Zenmuse X7.</p>
 <p>Х7 оснащена фотоматрицей Супер-35, способной снимать несжатое видео в разрешении 6К при 30 кадрах/с и в 3.9К при 59.94 кадрах/с. Размер одного пикселя достигает 3.91 мкм , а диагональ сенсора равна 26,6 мм при записи видео. Матрица такого размера чувствительнее к свету, а динамический диапазон в 14 шагов - шире ДД камеры Zenmuse X5S (12.8 шага).<br />Кроме того, ОСШ Х7 равен 44 дБ, что на 5 дБ выше шумоподавляющей способности X5S, а диапазон тональности достигает 9.41 бит. Эти характеристики дают больше творческой свободы на съемочной площадке.</p>
@@ -6864,7 +6864,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Зарядное устройство-хаб для серии DJI Phantom 4 (ST.00000002931)</name>
 	<description><![CDATA[<p>Хаб-зарядное устройство для аккумуляторов на дроны DJI серии Phantom 4</p>
 <p><strong>Совместимость:</strong></p>
@@ -6894,7 +6894,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Зарядное устройство-хаб для DJI Inspire 2 / Ronin 2 (ST.00000003914)</name>
 	<description><![CDATA[<p>Хаб-зарядное устройство для аккумуляторов на дроны DJI серии&nbsp;Inspire 2 / Ronin 2</p>
 <p><strong>Совместимость:</strong></p>
@@ -9182,7 +9182,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_3.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Пропеллеры DJI Mavic Mini (ST.MM.00000106)</name>
 	<description><![CDATA[<p><strong>Обзор:</strong></p>
 <div>Эти винты, специально разработанные для Mavic Mini, обеспечивают более тихий полет и мощную тягу.<br /><br /><strong>Особенности:</strong></div>
@@ -9217,7 +9217,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI Mavic Mini (ST.MM.00000107)</name>
 	<description><![CDATA[<div><strong>Обзор:</strong><br />Mavic Mini Intelligent Flight Battery обеспечивает максимальное время полета 30 минут.&nbsp;Благодаря встроенной интеллектуальной системе управления батареями DJI, состояние батареи контролируется и отображается в режиме реального времени, что позволяет вам меньше концентрироваться на уровнях мощности и больше на полете.<br /><br /><strong>Особенности:</strong></div>
 <ul>
@@ -9264,7 +9264,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Зарядная станция DJI Mavic Mini (ST.MM.00000108)</name>
 	<description><![CDATA[<div>
 <div><strong>Обзор:</strong></div>
@@ -9316,7 +9316,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Зарядная база DJI Mavic Mini (ST.MM.00000109)</name>
 	<description><![CDATA[<p><strong>В коробке:</strong></p>
 <div>
@@ -9363,7 +9363,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
 	<description><![CDATA[Защита винтов и повышение безопасности полета в помещениях или в местах с большим количеством препятствий.]]></description>
 	<param name="Артикул">ST.MM.00000113</param>
@@ -9389,7 +9389,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_6.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Сумка DJI Mavic Mini (ST.MM.00000117)</name>
 	<description><![CDATA[Фирменная сумка, которая легко помещает Mavic Mini, двустороннюю зарядную станцию, пульт дистанционного управления и другие мелкие предметы, такие как Osmo Pocket и Osmo Action.]]></description>
 	<param name="Артикул">ST.MM.00000117</param>
@@ -9416,7 +9416,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Mini (ST.MM.00000101)</name>
 	<description><![CDATA[<p><strong>Компактность и портативность</strong></p>
 <p>Легкий как смартфон<br />Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрировать<br />во многих странах.</p>
@@ -9471,7 +9471,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_6.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_7.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
 	<description><![CDATA[<p><strong>Компактность и портативность</strong></p>
 <p>Легкий как смартфон<br />Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрировать<br />во многих странах.</p>
@@ -9528,7 +9528,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_8.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_9.jpg</picture>
 	<vendor>Chasing-Innovation</vendor>
-	<stock_quantity>1</stock_quantity>
+	<stock_quantity>5</stock_quantity>
 	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
 	<description><![CDATA[<p>Самый маленький в мире, самый умный и доступный подводный дрон нового поколения.<br /><br />DORY приглашает Вас исследовать новые места в спокойных водах, таких как море, озеро или пруд.<br />Wi-Fi буй от DORY остается подключенным к мобильному устройству на расстоянии до 15 метров, а 15-метровый подводный трос даст Вам еще больше свободы в перемещении.<br /><br />Меньший, чем лист бумаги, DORY может поместиться в наплечную сумку и легко транспортироваться. DORY на 56% легче и на 65% меньше по сравнению с предыдущим дроном GLADIUS MINI.<br /><br /><strong>Получить идеальный угол</strong><br />Наклон под углом 45 градусов позволяет плавно сканировать дно океана.<br /><br /><strong>Высокая точность позиционирования</strong><br />GPS Wi-Fi буй обеспечивает точные показания, поэтому Вы всегда знаете свое местонахождение. С предупреждающей системой Вы никогда не будете отключены внезапно.<br /><br /><strong>Зафиксируйте свой уровень</strong><br />С помощью Depth Lock вы можете поддерживать стабильность дронов на той глубине, которую вы выберете<br /><br /><strong>Один час изучения</strong><br />Аккумулятор емкостью 4800 мАч обеспечивает 1 час работы при полной зарядке. Заряжается только дрон, а не каждый компонент, как в других дронах.<br /><br /><strong>Яркие фото в любых условиях</strong><br />Камера DORY 1080p расширяет границы возможного с объективом f / 1.6 для плохой видимости.<br /><br /><strong>Идеальное освещение для исследования</strong><br />Два источника света на 250 люмен освещают воду, не подавляя глаза или обитателей океана<br /><br /><strong>Восстановить истинные цвета под водой</strong><br />Наш интеллектуальный алгоритм восстановления цвета сохраняет фотографии яркими в любых условиях.<br /><br /><strong>Интуитивно понятное управление, подключи, погружайся и играй</strong><br />Не требуется сложный пульт &mdash; просто включите интуитивно понятное приложение прямо на Вашем мобильном устройстве. Управляйте всем &mdash; от погружения до наклона и поддержания определенной глубины &mdash; все это с помощью телефона.<br /><br /><strong>Инновационный режим совместной игры</strong><br />DORY&rsquo;s Duo Device Co-play позволяет одному человеку управлять дроном, а другому &mdash; камерой и видео для максимального удовольствия.<br /><br /><strong>Настроить визуальные эффекты</strong><br />Настройте визуальные эффекты с 19 фильтрами изображений и простым редактированием видео.<br /><br /><strong>Делитесь в соцсетях</strong><br />Быстро и легко обменивайтесь кадрами на Facebook, Instagram и других приложениях, даже в прямом эфире!<br /><br /><strong>Гидродинамический дизайн</strong><br />Гидродинамический дизайн DORY сочетает в себе самые важные функции в гладком, компактном корпусе.</p>]]></description>
 	<param name="Артикул">ST.000000011597</param>
