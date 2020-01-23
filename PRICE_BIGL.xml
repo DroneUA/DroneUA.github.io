@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-01-16 11:34">	
+<price date="2020-01-23 17:56">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -1505,10 +1505,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000232.01" available="false">
+	<item id="CP.PT.00000232.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0 (CP.PT.00000232.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>55770</price>
+	<price>61970</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -1575,7 +1575,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000210.01" available="false">
+	<item id="CP.PT.00000210.01" available="true">
 	<name>Квадрокоптер (дрон) Ryze Tello (CP.PT.00000210.01)</name>
 	<url>https://store.drone.ua/product/tello/</url>
 	<price>3380</price>
@@ -3869,7 +3869,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.OS.00000022.01" available="false">
+	<item id="CP.OS.00000022.01" available="true">
 	<name>Стедикам DJI Osmo Mobile 3 (CP.OS.00000022.01)</name>
 	<url>https://store.drone.ua/product/osmo-mobile-3/</url>
 	<price>3380</price>
@@ -5887,7 +5887,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.EN.00000054.01" available="false">
+	<item id="CP.EN.00000054.01" available="true">
 	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP.EN.00000054.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/</url>
 	<price>326400</price>
