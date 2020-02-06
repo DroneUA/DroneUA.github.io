@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-01-23 18:08">	
+<yml_catalog date="2020-02-06 19:18">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -752,7 +752,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>34856</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000013.01">
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
 	<price>44920</price>
@@ -792,7 +792,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>41776</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000242.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
 	<price>52670</price>
@@ -876,7 +876,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>48983</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 	<price>61970</price>
@@ -960,7 +960,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>57632</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000210.01">
 	<url>https://store.drone.ua/product/tello/</url>
 	<price>3380</price>
@@ -1346,7 +1346,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">ST.IN.000001</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -1537,7 +1536,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">ST.IN.000002</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -1765,7 +1763,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">ST.IN.000003</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -2056,7 +2053,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">ST.IN.000004</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -2327,7 +2323,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">ST.IN.000005</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -2528,7 +2523,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">ST.IN.000006_S</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -2731,7 +2725,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">ST.IN.000006_B</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -2993,7 +2986,6 @@ Cистемные требования для приложения Ronin: iOS 9 
 </tbody>
 </table>]]></description>
 	<param name="Артикул">CINEVOX/A</param>
-	<param name="Тип видеокамеры"></param>
 	<param name="Матрица (светочувствительный элемент)"></param>
 	<param name="Объектив"></param>
 	<param name="Тип носителя">Flash память</param>
@@ -4390,7 +4382,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>63194</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.CI.00002">
 	<url>https://store.drone.ua/product/gladius-mini/</url>
 	<price>52770</price>
@@ -4848,7 +4840,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>13234</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.OS.00000022.01">
 	<url>https://store.drone.ua/product/osmo-mobile-3/</url>
 	<price>3380</price>
@@ -4905,7 +4897,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>3143</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.OS.00000040.01">
 	<url>https://store.drone.ua/product/osmo-mobile-3-combo/</url>
 	<price>4000</price>
@@ -5375,7 +5367,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.MA.00000080.01">
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
-	<price>19510</price>
+	<price>22600</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</picture>
@@ -5424,7 +5416,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>18144</price_opt>
+	<price_opt>21018</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.000649">
@@ -9351,7 +9343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000113">
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
 	<price>590</price>
@@ -9550,6 +9542,1777 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
 	<price_opt>17261</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00001168.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-2/</url>
+	<price>4840</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic2.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Mavic 2 (CP.QT.00001168.01)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.00001168.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>4501</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.SS000026.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-air/</url>
+	<price>3350</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Air.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Mavic Air (CP.QT.SS000026.01)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.SS000026.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>3116</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.000738">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro/</url>
+	<price>4650</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Mavic Pro (CP.QT.000738)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.000738</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>4325</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00000263.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro-platinum/</url>
+	<price>5580</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro_Platinum.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Mavic Pro Platinum (CP.QT.00000263.01)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.00000263.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>5189</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.000846">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-inspire-2/</url>
+	<price>13140</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Inspire2.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Inspire 2 (CP.QT.000846)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.000846</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>12220</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.SS000009.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-zenmuse-x7/</url>
+	<price>17670</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Zenmuse_X7.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Zenmuse X7 (CP.QT.SS000009.01)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.SS000009.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>16433</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00002210.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-action/</url>
+	<price>1210</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Action.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh OSMO Action (CP.QT.00002210.01)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.00002210.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>1125</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00002444.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-pocket/</url>
+	<price>1210</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Pocket.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh OSMO Pocket (CP.QT.00002444.01)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.00002444.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>1125</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.000823">
+	<url>https://store.drone.ua/product/dji-care-phantom-4/</url>
+	<price>6570</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Phantom4_Pro.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Phantom 4 Pro/Pro+ (CP.QT.000823)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">CP.QT.000823</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>6110</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.MM.00000123">
+	<url>https://store.drone.ua/product/dji-care-refresh-mavic-mini/</url>
+	<price>1210</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Mini.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Care Refresh Mavic Mini (ST.MM.00000123)</name>
+	<description><![CDATA[<p>DJI Care&nbsp;- это возможность каждому чувствовать себя безопасно используя дрон и не беспокоится о сохранности оборудования, так как в течении года программа DJI Care гарантирует до двух замен поврежденного оборудования на новое.</p>
+<p>DJI Care Refresh &mdash; это сервисный план, который обеспечивает Вам душевное спокойствие и покрывает ущерб, нанесенный продукту DJI.</p>
+<p>DJI Care Refresh действителен в течение 12 месяцев и предлагает до двух полных замен за дополнительную плату в случае случайного повреждения Вашего продукта DJI при обычном использовании.&nbsp;Каждый раз, когда вы запрашиваете замену, Вы получаете устройство, которое является новым или эквивалентным новому по производительности и надежности.</p>
+<p><strong>Особенности:</strong></p>
+<ul>
+<li>До двух замен устройства в течение года</li>
+<li>Вы можете заменить коптер, если он поврежден водой</li>
+<li>Комплексное покрытие, в случае столкновения или ошибки пилота</li>
+<li>Приоритетная поддержка всякий раз, когда это необходимо</li>
+<li>Транспортные и&nbsp;таможенные расходы за счет компании (кроме доставки дрона по Украине)</li>
+</ul>
+<p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
+<ul>
+<li>Устройство еще на гарантии</li>
+<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
+<li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
+</ul>
+<p><strong>Как активировать:</strong></p>
+<ol>
+<li>Посетите&nbsp;сайт производителя DJI</li>
+<li>Введите серийный номер дрона, код активации, который Вы приобрели и персональную информацию</li>
+</ol>
+<p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
+	<param name="Артикул">ST.MM.00000123</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>1125</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.00000004002">
+	<url>https://store.drone.ua/product/chasing-m2/</url>
+	<price>160000</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_6.png</picture>
+	<vendor>Chasing-Innovation</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
+	<description><![CDATA[<p>Компания CHASING, известная производством подводных беспилотников, представила в США на CES&nbsp;<strong>свое новое решение &ndash; беспилотник М2</strong>,&nbsp;<strong>одно из самых эффективных в мире промышленных дистанционно управляемых устройств, предназначенных для использования под водой</strong>&nbsp;(ROV). Этот дрон нового поколения оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также &mdash; светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом&nbsp;<strong>на глубину до 100 метров</strong>. Он станет незаменимым помощником для спасателей, инспекторов, ученых, инженеров и т.д. Дрон невероятно легкий и компактный &mdash; благодаря алюминиевому корпусу его&nbsp;<strong>вес не превышает 5 кг</strong>. М2 впервые для подобных устройств имеет аккумулятор и съемную карту памяти, при этом оставаясь полностью водонепроницаемым.</p>
+<p>Но, пожалуй, самая главная особенность этого агрегата &ndash; это&nbsp;<strong>расположение двигателей</strong>&nbsp;(в 8-ми направлениях), что дает пользователю&nbsp;<strong>возможность перемещения в шести направлениях с вращением и поворачиванием</strong>. Помимо этого, так называемый режим &laquo;блокировки глубины&raquo; обеспечивает стабильность управления.</p>
+<p>Спереди и сзади дрона можно установить камеры GoPro или же дополнительные источники света. Он также может быть сопряжен с лазерным измерительным оборудованием, которое используют для определения глубины погружения или наличия изъянов, трещин и т.д. в исследуемых объектах.</p>
+<p>Все, что было на рынке до появления М2, можно назвать громоздким, дорогим в обслуживании и тяжелым в управлении. Поэтому его создатели уверены, что благодаря своим характеристикам и свойствам, это устройство откроет новые горизонты подводных исследований и существенно поможет как бизнесу, так и некоторым государственным учреждениям.</p>
+<p>Компания CHASING также разработала новый пульт дистанционного управления профессионального уровня и электронное устройство E-Reel, которые существенно упрощают использование М2, его погружение и извлечение. Так, E-Reel может автоматически свернуть или развернуть кабель длиной 200 метров всего за 2 минуты и до 12 раз за зарядку.</p>
+<p>CHASING &mdash; ведущая компания по производству подводных беспилотников с продажами более чем в 40 странах и регионах. Благодаря ведущим в отрасли исследованиям и разработкам в области подводных беспилотников и интегрированным технологиям производства, CHASING переопределяет подводные исследования. Штаб-квартира компании находится в Шэньчжэне, Китай, с открытыми офисами или филиалами в Пекине, Чэнду, Куньмине и Сиэтле, США. Продукт предыдущего поколения GLADIUS MINI получил престижную награду Red Dot Design Product 2019.</p>]]></description>
+	<param name="Артикул">ST.00000004002</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Желтый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте">Да</param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">Без наличия</param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	 0 
+	<price_opt>148800</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.KN.MT.001">
+	<url>https://store.drone.ua/product/kandao-meeting/</url>
+	<price>22910</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>3</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_4.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_5.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_6.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_7.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_8.png</picture>
+	<vendor>Kandao</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Панорамная камера Kandao Meeting (ST.KN.MT.001)</name>
+	<description><![CDATA[<p>Универсальная конференц-камера Kandao Meeting 360&deg; с автоматической фокусировкой динамиков для удаленных видео-встреч!</p>
+<p>Kandao Meeting 360&deg; сочетает в себе два высококачественных объектива типа &laquo;рыбий глаз&raquo;, 8 микрофонов и динамик. Камеру можно поместить в центр комнаты собраний, чтобы показать всех участников с разрешением 8K, при этом она автоматически фокусируются на людях во время разговора. Удаленные участники на другом конце получат HD-поток 1080P с крупным планом обзора, что заставит их чувствовать себя как в одной комнате.</p>
+<p>Используя распознавание лица с поддержкой AI и восемь всенаправленных микрофонов, чтобы уловить звук, Kandao Meeting 360&deg; может автоматически найти активного говорящего и выделить его / ее жест и выражение лица. Таким образом, каждый может почувствовать, что находится в центре разговора, без какого-либо дистанционного управления или неловкого поворота камеры во время видеосвязи.</p>
+<p>Режим конференции можно использовать в одном из трех режимов: режим обсуждения - выделяет каждого говорящего по комнате и выделяет их во время разговора; режим презентации динамически переключает фокус камеры на говорящего; глобальный режим, который захватывает всю комнату с обоих линз камеры.</p>
+<p>База динамиков оснащена восемью всенаправленными микрофонами и двумя полнодуплексными динамиками мощностью 10 Вт с шумоподавлением и эхоподавлением. Кнопки регулировки громкости, отключения звука и изменения режима позволяют быстро переключаться между режимами аудио и конференции. Имеется разъем RJ45 Ethernet для потоковой передачи аудио и видео, а также он может отправлять 16-битное аудио и видео 1080p25 через USB на любой компьютер Mac или Windows.</p>
+<p>Ключевые особенности:</p>
+<ul>
+<li>8K 360 &deg; вид на весь конференц-зал без швов</li>
+<li>Посылает видео 1080p25 через Ethernet или USB</li>
+<li>Две широкие линзы типа &laquo;рыбий глаз&raquo; с углом обзора 220 &deg;, диафрагма f / 2,4</li>
+<li>Интеллектуальное автоматическое слежение, авто-ISO, автоэкспозиция, автофокус</li>
+<li>Скрытая всплывающая камера может быть нажата для конфиденциальности</li>
+<li>Восемь всенаправленных микрофонов</li>
+<li>Два полнодуплексных динамика 10 Вт</li>
+<li>Три режима: обсуждение для выделения участников, презентация для выделения докладчика, глобальное отображение всех участников в двух панорамах</li>
+<li>Легко подключиться к компьютеру Windows или Mac с помощью USB-кабеля</li>
+<li>Работает с популярными приложениями для конференций, такими как Skype, Cisco Webex, Zoom, Slack и GoToMeeting</li>
+</ul>]]></description>
+	<param name="Артикул">ST.KN.MT.001</param>
+	<param name="Матрица (светочувствительный элемент)"></param>
+	<param name="Объектив"></param>
+	<param name="Тип носителя">Flash память</param>
+	<param name="Стабилизатор изображения"></param>
+	<param name="Зум"></param>
+	<param name="Фокусировка"></param>
+	<param name="Режим экспозиции"></param>
+	<param name="Баланс белого"></param>
+	<param name="Ночная съёмка"></param>
+	<param name="Цифровые эффекты"></param>
+	<param name="ЖК-монитор"></param>
+	<param name="Видоискатель"></param>
+	<param name="Режим фотосъёмки"></param>
+	<param name="Запись аудио"></param>
+	<param name="Карта памяти"></param>
+	<param name="Разъёмы"></param>
+	<param name="Питание"></param>
+	<param name="Дополнительные функции"></param>
+	<param name="Размеры (Д х Ш х В, мм)"></param>
+	<param name="Вес (грамм)"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Black</param>
+	<param name="Поддержка карт памяти"></param>
+	<param name="Тип видеокамеры">Панорамные камеры</param>
+	<param name="Режим видеосъемки">360°</param>
+	<param name="Разрешение видео"></param>
+	<param name="Ширина"></param>
+	<param name="Высота"></param>
+	<param name="Глубина"></param>
+	<param name="Наличие Wi-Fi">Нет</param>
+	<param name="Размер матрицы"></param>
+	<param name="Разъем для внешнего микрофона"></param>
+	<param name="Встроенный проектор">Нет</param>
+	<param name="Оптическая стабилизация"></param>
+	<param name="Оптический зум"></param>
+	<param name="Зарядное устройство"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	 0 
+	<price_opt>21306</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.KN.QC.001">
+	<url>https://store.drone.ua/product/qoocam/</url>
+	<price>13180</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>3</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_4.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_5.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_6.png</picture>
+	<vendor>Kandao</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Панорамная камера Kandao QooCam (ST.KN.QC.001)</name>
+	<description><![CDATA[<p>Kandao qoocam &ndash; новейшая 4К камера с возможностью сшивки изображения в процессе работы, режимом сферической и 3D съемки и множеством других полезных функций. Благодаря продуманному дизайну и мощному железу qoocam подойдет не только операторам-любителям, но и профессионалам своего дела.</p>
+<p>Экшн камера Qoocam от известного китайского производителя Kandao отличается от конкурентов не только доступной ценой, но и расширенным функционалом вместе с высоким качеством сборки. Ключевая особенность прибора &ndash; съемка в сферическом (360&deg;) и 3D (180&deg;) режимах.</p>
+<p>Корпус гаджета представляет собой вытянутый цилиндр без острых углов и выступов &ndash; девайс легко помещается в кармане. Прочный анодированный алюминий помимо превосходной защиты, обеспечивает повышенную теплоотдачу, что особенно полезно при длительной съемке. Три объектива оборудованы чувствительными CMOS матрицами от надежного производителя Sony, диафрагмой f/2.2, а также линзами с большим углом обзора (216&deg;).</p>
+<p>Питает гаджет встроенная аккумуляторная батарея высокой емкости - 2600 мАч. Заряда хватает на 3 часа автономной работы. Устройство совместимо со стандартными креплениями для экшн камер и может монтироваться на шлемах, дронах и т.д.В вертикальном положении гаджет способен снимать в режиме сферической съемки, захватывая объективом все окружающее пространство без белых пятен. Пользователю доступно два режима записи видео в зависимости от выбранного разрешения: 4к при кадровой частоте 30 или 60 fps; 2k при 120 fps.</p>
+<p>Мощный процессор в режиме реального времени сшивает получаемое изображение по методу Optical Flow. Одновременно система оптической стабилизации при помощи программных алгоритмов и IMU датчиков выравнивает полученную картинку.При повороте верхней части камеры в горизонтальное положение активируется уникальный режим 3D съемки. Запись производится в области 180 &deg; при разрешении 4к и кадровой частоте 30 fps. Отснятый материал не только адаптируется для просмотра в стандартных VR гарнитурах, но и может быть загружен на специализированный VR раздел YouTube. При фотосъемке в 3D режиме автоматически составляется карта глубины, которая оценивает расстояния до объектов на картинке. Позже пользователь при помощи функции Refocus может перефокусировать снимок по своему усмотрению.</p>
+<p>В Qoocam заложено множество других полезных функций:</p>
+<ul>
+<li>smart track &ndash; для выбора определенного объекта, который останется в центре кадра даже при перемещении вокруг гаджета;</li>
+<li>slow motion и timelapse &ndash; для съемки нестандартных видеороликов с эффектом замедления времени;</li>
+<li>depth mapping &ndash; картирование глубины изображения;</li>
+<li>sky changing &ndash; продвинутый редактор фона;</li>
+<li>дистанционное управление девайсом через приложение на Android или iOs посредством Wi-Fi и BlueTooth подключения;</li>
+<li>редактирование материала встроенным программным обеспечением и конвертирование в формат Little Planet для дальнейшего потокового вещания на стриминговые платформы.</li>
+</ul>
+<p><strong>Преимущества Kandao QooCam</strong></p>
+<p><strong><em>Сферическая съемка на 360&deg;.&nbsp;</em></strong>В вертикальном положении верхней части корпуса доступна опция сферической съемки 360&deg; - 4к при кадровой частоте 30 или 60 fps, 2k при 120 fps.</p>
+<p><strong><em>3D съемка на 180&deg;.</em></strong> Запись производится в области 180&deg; при разрешении 4к и кадровой частоте 30 fps. Отснятый материал адаптируется для просмотра в стандартных VR гарнитурах, а также может загружаться на VR раздел YouTube.</p>
+<p><strong><em>Оптическая стабилизация.&nbsp;</em></strong>Система оптической стабилизации изображения при помощи программных алгоритмов и специальных IMU датчиков выравнивает полученную картинку.</p>
+<p><strong><em>Автономность.&nbsp;</em></strong>Встроенная аккумуляторная батарея высокой емкости (2600 мАч) обеспечивает до 3 часов автономной работы.</p>
+<p><strong><em>Эргономичный и прочный корпус.</em></strong> Камера представляет собой вытянутый цилиндр без острых углов и выступов. Прочный анодированный алюминий помимо превосходной защиты, обеспечивает повышенную теплоотдачу, что особенно полезно при длительной съемке.</p>
+<h3>Характеристики</h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Максимальное разрешение видеосъемки</p>
+</td>
+<td>
+<p>3840 * 1920 (60 FPS) пкс</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Максимальное разрешение фотосъемки</p>
+</td>
+<td>
+<p>4320 * 2160 пкс</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Поддержка стриминга</p>
+</td>
+<td>
+<p>Социальные сети</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Кол-во матриц</p>
+</td>
+<td>
+<p>2 CMOS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Кол-во объективов</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Диафрагма</p>
+</td>
+<td>
+<p>f/2.2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Поддержка карт памяти (максимальный объем карты памяти)</p>
+</td>
+<td>
+<p>Поддержка MicroSD (до 256 ГБ);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Особенности</p>
+</td>
+<td>
+<p>Поддержка HDR, функция перефокусировки (Refocus), картирование глубины изображения (Depth Mapping), редактор фона (Sky Changing)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Вес</p>
+</td>
+<td>
+<p>180 г</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+	<param name="Артикул">ST.KN.QC.001</param>
+	<param name="Матрица (светочувствительный элемент)">2x CMOS</param>
+	<param name="Объектив"></param>
+	<param name="Тип носителя">Flash память</param>
+	<param name="Стабилизатор изображения"></param>
+	<param name="Зум"></param>
+	<param name="Фокусировка"></param>
+	<param name="Режим экспозиции"></param>
+	<param name="Баланс белого"></param>
+	<param name="Ночная съёмка"></param>
+	<param name="Цифровые эффекты"></param>
+	<param name="ЖК-монитор"></param>
+	<param name="Видоискатель"></param>
+	<param name="Режим фотосъёмки"></param>
+	<param name="Запись аудио"></param>
+	<param name="Карта памяти">MicroSD</param>
+	<param name="Разъёмы"></param>
+	<param name="Питание"></param>
+	<param name="Дополнительные функции"></param>
+	<param name="Размеры (Д х Ш х В, мм)"></param>
+	<param name="Вес (грамм)"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Black</param>
+	<param name="Поддержка карт памяти"></param>
+	<param name="Тип видеокамеры">Панорамные камеры</param>
+	<param name="Режим видеосъемки">360°</param>
+	<param name="Разрешение видео">3840x1920</param>
+	<param name="Ширина"></param>
+	<param name="Высота"></param>
+	<param name="Глубина"></param>
+	<param name="Наличие Wi-Fi">Есть</param>
+	<param name="Размер матрицы"></param>
+	<param name="Разъем для внешнего микрофона"></param>
+	<param name="Встроенный проектор">Нет</param>
+	<param name="Оптическая стабилизация"></param>
+	<param name="Оптический зум"></param>
+	<param name="Зарядное устройство"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	 0 
+	<price_opt>12257</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.KN.QC.8K.001">
+	<url>https://store.drone.ua/product/qoocam-8k/</url>
+	<price>20120</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>3</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_4.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_5.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_6.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_7.jpg</picture>
+	<vendor>Kandao</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Панорамная камера Kandao QooCam 8K (ST.KN.QC.8K.001)</name>
+	<description><![CDATA[<p>Познакомьтесь с <strong>Kandao QooCam 8K</strong> - самой маленькой в мире камерой 8K 360&deg;, которая еще больше расширит ваши творческие возможности!</p>
+<p>Сейчас существует немало камер, снимающих сферическое 360-градусное видео, но предел разрешения, у этих камер составляет 5.7K, что не так уж и много для полной панорамы. Также существует несколько 8K-камер, но большинство из них довольно большие. С выходом <strong>QooCam 8K</strong> это изменилось.</p>
+<p>В QooCam 8K используется 2 объектива, камера позволяет снимать не только видео, но и фотографии с разрешением 30 мегапикселов и в 12-битном DNG. Также присутствует режим HDR+, в котором камера делает несколько снимков и объединяет их в 16-битный DNG-файл.</p>
+<p>QooCam 8K предлагает поддержку трансляций в Facebook и Youtube. Вход для внешнего микрофона является хорошим бонусом для 360-градусной камеры. Это означает, что можно ходить с камерой в руках используя петличку не беспокоясь о расположении встроенных микрофонов.</p>
+<p>Возможно еще более впечатляющим, чем размер корпуса 8K-камеры, является наличие цветного экрана, который занимает половину одной стороны камеры и используется для просмотра отснятого материала. Большинство 360-градусных камер до последнего времени имели небольшой экран, на котором отображались только настройки, а для просмотра отснятого материала приходилось подключать камеру к смартфону.</p>
+<p>Основные характеристики камеры выглядят впечатляюще:</p>
+<ul>
+<li>Видео: 7680 x 3840 30p, 3840 x 1920 30/60/120p, 10-бит, H.264, H.265</li>
+<li>Фото: 7680 x 3840, DNG 12-бит, HDR+ DNG 16-бит</li>
+<li>Сенсоры: 1/1.17", 20 МП, BSI CMOS</li>
+<li>Экран: 2.4" цветной сенсорный экран</li>
+<li>Встроенная память: 64 ГБ</li>
+<li>Карты памяти: MicroSD до 256 ГБ</li>
+<li>Беспроводная связь: Wi-Fi 2.4/5 ГГц</li>
+<li>Батарея: 3600 мАч</li>
+<li>Встроенный динамик: Есть</li>
+<li>Встроенный микрофон: Есть</li>
+<li>Разъемы: 3.5-мм микрофон, USB Type-C</li>
+</ul>]]></description>
+	<param name="Артикул">ST.KN.QC.8K.001</param>
+	<param name="Матрица (светочувствительный элемент)"></param>
+	<param name="Объектив"></param>
+	<param name="Тип носителя">Flash память</param>
+	<param name="Стабилизатор изображения"></param>
+	<param name="Зум"></param>
+	<param name="Фокусировка"></param>
+	<param name="Режим экспозиции"></param>
+	<param name="Баланс белого"></param>
+	<param name="Ночная съёмка"></param>
+	<param name="Цифровые эффекты"></param>
+	<param name="ЖК-монитор"></param>
+	<param name="Видоискатель"></param>
+	<param name="Режим фотосъёмки"></param>
+	<param name="Запись аудио"></param>
+	<param name="Карта памяти">MicroSD</param>
+	<param name="Разъёмы">USB Type-C</param>
+	<param name="Питание">Аккумулятор 3600 мА*ч</param>
+	<param name="Дополнительные функции"></param>
+	<param name="Размеры (Д х Ш х В, мм)"></param>
+	<param name="Вес (грамм)"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Black</param>
+	<param name="Поддержка карт памяти"></param>
+	<param name="Тип видеокамеры">Панорамные камеры</param>
+	<param name="Режим видеосъемки">360°</param>
+	<param name="Разрешение видео">7680x3840</param>
+	<param name="Ширина"></param>
+	<param name="Высота"></param>
+	<param name="Глубина"></param>
+	<param name="Наличие Wi-Fi">Есть</param>
+	<param name="Размер матрицы"></param>
+	<param name="Разъем для внешнего микрофона">Есть</param>
+	<param name="Встроенный проектор">Нет</param>
+	<param name="Оптическая стабилизация"></param>
+	<param name="Оптический зум"></param>
+	<param name="Зарядное устройство"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	 0 
+	<price_opt>18712</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.KN.MT.004">
+	<url>https://store.drone.ua/product/obsidian-r/</url>
+	<price>133270</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>3</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_4.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_5.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_6.jpg</picture>
+	<vendor>Kandao</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Панорамная камера Kandao Obsidian R (ST.KN.MT.004)</name>
+	<description><![CDATA[<h3>8K Профессиональная 3D 360 &deg; <a>VR Камера</a></h3>
+<p><strong>Снимайте до 8K 3D или 2D VR видео и фотографии с помощью Obsidian R Professional 3D 360&deg; VR камерой от Kandao. </strong></p>
+<p><em>С компактным минималистическим дизайном и возможностью питания от батареи, Obsidian R готов запечатлеть все ваши приключения и впечатления на стереоскопическом панорамном дисплее. 3D-изображения с эффектом погружения можно записывать со скоростью 8K30 или 4K60 со скоростью 60 или 100 Мбит / с и транслировать в прямом эфире на скорости 4K с дополнительной лицензией Kandao Live (приобретается отдельно).</em></p>
+<p>Каждый из шести объективов Obsidian R 185 &deg; записывает на отдельную карту microSD, а шесть микрофонов записывают звук в формате PCM. Гнездо аудиовхода можно использовать для синхронизации с рекордером Zoom H2N. Варианты записи включают в себя функции покадровой съемки, режим журнала и запись в формате DNG. Функции визуализации включают 12-мегапиксельный CMOS-датчик с задней подсветкой, 10 ступеней динамического диапазона в видео (12 в кадре) и диапазон ISO 100&ndash;3200 с ручным управлением через приложение Kandao.</p>
+<p>Возможность подключения GigE позволяет передавать файлы, обеспечивать питание (PoE) и просматривать отснятый материал с помощью порта Obsidian Ethernet. Подключите Obsidian R к дополнительному маршрутизатору Wi-Fi для предварительного просмотра изображений и дистанционного управления или используйте загружаемое приложение Kandao для управления интеллектуальными устройствами Bluetooth. В режиме по умолчанию экспозиция каждого объектива рассчитывается индивидуально с балансом белого на основе мастер-объектива. Функция воспроизведения приложения позволяет просматривать видео в высоком разрешении на стандартных устройствах отображения.</p>
+<p>В дополнение к PoE, камера может работать от 12 В переменного тока или от двух батарей Canon LP-E6 (приобретается отдельно). Защитный чехол, кабель для синхронизации Zoom, кабель Ethernet и наплечный ремень также входят в комплект поставки камеры Obsidian R.</p>
+<h3>Характеристики</h3>
+<ul>
+<li>Снимает восьмикратное разрешение моноскопических видео и фотографий 4K x 2K 360 &deg;</li>
+<li>Компактный минималистичный дизайн с шестью широкоугольными объективами f / 2.8</li>
+<li>Быстрое сшивание на основе алгоритма глубокого обучения</li>
+<li>Запись 8K 3D-видео со скоростью 30 к / с или 4K 3D при 60 к / с</li>
+<li>Прямая трансляция 4K-видео с отдельно доступной лицензией Kandao Live</li>
+<li>Автоматическое управление ISO в камере; ручное управление ISO с помощью приложения дистанционного управления</li>
+<li>HDR (высокий динамический диапазон) в сферическом захвате изображения</li>
+<li>Разнообразные варианты питания включают PoE, источник питания переменного тока и аккумуляторы Canon LP-E6</li>
+<li>Воспроизведение на стандартных устройствах отображения с помощью приложения Kandao</li>
+</ul>
+<h3><strong>Режим работы</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Максимальное разрешение фотосъемки</p>
+</td>
+<td>
+<p>7680&times;7680</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Максимальное разрешение видеосъемки</p>
+</td>
+<td>
+<p>7680&times;7680 (30 FPS)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Битрейт</p>
+</td>
+<td>
+<p>100 мбит/сек</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Поддержка 3D</p>
+</td>
+<td>
+<p>Да</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Онлайн трансляции</p>
+</td>
+<td>
+<p>Выделенный сервер (RTMP);</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Оптика</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Количество линз</p>
+</td>
+<td>
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Тип сенсора</p>
+</td>
+<td>
+<p>12M CMOS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Диафрагма</p>
+</td>
+<td>
+<p>f/2.8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Диапазон ISO</p>
+</td>
+<td>
+<p>100 - 3200</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Физические характеристики</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Память камеры</p>
+</td>
+<td>
+<p>Поддержка MicroSD;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Запись звука</p>
+</td>
+<td>
+<p>Запись "пространственного" звука с 6 встроенных микрофонов. Поддержка ZOOM H2n</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Интерфейсы подключения</p>
+</td>
+<td>
+<p>Wi-Fi;</p>
+<p>Bluetooth;</p>
+<p>Ethernet;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Поддержка штатива 1/4&Prime; - 20</p>
+</td>
+<td>
+<p>Да</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Габариты</p>
+</td>
+<td>
+<p>&Oslash; 14.5 &times; 9.3 мм</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Вес камеры</p>
+</td>
+<td>
+<p>1100 грамм</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Дополнительно</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Комплектация</p>
+</td>
+<td>
+<p>Камера Kandao Obsidian R</p>
+<p>Кабель Ethernet</p>
+<p>Комплект кабелей питания</p>
+<p>Кабель для записи "пространственного" звука</p>
+<p>Ткань для чистки линз</p>
+<p>Руководство пользователя</p>
+<p>Защитный кейс</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+	<param name="Артикул">ST.KN.MT.004</param>
+	<param name="Матрица (светочувствительный элемент)">12M CMOS</param>
+	<param name="Объектив"></param>
+	<param name="Тип носителя">Flash память</param>
+	<param name="Стабилизатор изображения"></param>
+	<param name="Зум"></param>
+	<param name="Фокусировка"></param>
+	<param name="Режим экспозиции"></param>
+	<param name="Баланс белого"></param>
+	<param name="Ночная съёмка"></param>
+	<param name="Цифровые эффекты"></param>
+	<param name="ЖК-монитор"></param>
+	<param name="Видоискатель"></param>
+	<param name="Режим фотосъёмки"></param>
+	<param name="Запись аудио"></param>
+	<param name="Карта памяти">MicroSD</param>
+	<param name="Разъёмы"></param>
+	<param name="Питание">12 В переменного тока или от двух батарей Canon LP-E6 (приобретается отдельно)</param>
+	<param name="Дополнительные функции"></param>
+	<param name="Размеры (Д х Ш х В, мм)"></param>
+	<param name="Вес (грамм)"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Black</param>
+	<param name="Поддержка карт памяти"></param>
+	<param name="Тип видеокамеры">Панорамные камеры</param>
+	<param name="Режим видеосъемки">360°</param>
+	<param name="Разрешение видео">7680х7680 </param>
+	<param name="Ширина"></param>
+	<param name="Высота"></param>
+	<param name="Глубина"></param>
+	<param name="Наличие Wi-Fi">Есть</param>
+	<param name="Размер матрицы"></param>
+	<param name="Разъем для внешнего микрофона"></param>
+	<param name="Встроенный проектор">Нет</param>
+	<param name="Оптическая стабилизация"></param>
+	<param name="Оптический зум"></param>
+	<param name="Зарядное устройство"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	 0 
+	<price_opt>123941</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.KN.MT.006">
+	<url>https://store.drone.ua/product/obsidian-go/</url>
+	<price>61970</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>3</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_4.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_5.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_6.jpg</picture>
+	<vendor>Kandao</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Панорамная камера Kandao Obsidian GO (ST.KN.MT.006)</name>
+	<description><![CDATA[<p>Kandao Obsidian GO &ndash; панорамная камера для сферической 3D съемки с разрешением 8К для фото и 4К для видео в формате VR 360. Камера оборудована шестью высококачественными объективами с попиксельной синхронизацией картинки и обладает понятным пользовательским интерфейсом с функцией управления всего тремя кнопками и возможностью дистанционного управления со смартфона через Bluetooth-соединение. Простота использования Kandao Obsidian GO и ее полная адаптация к VR-формату позволят снимать качественный VR-контент даже начинающим операторам, а опытные специалисты получат надежный инструмент для расширения горизонтов своего творчества.&nbsp;</p>
+<h3><strong>Особенности</strong></h3>
+<ul>
+<li>Фотосъемка с разрешением 8К в форматах JPG и DNG</li>
+<li>Видеосъемка с разрешением 4K в формате MOV</li>
+<li>Синхронизация изображения с шести оптических модулей на уровне пикселей</li>
+<li>Высококачественные линзы типа &laquo;рыбий глаз&raquo; с диафрагмой f/2.0</li>
+<li>16-мегапиксельная CMOS-матрица на каждом объективе</li>
+<li>Высокая точность калибровки объективов</li>
+<li>Полная поддержка DNG-формата</li>
+<li>Съемка на одном заряде батареи до 4-х часов</li>
+<li>Расширенный динамический диапазон</li>
+<li>Автоматический баланс белого</li>
+<li>Поддерживаемый объем карт-памяти microSD &ndash; до 128 Гб</li>
+</ul>
+<h3><strong>360-градусное 4K VR-видео</strong></h3>
+<p>Снимайте с помощью шести синхронизированных модулей Obsidian GO, чтобы полностью захватить пространство вокруг и погрузить своих зрителей в атмосферу передовых VR-технологий. Каждый оптический модуль Obsidian GO использует объектив типа &laquo;рыбий глаз&raquo; с высокочувствительной CMOS-матрицей и диафрагмой f/2.0. Это позволяет камере снимать полностью сферические 3D VR-видеоролики формата MOV (кодек H.264) с разрешением до 3480&times;3480 пикселей при 30 fps.</p>
+<h3><strong>Фотопанорамы с разрешением 8K</strong></h3>
+<p>Obsidian GO снимает 360-градусные панорамные фотографии с разрешением до 8К как в 2D, так и в 3D-формате. Отлично синхронизированные оптические модули генерируют четкость изображения с повышенной детализацией, что позволяет создавать высококачественные 360-градусные фото с полным сферическим охватом нажатием всего одной кнопки. Готовые фотопанорамы сохраняются в форматах JPG или DNG с разрешением 7680&times;7680 пикселей для сферических изображений и 4608&times;3456 пикселей для снимков с одного объектива.</p>
+<h3><strong>Интеллектуальный постпродакшн</strong></h3>
+<p>С помощью программного обеспечения Kandao Studio, основанного на методе глубокого обучения искусственного интеллекта, все работы по постпродакшн VR-контента становятся более простыми и эффективным, чем когда-либо. Всего за один клик вы сможете управлять сшивкой 360-градусных стереоскопических роликов на уровне профессиональных специалистов по монтажу.</p>
+<h3><strong>Идеально для аэрофотосъемки</strong></h3>
+<p>Компактный и легкий (масса не более 1 кг) корпус камеры Obsidian GO не создает серьезной нагрузки для квадрокоптера или любого другого беспилотника. При этом камера обеспечивает до 4 часов автономной фотосъемки и до 2 часов сферической видеосъемки в 4К-качестве. В комплект поставки также входит усовершенствованная система управления батареей, которая поможет оптимизировать расход заряда батареи для продления времени съемки.</p>
+<h3><strong>Разъемы и крепления</strong></h3>
+<p>Камера Obsidian GO оснащена регулируемой точкой крепления под штативы 3/8 и 1/4 UNC в центре основания. Рядом располагается отверстие под штырь блокировки вращения. Каждый объектив снабжен собственным портом microUSB и отсеком для карты-памяти microSD. Для записи звука камера оборудована интегрированным микрофоном и внешним аудио-портом.</p>
+<h3><strong>Bluetooth и приложение Remote Control</strong></h3>
+<p>Удаленное управление VR-камерой Kandao Obsidian GO с помощью смартфона или совместимого планшета осуществляется через приложение Remote Control и соединение Bluetooth. Приложение позволяет легко настраивать ISO, баланс белого, EV и многое другое, заметно упрощая и ускоряя процесс съемки.</p>
+<p><strong>Особенности</strong></p>
+<ul>
+<li>6 слотов для SD-карт, 6 модулей визуализации, синхронизация на уровне пикселей. F2.0</li>
+<li>Высококачественные широкоугольные объективы типа &laquo;рыбий глаз&raquo; с яркой диафрагмой f / 2.0.</li>
+<li>Скоординированная автоэкспозиция и баланс белого. 1600</li>
+<li>Каждый HD-объектив имеет 16 миллионов пикселей, CMOS-датчик с задней подсветкой</li>
+<li>Каждый объектив камеры 360 градусов VR полностью и точно откалиброван, поддерживает Wi-Fi, Bluetooth</li>
+<li>Длительное время автономной работы</li>
+</ul>
+<p><strong>Технические характеристики</strong></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Частотный диапазон</p>
+</td>
+<td>
+<p>2404 &ndash; 2476 MHz</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Формат видео</p>
+</td>
+<td>
+<p>MOV</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Формат фото</p>
+</td>
+<td>
+<p>JPG/DNG</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Вес</p>
+</td>
+<td>
+<p>1015 гр</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Носители информации</p>
+</td>
+<td>
+<p>Mikro SD card (мах 128G)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Формат видео кодирования</p>
+</td>
+<td>
+<p>H.264</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Входное напряжение</p>
+</td>
+<td>
+<p>Батарея 7.4 V адаптер 12V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Рабочая температура</p>
+</td>
+<td>
+<p>-10 + 40 градусов</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Рабочая влажность</p>
+</td>
+<td>
+<p>10-90%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Видео разрешение/частота кадров/однообъективное разрешение</p>
+</td>
+<td>
+<p>3840 х 3840 / 30fps / 1728&times;1728</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Фото разрешение/однообъективное разрешение</p>
+</td>
+<td>
+<p>7680х7680 / 4608&times;3456</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+	<param name="Артикул">ST.KN.MT.006</param>
+	<param name="Матрица (светочувствительный элемент)">16-мегапиксельная CMOS-матрица на каждом объективе</param>
+	<param name="Объектив"></param>
+	<param name="Тип носителя">Flash память</param>
+	<param name="Стабилизатор изображения"></param>
+	<param name="Зум"></param>
+	<param name="Фокусировка"></param>
+	<param name="Режим экспозиции"></param>
+	<param name="Баланс белого"></param>
+	<param name="Ночная съёмка"></param>
+	<param name="Цифровые эффекты"></param>
+	<param name="ЖК-монитор"></param>
+	<param name="Видоискатель"></param>
+	<param name="Режим фотосъёмки"></param>
+	<param name="Запись аудио"></param>
+	<param name="Карта памяти">MicroSD</param>
+	<param name="Разъёмы"></param>
+	<param name="Питание">От батареи  7.4 В или адаптера 12 В</param>
+	<param name="Дополнительные функции"></param>
+	<param name="Размеры (Д х Ш х В, мм)"></param>
+	<param name="Вес (грамм)"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Black</param>
+	<param name="Поддержка карт памяти"></param>
+	<param name="Тип видеокамеры">Панорамные камеры</param>
+	<param name="Режим видеосъемки">360°</param>
+	<param name="Разрешение видео">7680х7680 </param>
+	<param name="Ширина"></param>
+	<param name="Высота"></param>
+	<param name="Глубина"></param>
+	<param name="Наличие Wi-Fi"></param>
+	<param name="Размер матрицы"></param>
+	<param name="Разъем для внешнего микрофона"></param>
+	<param name="Встроенный проектор">Нет</param>
+	<param name="Оптическая стабилизация"></param>
+	<param name="Оптический зум"></param>
+	<param name="Зарядное устройство"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	 0 
+	<price_opt>57632</price_opt>
+	</offer>
+	<offer available="true" id="
+	ST.KN.MT.005">
+	<url>https://store.drone.ua/product/obsidian-s/</url>
+	<price>133270</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>3</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_4.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_5.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_6.jpg</picture>
+	<vendor>Kandao</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Панорамная камера Kandao Obsidian S (ST.KN.MT.005)</name>
+	<description><![CDATA[<p>Kandao Obsidian S &ndash; профессиональная 360-градусная VR-камера с поддержкой высокоскоростной съемки (HFR) и интуитивной системой управления. Используя шесть синхронизированных объективов и продвинутую программную стабилизацию изображения, Obsidian S максимально точно повторяет зрительное восприятие человеческого глаза, создавая более естественные стереоскопические панорамы и выводя VR-контент на совершенно новый уровень. Кроме того, панорамная камера Obsidian S снабжена функцией live-трансляций в 3D, поддерживает фотосъемку в формате DNG, обладает компактными габаритами, а также широкими возможностями для удаленной настройки и управления через приложение для смартфона.</p>
+<h3><strong>Ключевые особенности</strong></h3>
+<ul>
+<li>6 объективов с линзами рыбий глаз и диафрагмой f/2.2</li>
+<li>3D-фотосъемка в разрешении до 6К</li>
+<li>3D-видеосъемка в разрешении 6К при 50-60 fps</li>
+<li>3D-видеосъемка в разрешении 4К при 120 fps</li>
+<li>Поддержка live-трансляций в 3D-формате</li>
+<li>Встроенные датчики IMU для стабилизации изображения</li>
+<li>Функции пространственного/временного снятия шумов и компенсации экспозиции для улучшения качества изображения</li>
+<li>Захват объемного звука</li>
+<li>Поддержка HDR</li>
+<li>Большой диапазон настройки ISO, баланса белого и экспозиции</li>
+<li>Поддерживаемые кодеки: H.264 и H.265</li>
+<li>Питание и передача данных через кабель Ethernet</li>
+</ul>
+<h3><strong>Удобный дизайн</strong></h3>
+<p>Камера Kandao Obsidian S выполнена в минималистском дизайне с компактными габаритами и легким алюминиевым корпусом. В результате масса устройства не превышает 1,2 кг, что позволяет активно использовать камеру на дронах и квадрокоптерах. Максимально эргономично расположены и кнопки управления камерой, а также внешние разъемы, включая универсальное крепление для штативов. Кроме того, Obsidian S предусматривает три варианта подключения питания: две съемные батареи, внешний блок питания или Ethernet-кабель.&nbsp;</p>
+<h3><strong>Профессиональная съемка</strong></h3>
+<p>Obsidian S &ndash; идеальное решение для профессиональной VR-съемки с полноценным сферическим охватом на 360 градусов. Высокий уровень детализации изображения, обеспечиваемый шестью объективами камеры, дополняется широкими возможностями для гибкой ручной настройки параметров съемки (ISO, баланс белого и т.д.) и расширенным функционалом, включая прямые потоковые 3D-трансляции с разрешением 4К при частоте кадров 30 fps. Весь видеоконтент записывается в формате MOV и кодируется кодеками H.264 или H.265. Объемные фотопанорамы сохраняются в форматах JPEG или DNG.</p>
+<h3><strong>Сшивка и просмотр</strong></h3>
+<p>Камера Obsidian S дополняется программным пакетом Kandao Studio с богатыми функциональными возможностями для сшивки, редактирования и кодирования контента. Алгоритм сшивки изображения основан на методе глубокого обучения искусственного интеллекта, что значительно повышает качество стереоскопических панорам и сокращает время их обработки. Кроме того, функционал Kandao Studio заметно облегчает просмотр готового VR-контента как офлайн, так и онлайн. Запатентованный метод отображения ультравысоких разрешений предоставляет пользователям более широкое поле зрения без искажений, существенно повышая уровень погружения в виртуальную реальность.</p>
+<h3><strong>Обновленная прошивка</strong></h3>
+<p>Последнее обновление прошивки камеры принесло множество улучшений и дополнительных функций, среди которых стоит выделить функцию регулировки интенсивности уменьшения шума; поддержку регулировки цветовых значений RGB; поддержку импорта в форматах .cube и .look; расширение возможностей настройки live-трансляции; поддержку предварительного просмотра на 360 градусов.</p>
+<h3><strong>Режим работы</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Максимальное разрешение фотосъемки</p>
+</td>
+<td>
+<p>5760&times;5760</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Максимальное разрешение видеосъемки</p>
+</td>
+<td>
+<p>5760&times;5760 (60 FPS)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Битрейт</p>
+</td>
+<td>
+<p>100 мбит/сек</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Поддержка 3D</p>
+</td>
+<td>
+<p>Да</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Онлайн трансляции</p>
+</td>
+<td>
+<p>Выделенный сервер (RTMP);</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Формат камеры</p>
+</td>
+<td>
+<p>VR360;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Другие разрешения видеосъемки</p>
+</td>
+<td>
+<p>4K&times;4K @ 120 fps,</p>
+<p>4K&times;4K @ 80 fps</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Оптика</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Количество линз</p>
+</td>
+<td>
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Тип сенсора</p>
+</td>
+<td>
+<p>12M CMOS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Диафрагма</p>
+</td>
+<td>
+<p>f/2.2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Диапазон ISO</p>
+</td>
+<td>
+<p>100 - 3200</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Физические характеристики</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Память камеры</p>
+</td>
+<td>
+<p>Поддержка MicroSD;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Запись звука</p>
+</td>
+<td>
+<p>Запись "пространственного" звука с 6 встроенных микрофонов. Поддержка ZOOM H2n</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Интерфейсы подключения</p>
+</td>
+<td>
+<p>Wi-Fi;</p>
+<p>Bluetooth;</p>
+<p>Ethernet;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Поддержка штатива 1/4&Prime; - 20</p>
+</td>
+<td>
+<p>Да</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Габариты</p>
+</td>
+<td>
+<p>&Oslash; 14.5 &times; 9.3 мм</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Вес камеры</p>
+</td>
+<td>
+<p>1100 грамм</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Дополнительно</strong></h3>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Комплектация</p>
+</td>
+<td>
+<p>Камера Kandao Obsidian R</p>
+<p>Кабель Ethernet</p>
+<p>Комплект кабелей питания</p>
+<p>Кабель для записи "пространственного" звука</p>
+<p>Ткань для чистки линз</p>
+<p>Руководство пользователя</p>
+<p>Защитный кейс</p>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+	<param name="Артикул">ST.KN.MT.005</param>
+	<param name="Матрица (светочувствительный элемент)">12M CMOS</param>
+	<param name="Объектив"></param>
+	<param name="Тип носителя">Flash память</param>
+	<param name="Стабилизатор изображения"></param>
+	<param name="Зум"></param>
+	<param name="Фокусировка"></param>
+	<param name="Режим экспозиции"></param>
+	<param name="Баланс белого"></param>
+	<param name="Ночная съёмка"></param>
+	<param name="Цифровые эффекты"></param>
+	<param name="ЖК-монитор"></param>
+	<param name="Видоискатель"></param>
+	<param name="Режим фотосъёмки"></param>
+	<param name="Запись аудио"></param>
+	<param name="Карта памяти">MicroSD</param>
+	<param name="Разъёмы"></param>
+	<param name="Питание"></param>
+	<param name="Дополнительные функции"></param>
+	<param name="Размеры (Д х Ш х В, мм)"></param>
+	<param name="Вес (грамм)"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Цвет">Black</param>
+	<param name="Поддержка карт памяти"></param>
+	<param name="Тип видеокамеры">Панорамные камеры</param>
+	<param name="Режим видеосъемки">VR360</param>
+	<param name="Разрешение видео">5760х5760</param>
+	<param name="Ширина"></param>
+	<param name="Высота"></param>
+	<param name="Глубина"></param>
+	<param name="Наличие Wi-Fi">Есть</param>
+	<param name="Размер матрицы"></param>
+	<param name="Разъем для внешнего микрофона"></param>
+	<param name="Встроенный проектор">Нет</param>
+	<param name="Оптическая стабилизация"></param>
+	<param name="Оптический зум"></param>
+	<param name="Зарядное устройство"></param>
+	<param name="Доставка/Оплата">Бесплатная доставка</param>
+	 0 
+	<price_opt>123941</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00001805.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-enterprise/</url>
+	<price>12250</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 Enterprise (CP.QT.00001805.01)</name>
+	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
+	<param name="Артикул">CP.QT.00001805.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>11393</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00001913.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-dual/</url>
+	<price>11100</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 DUAL (CP.QT.00001913.01)</name>
+	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
+	<param name="Артикул">CP.QT.00001913.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>10323</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00001801.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
+	<price>23420</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic Phantom 4 RTK (CP.QT.00001801.01)</name>
+	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
+	<param name="Артикул">CP.QT.00001801.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>21781</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00002059.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
+	<price>55640</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 200 v2 (CP.QT.00002059.01)</name>
+	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
+	<param name="Артикул">CP.QT.00002059.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>51745</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00002053.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
+	<price>44890</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 v2 (CP.QT.00002053.01)</name>
+	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
+	<param name="Артикул">CP.QT.00002053.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>41748</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00002065.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/</url>
+	<price>63320</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 RTK v2 (CP.QT.00002065.01)</name>
+	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
+	<param name="Артикул">CP.QT.00002065.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>58888</price_opt>
+	</offer>
+	<offer available="true" id="
+	CP.QT.00002712.01">
+	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-p4-multispectral/</url>
+	<price>27730</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>5</stock_quantity>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic P4 Multispectral (CP.QT.00002712.01)</name>
+	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
+	<param name="Артикул">CP.QT.00002712.01</param>
+	<param name="Тип">Аксессуары</param>
+	<param name="Цвет фюзеляжа"></param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя"></param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета"></param>
+	<param name="Высота полета"></param>
+	<param name="Радиус действия аппаратуры"></param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера"></param>
+	<param name="GPS-модуль"></param>
+	<param name="Аппаратура управления"></param>
+	<param name="Доставка/Оплата"></param>
+	 0 
+	<price_opt>25789</price_opt>
 	</offer>
 </offers>	
 </shop>	
