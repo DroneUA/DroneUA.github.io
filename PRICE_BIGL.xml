@@ -8624,7 +8624,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000004002" available="true">
+	<item id="ST.00000004002" available="">
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<url>https://store.drone.ua/product/chasing-m2/</url>
 	<price>160000</price>
@@ -8851,7 +8851,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.KN.MT.004" available="true">
+	<item id="ST.KN.MT.004" available="">
 	<name>Панорамная камера Kandao Obsidian R (ST.KN.MT.004)</name>
 	<url>https://store.drone.ua/product/obsidian-r/</url>
 	<price>133270</price>
@@ -9046,7 +9046,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.KN.MT.006" available="true">
+	<item id="ST.KN.MT.006" available="">
 	<name>Панорамная камера Kandao Obsidian GO (ST.KN.MT.006)</name>
 	<url>https://store.drone.ua/product/obsidian-go/</url>
 	<price>61970</price>
@@ -9196,7 +9196,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.KN.MT.005" available="true">
+	<item id="ST.KN.MT.005" available="">
 	<name>Панорамная камера Kandao Obsidian S (ST.KN.MT.005)</name>
 	<url>https://store.drone.ua/product/obsidian-s/</url>
 	<price>133270</price>
