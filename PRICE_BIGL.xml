@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-02-07 17:49">	
+<price date="2020-02-10 16:19">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -363,7 +363,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000065.01" available="true">
+	<item id="CP.PT.00000065.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo (CP.PT.00000065.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo/</url>
 	<price>40270</price>
@@ -817,7 +817,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.MA.00000014.01" available="true">
+	<item id="CP.MA.00000014.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
 	<price>37480</price>
@@ -3368,7 +3368,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Желтый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.CI.00102" available="true">
+	<item id="ST.CI.00102" available="false">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
 	<price>8220</price>
@@ -8143,7 +8143,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8154,7 +8154,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00001168.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8183,7 +8183,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8194,7 +8194,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.SS000026.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8223,7 +8223,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8234,7 +8234,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.000738</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8263,7 +8263,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8274,7 +8274,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00000263.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8303,7 +8303,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8314,7 +8314,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.000846</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8343,7 +8343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8354,7 +8354,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.SS000009.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8383,7 +8383,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8394,7 +8394,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00002210.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8423,7 +8423,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8434,7 +8434,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00002444.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8463,7 +8463,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8474,7 +8474,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.000823</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8503,7 +8503,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Приобрести DJI Care Refresh возможно при выполнении следующих условий:</strong></p>
 <ul>
 <li>Устройство еще на гарантии</li>
-<li>Приобреталось в&nbsp;магазине "Українські Дрони" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
+<li>Приобреталось в&nbsp;магазине "DroneUA" или другой официальной точке продаж DJI на территории Украины (для подтверждения необходимо иметь чек товара)</li>
 <li>Покупатель прошел верификацию на&nbsp;сайте производителя</li>
 <li>Прошло не более 48 часов после активации или устройство еще не активировано</li>
 </ul>
@@ -8514,7 +8514,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </ol>
 <p>После успешной активации Вы получите соглашение об обслуживании на электронный адрес.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Care Refresh</keywords>
+	<keywords>Пакет обслуживания, DJI, Care Refresh, Care, DJI Care Refresh, DJI Care, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>ST.MM.00000123</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8531,7 +8531,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</picture>
 	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Enterprise Shield Basic</keywords>
+	<keywords>Пакет обслуживания, DJI, Enterprise Shield, Care, DJI Enterprise Shield, DJI Shield, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00001805.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8548,7 +8548,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</picture>
 	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Enterprise Shield Basic</keywords>
+	<keywords>Пакет обслуживания, DJI, Enterprise Shield, Care, DJI Enterprise Shield, DJI Shield, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00001913.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8565,7 +8565,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</picture>
 	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Enterprise Shield Basic</keywords>
+	<keywords>Пакет обслуживания, DJI, Enterprise Shield, Care, DJI Enterprise Shield, DJI Shield, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00001801.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8582,7 +8582,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</picture>
 	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Enterprise Shield Basic</keywords>
+	<keywords>Пакет обслуживания, DJI, Enterprise Shield, Care, DJI Enterprise Shield, DJI Shield, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00002059.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8599,7 +8599,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</picture>
 	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Enterprise Shield Basic</keywords>
+	<keywords>Пакет обслуживания, DJI, Enterprise Shield, Care, DJI Enterprise Shield, DJI Shield, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00002053.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8616,7 +8616,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</picture>
 	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Enterprise Shield Basic</keywords>
+	<keywords>Пакет обслуживания, DJI, Enterprise Shield, Care, DJI Enterprise Shield, DJI Shield, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00002065.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
@@ -8624,7 +8624,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000004002" available="">
+	<item id="ST.00000004002" available="false">
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<url>https://store.drone.ua/product/chasing-m2/</url>
 	<price>160000</price>
@@ -8643,7 +8643,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p>Компания CHASING также разработала новый пульт дистанционного управления профессионального уровня и электронное устройство E-Reel, которые существенно упрощают использование М2, его погружение и извлечение. Так, E-Reel может автоматически свернуть или развернуть кабель длиной 200 метров всего за 2 минуты и до 12 раз за зарядку.</p>
 <p>CHASING &mdash; ведущая компания по производству подводных беспилотников с продажами более чем в 40 странах и регионах. Благодаря ведущим в отрасли исследованиям и разработкам в области подводных беспилотников и интегрированным технологиям производства, CHASING переопределяет подводные исследования. Штаб-квартира компании находится в Шэньчжэне, Китай, с открытыми офисами или филиалами в Пекине, Чэнду, Куньмине и Сиэтле, США. Продукт предыдущего поколения GLADIUS MINI получил престижную награду Red Dot Design Product 2019.</p>]]></description>
 	<warranty>0</warranty>
-	<keywords>Подводный дрон, Chasing M2</keywords>
+	<keywords>Подводный дрон, Chasing M2, Chasing</keywords>
 	<vendorCode>ST.00000004002</vendorCode> 
 	<portal_category_url>https://bigl.ua/Radioupravlyaemye-modeli</portal_category_url>
 	<country>Китай</country>
@@ -8684,7 +8684,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <li>Работает с популярными приложениями для конференций, такими как Skype, Cisco Webex, Zoom, Slack и GoToMeeting</li>
 </ul>]]></description>
 	<warranty>0</warranty>
-	<keywords>Панорамная камера, Kandao Meeting</keywords>
+	<keywords>Панорамная камера, Kandao Meeting, Kandao</keywords>
 	<vendorCode>ST.KN.MT.001</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
 	<country>Китай</country>
@@ -8802,7 +8802,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </tbody>
 </table>]]></description>
 	<warranty>0</warranty>
-	<keywords>Панорамная камера, Kandao QooCam</keywords>
+	<keywords>Панорамная камера, Kandao QooCam, Kandao</keywords>
 	<vendorCode>ST.KN.QC.001</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
 	<country>Китай</country>
@@ -8843,7 +8843,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <li>Разъемы: 3.5-мм микрофон, USB Type-C</li>
 </ul>]]></description>
 	<warranty>0</warranty>
-	<keywords>Панорамная камера, Kandao QooCam 8K</keywords>
+	<keywords>Панорамная камера, Kandao QooCam 8K, Kandao</keywords>
 	<vendorCode>ST.KN.QC.8K.001</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
 	<country>Китай</country>
@@ -8851,7 +8851,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.KN.MT.004" available="">
+	<item id="ST.KN.MT.004" available="false">
 	<name>Панорамная камера Kandao Obsidian R (ST.KN.MT.004)</name>
 	<url>https://store.drone.ua/product/obsidian-r/</url>
 	<price>133270</price>
@@ -9038,7 +9038,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </tbody>
 </table>]]></description>
 	<warranty>0</warranty>
-	<keywords>Панорамная камера, Kandao Obsidian R</keywords>
+	<keywords>Панорамная камера, Kandao Obsidian R, Kandao</keywords>
 	<vendorCode>ST.KN.MT.004</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
 	<country>Китай</country>
@@ -9046,7 +9046,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.KN.MT.006" available="">
+	<item id="ST.KN.MT.006" available="false">
 	<name>Панорамная камера Kandao Obsidian GO (ST.KN.MT.006)</name>
 	<url>https://store.drone.ua/product/obsidian-go/</url>
 	<price>61970</price>
@@ -9188,7 +9188,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </tbody>
 </table>]]></description>
 	<warranty>0</warranty>
-	<keywords>Панорамная камера, Kandao Obsidian GO</keywords>
+	<keywords>Панорамная камера, Kandao Obsidian GO, Kandao</keywords>
 	<vendorCode>ST.KN.MT.006</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
 	<country>Китай</country>
@@ -9196,7 +9196,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет" unit="">Черный</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.KN.MT.005" available="">
+	<item id="ST.KN.MT.005" available="false">
 	<name>Панорамная камера Kandao Obsidian S (ST.KN.MT.005)</name>
 	<url>https://store.drone.ua/product/obsidian-s/</url>
 	<price>133270</price>
@@ -9406,7 +9406,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 </tbody>
 </table>]]></description>
 	<warranty>0</warranty>
-	<keywords>Панорамная камера, Kandao Obsidian S</keywords>
+	<keywords>Панорамная камера, Kandao Obsidian S, Kandao</keywords>
 	<vendorCode>ST.KN.MT.005</vendorCode> 
 	<portal_category_url>https://bigl.ua/Tsifrovye-videokamery</portal_category_url>
 	<country>Китай</country>
@@ -9423,7 +9423,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</picture>
 	<description><![CDATA[Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.]]></description>
 	<warranty>0</warranty>
-	<keywords>Пакет обслуживания, DJI, Enterprise Shield Basic</keywords>
+	<keywords>Пакет обслуживания, DJI, Enterprise Shield, Care, DJI Enterprise Shield, DJI Shield, Страхование дронов, страховка дронов, страховка квадрокопетров, страхование квадрокоптеров</keywords>
 	<vendorCode>CP.QT.00002712.01</vendorCode> 
 	<portal_category_url>https://bigl.ua/Komplektuyuschie-dlya-radioupravlyaemyh-igrushek-i-modelej</portal_category_url>
 	<country>Китай</country>
