@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-02-13 19:50">	
+<yml_catalog date="2020-02-14 16:43">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -4089,7 +4089,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>27072</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000168.01_2">
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
 	<price>29110</price>
@@ -9295,7 +9295,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.MM.00000109">
 	<url>https://store.drone.ua/product/mavic-mini-charging-base/</url>
 	<price>1210</price>
