@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-02-10 17:19</date>	
+<date>2020-02-14 16:51</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -90,7 +90,7 @@
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000168.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
 	<priceRUAH>29110</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -521,7 +521,7 @@
 	<description>С панорамной камерой Insta360 ONE X Вы можете снимать 360-видео с максимальным разрешением 5.7@30fps и делать 360-фото 18 МП. Экшн-камера имеет компактные размеры для комфортной эксплуатации в любых условиях.</description>
 	<url>https://store.drone.ua/product/insta360-one-x/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/ekshn-kameryutm_content=ST.IN.000001/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</image>
-	<priceRUAH>9999</priceRUAH>
+	<priceRUAH>10970</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1039,7 +1039,7 @@
 	<url>https://store.drone.ua/product/dji-osmo-action/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/ekshn-kameryutm_content=CP.OS.00000020.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_1.jpg</image>
 	<priceRUAH>11750</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1946,7 +1946,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/d-rtk-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004491/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</image>
 	<priceRUAH>138240</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3754,7 +3754,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/mavic-mini-charging-base/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000109/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_1.jpg</image>
 	<priceRUAH>1210</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
