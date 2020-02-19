@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-02-14 16:29">	
+<price date="2020-02-18 22:53">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -846,7 +846,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.MA.00000037.01" available="true">
+	<item id="CP.MA.00000037.01" available="false">
 	<name>Набор DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>11750</price>
@@ -3368,7 +3368,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Желтый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.CI.00102" available="false">
+	<item id="ST.CI.00102" available="true">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
 	<price>8220</price>
@@ -5547,7 +5547,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.000000011501" available="false">
+	<item id="ST.000000011501" available="true">
 	<name>Квадрокоптер DJI P4 Multispectral (ST.000000011501)</name>
 	<url>https://store.drone.ua/product/p4-multispectral/</url>
 	<price>230360</price>
@@ -5613,7 +5613,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.EN.00000108.01" available="false">
+	<item id="CP.EN.00000108.01" available="true">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP.EN.00000108.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise-dual/</url>
 	<price>111320</price>
@@ -5696,7 +5696,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000006323" available="false">
+	<item id="ST.00000006323" available="true">
 	<name>Аккумулятор DJI Mavic 2 Enterprise (ST.00000006323)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part2_battery/</url>
 	<price>6080</price>
@@ -5713,7 +5713,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000006325" available="false">
+	<item id="ST.00000006325" available="true">
 	<name>Прожектор DJI Mavic 2 Enterprise Spotlight (ST.00000006325)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part4_spotlight/</url>
 	<price>4240</price>
@@ -5848,7 +5848,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000009846" available="false">
+	<item id="ST.00000009846" available="true">
 	<name>Штатив для базовой станции DJI D-RTK 2 (ST.00000009846)</name>
 	<url>https://store.drone.ua/product/d-rtk-2-base-station-tripod/</url>
 	<price>6860</price>
@@ -8056,7 +8056,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.MM.00000102" available="true">
+	<item id="ST.MM.00000102" available="false">
 	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
 	<price>15470</price>
