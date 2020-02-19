@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-02-14 16:43">	
+<yml_catalog date="2020-02-18 23:24">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -3781,7 +3781,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>18712</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000037.01">
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>11750</price>
@@ -4422,7 +4422,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>49076</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.CI.00102">
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
 	<price>8220</price>
@@ -9449,7 +9449,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>11504</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000102">
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
 	<price>15470</price>
@@ -10083,7 +10083,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	 0 
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000004002">
 	<url>https://store.drone.ua/product/chasing-m2/</url>
 	<price>160000</price>
@@ -10429,7 +10429,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	 0 
 	<price_opt>18712</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.KN.MT.004">
 	<url>https://store.drone.ua/product/obsidian-r/</url>
 	<price>133270</price>
@@ -10659,7 +10659,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	 0 
 	<price_opt>123941</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.KN.MT.006">
 	<url>https://store.drone.ua/product/obsidian-go/</url>
 	<price>61970</price>
@@ -10844,7 +10844,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	 0 
 	<price_opt>57632</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.KN.MT.005">
 	<url>https://store.drone.ua/product/obsidian-s/</url>
 	<price>133270</price>
