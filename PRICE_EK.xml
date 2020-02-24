@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-02-24 10:25">	
+<yml_catalog date="2020-02-24 15:29">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -2298,7 +2298,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001801.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Phantom 4 RTK (CP.QT.00001801.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
-	<price>23420</price>
+	<price>24150</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</image>
@@ -2307,7 +2307,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002059.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 200 v2 (CP.QT.00002059.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
-	<price>55640</price>
+	<price>44890</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</image>
@@ -2316,7 +2316,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002053.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 v2 (CP.QT.00002053.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
-	<price>44890</price>
+	<price>55640</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</image>
