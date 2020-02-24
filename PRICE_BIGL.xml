@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-02-21 18:59">	
+<price date="2020-02-24 15:09">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -5225,7 +5225,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004017" available="false">
 	<name>Объектив DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
-	<price>43370</price>
+	<price>52040</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</picture>
@@ -5262,7 +5262,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004015" available="false">
 	<name>Объектив DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
-	<price>46470</price>
+	<price>55760</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</picture>
@@ -5299,7 +5299,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004014" available="false">
 	<name>Объектив DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
-	<price>46470</price>
+	<price>55760</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</picture>
@@ -5336,7 +5336,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004013" available="false">
 	<name>Объектив DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
-	<price>46470</price>
+	<price>55760</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</picture>
@@ -5373,7 +5373,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004012" available="false">
 	<name>Объектив DJI Zenmuse X7 DL / DL-S Lens Set (ST.00000004012)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/</url>
-	<price>151870</price>
+	<price>182240</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_1.jpg</picture>
@@ -8559,7 +8559,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001801.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Phantom 4 RTK (CP.QT.00001801.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
-	<price>23420</price>
+	<price>24150</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</picture>
@@ -8576,7 +8576,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002059.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 200 v2 (CP.QT.00002059.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
-	<price>55640</price>
+	<price>44890</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</picture>
@@ -8593,7 +8593,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002053.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 v2 (CP.QT.00002053.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
-	<price>44890</price>
+	<price>55640</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</picture>
