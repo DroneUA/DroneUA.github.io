@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-02-26 11:20">	
+<price date="2020-02-27 11:08">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -1699,7 +1699,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.IN.000001" available="true">
 	<name>Action камера Insta360 One X (ST.IN.000001)</name>
 	<url>https://store.drone.ua/product/insta360-one-x/</url>
-	<price>10970</price>
+	<price>9999</price>
 	<categoryId>4</categoryId>
 	<vendor>Insta360</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
