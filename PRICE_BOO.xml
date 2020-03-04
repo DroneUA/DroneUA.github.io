@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-02-27 11:22">	
+<yml_catalog date="2020-03-04 15:35">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -709,7 +709,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state>Refurbished</state>
 	<price_opt>18763</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.MA.00000014.01">
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
 	<price>37480</price>
@@ -3781,7 +3781,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>18712</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.MA.00000037.01">
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>11750</price>
@@ -6876,7 +6876,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000003914">
 	<url>https://store.drone.ua/product/inspire-2-ronin-2-battery-charging-hub/</url>
-	<price>1770</price>
+	<price>3380</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_1.jpg</picture>
@@ -6902,7 +6902,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка при заказе от 3000 грн</param>
 	<state></state>
-	<price_opt>1646</price_opt>
+	<price_opt>3143</price_opt>
 	</offer>
 	<offer available="false" id="
 	CR3-2600W-01">
