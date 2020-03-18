@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-03-17 22:17</date>	
+<date>2020-03-19 01:32</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -4234,7 +4234,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>0</priceRUAH>
+	<priceRUAH></priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4250,7 +4250,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>0</priceRUAH>
+	<priceRUAH></priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
