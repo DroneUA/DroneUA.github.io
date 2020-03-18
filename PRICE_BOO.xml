@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-03-17 22:04">	
+<yml_catalog date="2020-03-19 01:18">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -23,7 +23,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000132.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-black/</url>
-	<price>19946</price>
+	<price>19945.63</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
@@ -104,12 +104,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка</param>
 	<state>Refurbished</state>
-	<price_opt>18550</price_opt>
+	<price_opt>18549</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000141.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-white/</url>
-	<price>20282</price>
+	<price>20282.37</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -190,12 +190,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка</param>
 	<state>Refurbished</state>
-	<price_opt>18862</price_opt>
+	<price_opt>18863</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000148.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-red/</url>
-	<price>19763</price>
+	<price>19762.57</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -276,12 +276,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка</param>
 	<state>Refurbished</state>
-	<price_opt>18380</price_opt>
+	<price_opt>18379</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000159.01">
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
-	<price>26893</price>
+	<price>26892.87</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
@@ -367,7 +367,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000168.01">
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo/</url>
-	<price>26893</price>
+	<price>26892.87</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
@@ -453,7 +453,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000169.01.CP.PT.00000168.01">
 	<url>https://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
-	<price>26893</price>
+	<price>26892.87</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
@@ -539,7 +539,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000075.01">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-ref/</url>
-	<price>26901</price>
+	<price>26900.78</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
@@ -597,7 +597,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000065.01">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
-	<price>33559</price>
+	<price>33558.74</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
@@ -655,7 +655,7 @@
 	<offer available="false" id="
 	ST.CP.ZM.00000104.01">
 	<url>https://store.drone.ua/product/ronin-s-ref/</url>
-	<price>20175</price>
+	<price>20175.02</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
