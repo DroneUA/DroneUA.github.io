@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-03-19 00:59">	
+<price date="2020-03-25 15:06">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -791,7 +791,7 @@
 	<param name="Цвет корпуса" unit="">Белый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.MA.00000013.01" available="true">
+	<item id="CP.MA.00000013.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
 	<price>44920</price>
@@ -875,7 +875,7 @@
 	<item id="CP.PT.00000132.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Refurbished (CP.PT.00000132.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-black/</url>
-	<price>17651</price>
+	<price>17650</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
@@ -947,7 +947,7 @@
 	<item id="CP.PT.00000141.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Refurbished (CP.PT.00000141.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-white/</url>
-	<price>17949</price>
+	<price>17950</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -1019,7 +1019,7 @@
 	<item id="CP.PT.00000148.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Refurbished (CP.PT.00000148.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-red/</url>
-	<price>17489</price>
+	<price>17490</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -1091,7 +1091,7 @@
 	<item id="CP.PT.00000159.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Fly More Combo Refurbished (CP.PT.00000159.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
-	<price>23799</price>
+	<price>23800</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
@@ -1163,7 +1163,7 @@
 	<item id="CP.PT.00000168.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Fly More Combo Refurbished (CP.PT.00000168.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo/</url>
-	<price>23799</price>
+	<price>23800</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
@@ -1235,7 +1235,7 @@
 	<item id="CP.PT.00000169.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Fly More Combo Refurbished (CP.PT.00000169.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
-	<price>23799</price>
+	<price>23800</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
@@ -1307,7 +1307,7 @@
 	<item id="CP.PT.00000075.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished (CP.PT.00000075.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-ref/</url>
-	<price>23806</price>
+	<price>23810</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
@@ -1351,7 +1351,7 @@
 	<item id="CP.PT.00000065.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished (CP.PT.00000065.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
-	<price>29698</price>
+	<price>29700</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
@@ -1395,7 +1395,7 @@
 	<item id="CP.ZM.00000104.01_REF" available="">
 	<name>Стедикам DJI Ronin-S Refurbished (CP.ZM.00000104.01)</name>
 	<url>https://store.drone.ua/product/ronin-s-ref/</url>
-	<price>17854</price>
+	<price>17850</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -3494,7 +3494,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000077.01" available="false">
+	<item id="CP.PT.00000077.01" available="true">
 	<name>Интеллектуальная батарея DJI Mavic Pro Platinum 3830 mAh (CP.PT.00000077.01)</name>
 	<url>https://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 	<price>3070</price>
@@ -8627,7 +8627,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004002" available="false">
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>160000</price>
+	<price>103960</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</picture>
