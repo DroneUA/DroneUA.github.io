@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-03-19 01:28</date>	
+<date>2020-03-25 16:01</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -250,7 +250,7 @@
 	<url>https://store.drone.ua/product/mavic-2-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000013.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Pro.jpg</image>
 	<priceRUAH>44920</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -297,7 +297,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	<url>https://store.drone.ua/product/mavic-air-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000132.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Black.jpg</image>
-	<priceRUAH>17651</priceRUAH>
+	<priceRUAH>17650</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -313,7 +313,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	<url>https://store.drone.ua/product/mavic-air-ref-white/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000141.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_White.jpg</image>
-	<priceRUAH>17949</priceRUAH>
+	<priceRUAH>17950</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -329,7 +329,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	<url>https://store.drone.ua/product/mavic-air-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000148.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Red.jpg</image>
-	<priceRUAH>17489</priceRUAH>
+	<priceRUAH>17490</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -345,7 +345,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000159.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Black.jpg</image>
-	<priceRUAH>23799</priceRUAH>
+	<priceRUAH>23800</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -361,7 +361,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000168.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_White.jpg</image>
-	<priceRUAH>23799</priceRUAH>
+	<priceRUAH>23800</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -377,7 +377,7 @@
 	<description>Съемка в 4K, функция замедленной съёмки в разрешении 1080p. Максимальная скорость - 68.4 км/ч в спорт режиме. По всему периметру DJI Mavic Air расположились вентиляционные отверстия которые помимо охлаждения влияют на аэродинамику.</description>
 	<url>https://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000169.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Air_Fly_More_Combo_REF_Red.jpg</image>
-	<priceRUAH>23799</priceRUAH>
+	<priceRUAH>23800</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -393,7 +393,7 @@
 	<description>Съемка в 4K с интеллектуальным режимом, система распознавания жестов, максимальная скорость - 65 км/ч, ёмкость аккумуляторов позволяет использовать дрон до 30 минут в воздухе.</description>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000075.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
-	<priceRUAH>23806</priceRUAH>
+	<priceRUAH>23810</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -409,7 +409,7 @@
 	<description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000065.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
-	<priceRUAH>29698</priceRUAH>
+	<priceRUAH>29700</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -425,7 +425,7 @@
 	<description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
 	<url>https://store.drone.ua/product/ronin-s-ref/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.ZM.00000104.01 REF/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
-	<priceRUAH>17854</priceRUAH>
+	<priceRUAH>17850</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">1</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -794,7 +794,7 @@
 	<url>https://store.drone.ua/product/accum-mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000077.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</image>
 	<priceRUAH>3070</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4105,7 +4105,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Дрон оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом на глубину до 100 метров.</description>
 	<url>https://store.drone.ua/product/chasing-m2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000004002/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</image>
-	<priceRUAH>160000</priceRUAH>
+	<priceRUAH>103960</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
