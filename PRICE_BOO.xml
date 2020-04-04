@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-03-25 15:49">	
+<yml_catalog date="2020-04-03 20:19">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -709,10 +709,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state>Refurbished</state>
 	<price_opt>18759</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000014.01">
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>37480</price>
+	<price>37480.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
@@ -755,7 +755,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.MA.00000013.01">
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>44920</price>
+	<price>44920.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
@@ -795,7 +795,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.PT.00000242.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>52670</price>
+	<price>52670.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
@@ -879,7 +879,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>61970</price>
+	<price>61970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -963,7 +963,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000210.01">
 	<url>https://store.drone.ua/product/tello/</url>
-	<price>3380</price>
+	<price>3380.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</picture>
@@ -1017,7 +1017,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.TL.00000015.01">
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
-	<price>4930</price>
+	<price>4930.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</picture>
@@ -1072,7 +1072,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.TL.00000002.01">
 	<url>https://store.drone.ua/product/dji-tello-iron-man-edition/</url>
-	<price>4310</price>
+	<price>4310.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</picture>
@@ -1126,7 +1126,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	ST.IN.000001">
 	<url>https://store.drone.ua/product/insta360-one-x/</url>
-	<price>9999</price>
+	<price>9999.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</picture>
@@ -1389,7 +1389,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.IN.000002">
 	<url>https://store.drone.ua/product/insta360-one/</url>
-	<price>7240</price>
+	<price>7240.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_One_1.jpg</picture>
@@ -1579,7 +1579,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.IN.000003">
 	<url>https://store.drone.ua/product/insta360-pro/</url>
-	<price>117270</price>
+	<price>117270.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro_1.jpg</picture>
@@ -1806,7 +1806,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.IN.000004">
 	<url>https://store.drone.ua/product/insta360-pro-2-s-tehnologiej-farsight/</url>
-	<price>141779</price>
+	<price>141779.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Pro2_1.jpg</picture>
@@ -2096,7 +2096,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.IN.000005">
 	<url>https://store.drone.ua/product/insta360-titan/</url>
-	<price>484470</price>
+	<price>484470.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_TITAN_1.jpg</picture>
@@ -2366,7 +2366,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.IN.000006_S">
 	<url>https://store.drone.ua/product/insta360-nano-s-black/</url>
-	<price>8610</price>
+	<price>8610.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Silver_1.jpg</picture>
@@ -2566,7 +2566,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.IN.000006_B">
 	<url>https://store.drone.ua/product/insta360-nano-s-silver/</url>
-	<price>8610</price>
+	<price>8610.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_Nano_S_Black_1.jpg</picture>
@@ -2768,7 +2768,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CINEVOX/A">
 	<url>https://store.drone.ua/product/insta360-evo/</url>
-	<price>10970</price>
+	<price>10970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</picture>
@@ -3029,7 +3029,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.ZM.00000097.01">
 	<url>https://store.drone.ua/product/osmo-pocket/</url>
-	<price>11130</price>
+	<price>11130.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/OSMO_Pocket_1.jpg</picture>
@@ -3186,7 +3186,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.ZM.00000064.01">
 	<url>https://store.drone.ua/product/osmo-mobile-2/</url>
-	<price>4620</price>
+	<price>4620.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/OSMO_Mobile2_1.jpg</picture>
@@ -3336,7 +3336,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000741">
 	<url>https://store.drone.ua/product/spark/</url>
-	<price>15470</price>
+	<price>15470.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
@@ -3367,7 +3367,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000743">
 	<url>https://store.drone.ua/product/spark-golyboi/</url>
-	<price>15470</price>
+	<price>15470.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</picture>
@@ -3398,7 +3398,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000744">
 	<url>https://store.drone.ua/product/spark-zelenyj-2/</url>
-	<price>15470</price>
+	<price>15470.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</picture>
@@ -3429,7 +3429,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000745">
 	<url>https://store.drone.ua/product/spark-krasnyj/</url>
-	<price>15470</price>
+	<price>15470.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</picture>
@@ -3460,7 +3460,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000742">
 	<url>https://store.drone.ua/product/spark-zheltyj/</url>
-	<price>15470</price>
+	<price>15470.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</picture>
@@ -3491,7 +3491,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.PT.00000194.01">
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
-	<price>2450</price>
+	<price>2450.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
@@ -3525,7 +3525,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.PT.00000077.01">
 	<url>https://store.drone.ua/product/accum-mavic-pro-platinum/</url>
-	<price>3070</price>
+	<price>3070.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
@@ -3560,7 +3560,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000587">
 	<url>https://store.drone.ua/product/batareja-dlja-mavic/</url>
-	<price>3070</price>
+	<price>3070.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
@@ -3594,7 +3594,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.PT.000601">
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
-	<price>5860</price>
+	<price>5860.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
@@ -3625,7 +3625,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	ST.0000015">
 	<url>https://store.drone.ua/product/tello-part-1-battery/</url>
-	<price>780</price>
+	<price>780.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
@@ -3654,10 +3654,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>725</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.VL.00000014.01">
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
-	<price>18570</price>
+	<price>18570.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Goggles_Racing_Edition.jpg</picture>
@@ -3705,7 +3705,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000670">
 	<url>https://store.drone.ua/product/goggles/</url>
-	<price>12370</price>
+	<price>12370.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Goggles_White_1.png</picture>
@@ -3752,7 +3752,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000889">
 	<url>https://store.drone.ua/product/spark-fly-more-combo/</url>
-	<price>20120</price>
+	<price>20120.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</picture>
@@ -3784,7 +3784,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.MA.00000037.01">
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
-	<price>11750</price>
+	<price>11750.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Fly_More_Kit.jpg</picture>
@@ -3891,7 +3891,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000141.01_2">
 	<url>https://store.drone.ua/product/mavic-air/</url>
-	<price>22910</price>
+	<price>22910.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -3958,7 +3958,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000148.01_2">
 	<url>https://store.drone.ua/product/mavic-air-red/</url>
-	<price>22910</price>
+	<price>22910.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -4025,7 +4025,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000159.01_2">
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-black/</url>
-	<price>29110</price>
+	<price>29110.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_2.jpg</picture>
@@ -4092,7 +4092,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000168.01_2">
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-white/</url>
-	<price>29110</price>
+	<price>29110.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_2.jpg</picture>
@@ -4159,7 +4159,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000169.01_2">
 	<url>https://store.drone.ua/product/dji-mavic-air-fly-more-combo-red/</url>
-	<price>29110</price>
+	<price>29110.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_2.jpg</picture>
@@ -4226,7 +4226,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000075.01_2">
 	<url>https://store.drone.ua/product/mavic-pro-platinum/</url>
-	<price>30970</price>
+	<price>30970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_3.jpg</picture>
@@ -4269,7 +4269,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000065.01_2">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo/</url>
-	<price>40270</price>
+	<price>40270.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_4.jpg</picture>
@@ -4312,7 +4312,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.ZM.00000104.01_2">
 	<url>https://store.drone.ua/product/ronin-s/</url>
-	<price>23220</price>
+	<price>23220.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -4348,7 +4348,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.CI.00001">
 	<url>https://store.drone.ua/product/podvodnyj-dron-gladius/</url>
-	<price>67950</price>
+	<price>67950.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</picture>
@@ -4382,10 +4382,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>63194</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.CI.00002">
 	<url>https://store.drone.ua/product/gladius-mini/</url>
-	<price>52770</price>
+	<price>52770.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
@@ -4425,7 +4425,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	ST.CI.00102">
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>8220</price>
+	<price>8220.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
@@ -4460,7 +4460,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	PZM200">
 	<url>https://store.drone.ua/product/parazero-safeair-m-200/</url>
-	<price>84780</price>
+	<price>84780.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-200_1.jpg</picture>
@@ -4545,7 +4545,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	PZM600">
 	<url>https://store.drone.ua/product/parazero-safeair-m-600/</url>
-	<price>84780</price>
+	<price>84780.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-600_1.jpg</picture>
@@ -4629,7 +4629,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	PZPHANTOM">
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
-	<price>14820</price>
+	<price>14820.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Mavic_1.png</picture>
@@ -4702,7 +4702,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	PZMAVIC">
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
-	<price>9900</price>
+	<price>9900.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_1.jpg</picture>
@@ -4773,7 +4773,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.RN.00000040.01">
 	<url>https://store.drone.ua/product/dji-ronin-sc/</url>
-	<price>11130</price>
+	<price>11130.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</picture>
@@ -4808,7 +4808,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.RN.00000043.01">
 	<url>https://store.drone.ua/product/dji-ronin-sc-pro-combo/</url>
-	<price>14230</price>
+	<price>14230.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_1.jpg</picture>
@@ -4843,7 +4843,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.OS.00000022.01">
 	<url>https://store.drone.ua/product/osmo-mobile-3/</url>
-	<price>3380</price>
+	<price>3380.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</picture>
@@ -4900,7 +4900,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.OS.00000040.01">
 	<url>https://store.drone.ua/product/osmo-mobile-3-combo/</url>
-	<price>4000</price>
+	<price>4000.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_1.jpg</picture>
@@ -4957,7 +4957,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.TR.00000006.01">
 	<url>https://store.drone.ua/product/dji-fpv-experience-combo/</url>
-	<price>27250</price>
+	<price>27250.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_1.jpg</picture>
@@ -5052,7 +5052,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.TR.00000006.02">
 	<url>https://store.drone.ua/product/dji-fpv-fly-more-combo-mode-1/</url>
-	<price>30970</price>
+	<price>30970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</picture>
@@ -5147,7 +5147,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.TR.00000006.03">
 	<url>https://store.drone.ua/product/dji-fpv-fly-more-combo-mode-2/</url>
-	<price>30970</price>
+	<price>30970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</picture>
@@ -5242,7 +5242,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	MSPARROTSEQ">
 	<url>https://store.drone.ua/product/parrot-sequoia-plus/</url>
-	<price>126720</price>
+	<price>126720.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</picture>
@@ -5273,7 +5273,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	D.UA.PD1900">
 	<url>https://store.drone.ua/product/pd1900/</url>
-	<price>80170</price>
+	<price>80170.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/PD1900_1.jpg</picture>
@@ -5337,7 +5337,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.BX.000237">
 	<url>https://store.drone.ua/product/cendence-remote-controller/</url>
-	<price>42740</price>
+	<price>42740.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_1.jpg</picture>
@@ -5364,10 +5364,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>39748</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.MA.00000080.01">
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
-	<price>22600</price>
+	<price>22600.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</picture>
@@ -5421,7 +5421,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000649">
 	<url>https://store.drone.ua/product/kontroller-mavic/</url>
-	<price>11130</price>
+	<price>11130.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_1.jpg</picture>
@@ -5445,7 +5445,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000792">
 	<url>https://store.drone.ua/product/spark-remote-controller/</url>
-	<price>5240</price>
+	<price>5240.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_1.jpg</picture>
@@ -5473,7 +5473,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000220.02">
 	<url>https://store.drone.ua/product/pult-upravlenija-gamesir-t1d/</url>
-	<price>1050</price>
+	<price>1050.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_1.jpg</picture>
@@ -5517,10 +5517,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>977</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.BX.000178.02">
 	<url>https://store.drone.ua/product/kontroller-inspire-2/</url>
-	<price>23400</price>
+	<price>23400.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</picture>
@@ -5556,7 +5556,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	AGRASMG1PKIT">
 	<url>https://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
-	<price>22320</price>
+	<price>22320.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</picture>
@@ -5578,7 +5578,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	DJIMG1SHUB">
 	<url>https://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
-	<price>37170</price>
+	<price>37170.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</picture>
@@ -5603,7 +5603,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	DJIMG1CH">
 	<url>https://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
-	<price>33480</price>
+	<price>33480.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</picture>
@@ -5625,7 +5625,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	DJIAGR1P">
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
-	<price>371970</price>
+	<price>371970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</picture>
@@ -5676,7 +5676,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.TP.00000008.01">
 	<url>https://store.drone.ua/product/agras-mg-1s/</url>
-	<price>242950</price>
+	<price>242950.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</picture>
@@ -5724,7 +5724,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	PA.ST.02">
 	<url>https://store.drone.ua/product/anafi-thermal/</url>
-	<price>75240</price>
+	<price>75240.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_1.png</picture>
@@ -5761,7 +5761,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	PA.ST.03">
 	<url>https://store.drone.ua/product/anafi-work/</url>
-	<price>39560</price>
+	<price>39560.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_1.png</picture>
@@ -5793,7 +5793,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	PA.ST.04">
 	<url>https://store.drone.ua/product/anafi-extended/</url>
-	<price>29670</price>
+	<price>29670.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</picture>
@@ -5829,7 +5829,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	PA.ST.05">
 	<url>https://store.drone.ua/product/anafi/</url>
-	<price>23070</price>
+	<price>23070.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</picture>
@@ -5873,7 +5873,7 @@ Anafi — ультрапортативный беспилотник, компа�
 	<offer available="true" id="
 	PA.ST.06">
 	<url>https://store.drone.ua/product/bluegrass/</url>
-	<price>177810</price>
+	<price>177810.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_1.jpg</picture>
@@ -5912,7 +5912,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.07">
 	<url>https://store.drone.ua/product/mambo-fpv/</url>
-	<price>6260</price>
+	<price>6260.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_1.png</picture>
@@ -5948,7 +5948,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.11">
 	<url>https://store.drone.ua/product/bebop-2-fpv/</url>
-	<price>20970</price>
+	<price>20970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_1.png</picture>
@@ -5982,7 +5982,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.14">
 	<url>https://store.drone.ua/product/bebop-2-power-fpv-pack/</url>
-	<price>23070</price>
+	<price>23070.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_1.png</picture>
@@ -6016,7 +6016,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.18">
 	<url>https://store.drone.ua/product/disco-pro-ag/</url>
-	<price>188965</price>
+	<price>188965.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Disco-Pro_AG_1.jpg</picture>
@@ -6051,7 +6051,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.19">
 	<url>https://store.drone.ua/product/parrot_skycontroller3/</url>
-	<price>6570</price>
+	<price>6570.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</picture>
@@ -6075,7 +6075,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.20">
 	<url>https://store.drone.ua/product/anafi_smart_battery/</url>
-	<price>3300</price>
+	<price>3300.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</picture>
@@ -6098,7 +6098,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.21">
 	<url>https://store.drone.ua/product/anafi_travel_bag/</url>
-	<price>2610</price>
+	<price>2610.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_1.jpg</picture>
@@ -6124,7 +6124,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.22">
 	<url>https://store.drone.ua/product/parrot_skycontroller_3_tablet_holder/</url>
-	<price>1290</price>
+	<price>1290.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</picture>
@@ -6147,7 +6147,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	PA.ST.23">
 	<url>https://store.drone.ua/product/anafi_foldable_propellers/</url>
-	<price>660</price>
+	<price>660.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</picture>
@@ -6170,7 +6170,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000003068">
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
-	<price>6960</price>
+	<price>6960.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</picture>
@@ -6202,7 +6202,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000007806">
 	<url>https://store.drone.ua/product/dji-osmo-part-6-charging-kit-eu/</url>
-	<price>2760</price>
+	<price>2760.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>6</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_1.jpg</picture>
@@ -6272,7 +6272,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.000000010931">
 	<url>https://store.drone.ua/product/osmo-part1-grip-tripod/</url>
-	<price>900</price>
+	<price>900.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>6</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_1.jpg</picture>
@@ -6312,7 +6312,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	CP.BX.000167">
 	<url>https://store.drone.ua/product/inspire-2/</url>
-	<price>105370</price>
+	<price>105370.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire2_1.png</picture>
@@ -6371,7 +6371,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	CP.BX.000169">
 	<url>https://store.drone.ua/product/inspire-2-professional/</url>
-	<price>353400</price>
+	<price>353400.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Professional_1.jpg</picture>
@@ -6430,7 +6430,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.0000004">
 	<url>https://store.drone.ua/product/inspire-2-premium/</url>
-	<price>441750</price>
+	<price>441750.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Premium_1.jpg</picture>
@@ -6489,7 +6489,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004017">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
-	<price>52040</price>
+	<price>52040.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</picture>
@@ -6530,7 +6530,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004015">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
-	<price>55760</price>
+	<price>55760.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</picture>
@@ -6571,7 +6571,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004014">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
-	<price>55760</price>
+	<price>55760.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</picture>
@@ -6612,7 +6612,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004013">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
-	<price>55760</price>
+	<price>55760.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</picture>
@@ -6653,7 +6653,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004012">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/</url>
-	<price>182240</price>
+	<price>182240.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_1.jpg</picture>
@@ -6742,7 +6742,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004020">
 	<url>https://store.drone.ua/product/zenmuse-x5s-gimbal-and-camera-lens-excluded/</url>
-	<price>49570</price>
+	<price>49570.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_1.jpg</picture>
@@ -6776,7 +6776,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004019">
 	<url>https://store.drone.ua/product/zenmuse-x5s/</url>
-	<price>68170</price>
+	<price>68170.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_1.jpg</picture>
@@ -6817,7 +6817,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004011">
 	<url>https://store.drone.ua/product/zenmuse-x7/</url>
-	<price>92970</price>
+	<price>92970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_1.jpg</picture>
@@ -6846,7 +6846,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.00000002931">
 	<url>https://store.drone.ua/product/phantom-4-series-battery-charging-hub/</url>
-	<price>3070</price>
+	<price>3070.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_1.jpg</picture>
@@ -6876,7 +6876,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000003914">
 	<url>https://store.drone.ua/product/inspire-2-ronin-2-battery-charging-hub/</url>
-	<price>3380</price>
+	<price>3380.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_1.jpg</picture>
@@ -9164,10 +9164,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>12332</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.MM.00000106">
 	<url>https://store.drone.ua/product/mavic-mini-propellers/</url>
-	<price>370</price>
+	<price>370.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_1.jpg</picture>
@@ -9201,7 +9201,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.MM.00000107">
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
-	<price>1400</price>
+	<price>1400.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</picture>
@@ -9246,7 +9246,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.MM.00000108">
 	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/</url>
-	<price>1210</price>
+	<price>1210.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_1.jpg</picture>
@@ -9298,7 +9298,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.MM.00000109">
 	<url>https://store.drone.ua/product/mavic-mini-charging-base/</url>
-	<price>1210</price>
+	<price>1210.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_1.jpg</picture>
@@ -9346,7 +9346,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.MM.00000113">
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
-	<price>590</price>
+	<price>590.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_1.jpg</picture>
@@ -9371,7 +9371,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.MM.00000117">
 	<url>https://store.drone.ua/product/dji-mini-bag/</url>
-	<price>1090</price>
+	<price>1090.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_1.jpg</picture>
@@ -9397,7 +9397,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.MM.00000101">
 	<url>https://store.drone.ua/product/dji-mavic-mini/</url>
-	<price>12370</price>
+	<price>12370.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</picture>
@@ -9452,7 +9452,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.MM.00000102">
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
-	<price>15470</price>
+	<price>15470.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</picture>
@@ -9507,7 +9507,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.000000011597">
 	<url>https://store.drone.ua/product/chasing-dory/</url>
-	<price>18560</price>
+	<price>18560.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</picture>
@@ -9546,7 +9546,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00001168.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-2/</url>
-	<price>4840</price>
+	<price>4840.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic2.png</picture>
@@ -9600,7 +9600,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.SS000026.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-air/</url>
-	<price>3350</price>
+	<price>3350.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Air.png</picture>
@@ -9654,7 +9654,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.000738">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro/</url>
-	<price>4650</price>
+	<price>4650.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro.jpg</picture>
@@ -9708,7 +9708,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00000263.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro-platinum/</url>
-	<price>5580</price>
+	<price>5580.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro_Platinum.png</picture>
@@ -9762,7 +9762,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.000846">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-inspire-2/</url>
-	<price>13140</price>
+	<price>13140.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Inspire2.png</picture>
@@ -9816,7 +9816,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.SS000009.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-zenmuse-x7/</url>
-	<price>17670</price>
+	<price>17670.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Zenmuse_X7.png</picture>
@@ -9870,7 +9870,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00002210.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-action/</url>
-	<price>1210</price>
+	<price>1210.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Action.jpg</picture>
@@ -9924,7 +9924,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00002444.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-pocket/</url>
-	<price>1210</price>
+	<price>1210.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Pocket.png</picture>
@@ -9978,7 +9978,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.000823">
 	<url>https://store.drone.ua/product/dji-care-phantom-4/</url>
-	<price>6570</price>
+	<price>6570.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Phantom4_Pro.jpg</picture>
@@ -10032,7 +10032,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.MM.00000123">
 	<url>https://store.drone.ua/product/dji-care-refresh-mavic-mini/</url>
-	<price>1210</price>
+	<price>1210.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Mini.jpg</picture>
@@ -10086,7 +10086,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.00000004002">
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>103960</price>
+	<price>103960.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</picture>
@@ -10127,7 +10127,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.KN.MT.001">
 	<url>https://store.drone.ua/product/kandao-meeting/</url>
-	<price>22910</price>
+	<price>22910.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_1.png</picture>
@@ -10203,7 +10203,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.KN.QC.001">
 	<url>https://store.drone.ua/product/qoocam/</url>
-	<price>13180</price>
+	<price>13180.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_1.png</picture>
@@ -10356,7 +10356,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.KN.QC.8K.001">
 	<url>https://store.drone.ua/product/qoocam-8k/</url>
-	<price>20120</price>
+	<price>20120.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_1.png</picture>
@@ -10432,7 +10432,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.KN.MT.004">
 	<url>https://store.drone.ua/product/obsidian-r/</url>
-	<price>133270</price>
+	<price>133270.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_1.png</picture>
@@ -10662,7 +10662,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.KN.MT.006">
 	<url>https://store.drone.ua/product/obsidian-go/</url>
-	<price>61970</price>
+	<price>61970.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_1.png</picture>
@@ -10847,7 +10847,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.KN.MT.005">
 	<url>https://store.drone.ua/product/obsidian-s/</url>
-	<price>133270</price>
+	<price>133270.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>3</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_1.png</picture>
@@ -11100,7 +11100,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00001805.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-enterprise/</url>
-	<price>12250</price>
+	<price>12250.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</picture>
@@ -11131,7 +11131,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00001913.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-dual/</url>
-	<price>11100</price>
+	<price>11100.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</picture>
@@ -11162,7 +11162,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00001801.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
-	<price>24150</price>
+	<price>24150.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</picture>
@@ -11193,7 +11193,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00002059.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
-	<price>44890</price>
+	<price>44890.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</picture>
@@ -11224,7 +11224,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00002053.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
-	<price>55640</price>
+	<price>55640.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</picture>
@@ -11255,7 +11255,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00002065.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/</url>
-	<price>63320</price>
+	<price>63320.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</picture>
@@ -11286,7 +11286,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00002712.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-p4-multispectral/</url>
-	<price>27730</price>
+	<price>27730.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</picture>
