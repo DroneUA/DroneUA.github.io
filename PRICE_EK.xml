@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-04-03 20:43">	
+<yml_catalog date="2020-04-13 12:26">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -97,7 +97,7 @@
 	<item id="CP.ZM.00000104.01">
 	<name>Стедикам DJI Ronin-S (CP.ZM.00000104.01)</name>
 	<url>https://store.drone.ua/product/ronin-s/</url>
-	<price>23220.00</price>
+	<price>0</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Ronin_S.jpg</image>
@@ -160,7 +160,7 @@
 	<item id="CP.MA.00000014.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>0</price>
+	<price>37480.00</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Zoom.jpg</image>
@@ -268,7 +268,7 @@
 	<item id="CP.PT.00000232.01">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0 (CP.PT.00000232.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>0</price>
+	<price>61970.00</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_Phantom_4_Pro_ProV2_0___1_1.jpg</image>
@@ -1020,7 +1020,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01-1">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
-	<price>0</price>
+	<price>130520.00</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</image>
@@ -1173,7 +1173,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000002931">
 	<name>Зарядное устройство-хаб для серии DJI Phantom 4 (ST.00000002931)</name>
 	<url>https://store.drone.ua/product/phantom-4-series-battery-charging-hub/</url>
-	<price>3070.00</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_1.jpg</image>
