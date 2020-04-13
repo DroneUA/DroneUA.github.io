@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-04-03 20:19">	
+<yml_catalog date="2020-04-13 12:16">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -709,7 +709,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state>Refurbished</state>
 	<price_opt>18759</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.MA.00000014.01">
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
 	<price>37480.00</price>
@@ -876,7 +876,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>48983</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 	<price>61970.00</price>
@@ -4309,7 +4309,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>37451</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.ZM.00000104.01_2">
 	<url>https://store.drone.ua/product/ronin-s/</url>
 	<price>23220.00</price>
@@ -6843,7 +6843,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>86462</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.00000002931">
 	<url>https://store.drone.ua/product/phantom-4-series-battery-charging-hub/</url>
 	<price>3070.00</price>
