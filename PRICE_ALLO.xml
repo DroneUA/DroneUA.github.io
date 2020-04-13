@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-04-03 21:03</date>	
+<date>2020-04-13 12:55</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -1372,7 +1372,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_6.jpg</image>
 	<priceRUAH>130520.00</priceRUAH>
-	<stock>Нет</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1688,7 +1688,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_6.jpg</image>
 	<priceRUAH>3070.00</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
