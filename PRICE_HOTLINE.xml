@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-04-13 12:39</date>	
+<date>2020-04-17 11:55</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -1946,7 +1946,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/d-rtk-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004491/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</image>
 	<priceRUAH>138240.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
