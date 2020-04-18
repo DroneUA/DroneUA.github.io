@@ -3474,7 +3474,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Желтый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.PT.00000194.01" available="true">
+	<item id="CP.PT.00000194.01" available="false">
 	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 	<price>2450.00</price>
