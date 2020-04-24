@@ -9343,7 +9343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000113">
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
 	<price>590.00</price>
@@ -9355,7 +9355,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
 	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
 	<description><![CDATA[Защита винтов и повышение безопасности полета в помещениях или в местах с большим количеством препятствий.]]></description>
 	<param name="Артикул">ST.MM.00000113</param>
