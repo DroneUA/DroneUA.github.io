@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-04-17 11:29">	
+<yml_catalog date="2020-04-29 00:55">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -3488,7 +3488,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>14387</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000194.01">
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 	<price>2450.00</price>
@@ -5517,7 +5517,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>977</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.BX.000178.02">
 	<url>https://store.drone.ua/product/kontroller-inspire-2/</url>
 	<price>23400.00</price>
@@ -6170,7 +6170,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000003068">
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
-	<price>6960.00</price>
+	<price>7640.00</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</picture>
@@ -6197,7 +6197,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка</param>
 	<state></state>
-	<price_opt>6473</price_opt>
+	<price_opt>7105</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.00000007806">
@@ -6773,7 +6773,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>46100</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000004019">
 	<url>https://store.drone.ua/product/zenmuse-x5s/</url>
 	<price>68170.00</price>
@@ -6814,7 +6814,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>63398</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000004011">
 	<url>https://store.drone.ua/product/zenmuse-x7/</url>
 	<price>92970.00</price>
@@ -9198,7 +9198,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>344</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.MM.00000107">
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
 	<price>1400.00</price>
@@ -9243,7 +9243,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1302</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000108">
 	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/</url>
 	<price>1210.00</price>
@@ -9343,7 +9343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1125</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000113">
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
 	<price>590.00</price>
