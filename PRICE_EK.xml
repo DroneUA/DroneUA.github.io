@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-04-17 11:41">	
+<yml_catalog date="2020-04-29 10:36">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -448,7 +448,7 @@
 	<item id="CP.PT.00000194.01">
 	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
-	<price>2450.00</price>
+	<price>0</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</image>
@@ -669,7 +669,7 @@
 	<item id="CP.BX.000178.02">
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
 	<url>https://store.drone.ua/product/kontroller-inspire-2/</url>
-	<price>0</price>
+	<price>23400.00</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</image>
@@ -984,7 +984,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004019">
 	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
 	<url>https://store.drone.ua/product/zenmuse-x5s/</url>
-	<price>0</price>
+	<price>68170.00</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_1.jpg</image>
@@ -993,7 +993,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004011">
 	<name>Подвес DJI Zenmuse X7 (ST.00000004011)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7/</url>
-	<price>0</price>
+	<price>92970.00</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_1.jpg</image>
@@ -1074,7 +1074,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006325">
 	<name>Прожектор DJI Mavic 2 Enterprise Spotlight (ST.00000006325)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part4_spotlight/</url>
-	<price>4240.00</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Spotlight_1.jpg</image>
@@ -2118,7 +2118,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000107">
 	<name>Интеллектуальная батарея DJI Mavic Mini (ST.MM.00000107)</name>
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
-	<price>0</price>
+	<price>1400.00</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</image>
@@ -2127,7 +2127,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000108">
 	<name>Зарядная станция DJI Mavic Mini (ST.MM.00000108)</name>
 	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/</url>
-	<price>1210.00</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_1.jpg</image>
@@ -2145,7 +2145,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000113">
 	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
-	<price>590.00</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_1.jpg</image>
