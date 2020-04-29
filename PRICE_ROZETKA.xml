@@ -3499,7 +3499,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_4.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
 	<name>Интеллектуальная батарея DJI Mavic Air 2375 mAh (CP.PT.00000194.01)</name>
 	<description><![CDATA[Аккумулятор для DJI Mavic Air 2375 мА*ч]]></description>
 	<param name="Артикул">CP.PT.00000194.01</param>
@@ -9355,7 +9355,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_5.jpg</picture>
 	<vendor>DJI</vendor>
-	<stock_quantity>5</stock_quantity>
+	<stock_quantity>0</stock_quantity>
 	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
 	<description><![CDATA[Защита винтов и повышение безопасности полета в помещениях или в местах с большим количеством препятствий.]]></description>
 	<param name="Артикул">ST.MM.00000113</param>
