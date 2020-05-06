@@ -2765,7 +2765,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>8007</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CINEVOX/A">
 	<url>https://store.drone.ua/product/insta360-evo/</url>
 	<price>10970.00</price>
