@@ -3093,7 +3093,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CINEVOX/A" available="true">
+	<item id="CINEVOX/A" available="false">
 	<name>Action камера Insta360 Evo (CINEVOX/A)</name>
 	<url>https://store.drone.ua/product/insta360-evo/</url>
 	<price>10970.00</price>
