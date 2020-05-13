@@ -1123,7 +1123,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>4008</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.IN.000001">
 	<url>https://store.drone.ua/product/insta360-one-x/</url>
 	<price>9999.00</price>
