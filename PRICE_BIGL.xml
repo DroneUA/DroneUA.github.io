@@ -3912,7 +3912,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.OS.00000040.01" available="true">
+	<item id="CP.OS.00000040.01" available="">
 	<name>Стедикам DJI Osmo Mobile 3 Combo (CP.OS.00000040.01)</name>
 	<url>https://store.drone.ua/product/osmo-mobile-3-combo/</url>
 	<price>4000.00</price>
