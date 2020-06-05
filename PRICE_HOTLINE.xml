@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-04-29 10:49</date>	
+<date>2020-06-05 15:34</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -153,7 +153,7 @@
 	<description>Максимальная рабочая скорость: 75 км/ч, Оптимальная грузоподъемность: 3.6 кг, Срок службы аккумулятора: 12 ч, Управление камерой, спортивный режим, автоматические функции.</description>
 	<url>https://store.drone.ua/product/ronin-s/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.ZM.00000104.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Ronin_S.jpg</image>
-	<priceRUAH>23220.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -169,7 +169,7 @@
 	<description>Монопод-стабилизатор второго поколения для смартфонов, с клавишами управления. Емкость аккумулятора позволит использовать до 15 часов.</description>
 	<url>https://store.drone.ua/product/osmo-mobile-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/monopody-dlya-selfi-selfie-stickutm_content=CP.ZM.00000064.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Mobile_2.jpg</image>
-	<priceRUAH>4620.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -185,8 +185,8 @@
 	<description>Экшн-камера, представляет из себя смесь стедикама с экшн-камерой, съемка производится в разрешении 4K 60fps.</description>
 	<url>https://store.drone.ua/product/osmo-pocket/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/ekshn-kameryutm_content=CP.ZM.00000097.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Pocket.jpg</image>
-	<priceRUAH>11130.00</priceRUAH>
-	<stock>В наличии</stock>
+	<priceRUAH>#N/A</priceRUAH>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -458,7 +458,7 @@
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000232.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</image>
 	<priceRUAH>61970.00</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -473,7 +473,7 @@
 	<description>Самый компактный умный дрон с применением технологий DJI, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 	<url>https://store.drone.ua/product/tello/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000210.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</image>
-	<priceRUAH>3380.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -489,7 +489,7 @@
 	<description>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.TL.00000015.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</image>
-	<priceRUAH>4930.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -505,7 +505,7 @@
 	<description>DJI общими усилиями с Marvel и Disney представили рынку новый дрон — Ryze Tello Iron Man Edition, который имеет новый стильный облик, вдохновленный культовой броней «железного человека». </description>
 	<url>https://store.drone.ua/product/dji-tello-iron-man-edition/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.TL.00000002.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Iron_Man_Edition_1.jpg</image>
-	<priceRUAH>4310.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -522,7 +522,7 @@
 	<url>https://store.drone.ua/product/insta360-one-x/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/ekshn-kameryutm_content=ST.IN.000001/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_ONE_X_1.jpg</image>
 	<priceRUAH>9999.00</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -634,7 +634,7 @@
 	<url>https://store.drone.ua/product/insta360-evo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/ekshn-kameryutm_content=CINEVOX/A/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Insta360_EVO_1.jpg</image>
 	<priceRUAH>10970.00</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -649,7 +649,7 @@
 	<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K.</description>
 	<url>https://store.drone.ua/product/podvodnyj-dron-gladius/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.CI.00001/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</image>
-	<priceRUAH>67950.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -665,7 +665,7 @@
 	<description>Подводный дрон с впечатляющими характеристиками. Глубина погружения - 100 м. Радиус управления 200 м. Продолжительность работы - 3.5 часа. Запись видео в 4K. Обновлена система записи видео, упрощено управление.</description>
 	<url>https://store.drone.ua/product/gladius-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.CI.00002/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</image>
-	<priceRUAH>52770.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -841,7 +841,7 @@
 	<description>Аккумулятор для Ryze Tello 1100 мА*ч</description>
 	<url>https://store.drone.ua/product/tello-part-1-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000213.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</image>
-	<priceRUAH>780.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -926,7 +926,7 @@
 	<description>С легким дизайном и превосходной стабилизацией, Ronin-SC Pro Combo представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</description>
 	<url>https://store.drone.ua/product/dji-ronin-sc/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.RN.00000040.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</image>
-	<priceRUAH>11130.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -942,8 +942,8 @@
 	<description>С легким дизайном и превосходной стабилизацией, Ronin-SC Pro Combo представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</description>
 	<url>https://store.drone.ua/product/dji-ronin-sc-pro-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.RN.00000043.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_1.jpg</image>
-	<priceRUAH>14230.00</priceRUAH>
-	<stock>В наличии</stock>
+	<priceRUAH>#N/A</priceRUAH>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -958,7 +958,7 @@
 	<description>Монопод-стабилизатор для смартфонов</description>
 	<url>https://store.drone.ua/product/osmo-mobile-3/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/monopody-dlya-selfi-selfie-stickutm_content=CP.OS.00000022.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_1.jpg</image>
-	<priceRUAH>3380.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -974,8 +974,8 @@
 	<description>Монопод-стабилизатор для смартфонов</description>
 	<url>https://store.drone.ua/product/osmo-mobile-3-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/monopody-dlya-selfi-selfie-stickutm_content=CP.OS.00000040.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_1.jpg</image>
-	<priceRUAH>4000.00</priceRUAH>
-	<stock>В наличии</stock>
+	<priceRUAH>#N/A</priceRUAH>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1038,7 +1038,7 @@
 	<description>Прочная и высокотехнологичная экшен-камера невероятно проста в использовании: сфокусируйтесь на действии, о съемке позаботится Osmo Action!</description>
 	<url>https://store.drone.ua/product/dji-osmo-action/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/ekshn-kameryutm_content=CP.OS.00000020.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Osmo_Action_1.jpg</image>
-	<priceRUAH>11750.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1103,7 +1103,7 @@
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.MA.00000080.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</image>
 	<priceRUAH>22600.00</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1150,7 +1150,7 @@
 	<description>Этот контроллер может мгновенно превратить ваш смартфон в контроллер беспилотника, разработанный для обеспечения легкого ощущения, бесперебойной работы и удобной работы. С двумя высокоточными 3D-джойстиками контроллер может ориентировать ваш самолет в любом месте, делая возможным более сложные маневры. Контроллер имеет высокоскоростное соединение с режимом подключения GameSir, поэтому вы можете сразу же начать полет.</description>
 	<url>https://store.drone.ua/product/pult-upravlenija-gamesir-t1d/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000220.02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_1.jpg</image>
-	<priceRUAH>1050.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1267,7 +1267,7 @@
 	<url>https://store.drone.ua/product/anafi-thermal/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=PA.ST.02/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_1.png</image>
 	<priceRUAH>75240.00</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1529,7 +1529,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description> Зарядное устройство может заряжать три батареи. Интеллектуальная система зарядки значительно повышает эффективность Для полной зарядки трех аккумуляторов требуется всего 130 минут. В коробке: Зарядная станция Osmo Action x 1 Батарея Osmo Action x 2 Батарея Osmo Action x 2 Характеристики: Osmo Action Charging Hub: Размер: 55.3 x 47.6 x 25.3 мм Вес: 37.5 г Аккумулятор Osmo Action: Размер: 37.9 x 40.8 x 15.1 мм Вес: 30 г Чехол для батареи Osmo Action: Размер: 18.8 x 49 x 44.6 мм Вес: 10 г Совместимость: Osmo Action </description>
 	<url>https://store.drone.ua/product/dji-osmo-part-6-charging-kit-eu/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=CP.OS.00000030.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_1.jpg</image>
-	<priceRUAH>2760.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1545,7 +1545,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Надежно размещайте Osmo Mobile 3 и другие совместимые продукты практически на любой поверхности. Штатив Osmo Grip Tripod для установки Osmo Mobile 3 и других совместимых продуктов на поверхности, для обеспечения стабильности положения. Комплектация: Osmo Grip Tripod 1 Характеристики: Размеры: Длина: 138 мм Диаметр основания: 32 мм Вес: 72 г Совместимость: Osmo Mobile 3 Osmo Mobile 2 </description>
 	<url>https://store.drone.ua/product/osmo-part1-grip-tripod/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=ST.000000010931/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_1.jpg</image>
-	<priceRUAH>900.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1562,7 +1562,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/inspire-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.BX.000167/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire2_1.png</image>
 	<priceRUAH>105370.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1738,7 +1738,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/p4-multispectral/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.000000011501/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
 	<priceRUAH>230360.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1754,7 +1754,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/p4-multispectral-d-rtk-2-high-precision-gnss-mobile-station-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.000000011518/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
 	<priceRUAH>341720.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1802,7 +1802,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000006344/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</image>
 	<priceRUAH>107480.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1818,7 +1818,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/mavic-2-enterprise/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000003212/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</image>
 	<priceRUAH>88280.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1898,7 +1898,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/phantom-4-rtk-d-rtk-2-mobile-station-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000008210/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_1.png</image>
 	<priceRUAH>299520.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2042,7 +2042,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/phantom-4-series-battery-charging-hub/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000002931/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_1.jpg</image>
 	<priceRUAH>3070.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2058,7 +2058,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/inspire-2-ronin-2-battery-charging-hub/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000003914/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_1.jpg</image>
 	<priceRUAH>3380.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2122,7 +2122,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.000000011349/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_1.jpg</image>
 	<priceRUAH>6690.00</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3802,7 +3802,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-mavic-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.MM.00000101/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</image>
 	<priceRUAH>12370.00</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3833,7 +3833,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Самый маленький в мире, самый умный и доступный подводный дрон нового поколения. DORY приглашает Вас исследовать новые места в спокойных водах, таких как море, озеро или пруд.</description>
 	<url>https://store.drone.ua/product/chasing-dory/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.000000011597/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
-	<priceRUAH>18560.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4089,7 +4089,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00002065.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</image>
-	<priceRUAH>63320.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock>В наличии</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4105,7 +4105,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Дрон оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом на глубину до 100 метров.</description>
 	<url>https://store.drone.ua/product/chasing-m2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000004002/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</image>
-	<priceRUAH>103960.00</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
