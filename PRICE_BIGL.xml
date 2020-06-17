@@ -817,7 +817,7 @@
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.MA.00000014.01" available="true">
+	<item id="CP.MA.00000014.01" available="false">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
 	<price>37480.00</price>
