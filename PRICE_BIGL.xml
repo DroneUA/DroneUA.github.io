@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-08-05 21:29">	
+<price date="2020-08-06 14:55">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -5865,7 +5865,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.EN.00000048.01" available="">
+	<item id="CP.EN.00000048.01" available="true">
 	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP.EN.00000048.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-200-v2-combo/</url>
 	<price>270900</price>
@@ -5887,7 +5887,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.EN.00000054.01" available="">
+	<item id="CP.EN.00000054.01" available="true">
 	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP.EN.00000054.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/</url>
 	<price>357000</price>
@@ -5911,7 +5911,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.EN.00000062" available="">
+	<item id="CP.EN.00000062" available="true">
 	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP.EN.00000062)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-rtk-v2-combo/</url>
 	<price>504000</price>
@@ -5985,7 +5985,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.SB.000307" available="">
+	<item id="CP.SB.000307" available="true">
 	<name>Гексакоптер DJI Matrice 600 Pro (CP.SB.000307)</name>
 	<url>https://store.drone.ua/product/matrice-600-pro/</url>
 	<price>239360</price>
