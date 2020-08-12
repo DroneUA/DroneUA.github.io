@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-08-12 15:29">	
+<yml_catalog date="2020-08-12 16:22">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -9343,7 +9343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1274</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000113">
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
 	<price>670</price>
@@ -11323,9 +11323,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>4830</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>M300_Propeller_2110_1.jpg</picture>
- <picture>M300_Propeller_2110_2.png</picture>
- <picture>M300_Propeller_2110_3.png</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_3.png</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST.M3.00000007)</name>
@@ -11350,10 +11350,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>48300</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>M300_Smart_Controller_Enterprise_1.png</picture>
- <picture>M300_Smart_Controller_Enterprise_2.png</picture>
- <picture>M300_Smart_Controller_Enterprise_3.png</picture>
- <picture>M300_Smart_Controller_Enterprise_4.png</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/M300_Smart_Controller_Enterprise_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Smart_Controller_Enterprise_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Smart_Controller_Enterprise_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Smart_Controller_Enterprise_4.png</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Пульт управления DJI Smart Controller Enterprise (ST.M3.00000004)</name>
@@ -11416,10 +11416,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>44520</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>M300_Battery_Station_BS60_1.jpg</picture>
- <picture>M300_Battery_Station_BS60_2.jpg</picture>
- <picture>M300_Battery_Station_BS60_3.jpg</picture>
- <picture>M300_Battery_Station_BS60_4.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/M300_Battery_Station_BS60_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Battery_Station_BS60_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Battery_Station_BS60_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_Battery_Station_BS60_4.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST.M3.00000003)</name>
@@ -11470,9 +11470,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>30240</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>M300_TB60_Battery_1.jpg</picture>
- <picture>M300_TB60_Battery_2.jpg</picture>
- <picture>M300_TB60_Battery_3.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_3.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST.M3.00000002)</name>
@@ -11534,7 +11534,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>629960</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
-	<picture>Agras_T16_1.png</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/Agras_T16_1.png</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Мультикоптер DJI Agras T16 (DAT16)</name>
@@ -11996,7 +11996,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>46160</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>T16_Battery_1.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/T16_Battery_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST.000000011336)</name>
@@ -12037,7 +12037,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>8820</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>T16_Tank_20_Litters_1.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/T16_Tank_20_Litters_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Бак для DJI Agras T16 Tank 20 л (ST.0000.20.13765)</name>
@@ -12062,7 +12062,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>5140</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>T16_Tank_16_Litters_1.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/T16_Tank_16_Litters_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST.00000013765)</name>
@@ -12087,7 +12087,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
-	<picture>T20_Battery_1.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Интеллектуальная батарея DJI Agras T20 (ST.000000011336.20)</name>
