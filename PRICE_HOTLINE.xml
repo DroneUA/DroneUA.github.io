@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-08-05 22:26</date>	
+<date>2020-08-06 16:31</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -1994,7 +1994,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-200-v2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000048.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</image>
 	<priceRUAH>270900</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2010,7 +2010,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000054.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</image>
 	<priceRUAH>357000</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2026,7 +2026,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-rtk-v2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000062/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</image>
 	<priceRUAH>504000</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2074,7 +2074,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/matrice-600-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.SB.000307/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_1.jpg</image>
 	<priceRUAH>239360</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
