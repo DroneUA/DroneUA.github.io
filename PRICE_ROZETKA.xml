@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-08-12 14:42">	 
+<yml_catalog date="2020-08-12 15:29">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -12318,7 +12318,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_6.png</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI P4 Multispectral & D-RTK 2 High Precision GNSS Mobile Station Combo (CP.AG.00000207.01B)</name>
+	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (CP.AG.00000207.01B)</name>
 	<description><![CDATA[<div>
 <p><strong>Интеллектуальные технологии для контроля растений</strong></p>
 <p>Производите сбор данных о растениях при помощи P4 Multispectral &ndash; высокоточного дрона с безупречно интегрированной мультиспектральной системой обработки изображений, разработанного для сельскохозяйственных операций и мониторинга окружающей среды.</p>
@@ -12515,7 +12515,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_6.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual & Smart Controller (CP.EN.00000161.01)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000161.01)</name>
 	<description><![CDATA[<p>Mavic 2 Enterprise разработан специально для решения задач на современных предприятиях.</p>
 <ul>
 <li>
@@ -12777,7 +12777,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_3.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise & Smart Controller (CP.EN.00000152.01)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (CP.EN.00000152.01)</name>
 	<description><![CDATA[<p>Mavic 2 Enterprise разработан специально для решения задач на современных предприятиях.</p>
 <ul>
 <li>
@@ -13161,7 +13161,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_7.png</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Phantom 4 RTK & D-RTK 2 Mobile Station Combo (CP.TP.00000230.01.02)</name>
+	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (CP.TP.00000230.01.02)</name>
 	<description><![CDATA[<h3>Фантастический интеллект. Высокая точность.</h3>
 <p>Phantom 4 RTK &ndash; новое слово в картографии. Самый компактный и точный дрон для создания карт, работающий на небольших высотах.</p>
 <p>Комплектация:</p>
@@ -17133,4 +17133,4 @@ Parrot Bluegrass легко транспортируется благодаря 
 	</offer>
 </offers>	
 </shop>	
-</yml_catalog>
+</yml_catalog>	
