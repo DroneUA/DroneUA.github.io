@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-08-12 16:22">	
+<yml_catalog date="2020-08-13 16:30">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -18,6 +18,7 @@
 <category id="7" parentId="80041">Сумки и чехлы фото/видео</category>	
 <category id="8" parentId="269513">Велоаксессуары</category>	
 <category id="9" parentId="80036">Сумки, рюкзаки и чехлы для ноутбуков</category>	
+<category id="10" parentId="153660">Системы полива</category>
 </categories>	
 <offers>	
 	<offer available="false" id="
@@ -11342,7 +11343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>4492</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.M3.00000004">
@@ -11408,7 +11409,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>44919</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.M3.00000003">
@@ -11462,7 +11463,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>41404</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.M3.00000002">
@@ -11526,7 +11527,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>28123</price_opt>
 	</offer>
 	<offer available="true" id="
 	DAT16">
@@ -11988,7 +11989,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>585863</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.000000011336">
@@ -12029,7 +12030,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>42929</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.0000.20.13765">
@@ -12054,7 +12055,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>8203</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.00000013765">
@@ -12079,7 +12080,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>4780</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.000000011336.20">
@@ -12105,7 +12106,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.AG.00000207.01">
@@ -12302,7 +12303,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>234323</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.AG.00000207.01B">
@@ -12499,7 +12500,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>347597</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000161.01">
@@ -12507,11 +12508,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>142760</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_3.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_6.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -12632,7 +12631,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>132767</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000108.01">
@@ -12640,10 +12639,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>121760</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_2.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_4.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_5.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -12764,7 +12761,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>113237</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000152.01">
@@ -12772,12 +12769,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>117560</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
-	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/Mavic2_Ent_Zoom_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_3.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (CP.EN.00000152.01)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Zoom &amp; Smart Controller (CP.EN.00000152.01)</name>
 	<description><![CDATA[<p>Mavic 2 Enterprise разработан специально для решения задач на современных предприятиях.</p>
 <ul>
 <li>
@@ -12894,7 +12890,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>109331</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000038.01">
@@ -12903,7 +12899,6 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_2.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Zoom (CP.EN.00000038.01)</name>
@@ -13023,7 +13018,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>89801</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.EN.00000074.01">
@@ -13052,7 +13047,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>17149</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000069.01">
@@ -13085,7 +13080,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>6994</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.EN.00000076.01">
@@ -13119,7 +13114,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>4883</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000124.01">
@@ -13144,7 +13139,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>4650</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.TP.00000230.01.02">
@@ -13521,7 +13516,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>304668</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.TP.00000230.01">
@@ -13894,7 +13889,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>222642</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.AG.00000146.01">
@@ -13911,9 +13906,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<stock_quantity>5</stock_quantity>
 	<name>Квадрокоптер DJI Phantom 4 RTK SDK (CP.AG.00000146.01)</name>
 	<description><![CDATA[<h3>Фантастический интеллект. Высокая точность.</h3>
-<p>Phantom 4 RTK &ndash; новое слово в картографии. Самый компактный и точный дрон для создания карт, работающий на небольших высотах.</p>
-<p>Комплектация:</p>
-<p>Дрон <strong>DJI Phantom 4 RTK</strong> + базовая станция <strong>DJI D-RTK 2</strong></p>
+<p>Phantom 4 RTK SDK &ndash; Самый компактный и точный дрон для создания карт, работающий на небольших высотах.</p>
+<p><strong>Версия для разработчиков.</strong></p>
 <p><strong>Характеристики</strong></p>
 <h3>Дрон</h3>
 <table>
@@ -14302,7 +14296,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>210924</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.TP.00000230.01.01">
@@ -14456,7 +14450,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>140616</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.AG.00000103.01">
@@ -14513,7 +14507,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>27342</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.AG.00000002.01">
@@ -14538,7 +14532,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>6640</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000046.01">
@@ -14999,7 +14993,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>251937</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000054.01">
@@ -15469,7 +15463,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>332010</price_opt>
 	</offer>
 	<offer available="true" id="
 	4477">
@@ -15936,7 +15930,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>468720</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.PT.000343">
@@ -15966,7 +15960,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>3227</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.BX.000182">
@@ -15997,7 +15991,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>3553</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.SB.000307">
@@ -16264,7 +16258,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>222605</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.SB.000287.6">
@@ -16302,7 +16296,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>44882</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.SB.000297">
@@ -16349,7 +16343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>13634</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.SB.000287">
@@ -16387,7 +16381,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>7775</price_opt>
 	</offer>
 	<offer available="true" id="
 	14578">
@@ -16721,7 +16715,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>130116</price_opt>
 	</offer>
 	<offer available="true" id="
 	13438">
@@ -16757,7 +16751,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для судомоделей</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>20962</price_opt>
 	</offer>
 	<offer available="true" id="
 	13436">
@@ -16790,7 +16784,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для судомоделей</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>16759</price_opt>
 	</offer>
 	<offer available="true" id="
 	15981">
@@ -17129,7 +17123,76 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt></price_opt>
+	<price_opt>142671</price_opt>
+	</offer>
+	<offer available="true" id="
+	FB.D.UA.00001">
+	<url>https://store.drone.ua/product/farmbot/</url>
+	<price>74570</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>10</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_5.jpg</picture>
+	<vendor>DroneUA</vendor>
+	<stock_quantity>1</stock_quantity>
+	<name>Робот-садовник DroneUA FarmBot (FB.D.UA.00001)</name>
+	<description><![CDATA[<p><strong>FarmBot</strong>&nbsp;это инструмент точного земледелия, состоящий из декартовой машины для координатного робота. Представляет собой металлический каркас с рельсами, оборудованный роботом со сменными насадками для посадки семян, полива и удаления сорняков. Пластиковые комплектующие напечатаны на 3D принтере, а сам робот снабжен встроенным микропроцессором.</p>
+<p>Платформа способна выращивать более 30 культур, круглосуточно работать на открытом воздухе и в закрытых помещениях используя собственную систему освещения. Настроив ее 1 раз вы можете не беспокоится вплоть до момента сбора урожая.</p>
+<p><strong>Свежие продукты</strong></p>
+<ul>
+<li>FarmBot способен выращивать более 30 различных культур, включая картофель, горох, тыкву, артишоки и мангольд на площади 2,9 метра &times; 1,4 метра с максимальной высотой растения 0,5 метра</li>
+</ul>
+<p><strong>Экология</strong></p>
+<ul>
+<li>FarmBot производит на 25% меньше выбросов углекислого газа, чем стандартное производство продуктов питания</li>
+</ul>
+<p><strong>Простая интеграция</strong></p>
+<ul>
+<li>Одно устройство FarmBot может непрерывно выращивать все овощи или фрукты для нужд одного человека не беря во внимание внешние природные факторы&nbsp;в открытом или закрытом помещении у вас дома, на работе,&nbsp;на городской крыше или в небольшой теплице</li>
+</ul>
+<p><strong>Эксперименты и модификации</strong></p>
+<ul>
+<li>FarmBot &mdash; это фермерская платформа, которую можно модифицировать и дополнять для удовлетворения ваших уникальных потребностей, от подключения системы к дождевому стоку до установки солнечных батарей.</li>
+</ul>
+<p><strong>Работоспособность</strong></p>
+<ul>
+<li>В отличие от человека, FarmBot никогда не утомляется, не требует перерывов и не нуждается в солнечном свете,&nbsp;для отслеживания своих действий</li>
+</ul>
+<p><strong>Наш &mdash; украинский</strong></p>
+<ul>
+<li>Мы потрудились сделать Farmbot более доступным и полностью переработали его используя максимум украинских комплектующих.</li>
+</ul>
+<p><strong>UserFriendly interface</strong></p>
+<ul>
+<li>Приложение FarmBot можно загрузить на любого компьютер, планшет или смартфон, что дает вам возможность управлять своей фермой из любого места в любое время. Простой интуитивно понятный интерфейс не требует кодирования, позволяет с легкостью настроить работу по вашим предпочтениям и сохранить результаты.</li>
+</ul>
+<p><strong>Возврат инвестиций</strong></p>
+<ul>
+<li>Выращивая культуры с помощью платформы Farmbot вы экономите на большинстве процессов (зависит от вашего образа жизни). Овощи выращенные с помощью Farmbot значительно дешевле аналога в продуктовых магазинах. Период окупаемости зависит от модификации платформы и выращиваемых культур, а именно от 6 месяцев до 2 лет.</li>
+</ul>
+<p>Для обеспечения автономности и бесперебойной работы Farmbot вам потребуется всего 4 вещи: смонтировать установочный каркас, подключить воду, электричество и wifi. Конечно для установки и подключения различных модификаций потребуется больше времени &mdash; но нет ничего невозможного.</p>
+<p><strong>Комплектующие устройств</strong>а</p>
+<p>DroneUA использует компоненты самого высокого качества. Все сделано из алюминия, нержавеющей стали и устойчивой к ультрафиолетовому излучению ABS. Ваш FarmBot прослужит долгие годы в наружных условиях.</p>
+<p><strong>Программного обеспечения&nbsp;</strong></p>
+<p>Для работы и настройки FarmBot использует веб &mdash; интерфейс , который позволяет контролировать платформу и поддерживает многие популярные устройства. Веб &mdash; приложение имеет возможность настроить различные исходные данные , включая воду, удобрение и пестициды, интервал высаживания семян и факторы окружающей среды , в том числе почвы и погодных условий , на основании показаний датчиков, местоположении и времени года. Он также способен создавать и планировать последовательности путем объединения и изменений основных операций. Программное обеспечение также может манипулировать карты данных, в режиме реального времени и протоколирование доступа к открытым данным завода в базе данных OpenFarm.</p>
+<p><strong>Настройка</strong></p>
+<p>Простой интуитивно понятный редактор не требует знаний кода или отдельного языка программирования, позволяет с легкостью настроить работу Farmbot под ваши потребности.</p>
+<p><strong>Возможности</strong></p>
+<p>Farmbot может выполнять практически все процессы до непосредственно &mdash; сбора урожая, включая посев, механическую борьбу с сорняками и полив. Измеряет все необходимые данные для обеспечения здорового жизненного цикла роста культуры с помощью датчиков. Выполняет различные задачи, автоматически подключая необходимые инструменты к универсальному креплению, включая инжектор семян, поливочную насадку и инструмент для&nbsp;уничтожения сорняков.</p>]]></description>
+	<param name="Артикул">FB.D.UA.00001</param>
+	<param name="Страна-производитель товара">Украина</param>
+	<param name="Страна регистрации бренда">Украина</param>
+	<param name="Гидромотор">Есть</param>
+	<param name="Теги"></param>
+	<param name="Гарантия"></param>
+	<param name="Вид">Многофункциональные</param>
+	<param name="Тип">Оросители</param>
+	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
+	<state></state>
+	<price_opt>69350</price_opt>
 	</offer>
 </offers>	
 </shop>	
