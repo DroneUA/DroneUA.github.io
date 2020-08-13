@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-08-13 16:30">	
+<yml_catalog date="2020-08-13 17:48">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -18,7 +18,6 @@
 <category id="7" parentId="80041">Сумки и чехлы фото/видео</category>	
 <category id="8" parentId="269513">Велоаксессуары</category>	
 <category id="9" parentId="80036">Сумки, рюкзаки и чехлы для ноутбуков</category>	
-<category id="10" parentId="153660">Системы полива</category>
 </categories>	
 <offers>	
 	<offer available="false" id="
@@ -13020,7 +13019,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>89801</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.EN.00000074.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part1_fly_more_kit/</url>
 	<price>18440</price>
@@ -13082,7 +13081,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6994</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.EN.00000076.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part4_spotlight/</url>
 	<price>5250</price>
@@ -13891,7 +13890,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>222642</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.AG.00000146.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
 	<price>226800</price>
@@ -14452,7 +14451,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>140616</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.AG.00000103.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk-remote-controller/</url>
 	<price>29400</price>
@@ -15962,7 +15961,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3227</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.BX.000182">
 	<url>https://store.drone.ua/product/inspire-2-ronin-2-battery-charging-hub/</url>
 	<price>3820</price>
@@ -16260,7 +16259,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>222605</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.SB.000287.6">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery-6pcs/</url>
 	<price>48260</price>
@@ -16298,7 +16297,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>44882</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.SB.000297">
 	<url>https://store.drone.ua/product/dji-hex-charger/</url>
 	<price>14660</price>
@@ -16345,7 +16344,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>13634</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.SB.000287">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery/</url>
 	<price>8360</price>
