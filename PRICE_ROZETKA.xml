@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-08-13 17:48">	
+<yml_catalog date="2020-08-27 16:46">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -18,6 +18,7 @@
 <category id="7" parentId="80041">Сумки и чехлы фото/видео</category>	
 <category id="8" parentId="269513">Велоаксессуары</category>	
 <category id="9" parentId="80036">Сумки, рюкзаки и чехлы для ноутбуков</category>	
+<category id="10" parentId="153660">Системы полива</category>	
 </categories>	
 <offers>	
 	<offer available="false" id="
@@ -6309,7 +6310,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>949</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.BX.000167">
 	<url>https://store.drone.ua/product/inspire-2/</url>
 	<price>118970</price>
@@ -6486,7 +6487,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>463838</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000004017">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
 	<price>58750</price>
@@ -6527,7 +6528,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>54638</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000004015">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
 	<price>62950</price>
@@ -6568,7 +6569,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>58544</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000004014">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
 	<price>62950</price>
@@ -6609,7 +6610,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>58544</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000004013">
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
 	<price>62950</price>
@@ -9504,7 +9505,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>16247</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.000000011597">
 	<url>https://store.drone.ua/product/chasing-dory/</url>
 	<price>20950</price>
@@ -10127,7 +10128,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>109154</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.KN.MT.001">
 	<url>https://store.drone.ua/product/kandao-meeting/</url>
 	<price>25870</price>
@@ -12034,7 +12035,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.0000.20.13765">
 	<url>https://store.drone.ua/product/t16-tank-20-litters/</url>
-	<price>8820</price>
+	<price>12180</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/T16_Tank_20_Litters_1.jpg</picture>
@@ -12054,12 +12055,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>8203</price_opt>
+	<price_opt>11327</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.00000013765">
 	<url>https://store.drone.ua/product/t16-part15-spray-tank-accessories/</url>
-	<price>5140</price>
+	<price>8500</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/T16_Tank_16_Litters_1.jpg</picture>
@@ -12079,12 +12080,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>4780</price_opt>
+	<price_opt>7905</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.000000011336.20">
 	<url>https://store.drone.ua/product/battery-t20/</url>
-	<price>0</price>
+	<price>48970</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</picture>
@@ -12105,7 +12106,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>0</price_opt>
+	<price_opt>45542</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.AG.00000207.01">
