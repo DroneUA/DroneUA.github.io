@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-08-06 15:59">	
+<yml_catalog date="2020-08-27 17:14">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -903,7 +903,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.BX.000167">
 	<name>Квадрокоптер DJI Inspire 2 (CP.BX.000167)</name>
 	<url>https://store.drone.ua/product/inspire-2/</url>
-	<price>118970</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire2_1.png</image>
@@ -930,7 +930,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004017">
 	<name>Объектив DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
-	<price>0</price>
+	<price>58750</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -939,7 +939,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004015">
 	<name>Объектив DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
-	<price>0</price>
+	<price>62950</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -948,7 +948,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004014">
 	<name>Объектив DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
-	<price>0</price>
+	<price>62950</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -957,7 +957,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004013">
 	<name>Объектив DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
-	<price>0</price>
+	<price>62950</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</image>
@@ -1110,7 +1110,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000010836">
 	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST.000000010836)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
-	<price>0</price>
+	<price>226800</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_1.png</image>
@@ -2145,7 +2145,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000113">
 	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
-	<price>670</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_1.jpg</image>
@@ -2181,7 +2181,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011597">
 	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
 	<url>https://store.drone.ua/product/chasing-dory/</url>
-	<price>0</price>
+	<price>20950</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
@@ -2343,7 +2343,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.KN.MT.001">
 	<name>Панорамная камера Kandao Meeting (ST.KN.MT.001)</name>
 	<url>https://store.drone.ua/product/kandao-meeting/</url>
-	<price>25870</price>
+	<price>0</price>
 	<categoryId>13</categoryId>
 	<vendor>Kandao</vendor>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_1.png</image>
