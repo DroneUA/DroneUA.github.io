@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-08-06 14:55">	
+<price date="2020-08-27 16:03">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -4552,7 +4552,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="DJIMG1SHUB" available="">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<url>https://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
-	<price>0</price>
+	<price>50360</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</picture>
@@ -4573,7 +4573,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="DJIMG1CH" available="">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<url>https://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
-	<price>0</price>
+	<price>45360</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</picture>
@@ -4591,7 +4591,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="DJIAGR1P" available="">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
-	<price>0</price>
+	<price>461960</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</picture>
@@ -4628,7 +4628,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.TP.00000008.01" available="">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<url>https://store.drone.ua/product/agras-mg-1s/</url>
-	<price>0</price>
+	<price>329160</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</picture>
@@ -5087,7 +5087,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<portal_category_url>https://bigl.ua/Shtativy-dlya-foto-videotehniki</portal_category_url>
 	<country>Китай</country>
 	</item>
-	<item id="CP.BX.000167" available="true">
+	<item id="CP.BX.000167" available="">
 	<name>Квадрокоптер DJI Inspire 2 (CP.BX.000167)</name>
 	<url>https://store.drone.ua/product/inspire-2/</url>
 	<price>118970</price>
@@ -5222,7 +5222,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000004017" available="">
+	<item id="ST.00000004017" available="true">
 	<name>Объектив DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
 	<price>58750</price>
@@ -5259,7 +5259,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000004015" available="">
+	<item id="ST.00000004015" available="true">
 	<name>Объектив DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
 	<price>62950</price>
@@ -5296,7 +5296,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000004014" available="">
+	<item id="ST.00000004014" available="true">
 	<name>Объектив DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
 	<price>62950</price>
@@ -5333,7 +5333,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000004013" available="">
+	<item id="ST.00000004013" available="true">
 	<name>Объектив DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
 	<price>62950</price>
@@ -5793,7 +5793,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.000000010836" available="">
+	<item id="ST.000000010836" available="true">
 	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST.000000010836)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
 	<price>226800</price>
@@ -7972,7 +7972,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.MM.00000113" available="true">
+	<item id="ST.MM.00000113" available="">
 	<name>Защита пропеллеров DJI Mavic Mini 360° (ST.MM.00000113)</name>
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/</url>
 	<price>670</price>
@@ -8097,7 +8097,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.000000011597" available="">
+	<item id="ST.000000011597" available="true">
 	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
 	<url>https://store.drone.ua/product/chasing-dory/</url>
 	<price>20950</price>
@@ -8651,7 +8651,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit="">Желтый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.KN.MT.001" available="true">
+	<item id="ST.KN.MT.001" available="">
 	<name>Панорамная камера Kandao Meeting (ST.KN.MT.001)</name>
 	<url>https://store.drone.ua/product/kandao-meeting/</url>
 	<price>25870</price>
