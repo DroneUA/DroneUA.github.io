@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-09-03 18:59">	
+<yml_catalog date="2020-09-04 16:30">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -20,6 +20,7 @@
 <category id="11">Велосумки и крепления для фляг</category>	
 <category id="12">Сумки для ноутбуков</category>	
 <category id="13">WEB-камеры</category>	
+<category id="14">Прочее для полива</category>	
 </catalog>	
 <items>	
 	<item id="CP.PT.00000132.01">
@@ -2337,7 +2338,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>125960</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
-	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</image>
+	<image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</image>
 	<description>Дрон оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом на глубину до 100 метров.</description>
 	</item>
 	<item id="ST.KN.MT.001">
@@ -2402,6 +2403,136 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</image>
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
+	</item>
+	<item id="ST.M3.00000007">
+	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST.M3.00000007)</name>
+	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/</url>
+	<price>4830</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_1.jpg</image>
+	<description>Пропеллеры для промышленного дрона DJI Matrice 300 RTK. Модель: 2110. Совместимость: DJI Matrice 300 RTK.</description>
+	</item>
+	<item id="ST.M3.00000004">
+	<name>Пульт управления DJI Smart Controller Enterprise (ST.M3.00000004)</name>
+	<url>https://store.drone.ua/product/dji-smart-controller-enterprise/</url>
+	<price>48300</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/M300_Smart_Controller_Enterprise_1.png</image>
+	<description>Пульт управления для промышленных дронов серии DJI Matrice 300.</description>
+	</item>
+	<item id="ST.M3.00000003">
+	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST.M3.00000003)</name>
+	<url>https://store.drone.ua/product/dji-bs60-intelligent-battery-station/</url>
+	<price>44520</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/M300_Battery_Station_BS60_1.jpg</image>
+	<description>Зарядная станция для интеллектуальных батарей дрона DJI Matrice 300.</description>
+	</item>
+	<item id="ST.M3.00000002">
+	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST.M3.00000002)</name>
+	<url>https://store.drone.ua/product/tb60-intelligent-flight-battery/</url>
+	<price>30240</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_1.jpg</image>
+	<description>Интеллектуальная батарея для дрона DJI Matrice 300 RTK.</description>
+	</item>
+	<item id="DAT16">
+	<name>Мультикоптер DJI Agras T16 (DAT16)</name>
+	<url>https://store.drone.ua/product/agras-t16/</url>
+	<price>629960</price>
+	<categoryId>1</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Agras_T16_1.png</image>
+	<description>Сельскохозяйственный дрон для внесения срезств защиты растений.</description>
+	</item>
+	<item id="ST.000000011336">
+	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST.000000011336)</name>
+	<url>https://store.drone.ua/product/agras-t16-battery/</url>
+	<price>46160</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/T16_Battery_1.jpg</image>
+	<description>Интеллектуальная батарея для дрона DJI Agras T16.</description>
+	</item>
+	<item id="ST.0000.20.13765">
+	<name>Бак для DJI Agras T16 Tank 20 л (ST.0000.20.13765)</name>
+	<url>https://store.drone.ua/product/t16-tank-20-litters/</url>
+	<price>12180</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_20_Litters_1.jpg</image>
+	<description>Бак 20 л для для дрона DJI T16.</description>
+	</item>
+	<item id="ST.00000013765">
+	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST.00000013765)</name>
+	<url>https://store.drone.ua/product/t16-part15-spray-tank-accessories/</url>
+	<price>8500</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_16_Litters_1.jpg</image>
+	<description>Бак 16 л для для дрона DJI T16.</description>
+	</item>
+	<item id="ST.000000011336.20">
+	<name>Интеллектуальная батарея DJI Agras T20 (ST.000000011336.20)</name>
+	<url>https://store.drone.ua/product/battery-t20/</url>
+	<price>48970</price>
+	<categoryId>7</categoryId>
+	<vendor>DJI</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</image>
+	<description>Интеллектуальная батарея для дрона DJI Agras T16/T20.</description>
+	</item>
+	<item id="14578">
+	<name>Подводный дрон Chasing M2 with Robotic Arm (14578)</name>
+	<url>https://store.drone.ua/product/podvodnyj-dron-chasing-m2-s-manipuljatorom-robotic-arm/</url>
+	<price>149020</price>
+	<categoryId>1</categoryId>
+	<vendor>Chasing-Innovation</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg</image>
+	<description>Подводный дрон с механическим манипулятором в комплекте.</description>
+	</item>
+	<item id="13438">
+	<name>Манипулятор Chasing M2 Robotic Arm (13438)</name>
+	<url>https://store.drone.ua/product/chasing-m2-robotic-arm/</url>
+	<price>23060</price>
+	<categoryId>7</categoryId>
+	<vendor>Chasing-Innovation</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/M2_Robotic_Arm_1.jpg
+</image>
+	<description>Механический манипулятор для подводного дрона Chasing M2.</description>
+	</item>
+	<item id="13436">
+	<name>Лебедка для подводного дрона Chasing M2 Electric Winder (13436)</name>
+	<url>https://store.drone.ua/product/chasing-m2-electric-winder/</url>
+	<price>31460</price>
+	<categoryId>7</categoryId>
+	<vendor>Chasing-Innovation</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Winder_1.jpg
+</image>
+	<description>электрическая лебедка для подводного дрона Chasing M2</description>
+	</item>
+	<item id="15981">
+	<name>Подводный дрон Chasing M2 Combo (15981)</name>
+	<url>https://store.drone.ua/product/chasing-m2-combo/</url>
+	<price>180480</price>
+	<categoryId>1</categoryId>
+	<vendor>Chasing-Innovation</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg
+</image>
+	<description>Подводный дрон с механическим манипулятором и лебедкой в комплекте.</description>
+	</item>
+	<item id="FB.D.UA.00001">
+	<name>Робот-садовник DroneUA FarmBot (FB.D.UA.00001)</name>
+	<url>https://store.drone.ua/product/farmbot/</url>
+	<price>74570</price>
+	<categoryId>14</categoryId>
+	<vendor>DroneUA</vendor>
+	<image>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_2.jpg
+</image>
+	<description>Робот-садовник для автоматизации выращивания и ухода за растениями.</description>
 	</item>
 </items>	
 </shop>	
