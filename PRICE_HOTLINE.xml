@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-09-03 20:16</date>	
+<date>2020-09-04 16:39</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -15,6 +15,7 @@
 <category><id>9</id><name>Сумки, футляры, кофры для фото и видео</name></category>	
 <category><id>10</id><name>Сумки, чехлы для ноутбуков</name></category>	
 <category><id>11</id><name>Оборудование для конференц-связи</name></category>	
+<category><id>12</id><name>Аксессуары для водоснабжения, полива</name></category>	
 </categories><items>	
 	<item>
 	<id>CP.PT.00000132.01</id>
@@ -4104,7 +4105,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<description>Дрон оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом на глубину до 100 метров.</description>
 	<url>https://store.drone.ua/product/chasing-m2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000004002/</url>
-	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</image>
+	<image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</image>
 	<priceRUAH>125960</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee type="shop">12</guarantee>
@@ -4234,7 +4235,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.M3.00000007/</url>
 	<image>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_1.jpg</image>
 	<priceRUAH>4830</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4420,12 +4421,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	</item>
 	<item>
 	<id>15981</id>
-	<categoryId>2</categoryId>
+	<categoryId>1</categoryId>
 	<code>15981</code>
 	<vendor>Chasing-Innovation</vendor>
 	<name>Подводный дрон Chasing M2 Combo (15981)</name>
 	<description>Подводный дрон с механическим манипулятором и лебедкой в комплекте.</description>
-	<url>https://store.drone.ua/product/chasing-m2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=15981/</url>
+	<url>https://store.drone.ua/product/chasing-m2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=15981/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg
 </image>
 	<priceRUAH>180480</priceRUAH>
@@ -4437,12 +4438,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	</item>
 	<item>
 	<id>FB.D.UA.00001</id>
-	<categoryId>1</categoryId>
+	<categoryId>12</categoryId>
 	<code>FB.D.UA.00001</code>
 	<vendor>DroneUA</vendor>
 	<name>Робот-садовник DroneUA FarmBot (FB.D.UA.00001)</name>
 	<description>Робот-садовник для автоматизации выращивания и ухода за растениями.</description>
-	<url>https://store.drone.ua/product/farmbot/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=FB.D.UA.00001/</url>
+	<url>https://store.drone.ua/product/farmbot/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=-utm_content=FB.D.UA.00001/</url>
 	<image>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_2.jpg
 </image>
 	<priceRUAH>74570</priceRUAH>
