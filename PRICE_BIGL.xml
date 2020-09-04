@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-09-03 17:04">	
+<price date="2020-09-04 14:43">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -8630,12 +8630,15 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<price>125960</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
-	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_2.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_3.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_4.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_5.jpg</picture>
-<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_6.png</picture>
+	<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_7.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_8.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_9.jpg</picture>
 	<description><![CDATA[<p>Компания CHASING, известная производством подводных беспилотников, представила в США на CES&nbsp;<strong>свое новое решение &ndash; беспилотник М2</strong>,&nbsp;<strong>одно из самых эффективных в мире промышленных дистанционно управляемых устройств, предназначенных для использования под водой</strong>&nbsp;(ROV). Этот дрон нового поколения оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также &mdash; светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом&nbsp;<strong>на глубину до 100 метров</strong>. Он станет незаменимым помощником для спасателей, инспекторов, ученых, инженеров и т.д. Дрон невероятно легкий и компактный &mdash; благодаря алюминиевому корпусу его&nbsp;<strong>вес не превышает 5 кг</strong>. М2 впервые для подобных устройств имеет аккумулятор и съемную карту памяти, при этом оставаясь полностью водонепроницаемым.</p>
 <p>Но, пожалуй, самая главная особенность этого агрегата &ndash; это&nbsp;<strong>расположение двигателей</strong>&nbsp;(в 8-ми направлениях), что дает пользователю&nbsp;<strong>возможность перемещения в шести направлениях с вращением и поворачиванием</strong>. Помимо этого, так называемый режим &laquo;блокировки глубины&raquo; обеспечивает стабильность управления.</p>
 <p>Спереди и сзади дрона можно установить камеры GoPro или же дополнительные источники света. Он также может быть сопряжен с лазерным измерительным оборудованием, которое используют для определения глубины погружения или наличия изъянов, трещин и т.д. в исследуемых объектах.</p>
@@ -9432,4 +9435,4 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 </items>	
-</price>
+</price>	
