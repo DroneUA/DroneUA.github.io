@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-08-27 16:46">	
+<yml_catalog date="2020-09-03 18:30">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -4386,7 +4386,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	ST.CI.00002">
 	<url>https://store.drone.ua/product/gladius-mini/</url>
-	<price>59580</price>
+	<price>56660</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
@@ -4421,12 +4421,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>55409</price_opt>
+	<price_opt>52694</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.CI.00102">
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>9280</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
@@ -4456,7 +4456,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>8630</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	PZM200">
@@ -9508,7 +9508,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.000000011597">
 	<url>https://store.drone.ua/product/chasing-dory/</url>
-	<price>20950</price>
+	<price>23060</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</picture>
@@ -9542,7 +9542,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>19484</price_opt>
+	<price_opt>21446</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.QT.00001168.01">
@@ -10087,7 +10087,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.00000004002">
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>117370</price>
+	<price>125960</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</picture>
@@ -10126,7 +10126,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>109154</price_opt>
+	<price_opt>117143</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.KN.MT.001">
@@ -16386,7 +16386,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	14578">
 	<url>https://store.drone.ua/product/podvodnyj-dron-chasing-m2-s-manipuljatorom-robotic-arm/</url>
-	<price>139910</price>
+	<price>149020</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg</picture>
@@ -16715,12 +16715,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>130116</price_opt>
+	<price_opt>138589</price_opt>
 	</offer>
 	<offer available="true" id="
 	13438">
 	<url>https://store.drone.ua/product/chasing-m2-robotic-arm/</url>
-	<price>22540</price>
+	<price>23060</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M2_Robotic_Arm_1.jpg</picture>
@@ -16751,12 +16751,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для судомоделей</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>20962</price_opt>
+	<price_opt>21446</price_opt>
 	</offer>
 	<offer available="true" id="
 	13436">
 	<url>https://store.drone.ua/product/chasing-m2-electric-winder/</url>
-	<price>18020</price>
+	<price>31460</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_Winder_1.jpg</picture>
@@ -16784,12 +16784,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для судомоделей</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>16759</price_opt>
+	<price_opt>29258</price_opt>
 	</offer>
 	<offer available="true" id="
 	15981">
 	<url>https://store.drone.ua/product/chasing-m2-combo/</url>
-	<price>153410</price>
+	<price>180480</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg</picture>
@@ -17123,7 +17123,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>142671</price_opt>
+	<price_opt>167846</price_opt>
 	</offer>
 	<offer available="true" id="
 	FB.D.UA.00001">
