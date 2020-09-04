@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-08-27 18:00</date>	
+<date>2020-09-03 20:24</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -506,7 +506,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_8.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_9.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_10.png</image>
-	<priceRUAH>59580</priceRUAH>
+	<priceRUAH>56660</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -524,7 +524,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_3.jpg</image>
-	<priceRUAH>9280</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -3747,7 +3747,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_7.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_8.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_9.jpg</image>
-	<priceRUAH>20950</priceRUAH>
+	<priceRUAH>23060</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4024,7 +4024,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Chasing_M2_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Chasing_M2_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Chasing_M2_6.png</image>
-	<priceRUAH>117370</priceRUAH>
+	<priceRUAH>125960</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
