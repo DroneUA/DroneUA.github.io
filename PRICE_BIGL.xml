@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-08-27 16:03">	
+<price date="2020-09-03 17:04">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -3345,7 +3345,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.CI.00002" available="true">
 	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
 	<url>https://store.drone.ua/product/gladius-mini/</url>
-	<price>59580</price>
+	<price>56660</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
@@ -3371,7 +3371,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.CI.00102" available="true">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>9280</price>
+	<price>0</price>
 	<categoryId>2</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
@@ -8100,7 +8100,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011597" available="true">
 	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
 	<url>https://store.drone.ua/product/chasing-dory/</url>
-	<price>20950</price>
+	<price>23060</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</picture>
@@ -8627,7 +8627,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004002" available="true">
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>117370</price>
+	<price>125960</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_1.jpg</picture>
@@ -9432,4 +9432,4 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Состояние" unit="">Новое</param>
 	</item>
 </items>	
-</price>	
+</price>
