@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-09-04 16:30">	
+<yml_catalog date="2020-09-15 21:15">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -125,7 +125,7 @@
 	<item id="CP.VL.00000014.01">
 	<name>Очки виртуальной реальности DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
-	<price>0</price>
+	<price>20970</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Goggles_Racing_Edition.jpg</image>
@@ -152,7 +152,7 @@
 	<item id="CP.MA.00000013.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>50720</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Pro.jpg</image>
@@ -170,7 +170,7 @@
 	<item id="CP.MA.00000037.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
-	<price>0</price>
+	<price>13270</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Fly_More_Kit.jpg</image>
@@ -395,7 +395,7 @@
 	<item id="ST.CI.00102">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>0</price>
+	<price>8720</price>
 	<categoryId>6</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</image>
@@ -634,7 +634,7 @@
 	<item id="CP.MA.00000080.01">
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
-	<price>25520</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</image>
@@ -1057,7 +1057,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006316">
 	<name>Набор DJI Mavic 2 Enterprise Fly More Kit (ST.00000006316)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part1_fly_more_kit/</url>
-	<price>0</price>
+	<price>18440</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Fly_More_Kit_1.jpg</image>
@@ -2452,7 +2452,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011336">
 	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST.000000011336)</name>
 	<url>https://store.drone.ua/product/agras-t16-battery/</url>
-	<price>46160</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Battery_1.jpg</image>
@@ -2479,7 +2479,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011336.20">
 	<name>Интеллектуальная батарея DJI Agras T20 (ST.000000011336.20)</name>
 	<url>https://store.drone.ua/product/battery-t20/</url>
-	<price>48970</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</image>
