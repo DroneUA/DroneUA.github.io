@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-09-16 18:39">	
+<yml_catalog date="2020-09-18 11:58">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -3495,7 +3495,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 	<price>2770</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Air_3.jpg</picture>
@@ -3524,7 +3524,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>https://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 	<price>3470</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_Platinum_3.jpg</picture>
@@ -3554,7 +3554,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>https://store.drone.ua/product/batareja-dlja-mavic/</url>
 	<price>3470</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Mavic_Pro_3.jpg</picture>
@@ -3583,7 +3583,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 	<price>6620</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -3609,7 +3609,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>https://store.drone.ua/product/tello-part-1-battery/</url>
 	<price>980</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/AC_Tello_2.png</picture>
 	<vendor>Ryze</vendor>
@@ -5535,7 +5535,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<url>https://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
 	<price>33560</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -6059,7 +6059,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/anafi_smart_battery/</url>
 	<price>3730</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</picture>
 	<vendor>Parrot</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -6159,7 +6159,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
 	<price>8360</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_2.png</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_3.jpg</picture>
@@ -9195,7 +9195,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
 	<price>1580</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_3.jpg</picture>
@@ -11466,7 +11466,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/tb60-intelligent-flight-battery/</url>
 	<price>30240</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_3.jpg</picture>
@@ -11997,7 +11997,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/agras-t16-battery/</url>
 	<price>46160</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/T16_Battery_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -12093,7 +12093,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/battery-t20/</url>
 	<price>48970</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -13036,7 +13036,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part1_fly_more_kit/</url>
 	<price>18440</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Fly_More_Kit_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -13070,7 +13070,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part2_battery/</url>
 	<price>7520</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_battery_1.jpg</picture>
 	<vendor>DJI</vendor>
 	<stock_quantity>5</stock_quantity>
@@ -16286,7 +16286,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery-6pcs/</url>
 	<price>48260</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_3.jpg</picture>
@@ -16376,7 +16376,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery/</url>
 	<price>8360</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>-</categoryId>
+	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_3.jpg</picture>
