@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-09-23 12:34</date>	
+<date>2020-09-23 14:29</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -4344,7 +4344,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId></categoryId>
 	<code>ST-M3-00000007</code>
 	<vendor>DJI</vendor>
-	<name>(ST-M3-00000007)</name>
+	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST-M3-00000007)</name>
 	<description></description>
 	<url></url>
 	
@@ -4360,7 +4360,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId></categoryId>
 	<code>ST-M3-00000004</code>
 	<vendor>DJI</vendor>
-	<name>(ST-M3-00000004)</name>
+	<name>Пульт управления DJI Smart Controller Enterprise (ST-M3-00000004)</name>
 	<description></description>
 	<url></url>
 	
@@ -4376,7 +4376,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId></categoryId>
 	<code>ST-M3-00000003</code>
 	<vendor>DJI</vendor>
-	<name>(ST-M3-00000003)</name>
+	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST-M3-00000003)</name>
 	<description></description>
 	<url></url>
 	
@@ -4392,7 +4392,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId></categoryId>
 	<code>ST-M3-00000002</code>
 	<vendor>DJI</vendor>
-	<name>(ST-M3-00000002)</name>
+	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST-M3-00000002)</name>
 	<description></description>
 	<url></url>
 	
@@ -4404,11 +4404,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>DAT16</id>
+	<id>DAT16-0416</id>
 	<categoryId>1</categoryId>
-	<code>DAT16</code>
+	<code>DAT16-0416</code>
 	<vendor>DJI</vendor>
-	<name>(DAT16)</name>
+	<name>Мультикоптер DJI Agras T16 (DAT16-0416)</name>
 	<description></description>
 	<url></url>
 	
@@ -4424,7 +4424,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST-000000011336</code>
 	<vendor>DJI</vendor>
-	<name>(ST-000000011336)</name>
+	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST-000000011336)</name>
 	<description></description>
 	<url></url>
 	
@@ -4440,7 +4440,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST-0000-20-13765</code>
 	<vendor>DJI</vendor>
-	<name>(ST-0000-20-13765)</name>
+	<name>Бак для DJI Agras T16 Tank 20 л (ST-0000-20-13765)</name>
 	<description></description>
 	<url></url>
 	
@@ -4456,7 +4456,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST-00000013765</code>
 	<vendor>DJI</vendor>
-	<name>(ST-00000013765)</name>
+	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST-00000013765)</name>
 	<description></description>
 	<url></url>
 	
@@ -4472,7 +4472,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>ST-000000011336-20</code>
 	<vendor>DJI</vendor>
-	<name>(ST-000000011336-20)</name>
+	<name>Интеллектуальная батарея DJI Agras T20 (ST-000000011336-20)</name>
 	<description></description>
 	<url></url>
 	
@@ -4488,7 +4488,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>1</categoryId>
 	<code>14578</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>(14578)</name>
+	<name>Подводный дрон Chasing M2 with Robotic Arm (14578)</name>
 	<description></description>
 	<url></url>
 	
@@ -4504,7 +4504,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>1</categoryId>
 	<code>13438</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>(13438)</name>
+	<name>Манипулятор Chasing M2 Robotic Arm (13438)</name>
 	<description></description>
 	<url></url>
 	
@@ -4520,7 +4520,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>2</categoryId>
 	<code>13436</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>(13436)</name>
+	<name>Лебедка для подводного дрона Chasing M2 Electric Winder (13436)</name>
 	<description></description>
 	<url></url>
 	
@@ -4536,7 +4536,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId>1</categoryId>
 	<code>15981</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>(15981)</name>
+	<name>Подводный дрон Chasing M2 Combo (15981)</name>
 	<description></description>
 	<url></url>
 	
@@ -4552,7 +4552,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<categoryId></categoryId>
 	<code>FB-D-UA-00001</code>
 	<vendor>DroneUA</vendor>
-	<name>(FB-D-UA-00001)</name>
+	<name>Робот-садовник DroneUA FarmBot (FB-D-UA-00001)</name>
 	<description></description>
 	<url></url>
 	
