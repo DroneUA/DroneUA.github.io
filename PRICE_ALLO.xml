@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-09-23 14:29</date>	
+<date>2020-09-24 14:17</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -17,9 +17,9 @@
 <category><id>11</id><name>Оборудование для конференц-связи</name></category>	
 </categories><items>	
 	<item>
-	<id>PA-ST-02</id>
+	<id>PA-ST-02-0416</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-02</code>
+	<code>PA-ST-02-0416</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi Thermal</name>
 	<description>ANAFI Thermal позволит проводить съемку как обычной камерой, так и тепловизором, что позволит рассмотреть утечки тепла в конструкциях и любых других объектах.
@@ -32,16 +32,16 @@
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_2_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Thermal_3.png</image>
 	<priceRUAH>84950</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-03</id>
+	<id>PA-ST-03-0416</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-03</code>
+	<code>PA-ST-03-0416</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi Work</name>
 	<description>Летающая 4K HDR камера, которую вы можете взять с собой повсюду.</description>
@@ -49,16 +49,16 @@
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Work_2.png</image>
 	<priceRUAH>44660</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-04</id>
+	<id>PA-ST-04-0416</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-04</code>
+	<code>PA-ST-04-0416</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi Extended</name>
 	<description>Расширенная версия Anafi Extended
@@ -70,16 +70,16 @@
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_5.png</image>
 	<priceRUAH>33500</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-05</id>
+	<id>PA-ST-05-0416</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-05</code>
+	<code>PA-ST-05-0416</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi</name>
 	<description>Anafi имеет встроенную камеру, которая снимает потрясающие 4K HDR-видео со скоростью 100 Мбит/с и резкие 21-мегапиксельные фотографии. 4K Cinema обеспечивает профессиональное качество видео, поскольку оно записывается в формате 17: 9. HDR улучшает все видимые детали, уменьшая чрезмерно яркие огни и очень темные тени в кадре. Камера ANAFI оснащена широкоугольным асферическим объективом. Оптика объектива была спроектирована таким образом, чтобы уменьшить объектив и хроматические аберрации.
@@ -99,16 +99,16 @@ Anafi — ультрапортативный беспилотник, компа�
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_5.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_6.png</image>
 	<priceRUAH>26050</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-06</id>
+	<id>PA-ST-06-0416</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-06</code>
+	<code>PA-ST-06-0416</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Bluegrass Fields</name>
 	<description>Parrot Bluegrass — многоцелевой квадрокоптер, предназначенный для сельского хозяйства. Он помогает фермерам повысить рентабельность инвестиций, используя 2 встроенных камеры, видеокамеры и мультиспектральный датчик Parrot Sequoia.
@@ -123,16 +123,16 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bluegrass_Fields_5.jpg</image>
 	<priceRUAH>200750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-07</id>
+	<id>PA-ST-07-0416</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-07</code>
+	<code>PA-ST-07-0416</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Mambo FPV</name>
 	<description>Полностью погрузитесь в полет с Parrot Mambo. Используйте аксессуары: можно подключить камеру FPV к мини-радиоприемнику с использованием технологии Smart Block для записи и передачи контента в формате HD. Или оденьте ВР-гарнитуру Cockpitglasses, чтобы получить максимальные впечатления от вашего беспилотного летательного аппарата и познать новые ощущения скорости.</description>
@@ -144,7 +144,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_5.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_6.png</image>
 	<priceRUAH>7070</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -168,7 +168,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_7.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_Mission_8.png</image>
 	<priceRUAH>2260</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -192,7 +192,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_Fly_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Mambo_FPV_Fly_3.jpg</image>
 	<priceRUAH>4010</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -212,7 +212,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_4.png</image>
 	<priceRUAH>49150</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -231,7 +231,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_FPV_4.jpg</image>
 	<priceRUAH>23680</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -252,7 +252,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_6.jpg</image>
 	<priceRUAH>19710</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -273,7 +273,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Adventurer_6.jpg</image>
 	<priceRUAH>23290</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -292,7 +292,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power-Pack_FPV_4.png</image>
 	<priceRUAH>26050</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -309,7 +309,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Xtreme_Adventurer_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Xtreme_Adventurer_2.jpg</image>
 	<priceRUAH>23290</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -328,7 +328,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Adventurer_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop_2_Power_Adventurer_4.jpg</image>
 	<priceRUAH>20700</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -346,7 +346,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_Thermal_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_Thermal_3.jpg</image>
 	<priceRUAH>67060</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -366,7 +366,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_4.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Disco-Pro_AG_5.png</image>
 	<priceRUAH>213350</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -385,7 +385,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_1.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3_2.jpg</image>
 	<priceRUAH>7420</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -403,7 +403,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Smart_battery_1.png</image>
 	<priceRUAH>3730</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -424,7 +424,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_3.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Travel_Bag_4.jpg</image>
 	<priceRUAH>2950</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -442,7 +442,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Skycontroller_3-Tablet_holder_1.jpg</image>
 	<priceRUAH>1460</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -460,7 +460,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Foldable_propellers_1.png</image>
 	<priceRUAH>750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -482,7 +482,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_6.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_7.jpg</image>
 	<priceRUAH>0</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -507,7 +507,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_9.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_10.png</image>
 	<priceRUAH>56660</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -525,7 +525,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_3.jpg</image>
 	<priceRUAH>8720</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -549,7 +549,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_6.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_7.jpg</image>
 	<priceRUAH>95720</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -572,7 +572,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_6.jpg</image>
 	<priceRUAH>95720</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -594,7 +594,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_6.jpg</image>
 	<priceRUAH>16730</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -614,7 +614,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_5.jpg</image>
 	<priceRUAH>11180</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -633,7 +633,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Ronin-SC_3.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Ronin-SC_4.jpg</image>
 	<priceRUAH>12570</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -652,7 +652,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_3.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Ronin-SC_Pro_Combo_4.jpg</image>
 	<priceRUAH>16070</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -672,7 +672,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_5.jpg</image>
 	<priceRUAH>3820</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -692,7 +692,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Mobile_3_Combo_5.jpg</image>
 	<priceRUAH>4520</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -713,7 +713,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_6.jpg</image>
 	<priceRUAH>30770</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -734,7 +734,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_6.jpg</image>
 	<priceRUAH>34970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -755,7 +755,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_6.jpg</image>
 	<priceRUAH>34970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -776,7 +776,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Action_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Action_6.jpg</image>
 	<priceRUAH>13270</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -793,7 +793,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/SEQUOIA+_2.jpg</image>
 	<priceRUAH>143070</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -813,7 +813,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/PD1900_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/PD1900_5.jpg</image>
 	<priceRUAH>90510</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Украина</param>
@@ -835,7 +835,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_6.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Cendence_Remote_Controller_7.jpg</image>
 	<priceRUAH>40220</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -855,8 +855,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Smart_Controller_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Smart_Controller_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Smart_Controller_6.jpg</image>
-	<priceRUAH>25520</priceRUAH>
-	<stock>Нет</stock>
+	<priceRUAH>22720</priceRUAH>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -875,7 +875,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_3.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_4.jpg</image>
 	<priceRUAH>12570</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -895,7 +895,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_5.jpg</image>
 	<priceRUAH>5920</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -916,7 +916,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/GameSir_T1d_Controller_6.jpg</image>
 	<priceRUAH>1190</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -934,7 +934,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_3.jpg</image>
 	<priceRUAH>22020</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -950,7 +950,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</image>
 	<priceRUAH>33560</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -966,7 +966,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</image>
 	<priceRUAH>50360</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -983,7 +983,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_2.jpg</image>
 	<priceRUAH>45360</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1004,7 +1004,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_6.jpg</image>
 	<priceRUAH>461960</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1022,7 +1022,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_3.jpg</image>
 	<priceRUAH>329160</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1042,7 +1042,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_4.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_5.jpg</image>
 	<priceRUAH>8360</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1064,7 +1064,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_6.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_7.jpg</image>
 	<priceRUAH>3120</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1084,7 +1084,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_5.jpg</image>
 	<priceRUAH>1020</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1105,7 +1105,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire2_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire2_6.jpg</image>
 	<priceRUAH>118970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1126,7 +1126,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Professional_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Professional_6.jpg</image>
 	<priceRUAH>399000</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1147,7 +1147,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Premium_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Premium_6.jpg</image>
 	<priceRUAH>498750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1167,7 +1167,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_5.jpg</image>
 	<priceRUAH>58750</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1187,7 +1187,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_5.jpg</image>
 	<priceRUAH>62950</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1207,7 +1207,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_5.jpg</image>
 	<priceRUAH>62950</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1227,7 +1227,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_5.jpg</image>
 	<priceRUAH>62950</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1247,7 +1247,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_5.jpg</image>
 	<priceRUAH>205750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1265,7 +1265,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_3.jpg</image>
 	<priceRUAH>67160</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1287,7 +1287,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_6.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_7.jpg</image>
 	<priceRUAH>92360</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1309,18 +1309,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_6.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_7.jpg</image>
 	<priceRUAH>104970</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011501</id>
+	<id>ST-000000011501-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000011501</code>
+	<code>ST-000000011501-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI P4 Multispectral (ST-000000011501)</name>
+	<name>Квадрокоптер DJI P4 Multispectral (ST-000000011501-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
@@ -1330,18 +1330,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_6.png</image>
 	<priceRUAH>251960</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011518</id>
+	<id>ST-000000011518-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000011518</code>
+	<code>ST-000000011518-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (ST-000000011518)</name>
+	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (ST-000000011518-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
@@ -1351,18 +1351,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_6.png</image>
 	<priceRUAH>373760</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000108-01-1</id>
+	<id>CP-EN-00000108-01-1-0416</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000108-01-1</code>
+	<code>CP-EN-00000108-01-1-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP-EN-00000108-01-1)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP-EN-00000108-01-1-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</image>
@@ -1372,18 +1372,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_6.jpg</image>
 	<priceRUAH>142760</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000108-01</id>
+	<id>CP-EN-00000108-01-0416</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000108-01</code>
+	<code>CP-EN-00000108-01-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP-EN-00000108-01)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP-EN-00000108-01-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_1.jpg</image>
@@ -1392,42 +1392,42 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_5.jpg</image>
 	<priceRUAH>121760</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000006344</id>
+	<id>ST-00000006344-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000006344</code>
+	<code>ST-00000006344-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST-00000006344)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST-00000006344-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_3.jpg</image>
 	<priceRUAH>117560</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000003212</id>
+	<id>ST-00000003212-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000003212</code>
+	<code>ST-00000003212-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (ST-00000003212)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (ST-00000003212-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_2.jpg</image>
 	<priceRUAH>96560</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1443,7 +1443,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Fly_More_Kit_1.jpg</image>
 	<priceRUAH>18440</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1459,7 +1459,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_battery_1.jpg</image>
 	<priceRUAH>7520</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1475,7 +1475,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Spotlight_1.jpg</image>
 	<priceRUAH>5250</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1491,18 +1491,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Protector_Case_1.jpg</image>
 	<priceRUAH>5000</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000008210</id>
+	<id>ST-00000008210-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000008210</code>
+	<code>ST-00000008210-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (ST-00000008210)</name>
+	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (ST-00000008210-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_1.png</image>
@@ -1513,18 +1513,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_6.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_7.png</image>
 	<priceRUAH>327600</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000003160</id>
+	<id>ST-00000003160-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000003160</code>
+	<code>ST-00000003160-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Phantom 4 RTK (ST-00000003160)</name>
+	<name>Квадрокоптер DJI Phantom 4 RTK (ST-00000003160-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_1.png</image>
@@ -1535,23 +1535,23 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_6.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_7.png</image>
 	<priceRUAH>239400</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000010836</id>
+	<id>ST-000000010836-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000010836</code>
+	<code>ST-000000010836-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST-000000010836)</name>
+	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST-000000010836-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_1.png</image>
 	<priceRUAH>226800</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1567,7 +1567,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</image>
 	<priceRUAH>151200</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1587,7 +1587,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_Remote_Controller_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_Remote_Controller_5.jpg</image>
 	<priceRUAH>29400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1603,18 +1603,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_Tripod_1.jpg</image>
 	<priceRUAH>7140</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000048-01</id>
+	<id>CP-EN-00000048-01-0416</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000048-01</code>
+	<code>CP-EN-00000048-01-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP-EN-00000048-01)</name>
+	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP-EN-00000048-01-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</image>
@@ -1624,18 +1624,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_6.jpg</image>
 	<priceRUAH>270900</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000054-01</id>
+	<id>CP-EN-00000054-01-0416</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000054-01</code>
+	<code>CP-EN-00000054-01-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP-EN-00000054-01)</name>
+	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP-EN-00000054-01-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</image>
@@ -1647,18 +1647,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_7.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_8.jpg</image>
 	<priceRUAH>357000</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000062</id>
+	<id>CP-EN-00000062-0416</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000062</code>
+	<code>CP-EN-00000062-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP-EN-00000062)</name>
+	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP-EN-00000062-0416)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</image>
@@ -1667,7 +1667,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_4.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_5.jpg</image>
 	<priceRUAH>504000</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1688,7 +1688,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_6.jpg</image>
 	<priceRUAH>3470</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1709,7 +1709,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_Battery_Charging_Hub_6.jpg</image>
 	<priceRUAH>3820</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1731,7 +1731,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_6.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_7.jpg</image>
 	<priceRUAH>239360</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1750,7 +1750,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_3.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_4.jpg</image>
 	<priceRUAH>48260</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1771,7 +1771,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/DJI_Hex_Charger_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/DJI_Hex_Charger_6.jpg</image>
 	<priceRUAH>14660</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1790,7 +1790,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_3.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_4.jpg</image>
 	<priceRUAH>8360</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1810,7 +1810,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/CR3-2600W-01___03.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/CR3-2600W-01___02.jpg</image>
 	<priceRUAH>14330</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1828,7 +1828,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/TYH-4600W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/TYH-4600W-01___03.jpg</image>
 	<priceRUAH>14480</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1846,7 +1846,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/Z190-2700W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/Z190-2700W-01___03.jpg</image>
 	<priceRUAH>16250</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1866,7 +1866,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/VEN2730W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/VEN2730W-01___03.jpg</image>
 	<priceRUAH>25520</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1886,7 +1886,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ALP2460-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ALP2460-01___03.jpg</image>
 	<priceRUAH>5400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1903,7 +1903,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600W-01___01.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600W-01___02.jpg</image>
 	<priceRUAH>7790</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1920,7 +1920,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600-01___01.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600-01___02.jpg</image>
 	<priceRUAH>5170</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1940,7 +1940,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BEBBAGLG-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BEBBAGLG-01___03.jpg</image>
 	<priceRUAH>7070</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1962,7 +1962,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GH52460-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GH52460-01___03.jpg</image>
 	<priceRUAH>5400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1980,7 +1980,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/D850-2460-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/D850-2460-01___03.jpg</image>
 	<priceRUAH>7170</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -1997,7 +1997,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/LEM2460-01___01.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/LEM2460-01___02.jpg</image>
 	<priceRUAH>9650</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2014,7 +2014,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/LEM2400-01___01.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/LEM2400-01___02.jpg</image>
 	<priceRUAH>6650</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2035,7 +2035,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GPR7-1400-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GPR7-1400-01___03.jpg</image>
 	<priceRUAH>1900</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2057,7 +2057,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/FFS-4600W-02___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/FFS-4600W-02___03.jpg</image>
 	<priceRUAH>20650</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2073,7 +2073,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV3500BLK-02___01.jpg</image>
 	<priceRUAH>9790</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2089,7 +2089,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300YEL-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2105,7 +2105,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300RED-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2121,7 +2121,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300BLU-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2137,7 +2137,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300BLK-01___01.jpg</image>
 	<priceRUAH>3400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2153,7 +2153,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA2700-03___01.jpg</image>
 	<priceRUAH>9750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2171,7 +2171,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-02___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-02___03.jpg</image>
 	<priceRUAH>4810</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2187,7 +2187,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400RED-01___01.jpg</image>
 	<priceRUAH>5480</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2203,7 +2203,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLK-01___01.jpg</image>
 	<priceRUAH>5480</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2219,7 +2219,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLU-01___01.jpg</image>
 	<priceRUAH>5480</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2235,7 +2235,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLK-02___01.jpg</image>
 	<priceRUAH>5910</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2251,7 +2251,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-2780WCOM-01___01.jpg</image>
 	<priceRUAH>23840</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2271,7 +2271,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/SPKBAG35-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/SPKBAG35-01___03.jpg</image>
 	<priceRUAH>4190</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2290,7 +2290,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROS3500-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROS3500-01___03.jpg</image>
 	<priceRUAH>9610</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2310,7 +2310,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROS2550W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROS2550W-01___03.jpg</image>
 	<priceRUAH>10110</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2328,7 +2328,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROS2500-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROS2500-01___03.jpg</image>
 	<priceRUAH>5910</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2350,7 +2350,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/RON2-2780W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/RON2-2780W-01___03.jpg</image>
 	<priceRUAH>18710</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2369,7 +2369,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROM2700W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ROM2700W-01___03.jpg</image>
 	<priceRUAH>11260</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2390,7 +2390,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/RMX2730W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/RMX2730W-01___03.jpg</image>
 	<priceRUAH>12870</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2415,7 +2415,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTKGS-2780W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTKGS-2780W-01___03.jpg</image>
 	<priceRUAH>31930</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2433,7 +2433,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTK-2700W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTK-2700W-01___03.jpg</image>
 	<priceRUAH>15070</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2454,7 +2454,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAG27-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAG27-01___03.jpg</image>
 	<priceRUAH>5170</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2473,7 +2473,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAGLG-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAGLG-01___03.jpg</image>
 	<priceRUAH>7440</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2493,7 +2493,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2700W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2700W-01___03.jpg</image>
 	<priceRUAH>10170</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2512,7 +2512,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2710-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2710-01___03.jpg</image>
 	<priceRUAH>6450</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2531,7 +2531,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-BAGLG-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-BAGLG-01___03.jpg</image>
 	<priceRUAH>7400</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2549,7 +2549,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA2700W-03___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA2700W-03___03.jpg</image>
 	<priceRUAH>10480</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2567,7 +2567,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-2700W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-2700W-01___03.jpg</image>
 	<priceRUAH>10170</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2586,7 +2586,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/OSMPKT-1400-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/OSMPKT-1400-01___03.jpg</image>
 	<priceRUAH>1550</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2608,7 +2608,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/OSM2350-02___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/OSM2350-02___03.jpg</image>
 	<priceRUAH>3230</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2631,7 +2631,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/OSMACT-1400-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/OSMACT-1400-01___03.jpg</image>
 	<priceRUAH>1900</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2651,7 +2651,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-03___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-03___03.jpg</image>
 	<priceRUAH>4810</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2670,7 +2670,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-2400BLK-02___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-2400BLK-02___03.jpg</image>
 	<priceRUAH>5970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2689,7 +2689,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-3500BLK-02___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-3500BLK-02___03.jpg</image>
 	<priceRUAH>9790</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2708,7 +2708,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/M210-4600W-04___03.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/M210-4600W-04___04.jpg</image>
 	<priceRUAH>21740</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2726,7 +2726,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BAT2550W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BAT2550W-01___03.jpg</image>
 	<priceRUAH>9610</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2747,7 +2747,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BAT2400-02___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BAT2400-02___03.jpg</image>
 	<priceRUAH>4930</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2768,7 +2768,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/INS2780W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/INS2780W-01___03.jpg</image>
 	<priceRUAH>17710</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2787,7 +2787,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-4600W-02___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-4600W-02___03.jpg</image>
 	<priceRUAH>16330</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2806,7 +2806,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-2780W-02___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/INS2-2780W-02___03.jpg</image>
 	<priceRUAH>18480</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2825,7 +2825,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GGS-2460-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GGS-2460-01___03.jpg</image>
 	<priceRUAH>4170</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2843,7 +2843,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/DRTK6500W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/DRTK6500W-01___03.jpg</image>
 	<priceRUAH>24370</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2861,7 +2861,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/CEN2460-02___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/CEN2460-02___03.jpg</image>
 	<priceRUAH>6000</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2883,7 +2883,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GLA2710-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/GLA2710-01___03.jpg</image>
 	<priceRUAH>12160</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2901,7 +2901,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/C200-2600-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/C200-2600-01___03.jpg</image>
 	<priceRUAH>10750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2919,7 +2919,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/C100-2600-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/C100-2600-01___03.jpg</image>
 	<priceRUAH>10750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2940,7 +2940,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BRO4800W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/BRO4800W-01___03.jpg</image>
 	<priceRUAH>11910</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2959,7 +2959,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/URS2730W-03___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/URS2730W-03___03.jpg</image>
 	<priceRUAH>17500</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2977,7 +2977,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PKT2400-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/PKT2400-01___03.jpg</image>
 	<priceRUAH>6500</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -2996,7 +2996,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ADV1-2710-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/ADV1-2710-01___03.jpg</image>
 	<priceRUAH>11440</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3017,7 +3017,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/SM19-2730W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/SM19-2730W-01___03.jpg</image>
 	<priceRUAH>18390</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3035,7 +3035,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/NJAV-2300-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/NJAV-2300-01___03.jpg</image>
 	<priceRUAH>5180</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3054,7 +3054,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAC4800W-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAC4800W-01___03.jpg</image>
 	<priceRUAH>16090</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3072,7 +3072,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/SOL2700W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/SOL2700W-01___03.jpg</image>
 	<priceRUAH>10170</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3088,7 +3088,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV3500-02___01.jpg</image>
 	<priceRUAH>4530</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3104,7 +3104,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-02___01.jpg</image>
 	<priceRUAH>3200</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3120,7 +3120,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0009___01.jpg</image>
 	<priceRUAH>4030</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3136,7 +3136,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0011___01.jpg</image>
 	<priceRUAH>4500</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3152,7 +3152,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0008___01.jpg</image>
 	<priceRUAH>4500</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3168,7 +3168,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTPHA4-2700W-01___01.jpg</image>
 	<priceRUAH>3550</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3184,7 +3184,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTINS2-4600W-01___01.jpg</image>
 	<priceRUAH>9550</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3200,7 +3200,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTINS2-2780W-01___01.jpg</image>
 	<priceRUAH>10750</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3216,7 +3216,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/INS-0002___01.jpg</image>
 	<priceRUAH>4810</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3232,7 +3232,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTBAT2550W-02___01.jpg</image>
 	<priceRUAH>10610</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3254,7 +3254,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAVCONV-01___04.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/MAVCONV-01___03.jpg</image>
 	<priceRUAH>240</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3270,7 +3270,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTZ190-2700W-01___01.jpg</image>
 	<priceRUAH>8100</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3286,7 +3286,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTVEN2730W-01___01.jpg</image>
 	<priceRUAH>14680</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3302,7 +3302,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTURS2730W-03___01.jpg</image>
 	<priceRUAH>8200</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3318,7 +3318,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROS3500-01___01.jpg</image>
 	<priceRUAH>2360</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3334,7 +3334,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROS2550W-01___01.jpg</image>
 	<priceRUAH>3690</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3350,7 +3350,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROS2500-01___01.jpg</image>
 	<priceRUAH>2080</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3366,7 +3366,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTROM2700W-01___01.jpg</image>
 	<priceRUAH>5650</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3382,7 +3382,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTRMX2730W-01___01.jpg</image>
 	<priceRUAH>6450</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3398,7 +3398,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTPKT2400-01___01.jpg</image>
 	<priceRUAH>3200</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3414,7 +3414,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTPHA4-RTK-2700W-01___01.jpg</image>
 	<priceRUAH>6620</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3432,7 +3432,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/HPRC/KTNSM19-2730W-01___02.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/HPRC/KTNSM19-2730W-01___02.jpg</image>
 	<priceRUAH>9300</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3448,7 +3448,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTNJAV2300-01___01.jpg</image>
 	<priceRUAH>2050</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3464,7 +3464,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-03___01.jpg</image>
 	<priceRUAH>3070</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3480,7 +3480,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTCR3-2600W-01___01.jpg</image>
 	<priceRUAH>7290</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3496,7 +3496,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTC200-2600-01___01.jpg</image>
 	<priceRUAH>5520</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3512,7 +3512,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTC100-2600-01___01.jpg</image>
 	<priceRUAH>5520</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3528,7 +3528,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTBAT2550W-01___01.jpg</image>
 	<priceRUAH>4070</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3544,7 +3544,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-01___01.jpg</image>
 	<priceRUAH>2190</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3560,7 +3560,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/HPRC/KTM210-4600W-04___01.jpg</image>
 	<priceRUAH>13260</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Италия</param>
@@ -3578,7 +3578,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_3.jpg</image>
 	<priceRUAH>370</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3597,7 +3597,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_3.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_4.jpg</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3618,7 +3618,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_6.jpg</image>
 	<priceRUAH>1370</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3639,7 +3639,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_6.jpg</image>
 	<priceRUAH>1370</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3659,7 +3659,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_5.jpg</image>
 	<priceRUAH>670</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3680,18 +3680,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/dji-mini-bag_6.jpg</image>
 	<priceRUAH>1230</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-MM-00000101</id>
+	<id>ST-MM-00000101-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-MM-00000101</code>
+	<code>ST-MM-00000101-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic Mini (ST-MM-00000101)</name>
+	<name>Квадрокоптер DJI Mavic Mini (ST-MM-00000101-0416)</name>
 	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</image>
@@ -3702,18 +3702,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_6.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_7.jpg</image>
 	<priceRUAH>13970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-MM-00000102</id>
+	<id>ST-MM-00000102-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-MM-00000102</code>
+	<code>ST-MM-00000102-0416</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST-MM-00000102)</name>
+	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST-MM-00000102-0416)</name>
 	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</image>
@@ -3724,18 +3724,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_6.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_7.jpg</image>
 	<priceRUAH>17470</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011597</id>
+	<id>ST-000000011597-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000011597</code>
+	<code>ST-000000011597-0416</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing Dory (ST-000000011597)</name>
+	<name>Подводный дрон Chasing Dory (ST-000000011597-0416)</name>
 	<description>Самый маленький в мире, самый умный и доступный подводный дрон нового поколения. DORY приглашает Вас исследовать новые места в спокойных водах, таких как море, озеро или пруд.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
@@ -3748,7 +3748,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_8.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_9.jpg</image>
 	<priceRUAH>23060</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3764,7 +3764,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic2.png</image>
 	<priceRUAH>5600</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3780,7 +3780,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Air.png</image>
 	<priceRUAH>3990</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3796,7 +3796,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro.jpg</image>
 	<priceRUAH>4800</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3812,7 +3812,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro_Platinum.png</image>
 	<priceRUAH>5990</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3828,7 +3828,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Inspire2.png</image>
 	<priceRUAH>13650</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3844,7 +3844,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Zenmuse_X7.png</image>
 	<priceRUAH>20900</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3860,7 +3860,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Action.jpg</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3876,7 +3876,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Pocket.png</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3892,7 +3892,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Phantom4_Pro.jpg</image>
 	<priceRUAH>6790</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3908,7 +3908,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Mini.jpg</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3924,7 +3924,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</image>
 	<priceRUAH>13400</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3940,7 +3940,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</image>
 	<priceRUAH>12140</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3956,7 +3956,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</image>
 	<priceRUAH>26420</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3972,7 +3972,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</image>
 	<priceRUAH>49100</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3988,7 +3988,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</image>
 	<priceRUAH>60860</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4004,18 +4004,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</image>
 	<priceRUAH>69260</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000004002</id>
+	<id>ST-00000004002-0416</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000004002</code>
+	<code>ST-00000004002-0416</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing M2 (ST-00000004002)</name>
+	<name>Подводный дрон Chasing M2 (ST-00000004002-0416)</name>
 	<description>Дрон оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом на глубину до 100 метров.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</image>
@@ -4028,7 +4028,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_8.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_9.jpg</image>
 	<priceRUAH>125960</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4044,7 +4044,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>10620</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4060,7 +4060,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>15230</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4076,7 +4076,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>18970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4092,7 +4092,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>15470</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4108,7 +4108,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>18050</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4124,18 +4124,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>14560</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-001</id>
+	<id>ST-KN-MT-001-0416</id>
 	<categoryId>11</categoryId>
-	<code>ST-KN-MT-001</code>
+	<code>ST-KN-MT-001-0416</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Meeting (ST-KN-MT-001)</name>
+	<name>Панорамная камера Kandao Meeting (ST-KN-MT-001-0416)</name>
 	<description>Универсальная конференц-камера Kandao Meeting 360 с автоматической фокусировкой динамиков для удаленных видео-встреч! Kandao Meeting 360 сочетает в себе два высококачественных объектива типа рыбий глаз , 8 микрофонов и динамик. Камеру можно поместить в центр комнаты собраний, чтобы показать всех участников с разрешением 8K, при этом она автоматически фокусируются на людях во время разговора. Удаленные участники на другом конце получат HD-поток 1080P с крупным планом обзора, что заставит их чувствовать себя как в одной комнате.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_1.png</image>
@@ -4147,18 +4147,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_7.png</image>
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_8.png</image>
 	<priceRUAH>25870</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-QC-001</id>
+	<id>ST-KN-QC-001-0416</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-QC-001</code>
+	<code>ST-KN-QC-001-0416</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao QooCam (ST-KN-QC-001)</name>
+	<name>Панорамная камера Kandao QooCam (ST-KN-QC-001-0416)</name>
 	<description>Kandao qoocam новейшая 4К камера с возможностью сшивки изображения в процессе работы, режимом сферической и 3D съемки и множеством других полезных функций. Благодаря продуманному дизайну и мощному железу qoocam подойдет не только операторам-любителям, но и профессионалам своего дела. Экшн камера Qoocam от известного китайского производителя Kandao отличается от конкурентов не только доступной ценой, но и расширенным функционалом вместе с высоким качеством сборки.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_1.png</image>
@@ -4168,18 +4168,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_6.png</image>
 	<priceRUAH>14880</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-QC-8K-001</id>
+	<id>ST-KN-QC-8K-001-0416</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-QC-8K-001</code>
+	<code>ST-KN-QC-8K-001-0416</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao QooCam 8K (ST-KN-QC-8K-001)</name>
+	<name>Панорамная камера Kandao QooCam 8K (ST-KN-QC-8K-001-0416)</name>
 	<description>Познакомьтесь с Kandao QooCam 8K - самой маленькой в мире камерой 8K 360 , которая еще больше расширит ваши творческие возможности! Сейчас существует немало камер, снимающих сферическое 360-градусное видео, но предел разрешения, у этих камер составляет 5.7K, что не так уж и много для полной панорамы.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_1.png</image>
@@ -4190,7 +4190,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_6.png</image>
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_7.jpg</image>
 	<priceRUAH>22720</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4205,8 +4205,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>63850</priceRUAH>
-	<stock>Нет</stock>
+	<priceRUAH>53900</priceRUAH>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">США</param>
@@ -4221,8 +4221,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>76670</priceRUAH>
-	<stock>Нет</stock>
+	<priceRUAH>64390</priceRUAH>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">США</param>
@@ -4237,8 +4237,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>0</priceRUAH>
-	<stock>Нет</stock>
+	<priceRUAH>226190</priceRUAH>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">США</param>
@@ -4253,19 +4253,19 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>0</priceRUAH>
-	<stock>Нет</stock>
+	<priceRUAH>359030</priceRUAH>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">США</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-004</id>
+	<id>ST-KN-MT-004-0416</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-MT-004</code>
+	<code>ST-KN-MT-004-0416</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Obsidian R (ST-KN-MT-004)</name>
+	<name>Панорамная камера Kandao Obsidian R (ST-KN-MT-004-0416)</name>
 	<description>8K Профессиональная 3D 360 VR Камера Снимайте до 8K 3D или 2D VR видео и фотографии с помощью Obsidian R Professional 3D 360 VR камерой от Kandao. С компактным минималистическим дизайном и возможностью питания от батареи, Obsidian R готов запечатлеть все ваши приключения и впечатления на стереоскопическом панорамном дисплее. 3D-изображения с эффектом погружения можно записывать со скоростью 8K30 или 4K60 со скоростью 60 или 100 Мбит / с и транслировать в прямом эфире на скорости 4K с дополнительной лицензией Kandao Live (приобретается отдельно).</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_1.png</image>
@@ -4275,18 +4275,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_6.jpg</image>
 	<priceRUAH>150470</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-006</id>
+	<id>ST-KN-MT-006-0416</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-MT-006</code>
+	<code>ST-KN-MT-006-0416</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Obsidian GO (ST-KN-MT-006)</name>
+	<name>Панорамная камера Kandao Obsidian GO (ST-KN-MT-006-0416)</name>
 	<description>Kandao Obsidian GO панорамная камера для сферической 3D съемки с разрешением 8К для фото и 4К для видео в формате VR 360. Камера оборудована шестью высококачественными объективами с попиксельной синхронизацией картинки и обладает понятным пользовательским интерфейсом с функцией управления всего тремя кнопками и возможностью дистанционного управления со смартфона через Bluetooth-соединение. Простота использования Kandao Obsidian GO и ее полная адаптация к VR-формату позволят снимать качественный VR-контент даже начинающим операторам, а опытные специалисты получат надежный инструмент для расширения горизонтов своего творчества.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_1.png</image>
@@ -4296,18 +4296,18 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_6.jpg</image>
 	<priceRUAH>69970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-005</id>
+	<id>ST-KN-MT-005-0416</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-MT-005</code>
+	<code>ST-KN-MT-005-0416</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Obsidian S (ST-KN-MT-005)</name>
+	<name>Панорамная камера Kandao Obsidian S (ST-KN-MT-005-0416)</name>
 	<description>Kandao Obsidian S профессиональная 360-градусная VR-камера с поддержкой высокоскоростной съемки (HFR) и интуитивной системой управления. Используя шесть синхронизированных объективов и продвинутую программную стабилизацию изображения, Obsidian S максимально точно повторяет зрительное восприятие человеческого глаза, создавая более естественные стереоскопические панорамы и выводя VR-контент на совершенно новый уровень.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_1.png</image>
@@ -4317,87 +4317,87 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_6.jpg</image>
 	<priceRUAH>150470</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-QT-00002712-01</id>
+	<id>CP-QT-00002712-01-0416</id>
 	<categoryId>2</categoryId>
-	<code>CP-QT-00002712-01</code>
+	<code>CP-QT-00002712-01-0416</code>
 	<vendor>DJI</vendor>
-	<name>Пакет обслуживания DJI Enterprise Shield Basic P4 Multispectral (CP-QT-00002712-01)</name>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic P4 Multispectral (CP-QT-00002712-01-0416)</name>
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</image>
 	<priceRUAH>30330</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000007</id>
+	<id>ST-M3-00000007-0416</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000007</code>
+	<code>ST-M3-00000007-0416</code>
 	<vendor>DJI</vendor>
-	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST-M3-00000007)</name>
+	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST-M3-00000007-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>4830</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000004</id>
+	<id>ST-M3-00000004-0416</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000004</code>
+	<code>ST-M3-00000004-0416</code>
 	<vendor>DJI</vendor>
-	<name>Пульт управления DJI Smart Controller Enterprise (ST-M3-00000004)</name>
+	<name>Пульт управления DJI Smart Controller Enterprise (ST-M3-00000004-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>48300</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000003</id>
+	<id>ST-M3-00000003-0416</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000003</code>
+	<code>ST-M3-00000003-0416</code>
 	<vendor>DJI</vendor>
-	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST-M3-00000003)</name>
+	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST-M3-00000003-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>44520</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000002</id>
+	<id>ST-M3-00000002-0416</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000002</code>
+	<code>ST-M3-00000002-0416</code>
 	<vendor>DJI</vendor>
-	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST-M3-00000002)</name>
+	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST-M3-00000002-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>30240</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4413,151 +4413,151 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>629960</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011336</id>
+	<id>ST-000000011336-0416</id>
 	<categoryId>2</categoryId>
-	<code>ST-000000011336</code>
+	<code>ST-000000011336-0416</code>
 	<vendor>DJI</vendor>
-	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST-000000011336)</name>
+	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST-000000011336-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>46160</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-0000-20-13765</id>
+	<id>ST-0000-20-13765-0416</id>
 	<categoryId>2</categoryId>
-	<code>ST-0000-20-13765</code>
+	<code>ST-0000-20-13765-0416</code>
 	<vendor>DJI</vendor>
-	<name>Бак для DJI Agras T16 Tank 20 л (ST-0000-20-13765)</name>
+	<name>Бак для DJI Agras T16 Tank 20 л (ST-0000-20-13765-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>12180</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000013765</id>
+	<id>ST-00000013765-0416</id>
 	<categoryId>2</categoryId>
-	<code>ST-00000013765</code>
+	<code>ST-00000013765-0416</code>
 	<vendor>DJI</vendor>
-	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST-00000013765)</name>
+	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST-00000013765-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>8500</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011336-20</id>
+	<id>ST-000000011336-20-0416</id>
 	<categoryId>2</categoryId>
-	<code>ST-000000011336-20</code>
+	<code>ST-000000011336-20-0416</code>
 	<vendor>DJI</vendor>
-	<name>Интеллектуальная батарея DJI Agras T20 (ST-000000011336-20)</name>
+	<name>Интеллектуальная батарея DJI Agras T20 (ST-000000011336-20-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>48970</priceRUAH>
-	<stock>Нет</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>14578</id>
+	<id>14578-0416</id>
 	<categoryId>1</categoryId>
-	<code>14578</code>
+	<code>14578-0416</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing M2 with Robotic Arm (14578)</name>
+	<name>Подводный дрон Chasing M2 with Robotic Arm (14578-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>149020</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>13438</id>
+	<id>13438-0416</id>
 	<categoryId>1</categoryId>
-	<code>13438</code>
+	<code>13438-0416</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Манипулятор Chasing M2 Robotic Arm (13438)</name>
+	<name>Манипулятор Chasing M2 Robotic Arm (13438-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>23060</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>13436</id>
+	<id>13436-0416</id>
 	<categoryId>2</categoryId>
-	<code>13436</code>
+	<code>13436-0416</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Лебедка для подводного дрона Chasing M2 Electric Winder (13436)</name>
+	<name>Лебедка для подводного дрона Chasing M2 Electric Winder (13436-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>31460</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>15981</id>
+	<id>15981-0416</id>
 	<categoryId>1</categoryId>
-	<code>15981</code>
+	<code>15981-0416</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing M2 Combo (15981)</name>
+	<name>Подводный дрон Chasing M2 Combo (15981-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>180480</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>FB-D-UA-00001</id>
+	<id>FB-D-UA-00001-0416</id>
 	<categoryId></categoryId>
-	<code>FB-D-UA-00001</code>
+	<code>FB-D-UA-00001-0416</code>
 	<vendor>DroneUA</vendor>
-	<name>Робот-садовник DroneUA FarmBot (FB-D-UA-00001)</name>
+	<name>Робот-садовник DroneUA FarmBot (FB-D-UA-00001-0416)</name>
 	<description></description>
 	<url></url>
 	
 	<priceRUAH>74570</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
