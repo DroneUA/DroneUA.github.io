@@ -3490,7 +3490,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>16247</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000194.01">
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 	<price>2770</price>
@@ -3519,7 +3519,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>2576</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000077.01">
 	<url>https://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 	<price>3470</price>
@@ -3549,7 +3549,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>3227</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.000587">
 	<url>https://store.drone.ua/product/batareja-dlja-mavic/</url>
 	<price>3470</price>
@@ -3578,7 +3578,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>3227</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.000601">
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 	<price>6620</price>
@@ -5530,7 +5530,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>20479</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	AGRASMG1PKIT">
 	<url>https://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
 	<price>33560</price>
@@ -6054,7 +6054,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6901</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PA.ST.20">
 	<url>https://store.drone.ua/product/anafi_smart_battery/</url>
 	<price>3730</price>
@@ -6154,7 +6154,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>698</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.00000003068">
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
 	<price>8360</price>
@@ -9190,7 +9190,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>344</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.MM.00000107">
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
 	<price>1580</price>
@@ -11461,7 +11461,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>41404</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.M3.00000002">
 	<url>https://store.drone.ua/product/tb60-intelligent-flight-battery/</url>
 	<price>30240</price>
@@ -11992,7 +11992,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>585863</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.000000011336">
 	<url>https://store.drone.ua/product/agras-t16-battery/</url>
 	<price>46160</price>
@@ -12088,7 +12088,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7905</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.000000011336.20">
 	<url>https://store.drone.ua/product/battery-t20/</url>
 	<price>48970</price>
@@ -13065,7 +13065,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>17149</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000069.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part2_battery/</url>
 	<price>7520</price>
@@ -16281,7 +16281,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>222605</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.SB.000287.6">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery-6pcs/</url>
 	<price>48260</price>
@@ -16371,7 +16371,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>13634</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.SB.000287">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery/</url>
 	<price>8360</price>
