@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-09-18 11:58">	
+<yml_catalog date="2020-10-05 13:47">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -3490,7 +3490,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>16247</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000194.01">
 	<url>https://store.drone.ua/product/intellektualnaja-batareja-dlja-dji-mavic-air/</url>
 	<price>2770</price>
@@ -3519,7 +3519,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>2576</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000077.01">
 	<url>https://store.drone.ua/product/accum-mavic-pro-platinum/</url>
 	<price>3470</price>
@@ -3549,7 +3549,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>3227</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.000587">
 	<url>https://store.drone.ua/product/batareja-dlja-mavic/</url>
 	<price>3470</price>
@@ -5344,7 +5344,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.MA.00000080.01">
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
-	<price>25520</price>
+	<price>22720</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</picture>
@@ -5393,7 +5393,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>23734</price_opt>
+	<price_opt>21130</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.000649">
@@ -5530,7 +5530,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>20479</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	AGRASMG1PKIT">
 	<url>https://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
 	<price>33560</price>
@@ -5772,7 +5772,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>41534</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PA.ST.04">
 	<url>https://store.drone.ua/product/anafi-extended/</url>
 	<price>33500</price>
@@ -6054,7 +6054,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>6901</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PA.ST.20">
 	<url>https://store.drone.ua/product/anafi_smart_battery/</url>
 	<price>3730</price>
@@ -11314,7 +11314,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>28207</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.M3.00000007">
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/</url>
 	<price>4830</price>
@@ -12088,7 +12088,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7905</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.000000011336.20">
 	<url>https://store.drone.ua/product/battery-t20/</url>
 	<price>48970</price>
@@ -12513,7 +12513,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>347597</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000161.01">
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
 	<price>142760</price>
@@ -12774,7 +12774,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>113237</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000152.01">
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
 	<price>117560</price>
@@ -14473,7 +14473,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>140616</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.AG.00000103.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk-remote-controller/</url>
 	<price>29400</price>
@@ -16281,7 +16281,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>222605</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.SB.000287.6">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery-6pcs/</url>
 	<price>48260</price>
@@ -16371,7 +16371,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>13634</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.SB.000287">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery/</url>
 	<price>8360</price>
