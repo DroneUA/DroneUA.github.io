@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-09-15 22:03</date>	
+<date>2020-10-05 13:00</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -1103,7 +1103,7 @@
 	<description>Пульт DJI Smart Controller разработан для управления Mavic 2 и другими дронами, работающими на OcuSync 2.01. Встроенный 5,5-дюймовый дисплей обеспечивает качественное и яркое изображение даже при ярком свете.</description>
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.MA.00000080.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</image>
-	<priceRUAH>25520</priceRUAH>
+	<priceRUAH>22720</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1301,7 +1301,7 @@
 	<url>https://store.drone.ua/product/anafi-extended/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=PA.ST.04/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</image>
 	<priceRUAH>33500</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1771,7 +1771,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000108.01-1/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</image>
 	<priceRUAH>142760</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1803,7 +1803,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000006344/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</image>
 	<priceRUAH>117560</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4235,7 +4235,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.M3.00000007/</url>
 	<image>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_1.jpg</image>
 	<priceRUAH>4830</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4315,7 +4315,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/agras-t16-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.000000011336/</url>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Battery_1.jpg</image>
 	<priceRUAH>46160</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
