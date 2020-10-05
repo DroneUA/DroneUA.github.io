@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-09-15 18:53">	
+<price date="2020-10-05 11:47">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -4365,7 +4365,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.MA.00000080.01" available="">
 	<name>Пульт управления DJI Smart Controller (CP.MA.00000080.01)</name>
 	<url>https://store.drone.ua/product/pult-dji-smart-controller/</url>
-	<price>25520</price>
+	<price>22720</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_1.jpg</picture>
@@ -4700,7 +4700,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Серый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="PA.ST.04" available="">
+	<item id="PA.ST.04" available="true">
 	<name>Квадрокоптер Parrot Anafi Extended (PA.ST.04)</name>
 	<url>https://store.drone.ua/product/anafi-extended/</url>
 	<price>33500</price>
@@ -5591,7 +5591,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.EN.00000108.01-1" available="true">
+	<item id="CP.EN.00000108.01-1" available="">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
 	<price>142760</price>
@@ -5634,7 +5634,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Цвет корпуса" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000006344" available="true">
+	<item id="ST.00000006344" available="">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST.00000006344)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
 	<price>117560</price>
