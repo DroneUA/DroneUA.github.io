@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-09-24 14:17</date>	
+<date>2020-10-05 13:32</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -70,7 +70,7 @@
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_5.png</image>
 	<priceRUAH>33500</priceRUAH>
-	<stock>false</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -212,7 +212,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_3.png</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Bebop-Pro_3D_Modeling_4.png</image>
 	<priceRUAH>49150</priceRUAH>
-	<stock>false</stock>
+	<stock>true</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1372,7 +1372,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_6.jpg</image>
 	<priceRUAH>142760</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1410,7 +1410,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_3.jpg</image>
 	<priceRUAH>117560</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4349,7 +4349,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>4830</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4429,7 +4429,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>46160</priceRUAH>
-	<stock>false</stock>
+	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
