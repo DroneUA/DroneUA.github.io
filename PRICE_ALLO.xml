@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-10-05 13:32</date>	
+<date>2020-10-12 16:54</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -17,9 +17,9 @@
 <category><id>11</id><name>Оборудование для конференц-связи</name></category>	
 </categories><items>	
 	<item>
-	<id>PA-ST-02-0416</id>
+	<id>PA-ST-02</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-02-0416</code>
+	<code>PA-ST-02</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi Thermal</name>
 	<description>ANAFI Thermal позволит проводить съемку как обычной камерой, так и тепловизором, что позволит рассмотреть утечки тепла в конструкциях и любых других объектах.
@@ -39,9 +39,9 @@
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-03-0416</id>
+	<id>PA-ST-03</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-03-0416</code>
+	<code>PA-ST-03</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi Work</name>
 	<description>Летающая 4K HDR камера, которую вы можете взять с собой повсюду.</description>
@@ -56,9 +56,9 @@
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-04-0416</id>
+	<id>PA-ST-04</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-04-0416</code>
+	<code>PA-ST-04</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi Extended</name>
 	<description>Расширенная версия Anafi Extended
@@ -77,9 +77,9 @@
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-05-0416</id>
+	<id>PA-ST-05</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-05-0416</code>
+	<code>PA-ST-05</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Anafi</name>
 	<description>Anafi имеет встроенную камеру, которая снимает потрясающие 4K HDR-видео со скоростью 100 Мбит/с и резкие 21-мегапиксельные фотографии. 4K Cinema обеспечивает профессиональное качество видео, поскольку оно записывается в формате 17: 9. HDR улучшает все видимые детали, уменьшая чрезмерно яркие огни и очень темные тени в кадре. Камера ANAFI оснащена широкоугольным асферическим объективом. Оптика объектива была спроектирована таким образом, чтобы уменьшить объектив и хроматические аберрации.
@@ -106,9 +106,9 @@ Anafi — ультрапортативный беспилотник, компа�
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-06-0416</id>
+	<id>PA-ST-06</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-06-0416</code>
+	<code>PA-ST-06</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Bluegrass Fields</name>
 	<description>Parrot Bluegrass — многоцелевой квадрокоптер, предназначенный для сельского хозяйства. Он помогает фермерам повысить рентабельность инвестиций, используя 2 встроенных камеры, видеокамеры и мультиспектральный датчик Parrot Sequoia.
@@ -130,9 +130,9 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>PA-ST-07-0416</id>
+	<id>PA-ST-07</id>
 	<categoryId>1</categoryId>
-	<code>PA-ST-07-0416</code>
+	<code>PA-ST-07</code>
 	<vendor>Parrot</vendor>
 	<name>Квадрокоптер Parrot Mambo FPV</name>
 	<description>Полностью погрузитесь в полет с Parrot Mambo. Используйте аксессуары: можно подключить камеру FPV к мини-радиоприемнику с использованием технологии Smart Block для записи и передачи контента в формате HD. Или оденьте ВР-гарнитуру Cockpitglasses, чтобы получить максимальные впечатления от вашего беспилотного летательного аппарата и познать новые ощущения скорости.</description>
@@ -1316,11 +1316,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011501-0416</id>
+	<id>CP-AG-00000207-01</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000011501-0416</code>
+	<code>CP-AG-00000207-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI P4 Multispectral (ST-000000011501-0416)</name>
+	<name>Квадрокоптер DJI P4 Multispectral (CP-AG-00000207-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
@@ -1337,11 +1337,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011518-0416</id>
+	<id>CP-AG-00000207-01B</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000011518-0416</code>
+	<code>CP-AG-00000207-01B</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (ST-000000011518-0416)</name>
+	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (CP-AG-00000207-01B)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
@@ -1358,11 +1358,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000108-01-1-0416</id>
+	<id>CP-EN-00000161-01</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000108-01-1-0416</code>
+	<code>CP-EN-00000161-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP-EN-00000108-01-1-0416)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP-EN-00000161-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</image>
@@ -1379,11 +1379,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000108-01-0416</id>
+	<id>CP-EN-00000108-01</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000108-01-0416</code>
+	<code>CP-EN-00000108-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP-EN-00000108-01-0416)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP-EN-00000108-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_1.jpg</image>
@@ -1399,11 +1399,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000006344-0416</id>
+	<id>CP-EN-00000152-01</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000006344-0416</code>
+	<code>CP-EN-00000152-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST-00000006344-0416)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (CP-EN-00000152-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</image>
@@ -1417,11 +1417,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000003212-0416</id>
+	<id>CP-EN-00000038-01</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000003212-0416</code>
+	<code>CP-EN-00000038-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (ST-00000003212-0416)</name>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (CP-EN-00000038-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</image>
@@ -1498,11 +1498,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000008210-0416</id>
+	<id>CP-TP-00000230-01-02</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000008210-0416</code>
+	<code>CP-TP-00000230-01-02</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (ST-00000008210-0416)</name>
+	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (CP-TP-00000230-01-02)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_1.png</image>
@@ -1520,11 +1520,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000003160-0416</id>
+	<id>CP-TP-00000230-01</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000003160-0416</code>
+	<code>CP-TP-00000230-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Phantom 4 RTK (ST-00000003160-0416)</name>
+	<name>Квадрокоптер DJI Phantom 4 RTK (CP-TP-00000230-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_1.png</image>
@@ -1542,11 +1542,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000010836-0416</id>
+	<id>CP-AG-00000146-01</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000010836-0416</code>
+	<code>CP-AG-00000146-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST-000000010836-0416)</name>
+	<name>Квадрокоптер DJI Phantom 4 RTK SDK (CP-AG-00000146-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_1.png</image>
@@ -1610,11 +1610,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000048-01-0416</id>
+	<id>CP-EN-00000046-01</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000048-01-0416</code>
+	<code>CP-EN-00000046-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP-EN-00000048-01-0416)</name>
+	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP-EN-00000046-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</image>
@@ -1631,11 +1631,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000054-01-0416</id>
+	<id>CP-EN-00000054-01</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000054-01-0416</code>
+	<code>CP-EN-00000054-01</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP-EN-00000054-01-0416)</name>
+	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP-EN-00000054-01)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</image>
@@ -1654,11 +1654,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-EN-00000062-0416</id>
+	<id>4477</id>
 	<categoryId>1</categoryId>
-	<code>CP-EN-00000062-0416</code>
+	<code>4477</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP-EN-00000062-0416)</name>
+	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (4477)</name>
 	<description></description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</image>
@@ -3687,11 +3687,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-MM-00000101-0416</id>
+	<id>ST-MM-00000101</id>
 	<categoryId>1</categoryId>
-	<code>ST-MM-00000101-0416</code>
+	<code>ST-MM-00000101</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic Mini (ST-MM-00000101-0416)</name>
+	<name>Квадрокоптер DJI Mavic Mini (ST-MM-00000101)</name>
 	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</image>
@@ -3709,11 +3709,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-MM-00000102-0416</id>
+	<id>ST-MM-00000102</id>
 	<categoryId>1</categoryId>
-	<code>ST-MM-00000102-0416</code>
+	<code>ST-MM-00000102</code>
 	<vendor>DJI</vendor>
-	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST-MM-00000102-0416)</name>
+	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST-MM-00000102)</name>
 	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</image>
@@ -3731,11 +3731,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011597-0416</id>
+	<id>ST-000000011597</id>
 	<categoryId>1</categoryId>
-	<code>ST-000000011597-0416</code>
+	<code>ST-000000011597</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing Dory (ST-000000011597-0416)</name>
+	<name>Подводный дрон Chasing Dory (ST-000000011597)</name>
 	<description>Самый маленький в мире, самый умный и доступный подводный дрон нового поколения. DORY приглашает Вас исследовать новые места в спокойных водах, таких как море, озеро или пруд.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
@@ -4011,11 +4011,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000004002-0416</id>
+	<id>ST-00000004002</id>
 	<categoryId>1</categoryId>
-	<code>ST-00000004002-0416</code>
+	<code>ST-00000004002</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing M2 (ST-00000004002-0416)</name>
+	<name>Подводный дрон Chasing M2 (ST-00000004002)</name>
 	<description>Дрон оснащен восьмью двигателями, стабилизированной цифровой камерой, способной записывать видео 4K и 12-мегапиксельными кадрами, а также светодиодными лампами мощностью 4000 люмен. Благодаря этим характеристикам, с помощью М2 можно заметить даже самые мельчайшие детали и особенности исследуемой местности погружаясь при этом на глубину до 100 метров.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</image>
@@ -4131,11 +4131,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-001-0416</id>
+	<id>ST-KN-MT-001</id>
 	<categoryId>11</categoryId>
-	<code>ST-KN-MT-001-0416</code>
+	<code>ST-KN-MT-001</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Meeting (ST-KN-MT-001-0416)</name>
+	<name>Панорамная камера Kandao Meeting (ST-KN-MT-001)</name>
 	<description>Универсальная конференц-камера Kandao Meeting 360 с автоматической фокусировкой динамиков для удаленных видео-встреч! Kandao Meeting 360 сочетает в себе два высококачественных объектива типа рыбий глаз , 8 микрофонов и динамик. Камеру можно поместить в центр комнаты собраний, чтобы показать всех участников с разрешением 8K, при этом она автоматически фокусируются на людях во время разговора. Удаленные участники на другом конце получат HD-поток 1080P с крупным планом обзора, что заставит их чувствовать себя как в одной комнате.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Meeting_1.png</image>
@@ -4154,11 +4154,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-QC-001-0416</id>
+	<id>ST-KN-QC-001</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-QC-001-0416</code>
+	<code>ST-KN-QC-001</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao QooCam (ST-KN-QC-001-0416)</name>
+	<name>Панорамная камера Kandao QooCam (ST-KN-QC-001)</name>
 	<description>Kandao qoocam новейшая 4К камера с возможностью сшивки изображения в процессе работы, режимом сферической и 3D съемки и множеством других полезных функций. Благодаря продуманному дизайну и мощному железу qoocam подойдет не только операторам-любителям, но и профессионалам своего дела. Экшн камера Qoocam от известного китайского производителя Kandao отличается от конкурентов не только доступной ценой, но и расширенным функционалом вместе с высоким качеством сборки.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Qoocam_1.png</image>
@@ -4175,11 +4175,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-QC-8K-001-0416</id>
+	<id>ST-KN-QC-8K-001</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-QC-8K-001-0416</code>
+	<code>ST-KN-QC-8K-001</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao QooCam 8K (ST-KN-QC-8K-001-0416)</name>
+	<name>Панорамная камера Kandao QooCam 8K (ST-KN-QC-8K-001)</name>
 	<description>Познакомьтесь с Kandao QooCam 8K - самой маленькой в мире камерой 8K 360 , которая еще больше расширит ваши творческие возможности! Сейчас существует немало камер, снимающих сферическое 360-градусное видео, но предел разрешения, у этих камер составляет 5.7K, что не так уж и много для полной панорамы.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_1.png</image>
@@ -4261,11 +4261,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-004-0416</id>
+	<id>ST-KN-MT-004</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-MT-004-0416</code>
+	<code>ST-KN-MT-004</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Obsidian R (ST-KN-MT-004-0416)</name>
+	<name>Панорамная камера Kandao Obsidian R (ST-KN-MT-004)</name>
 	<description>8K Профессиональная 3D 360 VR Камера Снимайте до 8K 3D или 2D VR видео и фотографии с помощью Obsidian R Professional 3D 360 VR камерой от Kandao. С компактным минималистическим дизайном и возможностью питания от батареи, Obsidian R готов запечатлеть все ваши приключения и впечатления на стереоскопическом панорамном дисплее. 3D-изображения с эффектом погружения можно записывать со скоростью 8K30 или 4K60 со скоростью 60 или 100 Мбит / с и транслировать в прямом эфире на скорости 4K с дополнительной лицензией Kandao Live (приобретается отдельно).</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_R_1.png</image>
@@ -4282,11 +4282,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-006-0416</id>
+	<id>ST-KN-MT-006</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-MT-006-0416</code>
+	<code>ST-KN-MT-006</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Obsidian GO (ST-KN-MT-006-0416)</name>
+	<name>Панорамная камера Kandao Obsidian GO (ST-KN-MT-006)</name>
 	<description>Kandao Obsidian GO панорамная камера для сферической 3D съемки с разрешением 8К для фото и 4К для видео в формате VR 360. Камера оборудована шестью высококачественными объективами с попиксельной синхронизацией картинки и обладает понятным пользовательским интерфейсом с функцией управления всего тремя кнопками и возможностью дистанционного управления со смартфона через Bluetooth-соединение. Простота использования Kandao Obsidian GO и ее полная адаптация к VR-формату позволят снимать качественный VR-контент даже начинающим операторам, а опытные специалисты получат надежный инструмент для расширения горизонтов своего творчества.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_Go_1.png</image>
@@ -4303,11 +4303,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-KN-MT-005-0416</id>
+	<id>ST-KN-MT-005</id>
 	<categoryId>4</categoryId>
-	<code>ST-KN-MT-005-0416</code>
+	<code>ST-KN-MT-005</code>
 	<vendor>Kandao</vendor>
-	<name>Панорамная камера Kandao Obsidian S (ST-KN-MT-005-0416)</name>
+	<name>Панорамная камера Kandao Obsidian S (ST-KN-MT-005)</name>
 	<description>Kandao Obsidian S профессиональная 360-градусная VR-камера с поддержкой высокоскоростной съемки (HFR) и интуитивной системой управления. Используя шесть синхронизированных объективов и продвинутую программную стабилизацию изображения, Obsidian S максимально точно повторяет зрительное восприятие человеческого глаза, создавая более естественные стереоскопические панорамы и выводя VR-контент на совершенно новый уровень.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_Obsidian_S_1.png</image>
@@ -4324,11 +4324,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>CP-QT-00002712-01-0416</id>
+	<id>CP-QT-00002712-01</id>
 	<categoryId>2</categoryId>
-	<code>CP-QT-00002712-01-0416</code>
+	<code>CP-QT-00002712-01</code>
 	<vendor>DJI</vendor>
-	<name>Пакет обслуживания DJI Enterprise Shield Basic P4 Multispectral (CP-QT-00002712-01-0416)</name>
+	<name>Пакет обслуживания DJI Enterprise Shield Basic P4 Multispectral (CP-QT-00002712-01)</name>
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</image>
@@ -4340,11 +4340,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000007-0416</id>
+	<id>ST-M3-00000007</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000007-0416</code>
+	<code>ST-M3-00000007</code>
 	<vendor>DJI</vendor>
-	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST-M3-00000007-0416)</name>
+	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST-M3-00000007)</name>
 	<description></description>
 	<url></url>
 	
@@ -4356,11 +4356,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000004-0416</id>
+	<id>ST-M3-00000004</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000004-0416</code>
+	<code>ST-M3-00000004</code>
 	<vendor>DJI</vendor>
-	<name>Пульт управления DJI Smart Controller Enterprise (ST-M3-00000004-0416)</name>
+	<name>Пульт управления DJI Smart Controller Enterprise (ST-M3-00000004)</name>
 	<description></description>
 	<url></url>
 	
@@ -4372,11 +4372,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000003-0416</id>
+	<id>ST-M3-00000003</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000003-0416</code>
+	<code>ST-M3-00000003</code>
 	<vendor>DJI</vendor>
-	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST-M3-00000003-0416)</name>
+	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST-M3-00000003)</name>
 	<description></description>
 	<url></url>
 	
@@ -4388,11 +4388,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-M3-00000002-0416</id>
+	<id>ST-M3-00000002</id>
 	<categoryId></categoryId>
-	<code>ST-M3-00000002-0416</code>
+	<code>ST-M3-00000002</code>
 	<vendor>DJI</vendor>
-	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST-M3-00000002-0416)</name>
+	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST-M3-00000002)</name>
 	<description></description>
 	<url></url>
 	
@@ -4404,11 +4404,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>DAT16-0416</id>
+	<id>DAT16</id>
 	<categoryId>1</categoryId>
-	<code>DAT16-0416</code>
+	<code>DAT16</code>
 	<vendor>DJI</vendor>
-	<name>Мультикоптер DJI Agras T16 (DAT16-0416)</name>
+	<name>Мультикоптер DJI Agras T16 (DAT16)</name>
 	<description></description>
 	<url></url>
 	
@@ -4420,11 +4420,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011336-0416</id>
+	<id>ST-000000011336</id>
 	<categoryId>2</categoryId>
-	<code>ST-000000011336-0416</code>
+	<code>ST-000000011336</code>
 	<vendor>DJI</vendor>
-	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST-000000011336-0416)</name>
+	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST-000000011336)</name>
 	<description></description>
 	<url></url>
 	
@@ -4436,11 +4436,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-0000-20-13765-0416</id>
+	<id>ST-0000-20-13765</id>
 	<categoryId>2</categoryId>
-	<code>ST-0000-20-13765-0416</code>
+	<code>ST-0000-20-13765</code>
 	<vendor>DJI</vendor>
-	<name>Бак для DJI Agras T16 Tank 20 л (ST-0000-20-13765-0416)</name>
+	<name>Бак для DJI Agras T16 Tank 20 л (ST-0000-20-13765)</name>
 	<description></description>
 	<url></url>
 	
@@ -4452,11 +4452,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-00000013765-0416</id>
+	<id>ST-00000013765</id>
 	<categoryId>2</categoryId>
-	<code>ST-00000013765-0416</code>
+	<code>ST-00000013765</code>
 	<vendor>DJI</vendor>
-	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST-00000013765-0416)</name>
+	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST-00000013765)</name>
 	<description></description>
 	<url></url>
 	
@@ -4468,11 +4468,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>ST-000000011336-20-0416</id>
+	<id>ST-000000011336-20</id>
 	<categoryId>2</categoryId>
-	<code>ST-000000011336-20-0416</code>
+	<code>ST-000000011336-20</code>
 	<vendor>DJI</vendor>
-	<name>Интеллектуальная батарея DJI Agras T20 (ST-000000011336-20-0416)</name>
+	<name>Интеллектуальная батарея DJI Agras T20 (ST-000000011336-20)</name>
 	<description></description>
 	<url></url>
 	
@@ -4484,11 +4484,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>14578-0416</id>
+	<id>14578</id>
 	<categoryId>1</categoryId>
-	<code>14578-0416</code>
+	<code>14578</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing M2 with Robotic Arm (14578-0416)</name>
+	<name>Подводный дрон Chasing M2 with Robotic Arm (14578)</name>
 	<description></description>
 	<url></url>
 	
@@ -4500,11 +4500,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>13438-0416</id>
+	<id>13438</id>
 	<categoryId>1</categoryId>
-	<code>13438-0416</code>
+	<code>13438</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Манипулятор Chasing M2 Robotic Arm (13438-0416)</name>
+	<name>Манипулятор Chasing M2 Robotic Arm (13438)</name>
 	<description></description>
 	<url></url>
 	
@@ -4516,11 +4516,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>13436-0416</id>
+	<id>13436</id>
 	<categoryId>2</categoryId>
-	<code>13436-0416</code>
+	<code>13436</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Лебедка для подводного дрона Chasing M2 Electric Winder (13436-0416)</name>
+	<name>Лебедка для подводного дрона Chasing M2 Electric Winder (13436)</name>
 	<description></description>
 	<url></url>
 	
@@ -4532,11 +4532,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>15981-0416</id>
+	<id>15981</id>
 	<categoryId>1</categoryId>
-	<code>15981-0416</code>
+	<code>15981</code>
 	<vendor>Chasing-Innovation</vendor>
-	<name>Подводный дрон Chasing M2 Combo (15981-0416)</name>
+	<name>Подводный дрон Chasing M2 Combo (15981)</name>
 	<description></description>
 	<url></url>
 	
@@ -4548,11 +4548,11 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<condition>0</condition>
 	</item>
 	<item>
-	<id>FB-D-UA-00001-0416</id>
+	<id>FB-D-UA-00001</id>
 	<categoryId></categoryId>
-	<code>FB-D-UA-00001-0416</code>
+	<code>FB-D-UA-00001</code>
 	<vendor>DroneUA</vendor>
-	<name>Робот-садовник DroneUA FarmBot (FB-D-UA-00001-0416)</name>
+	<name>Робот-садовник DroneUA FarmBot (FB-D-UA-00001)</name>
 	<description></description>
 	<url></url>
 	
