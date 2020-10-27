@@ -3631,7 +3631,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>911</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.VL.00000014.01">
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
 	<price>20970</price>
