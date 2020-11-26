@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2020-10-05 13:00</date>	
+<date>2020-11-26 15:33</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -667,7 +667,7 @@
 	<url>https://store.drone.ua/product/gladius-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.CI.00002/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</image>
 	<priceRUAH>56660</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -683,7 +683,7 @@
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.CI.00102/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</image>
 	<priceRUAH>8720</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee unit="days" type="shop">14</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -827,7 +827,7 @@
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.PT.000601/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</image>
 	<priceRUAH>6620</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -843,7 +843,7 @@
 	<url>https://store.drone.ua/product/tello-part-1-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.PT.00000213.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</image>
 	<priceRUAH>980</priceRUAH>
-	<stock>В наличии</stock>
+	<stock>Нет</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -896,7 +896,7 @@
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PZPHANTOM/</url>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Mavic_1.png</image>
 	<priceRUAH>16730</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -912,7 +912,7 @@
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=PZMAVIC/</url>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_1.jpg</image>
 	<priceRUAH>11180</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -1072,7 +1072,7 @@
 	<url>https://store.drone.ua/product/pd1900/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=D.UA.PD1900/</url>
 	<image>https://droneua.github.io/IMG_ROZ/PD1900_1.jpg</image>
 	<priceRUAH>90510</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Украина</param>
@@ -1168,7 +1168,7 @@
 	<url>https://store.drone.ua/product/kontroller-inspire-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.BX.000178.02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</image>
 	<priceRUAH>22020</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1301,7 +1301,7 @@
 	<url>https://store.drone.ua/product/anafi-extended/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=PA.ST.04/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</image>
 	<priceRUAH>33500</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1325,7 +1325,7 @@ Anafi — ультрапортативный беспилотник, компа�
 	<url>https://store.drone.ua/product/anafi/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=PA.ST.05/</url>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</image>
 	<priceRUAH>26050</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Франция</param>
@@ -1515,7 +1515,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.BX.000202/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</image>
 	<priceRUAH>8360</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1611,7 +1611,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004017/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</image>
 	<priceRUAH>58750</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1627,7 +1627,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004015/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</image>
 	<priceRUAH>62950</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1643,7 +1643,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004014/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</image>
 	<priceRUAH>62950</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1659,7 +1659,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004013/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</image>
 	<priceRUAH>62950</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1723,7 +1723,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/zenmuse-x7/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.BX.00000028.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_1.jpg</image>
 	<priceRUAH>104970</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1771,7 +1771,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000108.01-1/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</image>
 	<priceRUAH>142760</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1803,7 +1803,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000006344/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</image>
 	<priceRUAH>117560</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1883,7 +1883,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part6_protector_case/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000006327/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Protector_Case_1.jpg</image>
 	<priceRUAH>5000</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1979,7 +1979,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/d-rtk-2-base-station-tripod/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000009846/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_Tripod_1.jpg</image>
 	<priceRUAH>7140</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2043,7 +2043,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/phantom-4-series-battery-charging-hub/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000002931/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_1.jpg</image>
 	<priceRUAH>3470</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3707,7 +3707,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/mavic-mini-propellers/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000106/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_1.jpg</image>
 	<priceRUAH>370</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3723,7 +3723,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000107/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3755,7 +3755,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/mavic-mini-charging-base/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000109/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_1.jpg</image>
 	<priceRUAH>1370</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3835,7 +3835,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/chasing-dory/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.000000011597/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
 	<priceRUAH>23060</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4107,7 +4107,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/chasing-m2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.00000004002/</url>
 	<image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</image>
 	<priceRUAH>125960</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4155,7 +4155,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/qoocam-8k/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/ekshn-kameryutm_content=ST.KN.QC.8K.001/</url>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_1.png</image>
 	<priceRUAH>22720</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4219,7 +4219,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-p4-multispectral/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00002712.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</image>
 	<priceRUAH>30330</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4379,7 +4379,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/podvodnyj-dron-chasing-m2-s-manipuljatorom-robotic-arm/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=14578/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg</image>
 	<priceRUAH>149020</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4396,7 +4396,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/M2_Robotic_Arm_1.jpg
 </image>
 	<priceRUAH>23060</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4413,7 +4413,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Winder_1.jpg
 </image>
 	<priceRUAH>31460</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4430,7 +4430,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg
 </image>
 	<priceRUAH>180480</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
