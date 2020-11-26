@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-11-01 12:45">	
+<yml_catalog date="2020-11-26 15:20">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -125,7 +125,7 @@
 	<item id="CP.VL.00000014.01">
 	<name>Очки виртуальной реальности DJI Goggles Racing Edition (CP.VL.00000014.01)</name>
 	<url>https://store.drone.ua/product/goggles-racing-edition/</url>
-	<price>20970</price>
+	<price>0</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Goggles_Racing_Edition.jpg</image>
@@ -386,7 +386,7 @@
 	<item id="ST.CI.00002">
 	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
 	<url>https://store.drone.ua/product/gladius-mini/</url>
-	<price>56660</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</image>
@@ -395,7 +395,7 @@
 	<item id="ST.CI.00102">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>8720</price>
+	<price>0</price>
 	<categoryId>6</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</image>
@@ -476,7 +476,7 @@
 	<item id="CP.PT.000601">
 	<name>Интеллектуальная батарея DJI Phantom 4 5870 mAh (CP.PT.000601)</name>
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
-	<price>6620</price>
+	<price>0</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</image>
@@ -485,7 +485,7 @@
 	<item id="ST.0000015">
 	<name>Аккумулятор Ryze Tello 1100 mAh (ST.0000015)</name>
 	<url>https://store.drone.ua/product/tello-part-1-battery/</url>
-	<price>980</price>
+	<price>0</price>
 	<categoryId>5</categoryId>
 	<vendor>Ryze</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</image>
@@ -516,7 +516,7 @@
 	<item id="PZPHANTOM">
 	<name>Парашютная система Parazero SafeAir Phantom (PZPHANTOM)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
-	<price>16730</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Mavic_1.png</image>
@@ -526,7 +526,7 @@
 	<item id="PZMAVIC">
 	<name>Парашютная система Parazero SafeAir Mavic (PZMAVIC)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
-	<price>11180</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_1.jpg</image>
@@ -616,7 +616,7 @@
 	<item id="D.UA.PD1900">
 	<name>Дрон DroneUA PD1900 (D.UA.PD1900)</name>
 	<url>https://store.drone.ua/product/pd1900/</url>
-	<price>90510</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DroneUA</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/PD1900_1.jpg</image>
@@ -670,7 +670,7 @@
 	<item id="CP.BX.000178.02">
 	<name>Пульт управления DJI для Inspire 2 (CP.BX.000178.02)</name>
 	<url>https://store.drone.ua/product/kontroller-inspire-2/</url>
-	<price>22020</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Inspire_2_Remote_Controller_1.jpg</image>
@@ -746,7 +746,7 @@
 	<item id="PA.ST.04">
 	<name>Квадрокоптер Parrot Anafi Extended (PA.ST.04)</name>
 	<url>https://store.drone.ua/product/anafi-extended/</url>
-	<price>33500</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Parrot</vendor>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_Extended_1.png</image>
@@ -756,7 +756,7 @@
 	<item id="PA.ST.05">
 	<name>Квадрокоптер Parrot Anafi (PA.ST.05)</name>
 	<url>https://store.drone.ua/product/anafi/</url>
-	<price>26050</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Parrot</vendor>
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Parrot_Anafi_1.png</image>
@@ -877,7 +877,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003068">
 	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
-	<price>8360</price>
+	<price>0</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</image>
@@ -931,7 +931,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004017">
 	<name>Объектив DJI Zenmuse X7 DL 50mm F2.8 LS ASPH Lens (ST.00000004017)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/</url>
-	<price>58750</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -940,7 +940,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004015">
 	<name>Объектив DJI Zenmuse X7 DL 35mm F2.8 LS ASPH Lens (ST.00000004015)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/</url>
-	<price>62950</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -949,7 +949,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004014">
 	<name>Объектив DJI Zenmuse X7 DL 24mm F2.8 LS ASPH Lens (ST.00000004014)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/</url>
-	<price>62950</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</image>
@@ -958,7 +958,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004013">
 	<name>Объектив DJI Zenmuse X7 DL-S 16mm F2.8 ND ASPH Lens (ST.00000004013)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/</url>
-	<price>62950</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</image>
@@ -994,7 +994,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004011">
 	<name>Подвес DJI Zenmuse X7 (ST.00000004011)</name>
 	<url>https://store.drone.ua/product/zenmuse-x7/</url>
-	<price>104970</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/ZENMUSE_X7_1.jpg</image>
@@ -1021,7 +1021,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01-1">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
-	<price>0</price>
+	<price>142760</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</image>
@@ -1039,7 +1039,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006344">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST.00000006344)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
-	<price>0</price>
+	<price>117560</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</image>
@@ -1084,7 +1084,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006327">
 	<name>Кейс DJI Mavic 2 Enterprise (ST.00000006327)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part6_protector_case/</url>
-	<price>5000</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Protector_Case_1.jpg</image>
@@ -1138,7 +1138,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000009846">
 	<name>Штатив для базовой станции DJI D-RTK 2 (ST.00000009846)</name>
 	<url>https://store.drone.ua/product/d-rtk-2-base-station-tripod/</url>
-	<price>7140</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_Tripod_1.jpg</image>
@@ -1174,7 +1174,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000002931">
 	<name>Зарядное устройство-хаб для серии DJI Phantom 4 (ST.00000002931)</name>
 	<url>https://store.drone.ua/product/phantom-4-series-battery-charging-hub/</url>
-	<price>3470</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_Series_Battery_Charging_Hub_1.jpg</image>
@@ -2110,7 +2110,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000106">
 	<name>Пропеллеры DJI Mavic Mini (ST.MM.00000106)</name>
 	<url>https://store.drone.ua/product/mavic-mini-propellers/</url>
-	<price>370</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-propellers_1.jpg</image>
@@ -2119,7 +2119,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000107">
 	<name>Интеллектуальная батарея DJI Mavic Mini (ST.MM.00000107)</name>
 	<url>https://store.drone.ua/product/mavic-mini-intelligent-flight-battery/</url>
-	<price>1580</price>
+	<price>0</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-intelligent-flight-battery_1.jpg</image>
@@ -2137,7 +2137,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000109">
 	<name>Зарядная база DJI Mavic Mini (ST.MM.00000109)</name>
 	<url>https://store.drone.ua/product/mavic-mini-charging-base/</url>
-	<price>1370</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-base_1.jpg</image>
@@ -2182,7 +2182,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011597">
 	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
 	<url>https://store.drone.ua/product/chasing-dory/</url>
-	<price>23060</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</image>
@@ -2335,7 +2335,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004002">
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>125960</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</image>
@@ -2362,7 +2362,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.KN.QC.8K.001">
 	<name>Панорамная камера Kandao QooCam 8K (ST.KN.QC.8K.001)</name>
 	<url>https://store.drone.ua/product/qoocam-8k/</url>
-	<price>22720</price>
+	<price>0</price>
 	<categoryId>4</categoryId>
 	<vendor>Kandao</vendor>
 	<image>https://droneua.github.io/IMG_ROZ//Kandao/Kandao_QooCam_8K_1.png</image>
@@ -2398,7 +2398,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002712.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic P4 Multispectral (CP.QT.00002712.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-p4-multispectral/</url>
-	<price>30330</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</image>
@@ -2488,7 +2488,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="14578">
 	<name>Подводный дрон Chasing M2 with Robotic Arm (14578)</name>
 	<url>https://store.drone.ua/product/podvodnyj-dron-chasing-m2-s-manipuljatorom-robotic-arm/</url>
-	<price>149020</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg</image>
@@ -2497,7 +2497,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="13438">
 	<name>Манипулятор Chasing M2 Robotic Arm (13438)</name>
 	<url>https://store.drone.ua/product/chasing-m2-robotic-arm/</url>
-	<price>23060</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/M2_Robotic_Arm_1.jpg
@@ -2507,7 +2507,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="13436">
 	<name>Лебедка для подводного дрона Chasing M2 Electric Winder (13436)</name>
 	<url>https://store.drone.ua/product/chasing-m2-electric-winder/</url>
-	<price>31460</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Winder_1.jpg
@@ -2517,7 +2517,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="15981">
 	<name>Подводный дрон Chasing M2 Combo (15981)</name>
 	<url>https://store.drone.ua/product/chasing-m2-combo/</url>
-	<price>180480</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg
