@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-12-08 16:54">	
+<yml_catalog date="2020-12-11 13:25">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -25,7 +25,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000132.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-black/</url>
-	<price>19945.63</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
@@ -106,12 +106,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>18549</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000141.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-white/</url>
-	<price>20282.37</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -192,12 +192,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>18863</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000148.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-red/</url>
-	<price>19762.57</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -278,12 +278,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>18379</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000159.01">
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
-	<price>26892.87</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
@@ -364,12 +364,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>25010</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000168.01">
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo/</url>
-	<price>26892.87</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
@@ -450,12 +450,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>25010</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000169.01.CP.PT.00000168.01">
 	<url>https://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
-	<price>26892.87</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
@@ -536,12 +536,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>25010</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000075.01">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-ref/</url>
-	<price>26900.78</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
@@ -594,12 +594,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>25018</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.PT.00000065.01">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
-	<price>33558.74</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
@@ -652,12 +652,12 @@
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>31210</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.CP.ZM.00000104.01">
 	<url>https://store.drone.ua/product/ronin-s-ref/</url>
-	<price>20175.02</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -709,7 +709,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">100% предоплата. Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state>Refurbished</state>
-	<price_opt>18763</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.MA.00000014.01">
@@ -10139,7 +10139,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000004002">
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>125960</price>
+	<price>134360</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</picture>
@@ -10178,7 +10178,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>117143</price_opt>
+	<price_opt>124955</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.KN.MT.001">
@@ -11589,7 +11589,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	DAT16">
 	<url>https://store.drone.ua/product/agras-t16/</url>
-	<price>629960</price>
+	<price>419960</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_T16_1.png</picture>
@@ -12046,7 +12046,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>585863</price_opt>
+	<price_opt>390563</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.000000011336">
@@ -16473,7 +16473,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	14578">
 	<url>https://store.drone.ua/product/podvodnyj-dron-chasing-m2-s-manipuljatorom-robotic-arm/</url>
-	<price>149020</price>
+	<price>161620</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg</picture>
@@ -16802,12 +16802,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>138589</price_opt>
+	<price_opt>150307</price_opt>
 	</offer>
 	<offer available="false" id="
 	13438">
 	<url>https://store.drone.ua/product/chasing-m2-robotic-arm/</url>
-	<price>23060</price>
+	<price>0</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M2_Robotic_Arm_1.jpg</picture>
@@ -16838,12 +16838,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для судомоделей</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>21446</price_opt>
+	<price_opt>0</price_opt>
 	</offer>
 	<offer available="false" id="
 	13436">
 	<url>https://store.drone.ua/product/chasing-m2-electric-winder/</url>
-	<price>31460</price>
+	<price>46160</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_Winder_1.jpg</picture>
@@ -16871,12 +16871,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для судомоделей</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>29258</price_opt>
+	<price_opt>42929</price_opt>
 	</offer>
 	<offer available="false" id="
 	15981">
 	<url>https://store.drone.ua/product/chasing-m2-combo/</url>
-	<price>180480</price>
+	<price>207770</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Chasing_M2_Robotic_Arm_1.jpg</picture>
@@ -17210,7 +17210,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>167846</price_opt>
+	<price_opt>193226</price_opt>
 	</offer>
 	<offer available="true" id="
 	FB.D.UA.00001">
