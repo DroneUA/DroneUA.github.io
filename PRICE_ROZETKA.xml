@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-12-11 13:25">	
+<yml_catalog date="2020-12-17 10:44">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -797,7 +797,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.PT.00000242.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>59470</price>
+	<price>56670</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
@@ -881,7 +881,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>69970</price>
+	<price>67170</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -12144,10 +12144,10 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7905</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.000000011336.20">
 	<url>https://store.drone.ua/product/battery-t20/</url>
-	<price>48970</price>
+	<price>47420</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</picture>
