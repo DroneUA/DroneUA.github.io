@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-11-26 14:13">	
+<price date="2020-12-17 11:03">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -875,7 +875,7 @@
 	<item id="CP.PT.00000132.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Refurbished (CP.PT.00000132.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-black/</url>
-	<price>17651</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
@@ -947,7 +947,7 @@
 	<item id="CP.PT.00000141.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Refurbished (CP.PT.00000141.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-white/</url>
-	<price>17949</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -1019,7 +1019,7 @@
 	<item id="CP.PT.00000148.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Refurbished (CP.PT.00000148.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-ref-red/</url>
-	<price>17489</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -1091,7 +1091,7 @@
 	<item id="CP.PT.00000159.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Onyx Black Fly More Combo Refurbished (CP.PT.00000159.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
-	<price>23799</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
@@ -1163,7 +1163,7 @@
 	<item id="CP.PT.00000168.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Arctic White Fly More Combo Refurbished (CP.PT.00000168.01)</name>
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo/</url>
-	<price>23799</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
@@ -1235,7 +1235,7 @@
 	<item id="CP.PT.00000169.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Air Flame Red Fly More Combo Refurbished (CP.PT.00000169.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
-	<price>23799</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
@@ -1307,7 +1307,7 @@
 	<item id="CP.PT.00000075.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Refurbished (CP.PT.00000075.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-ref/</url>
-	<price>23806</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
@@ -1351,7 +1351,7 @@
 	<item id="CP.PT.00000065.01_REF" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic Pro Platinum Fly More Combo Refurbished (CP.PT.00000065.01)</name>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
-	<price>29698</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
@@ -1395,7 +1395,7 @@
 	<item id="CP.ZM.00000104.01_REF" available="">
 	<name>Стедикам DJI Ronin-S Refurbished (CP.ZM.00000104.01)</name>
 	<url>https://store.drone.ua/product/ronin-s-ref/</url>
-	<price>17854</price>
+	<price>0</price>
 	<categoryId>3</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -1438,7 +1438,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000242.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0 (CP.PT.00000242.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>59470</price>
+	<price>56670</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
@@ -1508,7 +1508,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.PT.00000232.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0 (CP.PT.00000232.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>69970</price>
+	<price>67170</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -3570,7 +3570,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="PZM200" available="">
+	<item id="PZM200" available="true">
 	<name>Парашютная система Parazero SafeAir M-200 (PZM200)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-200/</url>
 	<price>95720</price>
@@ -3641,7 +3641,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="PZM600" available="">
+	<item id="PZM600" available="true">
 	<name>Парашютная система Parazero SafeAir M-600 (PZM600)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-600/</url>
 	<price>95720</price>
@@ -3711,7 +3711,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="PZPHANTOM" available="">
+	<item id="PZPHANTOM" available="true">
 	<name>Парашютная система Parazero SafeAir Phantom (PZPHANTOM)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
 	<price>16730</price>
@@ -3770,7 +3770,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="PZMAVIC" available="">
+	<item id="PZMAVIC" available="true">
 	<name>Парашютная система Parazero SafeAir Mavic (PZMAVIC)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
 	<price>11180</price>
@@ -4549,7 +4549,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="DJIMG1SHUB" available="">
+	<item id="DJIMG1SHUB" available="true">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<url>https://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
 	<price>50360</price>
@@ -4570,7 +4570,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="DJIMG1CH" available="">
+	<item id="DJIMG1CH" available="true">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<url>https://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
 	<price>45360</price>
@@ -4588,7 +4588,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="DJIAGR1P" available="">
+	<item id="DJIAGR1P" available="true">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
 	<price>461960</price>
@@ -4625,7 +4625,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Белый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.TP.00000008.01" available="">
+	<item id="CP.TP.00000008.01" available="true">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<url>https://store.drone.ua/product/agras-mg-1s/</url>
 	<price>329160</price>
@@ -4959,7 +4959,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000003068" available="">
+	<item id="ST.00000003068" available="true">
 	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
 	<price>8360</price>
@@ -8627,7 +8627,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004002" available="">
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>125960</price>
+	<price>134360</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</picture>
