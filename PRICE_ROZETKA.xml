@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2020-12-17 10:44">	
+<yml_catalog date="2020-12-17 11:56">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -876,7 +876,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>55307</price_opt>
+	<price_opt>52703</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.PT.00000232.01">
@@ -960,7 +960,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>65072</price_opt>
+	<price_opt>62468</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.00000210.01">
@@ -4490,7 +4490,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>8110</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PZM200">
 	<url>https://store.drone.ua/product/parazero-safeair-m-200/</url>
 	<price>95720</price>
@@ -4575,7 +4575,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>89020</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PZM600">
 	<url>https://store.drone.ua/product/parazero-safeair-m-600/</url>
 	<price>95720</price>
@@ -4659,7 +4659,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>89020</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PZPHANTOM">
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
 	<price>16730</price>
@@ -4732,7 +4732,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>15559</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	PZMAVIC">
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
 	<price>11180</price>
@@ -5613,7 +5613,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>31211</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	DJIMG1SHUB">
 	<url>https://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
 	<price>50360</price>
@@ -5638,7 +5638,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>46835</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	DJIMG1CH">
 	<url>https://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
 	<price>45360</price>
@@ -5660,7 +5660,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>42185</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	DJIAGR1P">
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
 	<price>461960</price>
@@ -5711,7 +5711,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>429623</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.TP.00000008.01">
 	<url>https://store.drone.ua/product/agras-mg-1s/</url>
 	<price>329160</price>
@@ -6210,7 +6210,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>698</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.00000003068">
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
 	<price>8360</price>
@@ -11370,7 +11370,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>28207</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	ST.M3.00000007">
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/</url>
 	<price>4830</price>
@@ -12173,7 +12173,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>45542</price_opt>
+	<price_opt>44101</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.AG.00000207.01">
@@ -17283,4 +17283,4 @@ Parrot Bluegrass легко транспортируется благодаря 
 	</offer>
 </offers>	
 </shop>	
-</yml_catalog>
+</yml_catalog>	
