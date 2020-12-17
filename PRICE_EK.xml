@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2020-11-26 15:20">	
+<yml_catalog date="2020-12-17 15:31">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -260,7 +260,7 @@
 	<item id="CP.PT.00000242.01">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro V2.0 (CP.PT.00000242.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>59470</price>
+	<price>56670</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_Phantom_4_Pro_ProV2_0___1.jpg</image>
@@ -269,7 +269,7 @@
 	<item id="CP.PT.00000232.01">
 	<name>Квадрокоптер (дрон) DJI Phantom 4 Pro+ V2.0 (CP.PT.00000232.01)</name>
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>69970</price>
+	<price>67170</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_Phantom_4_Pro_ProV2_0___1_1.jpg</image>
@@ -494,7 +494,7 @@
 	<item id="PZM200">
 	<name>Парашютная система Parazero SafeAir M-200 (PZM200)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-200/</url>
-	<price>0</price>
+	<price>95720</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-200_1.jpg</image>
@@ -505,7 +505,7 @@
 	<item id="PZM600">
 	<name>Парашютная система Parazero SafeAir M-600 (PZM600)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-600/</url>
-	<price>0</price>
+	<price>95720</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-600_1.jpg</image>
@@ -516,7 +516,7 @@
 	<item id="PZPHANTOM">
 	<name>Парашютная система Parazero SafeAir Phantom (PZPHANTOM)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
-	<price>0</price>
+	<price>16730</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Mavic_1.png</image>
@@ -526,7 +526,7 @@
 	<item id="PZMAVIC">
 	<name>Парашютная система Parazero SafeAir Mavic (PZMAVIC)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
-	<price>0</price>
+	<price>11180</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_1.jpg</image>
@@ -688,7 +688,7 @@
 	<item id="DJIMG1SHUB">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<url>https://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
-	<price>0</price>
+	<price>50360</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</image>
@@ -697,7 +697,7 @@
 	<item id="DJIMG1CH">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<url>https://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
-	<price>0</price>
+	<price>45360</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</image>
@@ -706,7 +706,7 @@
 	<item id="DJIAGR1P">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
-	<price>0</price>
+	<price>461960</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</image>
@@ -715,7 +715,7 @@
 	<item id="CP.TP.00000008.01">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<url>https://store.drone.ua/product/agras-mg-1s/</url>
-	<price>0</price>
+	<price>329160</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</image>
@@ -877,7 +877,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003068">
 	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
-	<price>0</price>
+	<price>8360</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</image>
@@ -2407,7 +2407,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.M3.00000007">
 	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST.M3.00000007)</name>
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/</url>
-	<price>0</price>
+	<price>4830</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_1.jpg</image>
@@ -2443,7 +2443,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="DAT16">
 	<name>Мультикоптер DJI Agras T16 (DAT16)</name>
 	<url>https://store.drone.ua/product/agras-t16/</url>
-	<price>629960</price>
+	<price>419960</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_T16_1.png</image>
@@ -2479,7 +2479,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011336.20">
 	<name>Интеллектуальная батарея DJI Agras T20 (ST.000000011336.20)</name>
 	<url>https://store.drone.ua/product/battery-t20/</url>
-	<price>0</price>
+	<price>47420</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</image>
