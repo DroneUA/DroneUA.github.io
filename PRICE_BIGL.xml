@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2020-12-17 11:03">	
+<price date="2021-01-25 16:51">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -794,7 +794,7 @@
 	<item id="CP.MA.00000013.01" available="">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>50720</price>
+	<price>48970</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
@@ -820,7 +820,7 @@
 	<item id="CP.MA.00000014.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>42320</price>
+	<price>40570</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
@@ -1618,7 +1618,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="CP.TL.00000015.01" available="">
 	<name>Квадрокоптер (дрон) Ryze Tello Boost Combo (CP.TL.00000015.01)</name>
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
-	<price>5570</price>
+	<price>5080</price>
 	<categoryId>1</categoryId>
 	<vendor>Ryze</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</picture>
@@ -3342,7 +3342,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Желтый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.CI.00002" available="">
+	<item id="ST.CI.00002" available="true">
 	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
 	<url>https://store.drone.ua/product/gladius-mini/</url>
 	<price>56660</price>
@@ -4376,7 +4376,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 <picture>https://droneua.github.io/IMG_ROZ/Smart_Controller_6.jpg</picture>
 	<description><![CDATA[<p>Пульт DJI Smart Controller разработан для управления Mavic 2 и другими дронами, работающими на OcuSync 2.01. Встроенный 5,5-дюймовый дисплей обеспечивает качественное и яркое изображение даже при ярком свете. Интуитивный интерфейс и предустановленные программы, такие как SkyTalk и DJI GO 4 делают полет на дроне простым и удобным &ndash; от взлета до посадки.</p>
 <p>Совместим с Mavic 2 Zoom, Mavic 2 Pro и серией Mavic 2 Enterprise</p>
-<p>DJI Smart Controller оснащен 5,5-дюймовым ультраярким дисплеем, который позволяет просматривать видео 1080p с дрона даже под прямыми солнечными лучами. Яркость дисплея составляет 1000 кд/м2 ? он почти в два раза ярче дисплеев смартфонов.</p>
+<p>DJI Smart Controller оснащен 5,5-дюймовым ультраярким дисплеем, который позволяет просматривать видео 1080p с дрона даже под прямыми солнечными лучами. Яркость дисплея составляет 1000 кд/м2 - он почти в два раза ярче дисплеев смартфонов.</p>
 <p>DJI Smart Controller работает по технологии передачи высококачественного видео OcuSync 2.0 и переключается между частотами 2.4 ГГц и 5.8 ГГц. Это повышает помехозащищенность системы и качество передачи изображения на большие расстояния (до 8 км).</p>
 <div><strong>Характеристики:</strong><br />Ocusync 2.0</div>
 <div><br />Диапазон рабочих частот:<br />2.400&ndash;2.4835 ГГц</div>
@@ -4962,7 +4962,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003068" available="true">
 	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
-	<price>8360</price>
+	<price>9550</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</picture>
@@ -5458,7 +5458,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004020" available="">
 	<name>Подвес DJI Zenmuse X5S без объектива (ST.00000004020)</name>
 	<url>https://store.drone.ua/product/zenmuse-x5s-gimbal-and-camera-lens-excluded/</url>
-	<price>67160</price>
+	<price>55970</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_Gimbal_and_Camera_Lens_Excluded_1.jpg</picture>
@@ -5488,7 +5488,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004019" available="">
 	<name>Подвес с камерой DJI Zenmuse X5S (ST.00000004019)</name>
 	<url>https://store.drone.ua/product/zenmuse-x5s/</url>
-	<price>92360</price>
+	<price>76970</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X5S_1.jpg</picture>
@@ -5550,7 +5550,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011501" available="true">
 	<name>Квадрокоптер DJI P4 Multispectral (ST.000000011501)</name>
 	<url>https://store.drone.ua/product/p4-multispectral/</url>
-	<price>251960</price>
+	<price>287950</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</picture>
@@ -5572,7 +5572,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011518" available="true">
 	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (ST.000000011518)</name>
 	<url>https://store.drone.ua/product/p4-multispectral-d-rtk-2-high-precision-gnss-mobile-station-combo/</url>
-	<price>373760</price>
+	<price>427150</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</picture>
@@ -5594,7 +5594,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01-1" available="true">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
-	<price>142760</price>
+	<price>163150</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</picture>
@@ -5616,7 +5616,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01" available="true">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP.EN.00000108.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise-dual/</url>
-	<price>121760</price>
+	<price>139150</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_1.jpg</picture>
@@ -5637,7 +5637,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006344" available="true">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST.00000006344)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
-	<price>117560</price>
+	<price>134350</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</picture>
@@ -5656,7 +5656,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003212" available="true">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (ST.00000003212)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise/</url>
-	<price>96560</price>
+	<price>110350</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</picture>
@@ -5674,7 +5674,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006316" available="true">
 	<name>Набор DJI Mavic 2 Enterprise Fly More Kit (ST.00000006316)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part1_fly_more_kit/</url>
-	<price>18440</price>
+	<price>21070</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Fly_More_Kit_1.jpg</picture>
@@ -5699,7 +5699,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006323" available="true">
 	<name>Аккумулятор DJI Mavic 2 Enterprise (ST.00000006323)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part2_battery/</url>
-	<price>7520</price>
+	<price>8590</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_battery_1.jpg</picture>
@@ -5716,7 +5716,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006325" available="">
 	<name>Прожектор DJI Mavic 2 Enterprise Spotlight (ST.00000006325)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part4_spotlight/</url>
-	<price>5250</price>
+	<price>6000</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Spotlight_1.jpg</picture>
@@ -5733,7 +5733,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006327" available="">
 	<name>Кейс DJI Mavic 2 Enterprise (ST.00000006327)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part6_protector_case/</url>
-	<price>5000</price>
+	<price>5710</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Protector_Case_1.jpg</picture>
@@ -5750,7 +5750,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000008210" available="true">
 	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (ST.00000008210)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-d-rtk-2-mobile-station-combo/</url>
-	<price>327600</price>
+	<price>273000</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_1.png</picture>
@@ -5773,7 +5773,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003160" available="true">
 	<name>Квадрокоптер DJI Phantom 4 RTK (ST.00000003160)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk/</url>
-	<price>239400</price>
+	<price>199500</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_1.png</picture>
@@ -5796,7 +5796,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000010836" available="true">
 	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST.000000010836)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
-	<price>226800</price>
+	<price>189000</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_1.png</picture>
@@ -5813,7 +5813,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004491" available="true">
 	<name>Мобильная станция DJI D-RTK 2 (ST.00000004491)</name>
 	<url>https://store.drone.ua/product/d-rtk-2/</url>
-	<price>151200</price>
+	<price>172800</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</picture>
@@ -5830,7 +5830,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000010835" available="">
 	<name>Пульт управления DJI Phantom 4 RTK SDK (ST.000000010835)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk-remote-controller/</url>
-	<price>29400</price>
+	<price>24500</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_Remote_Controller_1.jpg</picture>
@@ -5851,7 +5851,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000009846" available="">
 	<name>Штатив для базовой станции DJI D-RTK 2 (ST.00000009846)</name>
 	<url>https://store.drone.ua/product/d-rtk-2-base-station-tripod/</url>
-	<price>7140</price>
+	<price>8160</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_Tripod_1.jpg</picture>
@@ -5868,7 +5868,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000048.01" available="true">
 	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP.EN.00000048.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-200-v2-combo/</url>
-	<price>270900</price>
+	<price>309600</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</picture>
@@ -5890,7 +5890,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000054.01" available="true">
 	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP.EN.00000054.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/</url>
-	<price>357000</price>
+	<price>408000</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</picture>
@@ -5914,7 +5914,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000062" available="true">
 	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP.EN.00000062)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-rtk-v2-combo/</url>
-	<price>504000</price>
+	<price>576000</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</picture>
@@ -5988,7 +5988,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.SB.000307" available="true">
 	<name>Гексакоптер DJI Matrice 600 Pro (CP.SB.000307)</name>
 	<url>https://store.drone.ua/product/matrice-600-pro/</url>
-	<price>239360</price>
+	<price>273550</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_1.jpg</picture>
@@ -6011,7 +6011,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011350" available="">
 	<name>Интеллектуальная батарея DJI TB47S для Matrice 600 (6PCS) (ST.000000011350)</name>
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery-6pcs/</url>
-	<price>48260</price>
+	<price>55150</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_1.jpg</picture>
@@ -6031,7 +6031,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000008269" available="">
 	<name>Зарядное устройство DJI Hex Charger (ST.00000008269)</name>
 	<url>https://store.drone.ua/product/dji-hex-charger/</url>
-	<price>14660</price>
+	<price>16750</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Hex_Charger_1.jpg</picture>
@@ -6053,7 +6053,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011349" available="">
 	<name>Интеллектуальная батарея DJI TB47S для Matrice 600 (ST.000000011349)</name>
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery/</url>
-	<price>8360</price>
+	<price>9550</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_1.jpg</picture>
@@ -6073,7 +6073,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CR3-2600W-01" available="">
 	<name>Кейс HPRC 2600W для Zhiyun Crane 3 Lab (CR3-2600W-01)</name>
 	<url>https://store.drone.ua/product/hprc_cr3-2600w-01/</url>
-	<price>14330</price>
+	<price>16180</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/CR3-2600W-01___01.jpg</picture>
@@ -6091,7 +6091,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="TYH-4600W-01" available="">
 	<name>Кейс HPRC 4600W для Typhoon H (TYH-4600W-01)</name>
 	<url>https://store.drone.ua/product/hprc_tyh-4600w-01/</url>
-	<price>14480</price>
+	<price>16350</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/TYH-4600W-01___01.jpg</picture>
@@ -6110,7 +6110,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="Z190-2700W-01" available="">
 	<name>Кейс HPRC 2700W для Sony PXWZ190V (Z190-2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_z190-2700w-01/</url>
-	<price>16250</price>
+	<price>18350</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/Z190-2700W-01___01.jpg</picture>
@@ -6126,7 +6126,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="VEN2730W-01" available="">
 	<name>Кейс HPRC 2730W для Sony Venice (VEN2730W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ven2730w-01/</url>
-	<price>25520</price>
+	<price>28810</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/VEN2730W-01___01.jpg</picture>
@@ -6144,7 +6144,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ALP2460-01" available="">
 	<name>Кейс HPRC 2460 для Sony Alpha 7 (ALP2460-01)</name>
 	<url>https://store.drone.ua/product/hprc_alp2460-01/</url>
-	<price>5400</price>
+	<price>6100</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/ALP2460-01___01.jpg</picture>
@@ -6162,7 +6162,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="BEB2600W-01" available="">
 	<name>Кейс HPRC 2600W для Parrot Bebop (BEB2600W-01)</name>
 	<url>https://store.drone.ua/product/hprc_beb2600w-01/</url>
-	<price>7790</price>
+	<price>8800</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600W-01___01.jpg</picture>
@@ -6180,7 +6180,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="BEB2600-01" available="">
 	<name>Кейс HPRC 2600 для Parrot Bebop (BEB2600-01)</name>
 	<url>https://store.drone.ua/product/hprc_beb2600-01/</url>
-	<price>5170</price>
+	<price>5840</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/BEB2600-01___01.jpg</picture>
@@ -6198,7 +6198,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="BEBBAGLG-01" available="">
 	<name>Кейс HPRC Soft Bag для Parrot Bebop &amp; Skycontroller (BEBBAGLG-01)</name>
 	<url>https://store.drone.ua/product/hprc_bebbaglg-01/</url>
-	<price>7070</price>
+	<price>7980</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/BEBBAGLG-01___01.jpg</picture>
@@ -6219,7 +6219,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="GH52460-01" available="">
 	<name>Кейс HPRC 2460 для Panasonic Lumix GH5 (GH52460-01)</name>
 	<url>https://store.drone.ua/product/hprc_gh52460-01/</url>
-	<price>5400</price>
+	<price>6100</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/GH52460-01___01.jpg</picture>
@@ -6239,7 +6239,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="D850-2460-01" available="">
 	<name>Кейс HPRC 2460 для Nikon D850 (D850-2460-01)</name>
 	<url>https://store.drone.ua/product/hprc_d850-2460-01/</url>
-	<price>7170</price>
+	<price>8100</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/D850-2460-01___01.jpg</picture>
@@ -6255,7 +6255,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="LEM2460-01" available="">
 	<name>Кейс HPRC 2460 для Leica M (LEM2460-01)</name>
 	<url>https://store.drone.ua/product/hprc_lem2460-01/</url>
-	<price>9650</price>
+	<price>10900</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/LEM2460-01___01.jpg</picture>
@@ -6270,7 +6270,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="LEM2400-01" available="">
 	<name>Кейс HPRC 2400 для Leica M (LEM2400-01)</name>
 	<url>https://store.drone.ua/product/hprc_lem2400-01/</url>
-	<price>6650</price>
+	<price>7510</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/LEM2400-01___01.jpg</picture>
@@ -6285,7 +6285,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="GPR7-1400-01" available="">
 	<name>Кейс HPRC 1400 для Go Pro Hero 7 (GPR7-1400-01)</name>
 	<url>https://store.drone.ua/product/hprc_gpr7-1400-01/</url>
-	<price>1900</price>
+	<price>2150</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/GPR7-1400-01___01.jpg</picture>
@@ -6304,7 +6304,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="FFS-4600W-02" available="">
 	<name>Кейс HPRC 4600W Resin Cases для Movipro Free Fly System (FFS-4600W-02)</name>
 	<url>https://store.drone.ua/product/hprc_ffs-4600w-02/</url>
-	<price>20650</price>
+	<price>23310</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/FFS-4600W-02___01.jpg</picture>
@@ -6324,7 +6324,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAV3500BLK-02" available="">
 	<name>Рюкзак HPRC 3500 Black для DJI Mavic 2 Pro/Zoom &#8212; Hasselblad (MAV3500BLK-02)</name>
 	<url>https://store.drone.ua/product/hprc_mav3500blk-02/</url>
-	<price>9790</price>
+	<price>11050</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAV3500BLK-02___01.jpg</picture>
@@ -6338,7 +6338,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="SPK2300YEL-01" available="">
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300YEL-01)</name>
 	<url>https://store.drone.ua/product/hprc_spk2300yel-01/</url>
-	<price>3400</price>
+	<price>3840</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300YEL-01___01.jpg</picture>
@@ -6355,7 +6355,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="SPK2300RED-01" available="">
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300RED-01)</name>
 	<url>https://store.drone.ua/product/hprc_spk2300red-01/</url>
-	<price>3400</price>
+	<price>3840</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300RED-01___01.jpg</picture>
@@ -6372,7 +6372,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="SPK2300BLU-01" available="">
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300BLU-01)</name>
 	<url>https://store.drone.ua/product/hprc_spk2300blu-01/</url>
-	<price>3400</price>
+	<price>3840</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300BLU-01___01.jpg</picture>
@@ -6389,7 +6389,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="SPK2300BLK-01" available="">
 	<name>Кейс HPRC 2300 для DJI Spark Fly More Combo (SPK2300BLK-01)</name>
 	<url>https://store.drone.ua/product/hprc_spk2300blk-01/</url>
-	<price>3400</price>
+	<price>3840</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/SPK2300BLK-01___01.jpg</picture>
@@ -6406,7 +6406,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA2700-03" available="">
 	<name>Кейс HPRC 2700 для DJI Phantom 2/2 Vision/2 Vision+ (PHA2700-03)</name>
 	<url>https://store.drone.ua/product/hprc_pha2700-03/</url>
-	<price>9750</price>
+	<price>11010</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA2700-03___01.jpg</picture>
@@ -6423,7 +6423,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAVBAG35-02" available="">
 	<name>Рюкзак HPRC для DJI Mavic 2 Pro/Zoom (MAVBAG35-02)</name>
 	<url>https://store.drone.ua/product/hprc_mavbag35-02/</url>
-	<price>4810</price>
+	<price>5430</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-02___01.jpg</picture>
@@ -6442,7 +6442,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAV2400RED-01" available="">
 	<name>Кейс HPRC 2400 Red для Mavic Pro Fly More Combo (MAV2400RED-01)</name>
 	<url>https://store.drone.ua/product/hprc_mav2400red-01/</url>
-	<price>5480</price>
+	<price>6190</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400RED-01___01.jpg</picture>
@@ -6459,7 +6459,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAV2400BLK-01" available="">
 	<name>Кейс HPRC 2400 Black для DJI Mavic Pro Fly More Combo (MAV2400BLK-01)</name>
 	<url>https://store.drone.ua/product/hprc_mav2400blk-01/</url>
-	<price>5480</price>
+	<price>6190</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLK-01___01.jpg</picture>
@@ -6476,7 +6476,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAV2400BLU-01" available="">
 	<name>Кейс HPRC 2400 Blu для Mavic Pro Fly More Combo (MAV2400BLU-01)</name>
 	<url>https://store.drone.ua/product/hprc_mav2400blu-01/</url>
-	<price>5480</price>
+	<price>6190</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLU-01___01.jpg</picture>
@@ -6493,7 +6493,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAV2400BLK-02" available="">
 	<name>Кейс HPRC 2400 Black для DJI Mavic 2 Pro/Zoom (MAV2400BLK-02)</name>
 	<url>https://store.drone.ua/product/hprc_mav2400blk-02/</url>
-	<price>5910</price>
+	<price>6670</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAV2400BLK-02___01.jpg</picture>
@@ -6510,7 +6510,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="INS2-2780WCOM-01" available="">
 	<name>Кейс HPRC Combo 2780W для DJI Inspire 2 &amp; BAT2550W-01 (INS2-2780WCOM-01)</name>
 	<url>https://store.drone.ua/product/hprc_ins2-2780wcom-01/</url>
-	<price>23840</price>
+	<price>26920</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/INS2-2780WCOM-01___01.jpg</picture>
@@ -6527,7 +6527,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="SPKBAG35-01" available="">
 	<name>Кейс HPRC Soft Bag для DJI Spark Fly More Combo (SPKBAG35-01)</name>
 	<url>https://store.drone.ua/product/hprc_spkbag35-01/</url>
-	<price>4190</price>
+	<price>4730</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/SPKBAG35-01___01.jpg</picture>
@@ -6548,7 +6548,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ROS3500-01" available="">
 	<name>Рюкзак HPRC 3500 для DJI Ronin-S (ROS3500-01)</name>
 	<url>https://store.drone.ua/product/hprc_ros3500-01/</url>
-	<price>9610</price>
+	<price>10850</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/ROS3500-01___01.jpg</picture>
@@ -6565,7 +6565,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ROS2550W-01" available="">
 	<name>Кейс HPRC 2550W для DJI Ronin-S (ROS2550W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ros2550w-01/</url>
-	<price>10110</price>
+	<price>11410</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/ROS2550W-01___01.jpg</picture>
@@ -6583,7 +6583,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ROS2500-01" available="">
 	<name>Кейс HPRC 2500 для DJI Ronin-S (ROS2500-01)</name>
 	<url>https://store.drone.ua/product/hprc_ros2500-01/</url>
-	<price>5910</price>
+	<price>6670</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/ROS2500-01___01.jpg</picture>
@@ -6599,7 +6599,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="RON2-2780W-01" available="">
 	<name>Кейс HPRC 2780W для DJI Ronin 2 (RON2-2780W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ron2-2780w-01/</url>
-	<price>18710</price>
+	<price>21120</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/RON2-2780W-01___01.jpg</picture>
@@ -6619,7 +6619,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ROM2700W-01" available="">
 	<name>Кейс HPRC 2700W для DJI Ronin-M (ROM2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_rom2700w-01/</url>
-	<price>11260</price>
+	<price>12710</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/ROM2700W-01___01.jpg</picture>
@@ -6636,7 +6636,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="RMX2730W-01" available="">
 	<name>Кейс HPRC 2730W для DJI Ronin MX (RMX2730W-01)</name>
 	<url>https://store.drone.ua/product/hprc_rmx2730w-01/</url>
-	<price>12870</price>
+	<price>14530</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/RMX2730W-01___01.jpg</picture>
@@ -6655,7 +6655,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA4RTKGS-2780W-01" available="">
 	<name>Кейс HPRC 2780W для DJI Phantom 4 RTK &amp; Ground Station (PHA4RTKGS-2780W-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha4rtkgs-2780w-01/</url>
-	<price>31930</price>
+	<price>36050</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTKGS-2780W-01___01.jpg</picture>
@@ -6681,7 +6681,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA4RTK-2700W-01" available="">
 	<name>Кейс HPRC 2700W для DJI Phantom 4 RTK (PHA4RTK-2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha4rtk-2700w-01/</url>
-	<price>15070</price>
+	<price>17010</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA4RTK-2700W-01___01.jpg</picture>
@@ -6700,7 +6700,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA4-BAG27-01" available="">
 	<name>Кейс HPRC Soft Bag для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ (PHA4-BAG27-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha4-bag27-01/</url>
-	<price>5170</price>
+	<price>5840</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAG27-01___01.jpg</picture>
@@ -6722,7 +6722,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA4-BAGLG-01" available="">
 	<name>Кейс HPRC Soft Bag для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ Prop Guards (PHA4-BAGLG-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha4-baglg-01/</url>
-	<price>7440</price>
+	<price>8400</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-BAGLG-01___01.jpg</picture>
@@ -6742,7 +6742,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA4-2700W-01" available="">
 	<name>Кейс HPRC 2700W для DJI Phantom 4 (PHA4-2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha4-2700w-01/</url>
-	<price>10170</price>
+	<price>11480</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2700W-01___01.jpg</picture>
@@ -6763,7 +6763,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA4-2710-01" available="">
 	<name>Кейс HPRC 2710 для DJI Phantom 4 / Phantom 4 Pro / Phantom 4 Pro+ (PHA4-2710-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha4-2710-01/</url>
-	<price>6450</price>
+	<price>7280</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA4-2710-01___01.jpg</picture>
@@ -6783,7 +6783,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA3-BAGLG-01" available="">
 	<name>Кейс HPRC Soft Bag для DJI Phantom 3 Professional/Advanced W/ Prop Guards (PHA3-BAGLG-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha3-baglg-01/</url>
-	<price>7400</price>
+	<price>8350</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-BAGLG-01___01.jpg</picture>
@@ -6803,7 +6803,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA2700W-03" available="">
 	<name>Кейс HPRC 2700W для DJI Phantom 2 / 2 Vision / 2 Vision+ (PHA2700W-03)</name>
 	<url>https://store.drone.ua/product/hprc_pha2700w-03/</url>
-	<price>10480</price>
+	<price>11830</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA2700W-03___01.jpg</picture>
@@ -6822,7 +6822,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA3-2700W-01" available="">
 	<name>Кейс HPRC 2700W для DJI Phantom 3 Professional/Advanced (PHA3-2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_pha3-2700w-01/</url>
-	<price>10170</price>
+	<price>11480</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA3-2700W-01___01.jpg</picture>
@@ -6841,7 +6841,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="OSMPKT-1400-01" available="">
 	<name>Кейс HPRC 1400 для DJI Osmo Pocket (OSMPKT-1400-01)</name>
 	<url>https://store.drone.ua/product/hprc_osmpkt-1400-01/</url>
-	<price>1550</price>
+	<price>1750</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/OSMPKT-1400-01___01.jpg</picture>
@@ -6858,7 +6858,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="OSM2350-02" available="">
 	<name>Кейс HPRC 2350 для DJI Osmo/Osmo+ (OSM2350-02)</name>
 	<url>https://store.drone.ua/product/hprc_osm2350-02/</url>
-	<price>3230</price>
+	<price>3650</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/OSM2350-02___01.jpg</picture>
@@ -6878,7 +6878,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="OSMACT-1400-01" available="">
 	<name>Кейс HPRC 1400 для DJI Osmo Action (OSMACT-1400-01)</name>
 	<url>https://store.drone.ua/product/hprc_osmact-1400-01/</url>
-	<price>1900</price>
+	<price>2150</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/OSMACT-1400-01___01.jpg</picture>
@@ -6899,7 +6899,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAVBAG35-03" available="">
 	<name>Рюкзак HPRC 3500 with Foam для Mavic 2 Pro/Zoom &amp; Smart Controller (MAVBAG35-03)</name>
 	<url>https://store.drone.ua/product/hprc_mavbag35-03/</url>
-	<price>4810</price>
+	<price>5430</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAVBAG35-03___01.jpg</picture>
@@ -6920,7 +6920,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAV2-2400BLK-02" available="">
 	<name>Кейс HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-2400BLK-02)</name>
 	<url>https://store.drone.ua/product/hprc_mav2-2400blk-02/</url>
-	<price>5970</price>
+	<price>6740</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-2400BLK-02___01.jpg</picture>
@@ -6940,7 +6940,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAV2-3500BLK-02" available="">
 	<name>Рюкзак HPRC 3500 для DJI Mavic 2 Pro/Zoom &amp; Smart Controller (MAV2-3500BLK-02)</name>
 	<url>https://store.drone.ua/product/hprc_mav2-3500blk-02/</url>
-	<price>9790</price>
+	<price>11050</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAV2-3500BLK-02___01.jpg</picture>
@@ -6960,7 +6960,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="M210-4600W-04" available="">
 	<name>Кейс HPRC 4600W для DJI Matrice 200/210 (M210-4600W-04)</name>
 	<url>https://store.drone.ua/product/hprc_m210-4600w-04/</url>
-	<price>21740</price>
+	<price>24550</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/M210-4600W-04___01.jpg</picture>
@@ -6980,7 +6980,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="BAT2550W-01" available="">
 	<name>Кейс HPRC Battery Case HPRC2550W для DJI Inspire 2/Pro (BAT2550W-01)</name>
 	<url>https://store.drone.ua/product/hprc_bat2550w-01/</url>
-	<price>9610</price>
+	<price>10850</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/BAT2550W-01___01.jpg</picture>
@@ -6999,7 +6999,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="BAT2400-02" available="">
 	<name>Кейс HPRC Phantom/Inspire Battery Case (BAT2400-02)</name>
 	<url>https://store.drone.ua/product/hprc_bat2400-02/</url>
-	<price>4930</price>
+	<price>5570</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/BAT2400-02___01.jpg</picture>
@@ -7021,7 +7021,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="INS2780W-01" available="">
 	<name>Кейс HPRC 2780W для DJI Inspire 1 Pro Landing Mode Case (INS2780W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ins2780w-01/</url>
-	<price>17710</price>
+	<price>20000</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/INS2780W-01___01.jpg</picture>
@@ -7043,7 +7043,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="INS2-4600W-02" available="">
 	<name>Кейс HPRC 4600W для DJI Inspire 2 (INS2-4600W-02)</name>
 	<url>https://store.drone.ua/product/hprc_ins2-4600w-02/</url>
-	<price>16330</price>
+	<price>18440</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/INS2-4600W-02___01.jpg</picture>
@@ -7063,7 +7063,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="INS2-2780W-02" available="">
 	<name>Кейс HPRC 2780W для DJI Inspire 2 (INS2-2780W-02)</name>
 	<url>https://store.drone.ua/product/hprc_ins2-2780w-02/</url>
-	<price>18480</price>
+	<price>20860</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/INS2-2780W-02___01.jpg</picture>
@@ -7083,7 +7083,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="GGS-2460-01" available="">
 	<name>Кейс HPRC 2460 для DJI Goggles (GGS-2460-01)</name>
 	<url>https://store.drone.ua/product/hprc_ggs-2460-01/</url>
-	<price>4170</price>
+	<price>4710</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/GGS-2460-01___01.jpg</picture>
@@ -7103,7 +7103,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="DRTK6500W-01" available="">
 	<name>Кейс HPRC 6500W для DJI D-RTK2 (DRTK6500W-01)</name>
 	<url>https://store.drone.ua/product/hprc_drtk6500w-01/</url>
-	<price>24370</price>
+	<price>27510</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/DRTK6500W-01___01.jpg</picture>
@@ -7122,7 +7122,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CEN2460-02" available="">
 	<name>Кейс HPRC 2460 для DJI Cendence Remote Controller and Crystalsky (CEN2460-02)</name>
 	<url>https://store.drone.ua/product/hprc_cen2460-02/</url>
-	<price>6000</price>
+	<price>6770</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/CEN2460-02___01.jpg</picture>
@@ -7141,7 +7141,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="GLA2710-01" available="">
 	<name>Кейс HPRC 2710 для Chasing Innovation Gladius Mini (GLA2710-01)</name>
 	<url>https://store.drone.ua/product/hprc_gla2710-01/</url>
-	<price>12160</price>
+	<price>13730</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/GLA2710-01___01.jpg</picture>
@@ -7164,7 +7164,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="C200-2600-01" available="">
 	<name>Кейс HPRC 2600 для Canon Eos C200 (C200-2600-01)</name>
 	<url>https://store.drone.ua/product/hprc_c200-2600-01/</url>
-	<price>10750</price>
+	<price>12140</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/C200-2600-01___01.jpg</picture>
@@ -7180,7 +7180,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="C100-2600-01" available="">
 	<name>Кейс HPRC 2600 для Canon Eos C100 (C100-2600-01)</name>
 	<url>https://store.drone.ua/product/hprc_c100-2600-01/</url>
-	<price>10750</price>
+	<price>12140</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/C100-2600-01___01.jpg</picture>
@@ -7196,7 +7196,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="BRO4800W-01" available="">
 	<name>Кейс HPRC Brompton Folding Bike Case (BRO4800W-01)</name>
 	<url>https://store.drone.ua/product/hprc_bro4800w-01/</url>
-	<price>11910</price>
+	<price>13450</price>
 	<categoryId>10</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/BRO4800W-01___01.jpg</picture>
@@ -7215,7 +7215,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="URS2730W-03" available="">
 	<name>Кейс HPRC 2730W для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast (URS2730W-03)</name>
 	<url>https://store.drone.ua/product/hprc_urs2730w-03/</url>
-	<price>17500</price>
+	<price>19760</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/URS2730W-03___01.jpg</picture>
@@ -7232,7 +7232,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PKT2400-01" available="">
 	<name>Кейс HPRC 2400 для Blackmagic Pocket 4K (PKT2400-01)</name>
 	<url>https://store.drone.ua/product/hprc_pkt2400-01/</url>
-	<price>6500</price>
+	<price>7340</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PKT2400-01___01.jpg</picture>
@@ -7248,7 +7248,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ADV1-2710-01" available="">
 	<name>Кейс HPRC 2710 для Blackmagic Design Atem 1 M/E Advanced Panel (ADV1-2710-01)</name>
 	<url>https://store.drone.ua/product/hprc_adv1-2710-01/</url>
-	<price>11440</price>
+	<price>12920</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/ADV1-2710-01___01.jpg</picture>
@@ -7265,7 +7265,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="SM19-2730W-01" available="">
 	<name>Кейс HPRC 2730W для Atomos Sumo 19&#8243; (SM19-2730W-01)</name>
 	<url>https://store.drone.ua/product/hprc_sm19-2730w-01/</url>
-	<price>18390</price>
+	<price>20760</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/SM19-2730W-01___01.jpg</picture>
@@ -7284,7 +7284,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="NJAV-2300-01" available="">
 	<name>Кейс HPRC 2300 для Atomos Ninja V (NJAV-2300-01)</name>
 	<url>https://store.drone.ua/product/hprc_njav-2300-01/</url>
-	<price>5180</price>
+	<price>5850</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/NJAV-2300-01___01.jpg</picture>
@@ -7300,7 +7300,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAC4800W-01" available="">
 	<name>Кейс HPRC Apple iMac 27&#8243; Case (MAC4800W-01)</name>
 	<url>https://store.drone.ua/product/hprc_mac4800w-01/</url>
-	<price>16090</price>
+	<price>18170</price>
 	<categoryId>7</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAC4800W-01___01.jpg</picture>
@@ -7317,7 +7317,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="SOL2700W-01" available="">
 	<name>Кейс HPRC 2700W для 3DR Solo (SOL2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_sol2700w-01/</url>
-	<price>10170</price>
+	<price>11480</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/SOL2700W-01___01.jpg</picture>
@@ -7336,7 +7336,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTMAV3500-02" available="">
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom для модели HPRC3500 (KTMAV3500-02)</name>
 	<url>https://store.drone.ua/product/hprc_ktmav3500-02/</url>
-	<price>4530</price>
+	<price>5110</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV3500-02___01.jpg</picture>
@@ -7353,7 +7353,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTMAV2400-02" available="">
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom для модели HPRC2400 (KTMAV2400-02)</name>
 	<url>https://store.drone.ua/product/hprc_ktmav2400-02/</url>
-	<price>3200</price>
+	<price>3610</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-02___01.jpg</picture>
@@ -7370,7 +7370,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA-0009" available="">
 	<name>Ложемент HPRC для DJI Phantom 3 для кейса 2700 (PHA-0009)</name>
 	<url>https://store.drone.ua/product/hprc_pha-0009/</url>
-	<price>4030</price>
+	<price>4550</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0009___01.jpg</picture>
@@ -7387,7 +7387,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA-0011" available="">
 	<name>Ложемент HPRC для DJI Phantom 4 для кейса 2700W (PHA-0011)</name>
 	<url>https://store.drone.ua/product/hprc_pha-0011/</url>
-	<price>4500</price>
+	<price>5080</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0011___01.jpg</picture>
@@ -7404,7 +7404,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="PHA-0008" available="">
 	<name>Ложемент HPRC для DJI Phantom 3 для кейса 2700W (PHA-0008)</name>
 	<url>https://store.drone.ua/product/hprc_pha-0008/</url>
-	<price>4500</price>
+	<price>5080</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/PHA-0008___01.jpg</picture>
@@ -7421,7 +7421,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTPHA4-2700W-01" available="">
 	<name>Ложемент HPRC для DJI Phantom 4 Adv./Prof. для моделей 2700W/2710 (KTPHA4-2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktpha4-2700w-01/</url>
-	<price>3550</price>
+	<price>4010</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTPHA4-2700W-01___01.jpg</picture>
@@ -7438,7 +7438,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTINS2-4600W-01" available="">
 	<name>Ложемент HPRC для DJI Inspire 2 для кейса HPRC4600W (KTINS2-4600W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktins2-4600w-01/</url>
-	<price>9550</price>
+	<price>10780</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTINS2-4600W-01___01.jpg</picture>
@@ -7455,7 +7455,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTINS2-2780W-01" available="">
 	<name>Ложемент HPRC для DJI Inspire 2 для кейса HPRC2780W (KTINS2-2780W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktins2-2780w-01/</url>
-	<price>10750</price>
+	<price>12140</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTINS2-2780W-01___01.jpg</picture>
@@ -7472,7 +7472,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="INS-0002" available="">
 	<name>Ложемент HPRC для DJI Inspire 1/Pro для модели HPRC2730W (INS-0002)</name>
 	<url>https://store.drone.ua/product/hprc_ins-0002/</url>
-	<price>4810</price>
+	<price>5430</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/INS-0002___01.jpg</picture>
@@ -7489,7 +7489,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="BAT2550W-02" available="">
 	<name>Ложемент HPRC 2550W для аккумуляторов TB55/TB50 &#8212; DJI Matrice 200/210 (BAT2550W-02)</name>
 	<url>https://store.drone.ua/product/hprc_bat2550w-02/</url>
-	<price>10610</price>
+	<price>11980</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTBAT2550W-02___01.jpg</picture>
@@ -7506,7 +7506,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="MAVCONV-01" available="">
 	<name>Ложемент HPRC Conversion Kit для DJI Mavic Air для MAV2400/MAV3500 (MAVCONV-01)</name>
 	<url>https://store.drone.ua/product/hprc_mavconv-01/</url>
-	<price>240</price>
+	<price>270</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/MAVCONV-01___01.jpg</picture>
@@ -7529,7 +7529,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTZ190-2700W-01" available="">
 	<name>Ложемент HPRC для Sony PXWZ190V для модели HPRC2700W (KTZ190-2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktz190-2700w-01/</url>
-	<price>8100</price>
+	<price>9150</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTZ190-2700W-01___01.jpg</picture>
@@ -7543,7 +7543,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTVEN2730W-01" available="">
 	<name>Ложемент HPRC для Sony Venice для модели HPRC2730W (KTVEN2730W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktven2730w-01/</url>
-	<price>14680</price>
+	<price>16570</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTVEN2730W-01___01.jpg</picture>
@@ -7557,7 +7557,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTURS2730W-03" available="">
 	<name>Ложемент HPRC для Blackmagic Ursa Mini Pro &amp; Ursa Broadcast для кейса HPRC2730W (KTURS2730W-03)</name>
 	<url>https://store.drone.ua/product/hprc_kturs2730w-03/</url>
-	<price>8200</price>
+	<price>9260</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTURS2730W-03___01.jpg</picture>
@@ -7571,7 +7571,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTROS3500-01" available="">
 	<name>Ложемент HPRC для DJI Ronin-S для HPRC3500 (KTROS3500-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktros3500-01/</url>
-	<price>2360</price>
+	<price>2660</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTROS3500-01___01.jpg</picture>
@@ -7585,7 +7585,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTROS2550W-01" available="">
 	<name>Ложемент HPRC для DJI Ronin-S для кейса HPRC2550W (KTROS2550W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktros2550w-01/</url>
-	<price>3690</price>
+	<price>4170</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTROS2550W-01___01.jpg</picture>
@@ -7599,7 +7599,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTROS2500-01" available="">
 	<name>Ложемент HPRC для DJI Ronin-S для кейса HPRC 2500 (KTROS2500-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktros2500-01/</url>
-	<price>2080</price>
+	<price>2350</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTROS2500-01___01.jpg</picture>
@@ -7613,7 +7613,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTROM2700W-01" available="">
 	<name>Ложемент HPRC для DJI Ronin-M для кейса HPRC2700W (KTROM2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktrom2700w-01/</url>
-	<price>5650</price>
+	<price>6380</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTROM2700W-01___01.jpg</picture>
@@ -7627,7 +7627,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTRMX2730W-01" available="">
 	<name>Ложемент HPRC для DJI Ronin MX для кейса 2730W (KTRMX2730W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktrmx2730w-01/</url>
-	<price>6450</price>
+	<price>7280</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTRMX2730W-01___01.jpg</picture>
@@ -7641,7 +7641,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTPKT2400-01" available="">
 	<name>Ложемент HPRC для Blackmagic Pocket 4K для кейса HPRC2400 (KTPKT2400-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktpkt2400-01/</url>
-	<price>3200</price>
+	<price>3610</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTPKT2400-01___01.jpg</picture>
@@ -7655,7 +7655,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTPHA4-RTK-2700W-01" available="">
 	<name>Ложемент HPRC для DJI Phantom 4 RTK для HPRC2700W (KTPHA4-RTK-2700W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktpha4-rtk-2700w-01/</url>
-	<price>6620</price>
+	<price>7470</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTPHA4-RTK-2700W-01___01.jpg</picture>
@@ -7672,7 +7672,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTNSM19-2730W-01" available="">
 	<name>Ложемент HPRC для Atomos Sumo 19&#8243; для кейса HPRC2730W (KTNSM19-2730W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktnsm19-2730w-01/</url>
-	<price>9300</price>
+	<price>10500</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTNSM19-2730W-01___01.jpg</picture>
@@ -7688,7 +7688,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTNJAV2300-01" available="">
 	<name>Ложемент HPRC для Atomos Ninja V для HPRC2300 (KTNJAV2300-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktnjav2300-01/</url>
-	<price>2050</price>
+	<price>2310</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTNJAV2300-01___01.jpg</picture>
@@ -7702,7 +7702,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTMAV2400-03" available="">
 	<name>Ложемент HPRC для DJI Mavic 2 Pro/Zoom &amp; Smart Controller для кейса HPRC2400 (KTMAV2400-03)</name>
 	<url>https://store.drone.ua/product/hprc_ktmav2400-03/</url>
-	<price>3070</price>
+	<price>3470</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-03___01.jpg</picture>
@@ -7719,7 +7719,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTCR3-2600W-01" available="">
 	<name>Ложемент HPRC для Zhiyun Crane 3 Lab для HPRC2600W (KTCR3-2600W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktcr3-2600w-01/</url>
-	<price>7290</price>
+	<price>8230</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTCR3-2600W-01___01.jpg</picture>
@@ -7733,7 +7733,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTC200-2600-01" available="">
 	<name>Ложемент HPRC для Canon EOS C200 для HPRC2600 (KTC200-2600-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktc200-2600-01/</url>
-	<price>5520</price>
+	<price>6230</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTC200-2600-01___01.jpg</picture>
@@ -7747,7 +7747,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTC100-2600-01" available="">
 	<name>Ложемент HPRC для Canon C100 для HPRC2600 (KTC100-2600-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktc100-2600-01/</url>
-	<price>5520</price>
+	<price>6230</price>
 	<categoryId>6</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTC100-2600-01___01.jpg</picture>
@@ -7761,7 +7761,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTBAT2550W-01" available="">
 	<name>Ложемент HPRC для аккумуляторов DJI Inspire 2/Pro для кейса 2550W (KTBAT2550W-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktbat2550w-01/</url>
-	<price>4070</price>
+	<price>4600</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTBAT2550W-01___01.jpg</picture>
@@ -7778,7 +7778,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTMAV2400-01" available="">
 	<name>Ложемент HPRC для DJI Mavic для кейса HPRC2400 (KTMAV2400-01)</name>
 	<url>https://store.drone.ua/product/hprc_ktmav2400-01/</url>
-	<price>2190</price>
+	<price>2470</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTMAV2400-01___01.jpg</picture>
@@ -7795,7 +7795,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="KTM210-4600W-04" available="">
 	<name>Ложемент HPRC для DJI Matrice 200/210 для кейса HPRC4600W (KTM210-4600W-04)</name>
 	<url>https://store.drone.ua/product/hprc_ktm210-4600w-04/</url>
-	<price>13260</price>
+	<price>14970</price>
 	<categoryId>2</categoryId>
 	<vendor>HPRC</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/HPRC/KTM210-4600W-04___01.jpg</picture>
@@ -8018,7 +8018,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000101" available="">
 	<name>Квадрокоптер DJI Mavic Mini (ST.MM.00000101)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini/</url>
-	<price>13970</price>
+	<price>12570</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</picture>
@@ -8059,7 +8059,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000102" available="">
 	<name>Квадрокоптер DJI Mavic Mini Fly More Combo (ST.MM.00000102)</name>
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/</url>
-	<price>17470</price>
+	<price>15720</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</picture>
