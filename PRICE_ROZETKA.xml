@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2021-01-26 14:21">	
+<yml_catalog date="2021-02-01 13:27">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -714,7 +714,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.MA.00000014.01">
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>40570</price>
+	<price>43720</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
@@ -752,12 +752,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>37730</price_opt>
+	<price_opt>40660</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.MA.00000013.01">
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>48970</price>
+	<price>50720</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
@@ -792,7 +792,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Бесплатная доставка. Безналичная оплата для юр. лиц, предприятий, физ. лиц.</param>
 	<state></state>
-	<price_opt>45542</price_opt>
+	<price_opt>47170</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.PT.00000242.01">
