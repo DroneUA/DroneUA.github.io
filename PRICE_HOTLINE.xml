@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2021-01-26 16:00</date>	
+<date>2021-02-09 17:29</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -250,8 +250,8 @@
 	<description>Дрон с камерой Hasselblad с возможностью настройки диафрагмы и скоростью полета до 72 км/ч.</description>
 	<url>https://store.drone.ua/product/mavic-2-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000013.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Pro.jpg</image>
-	<priceRUAH>48970</priceRUAH>
-	<stock days="">Под заказ</stock>
+	<priceRUAH>50720</priceRUAH>
+	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -266,7 +266,7 @@
 	<description>Дрон с 3-х осевой стабилизацией, широкоугольным обьективом, и фокусным расстоянием, эквивалентным 35 мм.</description>
 	<url>https://store.drone.ua/product/mavic-2-zoom/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000014.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Zoom.jpg</image>
-	<priceRUAH>40570</priceRUAH>
+	<priceRUAH>43720</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
