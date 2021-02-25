@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2021-02-09 17:11">	
+<yml_catalog date="2021-02-25 13:43">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -386,7 +386,7 @@
 	<item id="ST.CI.00002">
 	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
 	<url>https://store.drone.ua/product/gladius-mini/</url>
-	<price>56660</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</image>
@@ -688,7 +688,7 @@
 	<item id="DJIMG1SHUB">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<url>https://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
-	<price>50360</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</image>
@@ -697,7 +697,7 @@
 	<item id="DJIMG1CH">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<url>https://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
-	<price>45360</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</image>
@@ -706,7 +706,7 @@
 	<item id="DJIAGR1P">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
-	<price>461960</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</image>
@@ -715,7 +715,7 @@
 	<item id="CP.TP.00000008.01">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<url>https://store.drone.ua/product/agras-mg-1s/</url>
-	<price>329160</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_1.jpg</image>
@@ -877,7 +877,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003068">
 	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
-	<price>9550</price>
+	<price>0</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</image>
@@ -2281,7 +2281,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001805.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 Enterprise (CP.QT.00001805.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-enterprise/</url>
-	<price>13400</price>
+	<price>15310</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</image>
@@ -2290,7 +2290,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001913.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 DUAL (CP.QT.00001913.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-dual/</url>
-	<price>12140</price>
+	<price>13870</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</image>
@@ -2299,7 +2299,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001801.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Phantom 4 RTK (CP.QT.00001801.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
-	<price>26420</price>
+	<price>30190</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</image>
@@ -2308,7 +2308,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002059.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 200 v2 (CP.QT.00002059.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
-	<price>49100</price>
+	<price>56110</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</image>
@@ -2317,7 +2317,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002053.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 v2 (CP.QT.00002053.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
-	<price>60860</price>
+	<price>69550</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</image>
@@ -2326,7 +2326,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002065.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 RTK v2 (CP.QT.00002065.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/</url>
-	<price>69260</price>
+	<price>79150</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</image>
@@ -2443,7 +2443,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="DAT16">
 	<name>Мультикоптер DJI Agras T16 (DAT16)</name>
 	<url>https://store.drone.ua/product/agras-t16/</url>
-	<price>419960</price>
+	<price>349970</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_T16_1.png</image>
@@ -2461,7 +2461,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.0000.20.13765">
 	<name>Бак для DJI Agras T16 Tank 20 л (ST.0000.20.13765)</name>
 	<url>https://store.drone.ua/product/t16-tank-20-litters/</url>
-	<price>12180</price>
+	<price>#N/A</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_20_Litters_1.jpg</image>
@@ -2470,7 +2470,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000013765">
 	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST.00000013765)</name>
 	<url>https://store.drone.ua/product/t16-part15-spray-tank-accessories/</url>
-	<price>8500</price>
+	<price>#N/A</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_16_Litters_1.jpg</image>
@@ -2479,7 +2479,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011336.20">
 	<name>Интеллектуальная батарея DJI Agras T20 (ST.000000011336.20)</name>
 	<url>https://store.drone.ua/product/battery-t20/</url>
-	<price>47420</price>
+	<price>39520</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</image>
