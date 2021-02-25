@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2021-02-09 15:56">	
+<price date="2021-02-25 11:57">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -3342,10 +3342,10 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Желтый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.CI.00002" available="true">
+	<item id="ST.CI.00002" available="">
 	<name>Подводный дрон Chasing-Innovation Gladius Mini (ST.CI.00002)</name>
 	<url>https://store.drone.ua/product/gladius-mini/</url>
-	<price>56660</price>
+	<price>47220</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_1.jpg</picture>
@@ -3371,7 +3371,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="ST.CI.00102" available="">
 	<name>Рюкзак Chasing-Innovation для Gladius Mini (ST.CI.00102)</name>
 	<url>https://store.drone.ua/product/rjukzak-dlja-podvodnogo-drona-gladius-mini/</url>
-	<price>8720</price>
+	<price>4170</price>
 	<categoryId>2</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_Mini_Bag_1.jpg</picture>
@@ -4549,7 +4549,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="DJIMG1SHUB" available="true">
+	<item id="DJIMG1SHUB" available="">
 	<name>Зарядная станция DJI для Agras 1S/1P на 6 подключений (DJIMG1SHUB)</name>
 	<url>https://store.drone.ua/product/battery-charger-for-1s-1p-6-connctions/</url>
 	<price>50360</price>
@@ -4570,7 +4570,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="DJIMG1CH" available="true">
+	<item id="DJIMG1CH" available="">
 	<name>Зарядная станция DJI для Agras 1S (DJIMG1CH)</name>
 	<url>https://store.drone.ua/product/mg-standartnoe-zarjadnoe-ustrojstvo/</url>
 	<price>45360</price>
@@ -4588,7 +4588,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Материал изготовления" unit="">Пластик</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="DJIAGR1P" available="true">
+	<item id="DJIAGR1P" available="">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
 	<price>461960</price>
@@ -4625,7 +4625,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет корпуса" unit="">Белый</param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="CP.TP.00000008.01" available="true">
+	<item id="CP.TP.00000008.01" available="">
 	<name>Дрон DJI Agras MG-1S (CP.TP.00000008.01)</name>
 	<url>https://store.drone.ua/product/agras-mg-1s/</url>
 	<price>329160</price>
@@ -4959,7 +4959,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Материал изготовления" unit=""></param>
 	<param name="Состояние" unit="">Новое</param>
 	</item>
-	<item id="ST.00000003068" available="true">
+	<item id="ST.00000003068" available="">
 	<name>Аккумулятор DJI TB50 для Inspire 2 / Ronin2 / Matrice 200 4280 mAh (ST.00000003068)</name>
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
 	<price>9550</price>
@@ -8100,7 +8100,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011597" available="">
 	<name>Подводный дрон Chasing Dory (ST.000000011597)</name>
 	<url>https://store.drone.ua/product/chasing-dory/</url>
-	<price>23060</price>
+	<price>19220</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_1.jpg</picture>
@@ -8525,7 +8525,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001805.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 Enterprise (CP.QT.00001805.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-enterprise/</url>
-	<price>13400</price>
+	<price>15310</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</picture>
@@ -8542,7 +8542,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001913.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 DUAL (CP.QT.00001913.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-dual/</url>
-	<price>12140</price>
+	<price>13870</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</picture>
@@ -8559,7 +8559,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001801.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Phantom 4 RTK (CP.QT.00001801.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
-	<price>26420</price>
+	<price>30190</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</picture>
@@ -8576,7 +8576,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002059.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 200 v2 (CP.QT.00002059.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
-	<price>49100</price>
+	<price>56110</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</picture>
@@ -8593,7 +8593,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002053.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 v2 (CP.QT.00002053.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
-	<price>60860</price>
+	<price>69550</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</picture>
@@ -8610,7 +8610,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002065.01" available="true">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 RTK v2 (CP.QT.00002065.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/</url>
-	<price>69260</price>
+	<price>79150</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</picture>
@@ -8627,7 +8627,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004002" available="">
 	<name>Подводный дрон Chasing M2 (ST.00000004002)</name>
 	<url>https://store.drone.ua/product/chasing-m2/</url>
-	<price>134360</price>
+	<price>111970</price>
 	<categoryId>1</categoryId>
 	<vendor>Chasing-Innovation</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_1.jpg</picture>
@@ -9420,7 +9420,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002712.01" available="">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic P4 Multispectral (CP.QT.00002712.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-p4-multispectral/</url>
-	<price>30330</price>
+	<price>34670</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</picture>
