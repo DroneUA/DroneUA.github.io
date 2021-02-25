@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2021-02-09 17:41</date>	
+<date>2021-02-25 14:40</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -506,8 +506,8 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_8.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_9.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_10.png</image>
-	<priceRUAH>56660</priceRUAH>
-	<stock>true</stock>
+	<priceRUAH>47220</priceRUAH>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -524,7 +524,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_1.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_2.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_Gladius_Mini_Bag_3.jpg</image>
-	<priceRUAH>8720</priceRUAH>
+	<priceRUAH>4170</priceRUAH>
 	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -966,7 +966,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1P_6_Connect_1.jpg</image>
 	<priceRUAH>50360</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -983,7 +983,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_1.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_Charger_1S_2.jpg</image>
 	<priceRUAH>45360</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1004,7 +1004,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_6.jpg</image>
 	<priceRUAH>461960</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1022,7 +1022,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1S_3.jpg</image>
 	<priceRUAH>329160</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1042,7 +1042,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_4.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_5.jpg</image>
 	<priceRUAH>9550</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3747,7 +3747,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_7.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_8.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/Dory_9.jpg</image>
-	<priceRUAH>23060</priceRUAH>
+	<priceRUAH>19220</priceRUAH>
 	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -3923,7 +3923,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</image>
-	<priceRUAH>13400</priceRUAH>
+	<priceRUAH>15310</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -3939,7 +3939,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</image>
-	<priceRUAH>12140</priceRUAH>
+	<priceRUAH>13870</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -3955,7 +3955,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</image>
-	<priceRUAH>26420</priceRUAH>
+	<priceRUAH>30190</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -3971,7 +3971,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</image>
-	<priceRUAH>49100</priceRUAH>
+	<priceRUAH>56110</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -3987,7 +3987,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</image>
-	<priceRUAH>60860</priceRUAH>
+	<priceRUAH>69550</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4003,7 +4003,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</image>
-	<priceRUAH>69260</priceRUAH>
+	<priceRUAH>79150</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4027,7 +4027,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_7.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_8.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/chasing_m2_Unwater_drone_9.jpg</image>
-	<priceRUAH>134360</priceRUAH>
+	<priceRUAH>111970</priceRUAH>
 	<stock>false</stock>
 	<guarantee type="shop">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4332,7 +4332,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Enterprise Shield был специально создан для обеспечения комплексной защиты продуктов DJI Enterprise. Варианты покрытия с неограниченным количеством замен или бесплатными услугами по ремонту в случае случайного повреждения, такого как авария, повреждение водой или помехи сигнала. Эта эффективная и комплексная служба защиты от несчастных случаев обеспечивает больше спокойствия для всего Вашего флота DJI.</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</image>
-	<priceRUAH>30330</priceRUAH>
+	<priceRUAH>34670</priceRUAH>
 	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4412,7 +4412,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>419960</priceRUAH>
+	<priceRUAH>349970</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4444,7 +4444,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>12180</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4460,7 +4460,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>8500</priceRUAH>
+	<priceRUAH>#N/A</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4476,7 +4476,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>47420</priceRUAH>
+	<priceRUAH>39520</priceRUAH>
 	<stock>true</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4492,7 +4492,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>161620</priceRUAH>
+	<priceRUAH>134680</priceRUAH>
 	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4524,7 +4524,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>46160</priceRUAH>
+	<priceRUAH>38470</priceRUAH>
 	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
@@ -4540,7 +4540,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>207770</priceRUAH>
+	<priceRUAH>173150</priceRUAH>
 	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
