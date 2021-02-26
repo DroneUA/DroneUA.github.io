@@ -3578,7 +3578,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>3227</price_opt>
 	</offer>
-	<offer available="false" id="
+	<offer available="true" id="
 	CP.PT.000601">
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
 	<price>6620</price>
