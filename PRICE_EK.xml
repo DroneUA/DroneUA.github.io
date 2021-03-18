@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2021-02-25 13:43">	
+<yml_catalog date="2021-03-17 17:55">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -152,7 +152,7 @@
 	<item id="CP.MA.00000013.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>50720</price>
+	<price>45470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Pro.jpg</image>
@@ -161,7 +161,7 @@
 	<item id="CP.MA.00000014.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>43720</price>
+	<price>42320</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Zoom.jpg</image>
@@ -2461,7 +2461,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.0000.20.13765">
 	<name>Бак для DJI Agras T16 Tank 20 л (ST.0000.20.13765)</name>
 	<url>https://store.drone.ua/product/t16-tank-20-litters/</url>
-	<price>#N/A</price>
+	<price>12180</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_20_Litters_1.jpg</image>
@@ -2470,7 +2470,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000013765">
 	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST.00000013765)</name>
 	<url>https://store.drone.ua/product/t16-part15-spray-tank-accessories/</url>
-	<price>#N/A</price>
+	<price>8500</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_16_Litters_1.jpg</image>
