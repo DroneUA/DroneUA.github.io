@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2021-02-25 14:21</date>	
+<date>2021-03-17 18:40</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -250,7 +250,7 @@
 	<description>Дрон с камерой Hasselblad с возможностью настройки диафрагмы и скоростью полета до 72 км/ч.</description>
 	<url>https://store.drone.ua/product/mavic-2-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000013.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Pro.jpg</image>
-	<priceRUAH>50720</priceRUAH>
+	<priceRUAH>45470</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -266,7 +266,7 @@
 	<description>Дрон с 3-х осевой стабилизацией, широкоугольным обьективом, и фокусным расстоянием, эквивалентным 35 мм.</description>
 	<url>https://store.drone.ua/product/mavic-2-zoom/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.MA.00000014.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_2_Zoom.jpg</image>
-	<priceRUAH>43720</priceRUAH>
+	<priceRUAH>42320</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4330,7 +4330,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Бак 20 л для для дрона DJI T16.</description>
 	<url>https://store.drone.ua/product/t16-tank-20-litters/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.0000.20.13765/</url>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_20_Litters_1.jpg</image>
-	<priceRUAH>#N/A</priceRUAH>
+	<priceRUAH>12180</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4346,7 +4346,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Бак 16 л для для дрона DJI T16.</description>
 	<url>https://store.drone.ua/product/t16-part15-spray-tank-accessories/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000013765/</url>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_16_Litters_1.jpg</image>
-	<priceRUAH>#N/A</priceRUAH>
+	<priceRUAH>8500</priceRUAH>
 	<stock>В наличии</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
