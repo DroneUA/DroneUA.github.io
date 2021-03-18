@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2021-02-25 11:57">	
+<price date="2021-03-17 15:52">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -794,7 +794,7 @@
 	<item id="CP.MA.00000013.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>50720</price>
+	<price>45470</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Pro_1.jpg</picture>
@@ -820,7 +820,7 @@
 	<item id="CP.MA.00000014.01" available="true">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>43720</price>
+	<price>42320</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
