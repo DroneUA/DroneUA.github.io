@@ -878,7 +878,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>52703</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
 	<price>67170</price>
