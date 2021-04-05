@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2021-04-02 13:12">	
+<yml_catalog date="2021-04-02 22:35">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -25,7 +25,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000132.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-black/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Black_REF_1.jpg</picture>
@@ -111,7 +111,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000141.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-white/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_White_REF_1.jpg</picture>
@@ -197,7 +197,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000148.01">
 	<url>https://store.drone.ua/product/mavic-air-ref-red/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Red_REF_1.jpg</picture>
@@ -283,7 +283,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000159.01">
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo-ref-black/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Black_1.jpg</picture>
@@ -369,7 +369,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000168.01">
 	<url>https://store.drone.ua/product/mavic-air-fly-more-combo/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_White_1.jpg</picture>
@@ -455,7 +455,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000169.01.CP.PT.00000168.01">
 	<url>https://store.drone.ua/product/kvadrokopter-dji-mavic-air-fly-more-combo-ref-red/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Air_Fly_More_Combo_REF_Red_1.jpg</picture>
@@ -541,7 +541,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000075.01">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-ref/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_REF_1.jpg</picture>
@@ -599,7 +599,7 @@
 	<offer available="false" id="
 	ST.CP.PT.00000065.01">
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo-ref/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Mavic_Pro_Platinum_Fly_More_Combo_REF_1.jpg</picture>
@@ -657,7 +657,7 @@
 	<offer available="false" id="
 	ST.CP.ZM.00000104.01">
 	<url>https://store.drone.ua/product/ronin-s-ref/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/02/RZ_DJI_Ronin_S_REF_1.jpg</picture>
@@ -797,7 +797,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000242.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0-2/</url>
-	<price>56670</price>
+	<price>59470</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1.jpg</picture>
@@ -876,12 +876,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>52703</price_opt>
+	<price_opt>55307</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>67170</price>
+	<price>69970</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -960,7 +960,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>62468</price_opt>
+	<price_opt>65072</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.00000210.01">
@@ -4325,7 +4325,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	ST.CI.00001">
 	<url>https://store.drone.ua/product/podvodnyj-dron-gladius/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Market_Gladius_1.jpg</picture>
@@ -6213,7 +6213,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	ST.00000003068">
 	<url>https://store.drone.ua/product/inspire-2-tb50-batareja-na-4280mah/</url>
-	<price>9550</price>
+	<price>6570</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Ronin_2_TB50_Intelligent_Flight_Battery_1.png</picture>
@@ -6245,7 +6245,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>8882</price_opt>
+	<price_opt>6110</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.00000007806">
@@ -11156,7 +11156,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.QT.00001805.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-enterprise/</url>
-	<price>15310</price>
+	<price>10530</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</picture>
@@ -11182,12 +11182,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>14238</price_opt>
+	<price_opt>9793</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.QT.00001913.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-dual/</url>
-	<price>13870</price>
+	<price>9540</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</picture>
@@ -11213,12 +11213,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>12899</price_opt>
+	<price_opt>8872</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.QT.00001801.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
-	<price>30190</price>
+	<price>20760</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</picture>
@@ -11244,12 +11244,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>28077</price_opt>
+	<price_opt>19307</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.QT.00002059.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
-	<price>56110</price>
+	<price>38580</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</picture>
@@ -11275,12 +11275,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>52182</price_opt>
+	<price_opt>35879</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.QT.00002053.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
-	<price>69550</price>
+	<price>47820</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</picture>
@@ -11306,12 +11306,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>64682</price_opt>
+	<price_opt>44473</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.QT.00002065.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/</url>
-	<price>79150</price>
+	<price>54420</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</picture>
@@ -11337,12 +11337,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>73610</price_opt>
+	<price_opt>50611</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.QT.00002712.01">
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-p4-multispectral/</url>
-	<price>34670</price>
+	<price>23830</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_P4_Multispectral.jpg</picture>
@@ -11368,12 +11368,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>32243</price_opt>
+	<price_opt>22162</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.M3.00000007">
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/</url>
-	<price>5520</price>
+	<price>3800</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_1.jpg</picture>
@@ -11395,12 +11395,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>5134</price_opt>
+	<price_opt>3534</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.M3.00000004">
 	<url>https://store.drone.ua/product/dji-smart-controller-enterprise/</url>
-	<price>55200</price>
+	<price>37950</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M300_Smart_Controller_Enterprise_1.png</picture>
@@ -11461,12 +11461,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>51336</price_opt>
+	<price_opt>35294</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.M3.00000003">
 	<url>https://store.drone.ua/product/dji-bs60-intelligent-battery-station/</url>
-	<price>50880</price>
+	<price>34980</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M300_Battery_Station_BS60_1.jpg</picture>
@@ -11515,12 +11515,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>47318</price_opt>
+	<price_opt>32531</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.M3.00000002">
 	<url>https://store.drone.ua/product/tb60-intelligent-flight-battery/</url>
-	<price>34560</price>
+	<price>23760</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_1.jpg</picture>
@@ -11584,7 +11584,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>32141</price_opt>
+	<price_opt>22097</price_opt>
 	</offer>
 	<offer available="true" id="
 	DAT16">
@@ -12178,7 +12178,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.AG.00000207.01">
 	<url>https://store.drone.ua/product/p4-multispectral/</url>
-	<price>287950</price>
+	<price>197970</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</picture>
@@ -12370,12 +12370,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>267794</price_opt>
+	<price_opt>184112</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.AG.00000207.01B">
 	<url>https://store.drone.ua/product/p4-multispectral-d-rtk-2-high-precision-gnss-mobile-station-combo/</url>
-	<price>427150</price>
+	<price>293670</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</picture>
@@ -12567,12 +12567,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>397250</price_opt>
+	<price_opt>273113</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000161.01">
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
-	<price>163150</price>
+	<price>112170</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_3.jpg</picture>
@@ -12698,12 +12698,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>151730</price_opt>
+	<price_opt>104318</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000108.01">
 	<url>https://store.drone.ua/product/mavic-2-enterprise-dual/</url>
-	<price>139150</price>
+	<price>95670</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_2.jpg</picture>
@@ -12828,12 +12828,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>129410</price_opt>
+	<price_opt>88973</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000152.01">
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
-	<price>134350</price>
+	<price>92370</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Mavic2_Ent_Zoom_1.jpg</picture>
@@ -12957,12 +12957,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>124946</price_opt>
+	<price_opt>85904</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000038.01">
 	<url>https://store.drone.ua/product/mavic-2-enterprise/</url>
-	<price>110350</price>
+	<price>75870</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</picture>
@@ -13085,12 +13085,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>102626</price_opt>
+	<price_opt>70559</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000074.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part1_fly_more_kit/</url>
-	<price>21070</price>
+	<price>14490</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Fly_More_Kit_1.jpg</picture>
@@ -13119,12 +13119,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>19595</price_opt>
+	<price_opt>13476</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000069.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part2_battery/</url>
-	<price>8590</price>
+	<price>5910</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_battery_1.jpg</picture>
@@ -13157,12 +13157,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>7989</price_opt>
+	<price_opt>5496</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.EN.00000076.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part4_spotlight/</url>
-	<price>6000</price>
+	<price>4130</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Spotlight_1.jpg</picture>
@@ -13191,12 +13191,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>5580</price_opt>
+	<price_opt>3841</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.EN.00000124.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part6_protector_case/</url>
-	<price>5710</price>
+	<price>3930</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Protector_Case_1.jpg</picture>
@@ -13216,12 +13216,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>5310</price_opt>
+	<price_opt>3655</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.TP.00000230.01.02">
 	<url>https://store.drone.ua/product/phantom-4-rtk-d-rtk-2-mobile-station-combo/</url>
-	<price>273000</price>
+	<price>257400</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_1.png</picture>
@@ -13593,12 +13593,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>253890</price_opt>
+	<price_opt>239382</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.TP.00000230.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk/</url>
-	<price>199500</price>
+	<price>188100</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_3.png</picture><picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_2.png</picture>
@@ -13966,12 +13966,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>185535</price_opt>
+	<price_opt>174933</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.AG.00000146.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
-	<price>189000</price>
+	<price>178200</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_3.png</picture><picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_2.png</picture>
@@ -14373,12 +14373,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>175770</price_opt>
+	<price_opt>165726</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.TP.00000230.01.01">
 	<url>https://store.drone.ua/product/d-rtk-2/</url>
-	<price>172800</price>
+	<price>118800</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</picture>
@@ -14527,12 +14527,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>160704</price_opt>
+	<price_opt>110484</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.AG.00000103.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk-remote-controller/</url>
-	<price>24500</price>
+	<price>23100</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_Remote_Controller_1.jpg</picture>
@@ -14584,12 +14584,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>22785</price_opt>
+	<price_opt>21483</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.AG.00000002.01">
 	<url>https://store.drone.ua/product/d-rtk-2-base-station-tripod/</url>
-	<price>8160</price>
+	<price>5610</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_Tripod_1.jpg</picture>
@@ -14609,12 +14609,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>7589</price_opt>
+	<price_opt>5217</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000046.01">
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-200-v2-combo/</url>
-	<price>309600</price>
+	<price>212850</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</picture>
@@ -15070,12 +15070,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>287928</price_opt>
+	<price_opt>197951</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.EN.00000054.01">
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/</url>
-	<price>408000</price>
+	<price>280500</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</picture>
@@ -15540,12 +15540,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>379440</price_opt>
+	<price_opt>260865</price_opt>
 	</offer>
 	<offer available="true" id="
 	4477">
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-rtk-v2-combo/</url>
-	<price>576000</price>
+	<price>475200</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</picture>
@@ -15837,7 +15837,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>535680</price_opt>
+	<price_opt>441936</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.000343">
@@ -15903,7 +15903,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	CP.SB.000307">
 	<url>https://store.drone.ua/product/matrice-600-pro/</url>
-	<price>273550</price>
+	<price>188070</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_1.jpg</picture>
@@ -16165,12 +16165,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>254402</price_opt>
+	<price_opt>174905</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.SB.000287.6">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery-6pcs/</url>
-	<price>55150</price>
+	<price>37920</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_6PCS_1.jpg</picture>
@@ -16208,12 +16208,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>51290</price_opt>
+	<price_opt>35266</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.SB.000297">
 	<url>https://store.drone.ua/product/dji-hex-charger/</url>
-	<price>16750</price>
+	<price>11520</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/DJI_Hex_Charger_1.jpg</picture>
@@ -16255,12 +16255,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Назначение">Для квадрокоптеров</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>15578</price_opt>
+	<price_opt>10714</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.SB.000287">
 	<url>https://store.drone.ua/product/matrice-600-tb47s-intelligent-flight-battery/</url>
-	<price>9550</price>
+	<price>6570</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Series_TB47S_Intelligent_Flight_Battery_1.jpg</picture>
@@ -16298,7 +16298,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>8882</price_opt>
+	<price_opt>6110</price_opt>
 	</offer>
 	<offer available="false" id="
 	14578">
@@ -16637,7 +16637,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="false" id="
 	13438">
 	<url>https://store.drone.ua/product/chasing-m2-robotic-arm/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>5</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/M2_Robotic_Arm_1.jpg</picture>
@@ -17511,7 +17511,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	ST.BD.00000004">
 	<url>https://store.drone.ua/product/bd-spot-enterprise/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2021-03/2021_ST.BD.00000004_01.png</picture>
@@ -17572,12 +17572,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>0</price_opt>
+	<price_opt>929999</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.BD.00000005">
 	<url>https://store.drone.ua/product/bd-spot-academic/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2021-03/2021_ST.BD.00000005_01.png</picture>
@@ -17638,7 +17638,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>0</price_opt>
+	<price_opt>929999</price_opt>
 	</offer>
 	<offer available="true" id="
 	ST.BD.00000006">
@@ -18392,7 +18392,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<offer available="true" id="
 	17841">
 	<url>https://store.drone.ua/product/xag-p40/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2021-03/2021_17841_01.png</picture>
@@ -18447,12 +18447,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>0</price_opt>
+	<price_opt>929999</price_opt>
 	</offer>
 	<offer available="true" id="
 	17842">
 	<url>https://store.drone.ua/product/xag-p80/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2021-03/2021_17842_01.png</picture>
@@ -18490,12 +18490,12 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>0</price_opt>
+	<price_opt>929999</price_opt>
 	</offer>
 	<offer available="true" id="
 	17843">
 	<url>https://store.drone.ua/product/xag-v40/</url>
-	<price>999994</price>
+	<price>999999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/2021-03/2021_17843_01.png</picture>
@@ -18532,7 +18532,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Аппаратура управления"></param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>0</price_opt>
+	<price_opt>929999</price_opt>
 	</offer>
 	<offer available="true" id="
 	09-008-00007">
