@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2021-04-05 09:42</date>	
+<date>2021-05-19 13:48</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -949,7 +949,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Интеллектуальная батарея DJI MG-12000P подходит для моделей дронов DJI Agras MG-1P и DJI MG-1S. Емкость: 12 000 мА*ч</description>
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</image>
-	<priceRUAH>33560</priceRUAH>
+	<priceRUAH>27970</priceRUAH>
 	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1003,7 +1003,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_6.jpg</image>
-	<priceRUAH>461960</priceRUAH>
+	<priceRUAH>384970</priceRUAH>
 	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4508,7 +4508,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url></url>
 	
-	<priceRUAH>0</priceRUAH>
+	<priceRUAH>15720</priceRUAH>
 	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
