@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<price date="2021-04-02 20:12">	
+<price date="2021-05-19 12:16">	
 <name>Drone.UA</name>	
 <currency code="UAH">1</currency>	
 <url>http://store.drone.ua/</url>	
@@ -4534,7 +4534,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="AGRASMG1PKIT" available="">
 	<name>Интеллектуальная батарея DJI MG-12000P для Agras MG-1P / MG-1S (AGRASMG1PKIT)</name>
 	<url>https://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/</url>
-	<price>33560</price>
+	<price>27970</price>
 	<categoryId>2</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</picture>
@@ -4591,7 +4591,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<item id="DJIAGR1P" available="">
 	<name>Дрон DJI Agras MG-1P (DJIAGR1P)</name>
 	<url>https://store.drone.ua/product/agras-mg-1p/</url>
-	<price>461960</price>
+	<price>384970</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<picture>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</picture>
