@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2021-04-03 18:15</date>	
+<date>2021-05-19 13:38</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -1183,7 +1183,7 @@
 	<description>Интеллектуальная батарея DJI MG-12000P подходит для моделей дронов DJI Agras MG-1P и DJI MG-1S. Емкость: 12 000 мА*ч</description>
 	<url>https://store.drone.ua/product/dji-agras-mg-1p-mg-1s-battery/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=AGRASMG1PKIT/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MG-12000P.jpg</image>
-	<priceRUAH>33560</priceRUAH>
+	<priceRUAH>27970</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1231,7 +1231,7 @@
 	<description>Этот дрон-опрыскиватель предназначен для внесения средств защиты на полях со сложным рельефом или большим количеством препятствий. Дроны данной серии способны объединяться в стаи для быстрой работы на полях.</description>
 	<url>https://store.drone.ua/product/agras-mg-1p/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=DJIAGR1P/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_MG-1P_1.jpg</image>
-	<priceRUAH>461960</priceRUAH>
+	<priceRUAH>384970</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4395,7 +4395,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/chasing-m2-robotic-arm/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=13438/</url>
 	<image>https://droneua.github.io/IMG_ROZ/M2_Robotic_Arm_1.jpg
 </image>
-	<priceRUAH>0</priceRUAH>
+	<priceRUAH>15720</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
