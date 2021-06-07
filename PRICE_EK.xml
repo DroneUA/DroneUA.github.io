@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
-<yml_catalog date="2021-05-19 13:19">	
+<yml_catalog date="2021-06-07 14:12">	
 <shop>	
 <name>Drone.UA</name>	
 <url>http://store.drone.ua/</url>	
@@ -1147,7 +1147,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000048.01">
 	<name>Квадрокоптер DJI Matrice 200 V2 Combo (CP.EN.00000048.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-200-v2-combo/</url>
-	<price>212850</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</image>
@@ -1156,7 +1156,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000054.01">
 	<name>Квадрокоптер DJI Matrice 210 V2 Combo (CP.EN.00000054.01)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/</url>
-	<price>280500</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</image>
@@ -1165,7 +1165,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000062">
 	<name>Квадрокоптер DJI Matrice 210 RTK V2 Combo (CP.EN.00000062)</name>
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-rtk-v2-combo/</url>
-	<price>475200</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</image>
@@ -1192,7 +1192,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.SB.000307">
 	<name>Гексакоптер DJI Matrice 600 Pro (CP.SB.000307)</name>
 	<url>https://store.drone.ua/product/matrice-600-pro/</url>
-	<price>188070</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_1.jpg</image>
@@ -2191,7 +2191,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001168.01">
 	<name>Пакет обслуживания DJI Care Refresh Mavic 2 (CP.QT.00001168.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-2/</url>
-	<price>5600</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic2.png</image>
@@ -2200,7 +2200,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.SS000026.01">
 	<name>Пакет обслуживания DJI Care Refresh Mavic Air (CP.QT.SS000026.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-air/</url>
-	<price>3990</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Air.png</image>
@@ -2209,7 +2209,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.000738">
 	<name>Пакет обслуживания DJI Care Refresh Mavic Pro (CP.QT.000738)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro/</url>
-	<price>4800</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro.jpg</image>
@@ -2218,7 +2218,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00000263.01">
 	<name>Пакет обслуживания DJI Care Refresh Mavic Pro Platinum (CP.QT.00000263.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro-platinum/</url>
-	<price>5990</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro_Platinum.png</image>
@@ -2227,7 +2227,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.000846">
 	<name>Пакет обслуживания DJI Care Refresh Inspire 2 (CP.QT.000846)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-inspire-2/</url>
-	<price>13650</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Inspire2.png</image>
@@ -2236,7 +2236,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.SS000009.01">
 	<name>Пакет обслуживания DJI Care Refresh Zenmuse X7 (CP.QT.SS000009.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-zenmuse-x7/</url>
-	<price>20900</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Zenmuse_X7.png</image>
@@ -2245,7 +2245,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002210.01">
 	<name>Пакет обслуживания DJI Care Refresh OSMO Action (CP.QT.00002210.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-action/</url>
-	<price>1580</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Action.jpg</image>
@@ -2254,7 +2254,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002444.01">
 	<name>Пакет обслуживания DJI Care Refresh OSMO Pocket (CP.QT.00002444.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-pocket/</url>
-	<price>1580</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Pocket.png</image>
@@ -2263,7 +2263,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.000823">
 	<name>Пакет обслуживания DJI Care Refresh Phantom 4 Pro/Pro+ (CP.QT.000823)</name>
 	<url>https://store.drone.ua/product/dji-care-phantom-4/</url>
-	<price>6790</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Phantom4_Pro.jpg</image>
@@ -2272,7 +2272,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.MM.00000123">
 	<name>Пакет обслуживания DJI Care Refresh Mavic Mini (ST.MM.00000123)</name>
 	<url>https://store.drone.ua/product/dji-care-refresh-mavic-mini/</url>
-	<price>1580</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Mini.jpg</image>
@@ -2281,7 +2281,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001805.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 Enterprise (CP.QT.00001805.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-enterprise/</url>
-	<price>10530</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</image>
@@ -2290,7 +2290,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001913.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Mavic 2 DUAL (CP.QT.00001913.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-dual/</url>
-	<price>9540</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</image>
@@ -2299,7 +2299,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00001801.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Phantom 4 RTK (CP.QT.00001801.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/</url>
-	<price>20760</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</image>
@@ -2308,7 +2308,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002059.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 200 v2 (CP.QT.00002059.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/</url>
-	<price>38580</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</image>
@@ -2317,7 +2317,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002053.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 v2 (CP.QT.00002053.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/</url>
-	<price>47820</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</image>
@@ -2326,7 +2326,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.QT.00002065.01">
 	<name>Пакет обслуживания DJI Enterprise Shield Basic Matrice 210 RTK v2 (CP.QT.00002065.01)</name>
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/</url>
-	<price>54420</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</image>
