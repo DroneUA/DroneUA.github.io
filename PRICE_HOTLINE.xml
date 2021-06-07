@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2021-05-19 13:38</date>	
+<date>2021-06-07 15:00</date>	
 <firmName>Drone.ua</firmName>	
 <firmId>28303</firmId>	
 <categories>	
@@ -122,7 +122,7 @@
 	<description>Съемка в 4K с интеллектуальным режимом, система распознавания жестов, максимальная скорость - 65 км/ч, ёмкость аккумуляторов позволяет использовать дрон до 30 минут в воздухе.</description>
 	<url>https://store.drone.ua/product/mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000075.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum.jpg</image>
-	<priceRUAH>34970</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -138,7 +138,7 @@
 	<description>DJI Mavic Pro Platinum - это лучший в мире компактный складывающийся дрон от DJI. Теперь в обновленной версии + аксессуары!</description>
 	<url>https://store.drone.ua/product/mavic-pro-platinum-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000065.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Mavic_Pro_Platinum_Fly_More_Combo.jpg</image>
-	<priceRUAH>45470</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -170,7 +170,7 @@
 	<description>Монопод-стабилизатор второго поколения для смартфонов, с клавишами управления. Емкость аккумулятора позволит использовать до 15 часов.</description>
 	<url>https://store.drone.ua/product/osmo-mobile-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=mobile/monopody-dlya-selfi-selfie-stickutm_content=CP.ZM.00000064.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Osmo_Mobile_2.jpg</image>
-	<priceRUAH>5220</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -234,7 +234,7 @@
 	<description>Комбо набор дополнительно включает в себя пульт управления, защиту пропеллеров, дополнительный аккумулятор, хаб и сумку-переноску.</description>
 	<url>https://store.drone.ua/product/spark-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000889/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/02/HOTLINE_DJI_Spark_Fly_More_Combo.jpg</image>
-	<priceRUAH>22720</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -474,7 +474,7 @@
 	<description>Самый компактный умный дрон с применением технологий DJI, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 	<url>https://store.drone.ua/product/tello/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.00000210.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</image>
-	<priceRUAH>3820</priceRUAH>
+	<priceRUAH>3999</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -490,7 +490,7 @@
 	<description>Самый компактный умный дрон с применением технологий DJI, 13 минут полетного времени, онлайн трансляция в разрешении 720p, датчики обнаружения препятствий и визуального позиционирования.</description>
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.TL.00000015.01/</url>
 	<image>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</image>
-	<priceRUAH>5080</priceRUAH>
+	<priceRUAH>5299</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -698,7 +698,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	<url>https://store.drone.ua/product/spark/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000741/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Alpine_White_1.jpg</image>
-	<priceRUAH>17470</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -714,7 +714,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	<url>https://store.drone.ua/product/spark-golyboi/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000743/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Sky_Blue_1.jpg</image>
-	<priceRUAH>17470</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -730,7 +730,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	<url>https://store.drone.ua/product/spark-zelenyj-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000744/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Meadow_Green_1.jpg</image>
-	<priceRUAH>17470</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -746,7 +746,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	<url>https://store.drone.ua/product/spark-krasnyj/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000745/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Lava_Red_1.jpg</image>
-	<priceRUAH>17470</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -762,7 +762,7 @@
 	<description>Квадрокоптер для FullHD видеосъемки</description>
 	<url>https://store.drone.ua/product/spark-zheltyj/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.PT.000742/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Sunrise_Yellow_1.jpg</image>
-	<priceRUAH>17470</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -927,7 +927,7 @@
 	<description>С легким дизайном и превосходной стабилизацией, Ronin-SC Pro Combo представляет собой 3-осевой стабилизатор для беззеркальных камер, позволяющий пользователям с легкостью создавать профессиональные кадры.</description>
 	<url>https://store.drone.ua/product/dji-ronin-sc/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/sistemy-stabilizacii-dlya-foto-i-videokamerutm_content=CP.RN.00000040.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</image>
-	<priceRUAH>12570</priceRUAH>
+	<priceRUAH>11999</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -991,7 +991,7 @@
 	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
 	<url>https://store.drone.ua/product/dji-fpv-experience-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.TR.00000006.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/FPV_Experience_Combo_1.jpg</image>
-	<priceRUAH>30770</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1007,7 +1007,7 @@
 	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
 	<url>https://store.drone.ua/product/dji-fpv-fly-more-combo-mode-1/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.TR.00000006.02/</url>
 	<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</image>
-	<priceRUAH>34970</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1023,7 +1023,7 @@
 	<description>Цифровая система FPV DJI была разработана специально для любителей и профессионалов в сфере дрон-рейсинга. В нее входит воздушный модуль FPV DJI, камера FPV DJI, очки FPV DJI и пульт управления FPV DJI. Все эти компоненты оснащены по последнему слову техники и играют важную роль в развитии системы FPV, передающей видео в HD с низкой задержкой сигнала. Высокая скорость передачи, дисплей с поразительным разрешением HD и, конечно, незабываемые впечатления при полете с видом от первого лица, – все это позволяет по-новому взглянуть на сферу гонок дронов.</description>
 	<url>https://store.drone.ua/product/dji-fpv-fly-more-combo-mode-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.TR.00000006.03/</url>
 	<image>https://droneua.github.io/IMG_ROZ/FPV_Fly_More_Combo_(Mode_1)_1.jpg</image>
-	<priceRUAH>34970</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1055,7 +1055,7 @@
 	<description>Мультиспектральная камера Sequoia+ — это инструмент для сельскохозяйственных полей. Локальное определение проблемы для точечного решения позволяет сократить использование удобрений и пестицидов, повышая урожайность.</description>
 	<url>https://store.drone.ua/product/parrot-sequoia-plus/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=MSPARROTSEQ/</url>
 	<image>https://droneua.github.io/IMG_ROZ/SEQUOIA+_1.jpg</image>
-	<priceRUAH>143070</priceRUAH>
+	<priceRUAH>128640</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1119,7 +1119,7 @@
 	<description>DJI Mavic Remote Controller - пульт дистанционного управления предназначен для управления DJI Mavic и подвесом дрона.</description>
 	<url>https://store.drone.ua/product/kontroller-mavic/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.PT.000649/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Mavic_Pro_Remote_Controller_1.jpg</image>
-	<priceRUAH>12570</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1135,7 +1135,7 @@
 	<description>Пульт дистанционного управления с новой системой передачи Wi-Fi сигнала, способный управлять дроном и подвесом камеры при максимальной дальности передачи до 2 км (в режиме FCC).</description>
 	<url>https://store.drone.ua/product/spark-remote-controller/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.PT.000792/</url>
 	<image>https://droneua.github.io/IMG_ROZ/Spark_Remote_Controller_1.jpg</image>
-	<priceRUAH>5920</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1530,7 +1530,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description> Зарядное устройство может заряжать три батареи. Интеллектуальная система зарядки значительно повышает эффективность Для полной зарядки трех аккумуляторов требуется всего 130 минут. В коробке: Зарядная станция Osmo Action x 1 Батарея Osmo Action x 2 Батарея Osmo Action x 2 Характеристики: Osmo Action Charging Hub: Размер: 55.3 x 47.6 x 25.3 мм Вес: 37.5 г Аккумулятор Osmo Action: Размер: 37.9 x 40.8 x 15.1 мм Вес: 30 г Чехол для батареи Osmo Action: Размер: 18.8 x 49 x 44.6 мм Вес: 10 г Совместимость: Osmo Action </description>
 	<url>https://store.drone.ua/product/dji-osmo-part-6-charging-kit-eu/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=CP.OS.00000030.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Osmo_Action_Charging_Kit_1.jpg</image>
-	<priceRUAH>3120</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1546,7 +1546,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Надежно размещайте Osmo Mobile 3 и другие совместимые продукты практически на любой поверхности. Штатив Osmo Grip Tripod для установки Osmo Mobile 3 и других совместимых продуктов на поверхности, для обеспечения стабильности положения. Комплектация: Osmo Grip Tripod 1 Характеристики: Размеры: Длина: 138 мм Диаметр основания: 32 мм Вес: 72 г Совместимость: Osmo Mobile 3 Osmo Mobile 2 </description>
 	<url>https://store.drone.ua/product/osmo-part1-grip-tripod/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-ekshn-kamerutm_content=ST.000000010931/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Osmo_Grip_Tripod_1.jpg</image>
-	<priceRUAH>1020</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1578,7 +1578,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ. Inspire 2 квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S) Квадрокоптер оснащен дублированной системой батарей с подогревом, сенсорами для облета препятствий и отдельной курсовой FPV-камерой для пилота на двухосевом подвесе с управляемым углом наклона Профессиональное качество съемки Дрон оснащен новейшей системой обработки изображений CineCore 2.0, способной записывать видео качеством 5.2К CinemaDNG, Apple ProRes и других. Система встроена в носу аппарата и совместима с любой подключенной к подвесу камерой (на данный момент X4S или X5S) Распознавание препятствий Система передних и нижних сенсоров позволяет различать препятствия по курсу на расстоянии до 30 м, обеспечивая защищенный полет на скорости до 54 км\ч. Верхние инфракрасные сенсоры сканируют пространство над коптером, различая препятствия на расстоянии до 5 м, что делает безопасным полет в закрытых помещениях. Системы распознавания препятствий активны в обычном полете, режиме возврата домой (RTH), а также в интеллектуальных полетных режимах. Они являются ядром системы DJI FlightAutonomy, обеспечивающей, кроме этого, точное висение и распознавание пригодности территории для посадки Режим Spotlight Pro Этот режим позволяет выполнять сложные съемки даже без участия оператора камеры. Он позволяет сфокусироваться на объекте съемки независимо от направления полета дрона. Если подвес близок к ограничению его хода, коптер поворачивается сам в нужную сторону без влияния на его пилотирование Интеллектуальные режимы полета Владельцу Inspire 2 доступен целый ряд интеллектуальных режимов полета. Среди них Point of Interest, Waypoint, QuickSpin, TapFly, ActiveTrack Умный возврат домой Оптические сенсоры позволяют дрону создавать карту его маршрута в режиме реального времени во время полета. При активации режима возврата домой курсовая камера позволяет распознавать объекты на расстоянии до 200 м, планируя безопасный маршрут возвращения Новейшая система передачи видео Дрон оснащен последней версией системы DJI Lightbridge, позволяющей передавать видеосигнал 1080/720р на расстояние до 7 км, включая изображение с основной и курсовой камер. Возможно переключение между частотами 2.4 и 5.8 Ghz. Технология беспроводной передачи видео позволяет получить сигнал с одного передатчика управления на другой на расстоянии до 100 м без потери качества изображения Доступен также режим Broadcast для прямой видеотрансляции с дрона Расширенные полетные возможности Мощная мотоустановка Inspire 2 позволяет ему развивать максимальную скорость 94 км\ч, набирать и снижать высоту со скоростью соответственно 6 и 9 м\с, разгоняться от 0 до 80 км\ч всего за 5 секунд. Высококачественная система управления делает пилотирование очень предсказуемым и точным. Дрон может летать даже на высотах 2500-5000 м над уровнем моря (используя опциональные воздушные винты). Система питания из двух батарей с подогревом позволяет летать при температурах до 20 град. Цельсия Повышенная надежность DJI уделила большое внимание надежности ее флагманского дрона. Ключевые модули (барометр, IMU, силовая батарея, управляющий сигнал на моторы) дублированы. Новейшая система распознавания препятствий минимизирует риски аварии. Силовая установка тестировалась несколько тысяч часов. Управляющий сигнал на моторы идет через ШИМ-порт (PWM) с резервированием сигналов последовательного порта на случай отказа порта ШИМ Удобное программное обеспечение Inspire 2 управляется с помощью новейшего мощного приложения DJI GO 4, обеспечивающего полный контроль и настройку дрона </description>
 	<url>https://store.drone.ua/product/inspire-2-professional/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.BX.000169/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Professional_1.jpg</image>
-	<priceRUAH>399000</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1594,7 +1594,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Обновление линейки самых доступных профессиональных дронов. На этот раз больше дальность, выше сокрость, лучше качество. 30 минут полета и радиус в 7 км делают этот дрон выбором номер 1 для многих работ. Inspire 2 квадрокоптер для профессиональной кино- и видеосъемки, созданный на базе революционного Inspire 1 с многочисленными улучшениями. Обновленный дрон может снимать видео 5.2К в формате CinemaDNG RAW, Apple ProRes и других, разгоняться с 0 до 80 км/ч за 5 секунд и развивать максимальную скорость 94 км\ч. Скорость снижения также замечательна она может достигать 9 м\с. Дрон может находиться в воздухе до 27 минут (с камерой X4S) Квадрокоптер оснащен дублированной системой батарей с подогревом, сенсорами для облета препятствий и отдельной курсовой FPV-камерой для пилота на двухосевом подвесе с управляемым углом наклона Профессиональное качество съемки Дрон оснащен новейшей системой обработки изображений CineCore 2.0, способной записывать видео качеством 5.2К CinemaDNG, Apple ProRes и других. Система встроена в носу аппарата и совместима с любой подключенной к подвесу камерой (на данный момент X4S или X5S) Распознавание препятствий Система передних и нижних сенсоров позволяет различать препятствия по курсу на расстоянии до 30 м, обеспечивая защищенный полет на скорости до 54 км\ч. Верхние инфракрасные сенсоры сканируют пространство над коптером, различая препятствия на расстоянии до 5 м, что делает безопасным полет в закрытых помещениях. Системы распознавания препятствий активны в обычном полете, режиме возврата домой (RTH), а также в интеллектуальных полетных режимах. Они являются ядром системы DJI FlightAutonomy, обеспечивающей, кроме этого, точное висение и распознавание пригодности территории для посадки Режим Spotlight Pro Этот режим позволяет выполнять сложные съемки даже без участия оператора камеры. Он позволяет сфокусироваться на объекте съемки независимо от направления полета дрона. Если подвес близок к ограничению его хода, коптер поворачивается сам в нужную сторону без влияния на его пилотирование Интеллектуальные режимы полета Владельцу Inspire 2 доступен целый ряд интеллектуальных режимов полета. Среди них Point of Interest, Waypoint, QuickSpin, TapFly, ActiveTrack Умный возврат домой Оптические сенсоры позволяют дрону создавать карту его маршрута в режиме реального времени во время полета. При активации режима возврата домой курсовая камера позволяет распознавать объекты на расстоянии до 200 м, планируя безопасный маршрут возвращения Новейшая система передачи видео Дрон оснащен последней версией системы DJI Lightbridge, позволяющей передавать видеосигнал 1080/720р на расстояние до 7 км, включая изображение с основной и курсовой камер. Возможно переключение между частотами 2.4 и 5.8 Ghz. Технология беспроводной передачи видео позволяет получить сигнал с одного передатчика управления на другой на расстоянии до 100 м без потери качества изображения Доступен также режим Broadcast для прямой видеотрансляции с дрона Расширенные полетные возможности Мощная мотоустановка Inspire 2 позволяет ему развивать максимальную скорость 94 км\ч, набирать и снижать высоту со скоростью соответственно 6 и 9 м\с, разгоняться от 0 до 80 км\ч всего за 5 секунд. Высококачественная система управления делает пилотирование очень предсказуемым и точным. Дрон может летать даже на высотах 2500-5000 м над уровнем моря (используя опциональные воздушные винты). Система питания из двух батарей с подогревом позволяет летать при температурах до 20 град. Цельсия Повышенная надежность DJI уделила большое внимание надежности ее флагманского дрона. Ключевые модули (барометр, IMU, силовая батарея, управляющий сигнал на моторы) дублированы. Новейшая система распознавания препятствий минимизирует риски аварии. Силовая установка тестировалась несколько тысяч часов. Управляющий сигнал на моторы идет через ШИМ-порт (PWM) с резервированием сигналов последовательного порта на случай отказа порта ШИМ Удобное программное обеспечение Inspire 2 управляется с помощью новейшего мощного приложения DJI GO 4, обеспечивающего полный контроль и настройку дрона </description>
 	<url>https://store.drone.ua/product/inspire-2-premium/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.0000004/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Inspire_2_Premium_1.jpg</image>
-	<priceRUAH>498750</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock>Нет</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1610,7 +1610,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 50mm F2.8 LS ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 7 группах (включая 2 асферических элемента) Мин.фокусное расстояние: 0.93 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-50mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004017/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_50mm_F2.8_LS_ASPH_Lens_1.jpg</image>
-	<priceRUAH>58750</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1626,7 +1626,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 35mm F2.8 LS ASPH Масса: около 180 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.85 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-35mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004015/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_35mm_F2.8_LS_ASPH_Lens_1.jpg</image>
-	<priceRUAH>62950</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1642,7 +1642,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL 24mm F2.8 LS ASPH Масса: около 178 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.65 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-24mm-f2-8-ls-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004014/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_24mm_F2.8_LS_ASPH_Lens_1.jpg</image>
-	<priceRUAH>62950</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1658,7 +1658,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Объектив для подвеса серии DJI Zenmuse X7 Объектив: DL-S 16mm F2.8 ND ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 13 элементов в 12 группах (включая 4 асферических элемента) Мин.фокусное расстояние: 0.40 м Диаметр: 46 мм Размеры (диаметр*длина): 55 69.1 мм (с блендой) Другие: Встроенный ND-фильтр </description>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-s-16mm-f2-8-nd-asph-lens/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004013/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL-S_16mm_F2.8_ND_ASPH_Lens_1.jpg</image>
-	<priceRUAH>62950</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1674,7 +1674,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Набор объективов для подвеса DJI Zenmuse X7: DL-S 16mm F2.8 ND ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 13 элементов в 12 группах (включая 4 асферических элемента) Мин.фокусное расстояние: 0.40 м Диаметр: 46 мм Размеры (диаметр*длина): 55 69.1 мм (с блендой) Другие: Встроенный ND-фильтр DL 24mm F2.8 LS ASPH Масса: около 178 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.65 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор DL 35mm F2.8 LS ASPH Масса: около 180 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 8 группах (включая 3 асферических элемента) Мин.фокусное расстояние: 0.85 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор DL 50mm F2.8 LS ASPH Масса: около 182 г Макс. значение диафрагмы: F2.8 Элементы/Группы/Асферические элементы: 9 элементов в 7 группах (включая 2 асферических элемента) Мин.фокусное расстояние: 0.93 м Диаметр: 46 мм Размеры (диаметр*длина): 55 71.2 мм (с блендой) Другие: Центральный затвор </description>
 	<url>https://store.drone.ua/product/zenmuse-x7-dl-dl-s-lens-set/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000004012/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Zenmuse_X7_DL_DL-S_Lens_Set_1.jpg</image>
-	<priceRUAH>205750</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1866,7 +1866,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description></description>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part4_spotlight/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.00000006325/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Spotlight_1.jpg</image>
-	<priceRUAH>4130</priceRUAH>
+	<priceRUAH>5820</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -1995,7 +1995,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-200-v2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000048.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_200_V2_Combo_1.jpg</image>
 	<priceRUAH>212850</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2011,7 +2011,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-v2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000054.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_V2_Combo_1.jpg</image>
 	<priceRUAH>280500</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2027,7 +2027,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/kvadrokopter-matrice-210-rtk-v2-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.EN.00000062/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_210_RTK_V2_Combo_1.jpg</image>
 	<priceRUAH>475200</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -2075,7 +2075,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/matrice-600-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=CP.SB.000307/</url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Matrice_600_Pro_1.jpg</image>
 	<priceRUAH>188070</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3738,7 +3738,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Двухсторонняя зарядная станция может последовательно заряжать до трех аккумуляторов. Для зарядки всех аккумуляторов с помощью зарядного устройства DJI 18 Вт USB требуется 270 минут. Его также можно использовать для хранения и транспортировки батарей, и для зарядки Вашего мобильного устройства или пульта дистанционного управления.</description>
 	<url>https://store.drone.ua/product/mavic-mini-charging-hub-power-bank/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000108/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-charging-hub-power-bank_1.jpg</image>
-	<priceRUAH>1370</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -3770,7 +3770,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Защита винтов и повышение безопасности полета в помещениях или в местах с большим количеством препятствий.</description>
 	<url>https://store.drone.ua/product/mavic-mini-360-propeller-guard/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000113/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-360-propeller-guard_1.jpg</image>
-	<priceRUAH>670</priceRUAH>
+	<priceRUAH>0</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -3802,7 +3802,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
 	<url>https://store.drone.ua/product/dji-mavic-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.MM.00000101/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini_1.jpg</image>
-	<priceRUAH>12570</priceRUAH>
+	<priceRUAH>13970</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -3818,7 +3818,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<description>Компактность и портативность Легкий как смартфон. Масса Mavic Mini меньше 250 г, что практически равно весу стандартного смартфона. Это означает не только, что устройство необычайно компактное, но и что оно входит в категорию дронов, которые не нужно регистрироватьво многих странах.</description>
 	<url>https://store.drone.ua/product/dji-mavic-mini-fly-more-combo/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/kvadrokoptery-dlya-videosemkiutm_content=ST.MM.00000102/</url>
 	<image>https://droneua.github.io/IMG_ROZ/MM_ACC_EDIT/mavic-mini-fly-more-combo_1.jpg</image>
-	<priceRUAH>15720</priceRUAH>
+	<priceRUAH>17470</priceRUAH>
 	<stock days="">Под заказ</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -3851,7 +3851,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00001168.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic2.png</image>
 	<priceRUAH>5600</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3867,7 +3867,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-air/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.SS000026.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Air.png</image>
 	<priceRUAH>3990</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3883,7 +3883,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.000738/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro.jpg</image>
 	<priceRUAH>4800</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3899,7 +3899,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-mavic-pro-platinum/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00000263.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Pro_Platinum.png</image>
 	<priceRUAH>5990</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3915,7 +3915,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-inspire-2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.000846/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Inspire2.png</image>
 	<priceRUAH>13650</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3931,7 +3931,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-zenmuse-x7/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.SS000009.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Zenmuse_X7.png</image>
 	<priceRUAH>20900</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3947,7 +3947,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-action/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00002210.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Action.jpg</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3963,7 +3963,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-care-refresh-osmo-pocket/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00002444.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Osmo_Pocket.png</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3979,7 +3979,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-care-phantom-4/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.000823/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Phantom4_Pro.jpg</image>
 	<priceRUAH>6790</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -3995,7 +3995,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/dji-care-refresh-mavic-mini/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=ST.MM.00000123/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Care_Mavic_Mini.jpg</image>
 	<priceRUAH>1580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4011,7 +4011,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-enterprise/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00001805.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise.jpg</image>
 	<priceRUAH>10530</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4027,7 +4027,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-mavic-2-dual/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00001913.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Mavic2_Enterprise_Dual.jpg</image>
 	<priceRUAH>9540</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4043,7 +4043,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-phantom-4-rtk/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00001801.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Phantom4_RTK.png</image>
 	<priceRUAH>20760</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4059,7 +4059,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-200-v2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00002059.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice200_v2.png</image>
 	<priceRUAH>38580</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4075,7 +4075,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-v2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00002053.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_v2.jpg</image>
 	<priceRUAH>47820</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4091,7 +4091,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/paket-obsluzhivanija-dji-enterprise-shield-basic-matrice-210-rtk-v2/?utm_source=hotline&amp;utm_medium=cpc&amp;utm_campaign=av/aksessuary-dlya-kvadrokopterovutm_content=CP.QT.00002065.01/</url>
 	<image>https://droneua.github.io/IMG_ROZ/DJI_Care_Shield/DJI_Shield_Matrice_210_RTK_v2.jpg</image>
 	<priceRUAH>54420</priceRUAH>
-	<stock>В наличии</stock>
+	<stock days="">Под заказ</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
