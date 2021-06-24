@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
@@ -8,7 +7,7 @@
 <meta name="Description" content="">
 <meta name="Keywords" content="">
 <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&amp;subset=cyrillic" rel="stylesheet">
-<style>body{background:url(http://www..jpg) 0 0;color:#000;font-family:"Roboto Slab",serif;font-size:100%;font-weight:400;line-height:1.6}h1,h2,h3{line-height:1.15}#content{width:60%;margin:0 auto;padding:1em}.strong{font-weight:700}.knopka{background:#fac522 0 0;border-radius:7px;font-weight:700;color:#333;cursor:pointer!important;display:inline-block;font-family:"Roboto Slab",serif;font-size:100%;padding:.3em 1em;text-align:center}.knopka:active,.knopka:focus,.knopka:hover{background:#333 0 0;color:#fff}textarea{width:100%}input[type='button']{-webkit-appearance: none;-moz-appearance: none;appearance: none}@media all and (min-width:280px) and (max-width:767px){#content{width:auto}ol{padding:0 0 0 1em}.choice_cell{display:inline-block;margin:0 2em 2em 0}}</style>
+<style>body{background:url(http://www..jpg) 0 0;color:#000;font-family:"Roboto Slab",serif;font-size:100%;font-weight:400;line-height:1.6}h1,h2,h3{line-height:1.15}#content{width:60%;margin:0 auto;padding:1em}.strong{font-weight:700}.knopka{background:#21a20094 0 0;border-radius:7px;font-weight:700;color:#333;cursor:pointer!important;display:inline-block;font-family:"Roboto Slab",serif;font-size:100%;padding:.3em 1em;text-align:center}.knopka:active,.knopka:focus,.knopka:hover{background:#333 0 0;color:#fff}textarea{width:100%}input[type='button']{-webkit-appearance: none;-moz-appearance: none;appearance: none}@media all and (min-width:280px) and (max-width:767px){#content{width:auto}ol{padding:0 0 0 1em}.choice_cell{display:inline-block;margin:0 2em 2em 0}}</style>
 <script type="text/javascript">/*<![CDATA[*/function open_all(){debugger;var urls=document.getElementById("list_urls").value;var urls=urls.split('\n');var totalno=urls.length;var s;for(var i=0;i<totalno;i++){s=urls[i];if(s){if(s.substr(0,7)!='http://'&&s.substr(0,8)!='https://')
 s='http://'+s;window.open(s);}}
 return false;}/*]]>*/</script>
@@ -45,23 +44,65 @@ a.rollover:hover {
 </head>
 <body>
 <div id="content">
-<h1></h1>
-<h2></h2>
-<p></p>
-<h3></h3>
+<h1 style="text-align: center;">Открыть несколько ссылок сразу</h1>
 <form method="post" action="">
-<div><textarea name="list_urls" id="list_urls" cols="60" rows="20" autofocus></textarea></div>
-<input type="reset" value="Сброс">
+<div><textarea style="border-radius: 4px 4px;" name="list_urls" id="list_urls" cols="60" rows="20" autofocus></textarea></div>
+<input style="border-radius: 50px 50px;" type="reset" value="Сброс">
 <br><br>
-<input value="Открыть все" class="submit knopka" type="button" onClick="open_all()">
+<input style="border-radius: 50px 50px;" value="Открыть все ссылки" class="submit knopka" type="button" onClick="open_all()">
 </form>
-<p>&nbsp;</p>
-<div id="yandex_rtb_R-A-193633-3"></div>
-<script type="text/javascript">(function(a,e,f,c,b){a[f]=a[f]||[];a[f].push(function(){Ya.Context.AdvManager.render({blockId:"R-A-193633-3",renderTo:"yandex_rtb_R-A-193633-3",async:true})});b=e.getElementsByTagName("script")[0];c=e.createElement("script");c.type="text/javascript";c.src="//an.yandex.ru/system/context.js";c.async=true;b.parentNode.insertBefore(c,b)})(this,this.document,"yandexContextAsyncCallbacks");</script>
-<p>&nbsp;</p>
+  
+<div id="drone_rtb_R-A-193633-3"></div>
+<script type="text/javascript">(function(a,e,f,c,b){a[f]=a[f]||[];a[f].push(function(){Ya.Context.AdvManager.render({blockId:"R-A-193633-3",renderTo:"drone_rtb_R-A-193633-3",async:true})});b=e.getElementsByTagName("script")[0];c=e.createElement("script");c.type="text/javascript";c.src="//an.drone.ua/system/context.js";c.async=true;b.parentNode.insertBefore(c,b)})(this,this.document,"droneContextAsyncCallbacks");</script>
 </div>
 <p><center><a href="#" class="rollover" > </a></center></p>  
+<h1 style="text-align: center;">Умный поиск</h1>
+<div class="SEARCHING" style="text-align: center;">
+<p><p>
+<form action="https://www.dji.com/search?" method="get" target="_blank">
+  <input style="border-radius: 50px 50px; width: 300px; height: 30px;" name="q" placeholder="Введите текст" type="search">
+  <button style="border-radius: 50px 50px; width: 500px; height: 30px;" type="submit">Искать на сайте <strong>dji.com</strong> через поиск сайта</button>
+</form>
+</p>
+<p>
+<form action="https://store.dji.com/product-search?" method="get" target="_blank">
+  <input style="border-radius: 50px 50px; width: 300px; height: 30px;" name="q" placeholder="Введите текст" type="search">
+  <button style="border-radius: 50px 50px; width: 500px; height: 30px;" type="submit">Искать на сайте <strong>store.dji.com</strong> через поиск сайта</button>
+</form>
+</p>
+<p>
+<form action="https://www.google.com/search?" method="get" target="_blank">
+  <input style="border-radius: 50px 50px; width: 300px; height: 30px;" name="as_epq" placeholder="Введите текст" type="search">
+  <button style="border-radius: 50px 50px; width: 500px; height: 30px;" type="submit">Искать точную фразу в <strong>google.com</strong></button>
+</form>
+</p>
+<p>
+<form action="https://www.google.com/search?" method="get" target="_blank">
+  <input style="border-radius: 50px 50px; width: 300px; height: 30px;" name="q" value="site:store.dji.com &#34;Mavic&#34;" placeholder="Введите текст" type="search">
+  <button style="border-radius: 50px 50px; width: 500px; height: 30px;" type="submit">Искать точную фразу только на сайте <strong>store.dji.com</strong> через Google</button>
+</form>
+</p>
+<p>
+<form action="https://www.google.com/search?" method="get" target="_blank">
+  <input style="border-radius: 50px 50px; width: 300px; height: 30px;" name="q" value="site:store.drone.ua &#34;Mavic&#34;" placeholder="Введите текст" type="search">
+  <button style="border-radius: 50px 50px; width: 500px; height: 30px;" type="submit">Искать точную фразу только на сайте <strong>store.drone.ua</strong> через Google</button>
+</form>
+</p>
+<p>
+<form action="https://www.google.com/search?" method="get" target="_blank">
+  <input style="border-radius: 50px 50px; width: 300px; height: 30px;" name="q" value="site:store.dji.com Mavic" placeholder="Введите текст" type="search">
+  <button style="border-radius: 50px 50px; width: 500px; height: 30px;" type="submit">Обычный поиск на сайте <strong>store.dji.com</strong> через Google</button>
+</form>
+</p>
+<p>
+<form action="https://www.google.com/search?" method="get" target="_blank">
+  <input style="border-radius: 50px 50px; width: 300px; height: 30px;" name="q" value="site:store.drone.ua Mavic" placeholder="Введите текст" type="search">
+  <button style="border-radius: 50px 50px; width: 500px; height: 30px;" type="submit">Обычный поиск на сайте <strong>store.drone.ua</strong> через Google</button>
+</form>
+</p>
+</p>
+</div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 </body>
-<script type="text/javascript">(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(52117765,"init",{id:52117765,clickmap:true,trackLinks:true,accurateTrackBounce:true});</script> <noscript><div><img src="https://mc.yandex.ru/watch/52117765" style="position:absolute;left:-9999px" alt="метрика" /></div></noscript>
+<script type="text/javascript">(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://mc.drone.ua/metrika/tag.js","ym");ym(52117765,"init",{id:52117765,clickmap:true,trackLinks:true,accurateTrackBounce:true});</script> <noscript><div><img src="https://mc.drone.ua/watch/52117765" style="position:absolute;left:-9999px" alt="метрика" /></div></noscript>
 </html>
