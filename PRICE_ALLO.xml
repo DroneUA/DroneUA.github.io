@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>	
 <price>	
-<date>2021-06-23 01:33</date>	
+<date>2021-07-07 14:16</date>	
 <firmName>Drone.UA</firmName>	
 <firmId></firmId>	
 <categories>	
@@ -15,6 +15,7 @@
 <category><id>9</id><name>Сумки, футляры, кофры для фото и видео</name></category>	
 <category><id>10</id><name>Сумки, чехлы для ноутбуков</name></category>	
 <category><id>11</id><name>Оборудование для конференц-связи</name></category>	
+<category><id>12</id><name>Портативные зарядные устройства Power Bank</name></category>	
 </categories><items>	
 	<item>
 	<id>PA-ST-02</id>
@@ -632,7 +633,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Ronin-SC_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Ronin-SC_3.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Ronin-SC_4.jpg</image>
-	<priceRUAH>11999</priceRUAH>
+	<priceRUAH>11799</priceRUAH>
 	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -775,7 +776,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Action_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Action_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/Osmo_Action_6.jpg</image>
-	<priceRUAH>13270</priceRUAH>
+	<priceRUAH>9799</priceRUAH>
 	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
@@ -4559,6 +4560,288 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<priceRUAH>74570</priceRUAH>
 	<stock>true</stock>
 	 0 
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFDELTA1300-EU</id>
+	<categoryId></categoryId>
+	<code>EFDELTA1300-EU</code>
+	<vendor>EcoFlow</vendor>
+	<name>Зарядна станція EcoFlow DELTA (EFDELTA1300-EU)</name>
+	<description>Портативна станция EcoFlow DELTA – це новий стандарт генераторів на аккумуляторном живленні. Він сумісний з багатьма пристроями, тому заряду вистачить на багато годин, де та коли б він вам ни знадобився.
+
+ЗАРЯДКА від 0 до 80% ЗА ГОДИНУ
+
+Запатентована технологія EcoFlow X-Stream дозволяє EcoFlow DELTA заряджати у 10 разів швидше більшості портативних генераторних станцій на ринку.
+
+4 ВИХОДА ЗМІННОГО СТРУМУ НА 1800 Вт ТА ЄМНІСТЬ на 1260 Вт·ч
+
+Велика вихідна потужність інвертера при ємності складає 1260 Вт·год дозволяє EcoFlow DELTA заряджати більшість побутових електроприладів і енергоємні будівельні інструменти до 1800 Вт (допускаються скачки до 3300 Вт, немодульований синусоїдальний струм)
+
+НАЙШВИДША ЗАРЯДКА ВІД СОНЯЧНИХ БАТАРЕЙ І АВТОМОБІЛЯ
+
+EcoFlow DELTA можна повністю зарядити від сонячних батарей за 4 год, а від автомобіля (12/24 В) - менш, ніж за 10 год.
+
+ДО 11 ПРИСТРОЇВ ОДНОЧАСНО
+
+EcoFlow DELTA підійде до будь-якого порту в будь-якому пристрої, який може знадобитися, тому ви всюди будете як вдома.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_6.jpg</picture>
+	<priceRUAH>45470</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFSOLAR110N</id>
+	<categoryId></categoryId>
+	<code>EFSOLAR110N</code>
+	<vendor>EcoFlow</vendor>
+	<name>Солнячна батарея EcoFlow 110 Вт (EFSOLAR110N)</name>
+	<description>З сонячною батареєю на 110 Вт від EcoFlow ви не будете залежати від розетки. За допомогою цієї батареї, яка складається з високопродуктивних фотоелементів та монокристалічного кремнію, можна заряджати портативні генератори та електроніку.
+
+СУМІСНА З БІЛЬШІСТЮ СТАНЦІЙ
+
+За допомогою кабелю MC4 - XT60 можна заряджати портативні станції серій DELTA 1300 і RIVER 600
+
+ВИСОКИЙ ККД
+
+У порівнянні з іншими сонячними батареями, ці батареї, об'єднуючись, можуть створювати єдиний комплекс, що дозволить довше забезпечувати електростанцію енергією. (4 x 110 Вт сонячні батареї, з'єднані паралельно, для DELTA 1300, 2 x 110 Вт сонячні батареї, з'єднані паралельно, для RIVER 600)
+
+ПОРТАТИВНА СКЛАДАНА БАТАРЕЯ З ВІДКИДНОЮ ОПОРОЮ
+
+Батарею можна встановлювати під кутом від 0 до 180 градусів.
+
+НАДІЙНіСТЬ ТА ВОДОСТІЙКІСТЬ
+
+Сонячна батарея водостійка та може використовуватися при будь-якій погоді - ідеально для використання на природі.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_6.jpg</picture>
+	<priceRUAH>11170</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFSOLAR160W</id>
+	<categoryId></categoryId>
+	<code>EFSOLAR160W</code>
+	<vendor>EcoFlow</vendor>
+	<name>Солнячна батарея EcoFlow 160 Вт (EFSOLAR160W)</name>
+	<description>Портативна сонячна батарея EcoFlow 160 Вт важить всього 7 кг. Її можна використовувати в поході або на природі: розгорніть її, і батарея за секунди почне збирати сонячну енергію.
+
+Сонячна енергія у поєднанні з електростанцією EcoFlow
+
+Сонячна батарея EcoFlow 160 Вт буде виробляти максимум енергії в будь-який час доби. У батареї високий ККД перетворення енергії - 21-22%, а алгоритм MPPT електрогенератора EcoFlow, що стежить за точкою максимальної потужності, дозволяє батареї працювати максимально ефективно в холодні похмурі дні.
+
+Водостійкість і надійність
+
+Сонячна батарея EcoFlow 160 Вт абсолютно водостійка завдяки безшовної, цільної конструкції, що робить її ідеальною для використання на природі - особливо в походах. ЕТФЕ-плівка захищає від дії ультрафіолетових променів, продовжуючи термін служби батареї. Футляр з відкидною опорою захищає батареї при транспортуванні. Також транспортувальний футляр може використовуватися як відкидна опора, за допомогою якої можна налаштовувати положення батареї і її орієнтацію, а також без проблем з'єднувати кілька батарей в комплект.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_6.jpg</picture>
+	<priceRUAH>13270</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFRIVER600-EU</id>
+	<categoryId></categoryId>
+	<code>EFRIVER600-EU</code>
+	<vendor>EcoFlow</vendor>
+	<name>Зарядна станція EcoFlow RIVER (EFRIVER600-EU)</name>
+	<description>2 ВИХОДУ ЗМІННОГО СТРУМУ 600 ВТ, ЄМНІСТЬ 288 ВТ · ГОД
+
+Від електростанції EcoFlow RIVER можна одночасно заряджати до 10 пристроїв. 2 виходи передають немодульований синусоїдальний струм, і завдяки режиму X-Boost RIVER може використовуватися для зарядки деяких пристроїв з потужністю до 1800 Вт. Маючи ємність 288 Вт · год, електростанція RIVER може забезпечувати енергією найнеобхідніше обладнання на протязі декількох годин, в залежності від того, яка фактична вихідна потужність.
+
+ЗАРЯДКА ВІД 0% ДО 80% ЗА ГОДИНУ
+
+Завдяки запатентованій технології від EcoFlow, XStream Technology, розумний инвертер забезпечує швидку зарядку, всього за одну годину заряджаючи від 0% до 80%, і до 100% - всього за 96 хвилин. Можна включити режим тихої зарядки, натиснувши на «Quiet Charging» (тиха зарядка) в додатку.
+
+СУМІСНИЙ З 80% ПОБУТОВОЇ ТЕХНІКИ
+
+Вбудовані прогресивні алгоритми технології XBoost Technology дозволяють використовувати електростанцію з самими енергоємними кухонними приладами та пристроями (до 1800 Вт). Завдяки функції X-Boost електростанція EcoFlow RIVER може заряджати 80% найпоширеніших побутових приладів і пристроїв а також поліпшити ваш досвід користування ними, особливо якщо їм потрібно 1200 Вт. Швидкість розрядки, режими і XBoost можна контролювати і настроювати за допомогою мобільного додатку EcoFlow.
+
+ВДОСКОНАЛЕННЯ В БУДЬ-ЯКИЙ МОМЕНТ ПО МІРІ ЗРОСТАННЯ ПОТРЕБ
+
+Можна збільшити ємність від 288Вт · ч до 576Вт · ч завдяки додатковій батареї Extra Battery, адже електростанція EcoFlow RIVER складається з модулів - збільшуйте ємність акумулятора в міру зростання своїх потреб. Електростанція EcoFlow RIVER дуже зручна: всього 5 кг, міцна, але легка, за розміром трохи більше тостера - завжди можна перенести на нове місце. Потужність акумулятора EcoFlow RIVER в будь-який момент можна збільшити вдвічі, з 288 Вт · год до 576Вт · ч, підключивши додатковий модуль.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_6.jpg</picture>
+	<priceRUAH>12570</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFRIVER600MAX-EU</id>
+	<categoryId></categoryId>
+	<code>EFRIVER600MAX-EU</code>
+	<vendor>EcoFlow</vendor>
+	<name>Зарядна станція EcoFlow RIVER MAX (EFRIVER600MAX-EU)</name>
+	<description>ЗАБЕЗПЕЧИТЬ ЕНЕРГІЄЮ, ДЕ Б ВИ НІ ЗНАХОДИЛИСЯ
+
+Портативна електростанція на сонячних батареях з додатковим модулем - це надійне джерело енергії для пригод на природі, використання вдома і в екстрених ситуаціях.
+
+Зарядка ВІД 0 ДО 80% ЗА ГОДИНУ
+
+Завдяки технології EcoFlow X-Stream Technology зарядка від 0% до 80%, здійснюється лише за одну годину, що є однією з кращих швидкостей зарядки на ринку. Крім того, можна включити режим тихої зарядки, натиснувши на «Quiet Charging» в додатку.
+
+МОЖЕ БУТИ ВСТАНОВЛЕНО ДО 9 ПРИСТРОЇВ
+
+Технологія EcoFlow X-Boost дозволяє заряджати деякі пристрої на потужності до 1800 Вт, що забезпечить зарядку до 80% кухонних приладів і будівельних інструментів.
+
+МОДУЛЬНА КОНСТРУКЦІЯ
+
+Унікальна модульна конструкція дозволяє за секунди збільшувати потужність і портативність електростанції EcoFlow RIVER Max. Додатковий модуль збільшує ємність акумулятора вдвічі, з 288Вт · ч до 576Вт · ч, коли вам потрібна велика потужність. Під час переміщень, на природі або в подорожах, а також в будь-який інший ситуації, коли заряджати пристрої потрібно на ходу, додатковий модуль можна з легкістю від'єднати.
+
+2 ВИХОДУ ПОТУЖНІСТЮ 600 і 576 Вт·год
+
+Електростанція EcoFlow RIVER Max оснащена двома виходами змінного струму і забезпечить живленням необхідну кількість приладів.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_7.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_8.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_9.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_10.jpg</picture>
+	<priceRUAH>19920</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFMAXKIT-B-G</id>
+	<categoryId></categoryId>
+	<code>EFMAXKIT-B-G</code>
+	<vendor>EcoFlow</vendor>
+	<name>Дополнительная батарея EcoFlow RIVER (EFMAXKIT-B-G)</name>
+	<description>ЗБІЛЬШТЕ ЕМКОСТЬ ВДВІЧІ: З 288 ВТ·ГОД ДО 576 ВТ·ГОД
+
+Додатковий модуль EcoFlow RIVER Extra Battery інтегрується з електростанцією EcoFlow RIVER і дозволяє збільшити його місткість. Підключіть до електростанції EcoFlow RIVER додатковий модуль EcoFlow RIVER Extra Battery і ємність основного модуля збільшиться з 288 Вт·год до 576 Вт·год.Окремо застосовувати модуль EcoFlow RIVER неможливо. Для використання його потрібно підключити до електростанції RIVER.
+
+ЕЛЕКТРОСТАНЦІЯ ECOFLOW RIVER + ДОДАТКОВИЙ АКУМУЛЯТОРНИЙ МОДУЛЬ = ЕЛЕКТРОСТАНЦІЯ ECOFLOW RIVER MAX
+
+Підключивши додатковий модуль до електростанції RIVER, ви отримуєте комплект RIVER Bundle, який управляється і контролюється як єдине ціле системою управління основного модуля BMS. Це вигідне рішення по удосконаленню електростанції RIVER. Ємність 576 Вт·год дозволить комплекту RIVER Bundle забезпечувати енергією пристрої протягом декількох годин, в залежності від фактичної вихідної потужності.
+
+ЗАРЯДКА ВІД 0% ДО 80% ЗА ГОДИНУ
+
+Запатентована технологія EcoFlow X-Stream дозволяє інвертеру забезпечувати швидку підзарядку. Від 0% до 80% пристрій буде заряджена менш ніж за годину, а до 100% - за 96 хвилин. Крім того, в мобільному додатку можна встановити режим «Quiet Charging» тихій зарядки.
+
+Сумісний з 80% ПОБУТОВИХ ПРИЛАДІВ
+
+Вдосконалений вбудований алгоритм X-Boost дозволяє заряджати від електростанції навіть самі вимогливі прилади та інструменти (потужністю до 1800 Вт). За допомогою X-Boost електростанція EcoFlow RIVER Max може заряджати 80% найважливіших побутових приладів і пристроїв, і поліпшить ваш досвід користування ними. За допомогою мобільного додатка EcoFlow можна контролювати швидкість розрядки і режими X-Boost.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_6.jpg</picture>
+	<priceRUAH>8020</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFRIVER600PRO-EU</id>
+	<categoryId></categoryId>
+	<code>EFRIVER600PRO-EU</code>
+	<vendor>EcoFlow</vendor>
+	<name>Зарядна станція EcoFlow RIVER Pro (EFRIVER600PRO-EU)</name>
+	<description>2 ВИХОДИ ЗМІННОГО СТРУМУ ПОТУЖНІСТЮ 600 І 720 ВТ·ГОД
+
+Електростанція RIVER Pro може одночасно заряджати до 9 пристроїв. Він оснащений декількома виходами, в тому числі 2 виходами немодулированного синусоїдального змінного струму. Він має ємність 720 Вт·год і важить всього 7.2 кг, що робить цю електростанцію ідеальним джерелом енергії для походів.
+
+ЗАРЯДКА ВІД 0 ДО 80% ЗА ГОДИНУ
+
+Запатентована технологія EcoFlow X-Stream дозволяє заряджати RIVER Pro з 0% до 80% за годину, а до 100% - всього за 96 хвилин.
+
+ЗБІЛЬШТЕ ЄМНІСТЬ ВДВІЧІ: З 720 ДО 1440 ВТ·ГОД
+
+Підключіть додатковий модуль RIVER Pro Extra Battery і збільште ємність з 720 Вт · год до 1440 Вт · год.
+
+ЗАРЯДЖАЙТЕ РІЗНІ ПРИСТРОЇ
+
+Електростанція RIVER Pro при включеному режимі XBoost може заряджати певну техніку потужністю до 1800 Вт, що дозволяє заряджати до 80% найважливіших пристроїв, таких як побутова техніка і будівельні інструменти. Для кращої роботи станції рекомендується заряджати техніку на потужності до 1200 Вт.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_6.jpg</picture>
+	<priceRUAH>22720</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
+	<param name="Оригинальность">Оригинал</param>
+	<param name="Страна изготовления">Китай</param>
+	<condition>0</condition>
+	</item>
+	<item>
+	<id>EFRIVER600PRO-EB-UE</id>
+	<categoryId></categoryId>
+	<code>EFRIVER600PRO-EB-UE</code>
+	<vendor>EcoFlow</vendor>
+	<name>Додаткова батарея EcoFlow RIVER Pro (EFRIVER600PRO-EB-UE)</name>
+	<description>ЗБІЛЬШТЕ ЄМНІСТЬ ВДВІЧІ: З 720 ДО 1440 ВТ·ГОД
+
+Додатковий акумуляторний модуль RIVER Pro Extra Battery підключається до електростанції RIVER Pro і збільшує його ємність з 720 Вт·год до 1440 Вт·год. Це дуже економічний спосіб удосконалити електростанцію RIVER Pro, збільшивши його ємність.
+
+ЗАРЯДКА МАЙЖЕ БУДЬ-ЯКИХ ПРИСТРОЇВ
+
+Електростанція RIVER Pro при включеному режимі XBoost може заряджати певну техніку з потужністю до 1800 Вт, що дозволяє заряджати до 80% найважливіших пристроїв, таких як побутова техніка і будівельні інструменти.
+
+КОМПАКТНА І ПОРТАТИВНА
+
+Електростанція RIVER Pro важить всього 7.2 кг, а модуль RIVER Pro Extra Battery всього 7 кг. Таким чином, обидва модуля легкі в транспортуванні. Комплект RIVER Pro + модуль Extra Battery легко поміщається в багажник автомобіля, без проблем розташовується на місці стоянки в наметовому таборі, або в приміщенні.</description>
+	<url></url>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_6.jpg</picture>
+	<priceRUAH>16070</priceRUAH>
+	<stock>true</stock>
+	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
 	<condition>0</condition>
