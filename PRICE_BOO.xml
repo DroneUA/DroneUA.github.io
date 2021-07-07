@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2021-06-22 20:31">	
+<yml_catalog date="2021-07-07 15:07">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -20,6 +20,7 @@
 <category id="9" parentId="80036">Сумки, рюкзаки и чехлы для ноутбуков</category>	
 <category id="10" parentId="153660">Системы полива</category>	
 <category id="11" parentId="983164">Аккумуляторы для радиоуправляемых моделей</category>	
+<category id="12" parentId="387969">Повербанки</category>	
 </categories>	
 <offers>	
 	<offer available="false" id="
@@ -714,7 +715,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="true" id="
 	CP.MA.00000014.01">
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>42320</price>
+	<price>45999</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/04/RZ_DJI_Mavic_2_Zoom_1.jpg</picture>
@@ -752,7 +753,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>39358</price_opt>
+	<price_opt>42779</price_opt>
 	</offer>
 	<offer available="true" id="
 	CP.MA.00000013.01">
@@ -881,7 +882,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.00000232.01">
 	<url>https://store.drone.ua/product/phantom-4-pro-v2-0/</url>
-	<price>69970</price>
+	<price>72600</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Phantom_4_Pro_ProV2_0___1_1.jpg</picture>
@@ -960,12 +961,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>65072</price_opt>
+	<price_opt>67518</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.PT.00000210.01">
 	<url>https://store.drone.ua/product/tello/</url>
-	<price>3999</price>
+	<price>3929</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_1.jpg</picture>
@@ -1014,12 +1015,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>3719</price_opt>
+	<price_opt>3654</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.TL.00000015.01">
 	<url>https://store.drone.ua/product/ryze_tech_tello_boost_combo/</url>
-	<price>5299</price>
+	<price>5199</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>1</categoryId>
 	<picture>https://store.drone.ua/wp-content/uploads/2019/05/Market_Tello_Boost_Combo_1.jpg</picture>
@@ -1069,7 +1070,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Аппаратура управления">2.4 ГГц</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>4928</price_opt>
+	<price_opt>4835</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.TL.00000002.01">
@@ -3581,7 +3582,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.PT.000601">
 	<url>https://store.drone.ua/product/phantom-4-series-intelligent-flight-battery-5870mah-high-capacity/</url>
-	<price>6620</price>
+	<price>7399</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Phantom4_1.jpg</picture>
@@ -3602,12 +3603,12 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>6157</price_opt>
+	<price_opt>6881</price_opt>
 	</offer>
 	<offer available="false" id="
 	ST.0000015">
 	<url>https://store.drone.ua/product/tello-part-1-battery/</url>
-	<price>980</price>
+	<price>879</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>11</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/AC_Tello_1.jpg</picture>
@@ -3629,7 +3630,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Количество единиц, шт">1</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка при замовленні від 3000 грн. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>911</price_opt>
+	<price_opt>817</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.VL.00000014.01">
@@ -4806,7 +4807,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<offer available="false" id="
 	CP.RN.00000040.01">
 	<url>https://store.drone.ua/product/dji-ronin-sc/</url>
-	<price>11999</price>
+	<price>11799</price>
 	<currencyId>UAH</currencyId>
 	<categoryId>4</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/Ronin-SC_1.jpg</picture>
@@ -4836,7 +4837,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<param name="Цвет">Черный</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
-	<price_opt>11159</price_opt>
+	<price_opt>10973</price_opt>
 	</offer>
 	<offer available="false" id="
 	CP.RN.00000043.01">
@@ -18389,7 +18390,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>618962</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17841">
 	<url>https://store.drone.ua/product/xag-p40/</url>
 	<price>2000000</price>
@@ -18449,7 +18450,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1860000</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17842">
 	<url>https://store.drone.ua/product/xag-p80/</url>
 	<price>1000000</price>
@@ -18492,7 +18493,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>930000</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17843">
 	<url>https://store.drone.ua/product/xag-v40/</url>
 	<price>1500000</price>
@@ -19577,6 +19578,384 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>4046</price_opt>
+	</offer>
+	<offer available="true" id="
+	17808">
+	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-advanced/</url>
+	<price>284130</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>1</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_1.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_2.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_3.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_4.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_5.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_6.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_7.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_8.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_9.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_10.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_11.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_12.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_13.png</picture>
+<picture>https://droneua.github.io/IMG_ROZ/2021-03/17808_14.png</picture>
+	<vendor>DJI</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Квадрокоптер DJI Mavic 2 Enterprise Advanced (17808)</name>
+	<description><![CDATA[<p><strong>Mavic 2 Enterprise Advanced</strong> - універсальний&nbsp;та компактним інструмент.</p>
+<p><strong>Особливості:</strong></p>
+<ul>
+<li>Модуль RTK із сантиметровою точністю</li>
+<li>Тепловізор з роздільною здатністю 640 &times; 512 px</li>
+<li>Основна камера 48 Мп</li>
+<li>Передача сигналу FullHD на відстань до 10 км</li>
+</ul>
+<h3>Тепловізор з високою роздільною здатністю</h3>
+<p>Приймайте рішення швидко, ідентифікуючи об'єкти.&nbsp;Тепловізор з високою роздільною здатністю який підтримує точкове вимірювання температур і вимір температур площі.</p>
+<ul>
+<li>Дозвіл тепловізора: 640 x 512 px</li>
+<li>Частота: 30Hz</li>
+<li>Zoom: 16 &times;</li>
+<li>Похибка: &plusmn; 2 &deg; C</li>
+</ul>
+<h3>Безпечна відстань</h3>
+<p>Отримуйте відеосигнал перебуваючи на безпечній відстані від можливих загроз.&nbsp;Візуальна камера підтримує цифровий zoom 32x, що дозволить розглянути всі деталі об'єкта.</p>
+<ul>
+<li>Дозвіл: 48 Мп</li>
+<li>Матриці: CMOS 1/2 "</li>
+<li>Оптичний Zoom 4x</li>
+<li>Цифровий Zoom 32x</li>
+</ul>
+<h3>Подвійний огляд об'єктів</h3>
+<p>Натисніть на перемикач, щоб переключити: візуальний, теплової, або спільний.</p>
+<h2>Компактність і потужність</h2>
+<h3>Точність позиціонування</h3>
+<p>Досягнете санітіметровой точності, користуючись M2EA з Модулем RTK.</p>
+<h3>Максимальна гнучкість</h3>
+<p>Підготовка дрона до роботи відбувається менш ніж за хвилину.</p>
+<h3>Особливості</h3>
+<ul>
+<li>MSDK</li>
+<li>AirSense</li>
+<li>Захист паролем</li>
+<li>Discreet Mode</li>
+<li>Самонагріваються батареї</li>
+<li>Діапазон робочих температур: -10 &deg; C to 40 &deg; C</li>
+</ul>
+<h2><strong>Можливість використовувати додаткові аксесуари</strong></h2>
+<ul>
+<li>Модуль RTK Module</li>
+<li>Прожектор Spotlight</li>
+<li>Гучномовець Speaker</li>
+<li>Маяк Beacon</li>
+<li>Пульт ДУ DJI Smart Controller</li>
+<li>Набір Mavic 2 Enterprise Fly More Kit</li>
+</ul>
+<h2>Застосування</h2>
+<h3>Пожежогасіння</h3>
+<p>Швидке виявлення об'єктів і людей за допомогою тепловізора та візуальної камери.</p>
+<h3>Пошук і порятунок</h3>
+<p>Сенсори з високою роздільною здатністю допоможуть при виявленні людей і об'єктів швидко і ефективно.</p>
+<h3>Охорона</h3>
+<p>Моніторинг зон об'єктів.</p>
+<h3>Енергетична інспекція</h3>
+<p>Виявлення дефектів на обладнанні для подальшого аналізаі прийнять вірних рішень.</p>
+<h3>Екологічна захист</h3>
+<p>Контролюйте зміни в навколишньому середовищі для захисту живої природи.</p>]]></description>
+	<param name="Артикул">17808</param>
+	<param name="Тип">Готовая модель</param>
+	<param name="Цвет фюзеляжа">Серый</param>
+	<param name="Длина, мм"></param>
+	<param name="Высота, мм"></param>
+	<param name="Тип двигателя">Электродвигатель</param>
+	<param name="Аккумулятор, мА*ч"></param>
+	<param name="Время полета">31 мин. (при полете со скоростью 25 км/ч в безветренную погоду), 28 мин. (с модулем RTK), 29 мин (с включенными сигнальными огнями), 30 мин. (без сигнальных огней), 24 мин. (с включенным прожектором), 28 мин. (с выключенным прожектором), 27 мин. (с включенным динамиком), 28 мин. (с выключенным динамиком).</param>
+	<param name="Высота полета">6000 м</param>
+	<param name="Радиус действия аппаратуры">FCC: 10000 м, CE: 6000 м, SRRC: 6000 м, MIC: 6000 м.</param>
+	<param name="Приемник в комплекте"></param>
+	<param name="Вес, г"></param>
+	<param name="Комплект поставки"></param>
+	<param name="Камера">С камерой</param>
+	<param name="GPS-модуль">С наличием</param>
+	<param name="Аппаратура управления">2.4 - 2.483 ГГц</param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>264241</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFDELTA1300-EU">
+	<url>https://store.drone.ua/product/ecoflow-efdelta1300-eu/</url>
+	<price>45470</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_6.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Зарядна станція EcoFlow DELTA (EFDELTA1300-EU)</name>
+	<description><![CDATA[<p>Портативна станция&nbsp;<strong>EcoFlow DELTA</strong>&nbsp;&ndash;&nbsp;це новий стандарт генераторів на аккумуляторном живленні.&nbsp;Він&nbsp;сумісний з багатьма пристроями, тому заряду вистачить на багато годин,&nbsp;де&nbsp;та коли б&nbsp;він вам ни знадобився.</p> 
+<p><strong>ЗАРЯДКА&nbsp;від&nbsp;0 до 80% ЗА&nbsp;ГОДИНУ</strong></p> 
+<p>Запатентована технологія EcoFlow X-Stream дозволяє EcoFlow DELTA заряджати у&nbsp;10 разів швидше більшості&nbsp;портативних генераторних станцій на ринку.</p> 
+<p><strong>4 ВИХОДА ЗМІННОГО СТРУМУ НА 1800 Вт&nbsp;ТА ЄМНІСТЬ на 1260 Вт&middot;ч</strong></p> 
+<p>Велика вихідна потужність інвертера при ємності складає 1260 Вт&middot;год дозволяє EcoFlow DELTA заряджати більшість побутових електроприладів і енергоємні будівельні інструменти до 1800 Вт (допускаються скачки до 3300 Вт, немодульований синусоїдальний струм)</p> 
+<p><strong>НАЙШВИДША ЗАРЯДКА ВІД СОНЯЧНИХ БАТАРЕЙ І АВТОМОБІЛЯ</strong></p> 
+<p>EcoFlow DELTA можна повністю зарядити від сонячних батарей за 4 год, а від автомобіля (12/24 В) - менш, ніж за 10 год.</p> 
+<p><strong>ДО 11 ПРИСТРОЇВ ОДНОЧАСНО</strong></p> 
+<p>EcoFlow DELTA підійде до будь-якого порту в будь-якому пристрої, який може знадобитися, тому ви всюди будете як вдома.</p>]]></description>
+	<param name="Артикул">EFDELTA1300-EU</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>42287</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFSOLAR110N">
+	<url>https://store.drone.ua/product/ecoflow-efsolar110n/</url>
+	<price>11170</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_6.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Солнячна батарея EcoFlow 110 Вт (EFSOLAR110N)</name>
+	<description><![CDATA[<p>З сонячною батареєю на 110 Вт від EcoFlow ви не будете залежати від розетки. За допомогою цієї батареї, яка складається з високопродуктивних фотоелементів&nbsp;та монокристалічного кремнію, можна заряджати портативні генератори та електроніку.</p> 
+<p><strong>СУМІСНА З БІЛЬШІСТЮ СТАНЦІЙ</strong></p> 
+<p>За допомогою кабелю MC4 - XT60 можна заряджати портативні станції серій DELTA 1300 і RIVER 600</p> 
+<p><strong>ВИСОКИЙ ККД</strong></p> 
+<p>У порівнянні з іншими сонячними батареями, ці батареї, об'єднуючись, можуть створювати єдиний комплекс, що дозволить довше забезпечувати електростанцію енергією. (4 x 110 Вт сонячні батареї, з'єднані паралельно, для DELTA 1300, 2 x 110 Вт сонячні батареї, з'єднані паралельно, для RIVER 600)</p> 
+<p><strong>ПОРТАТИВНА СКЛАДАНА БАТАРЕЯ З ВІДКИДНОЮ ОПОРОЮ</strong></p> 
+<p>Батарею можна встановлювати під кутом від 0 до 180 градусів.</p> 
+<p><strong>НАДІЙНіСТЬ&nbsp;ТА ВОДОСТІЙКІСТЬ</strong></p> 
+<p>Сонячна батарея водостійка&nbsp;та&nbsp;може використовуватися при будь-якій погоді - ідеально для використання на природі.</p>]]></description>
+	<param name="Артикул">EFSOLAR110N</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>10388</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFSOLAR160W">
+	<url>https://store.drone.ua/product/ecoflow-efsolar160w/</url>
+	<price>13270</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_6.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Солнячна батарея EcoFlow 160 Вт (EFSOLAR160W)</name>
+	<description><![CDATA[<p>Портативна сонячна батарея EcoFlow 160 Вт важить всього 7 кг. Її можна використовувати в поході або на природі: розгорніть її, і батарея за секунди почне збирати сонячну енергію.</p> 
+<p><strong>Сонячна енергія&nbsp;у поєднанні з електростанцією EcoFlow</strong></p> 
+<p>Сонячна батарея EcoFlow 160 Вт буде виробляти максимум енергії в будь-який час доби. У батареї високий ККД перетворення енергії - 21-22%, а алгоритм MPPT електрогенератора EcoFlow, що стежить за точкою максимальної потужності, дозволяє батареї працювати максимально ефективно в холодні похмурі дні.</p> 
+<p><strong>Водостійкість і надійність</strong></p> 
+<p>Сонячна батарея EcoFlow 160 Вт абсолютно водостійка завдяки безшовної, цільної конструкції, що робить її ідеальною для використання на природі - особливо в походах. ЕТФЕ-плівка захищає від дії ультрафіолетових променів, продовжуючи термін служби батареї. Футляр з відкидною опорою захищає батареї при транспортуванні. Також транспортувальний футляр може використовуватися як відкидна опора, за допомогою якої можна налаштовувати положення батареї і її орієнтацію, а також без проблем з'єднувати кілька батарей в комплект.</p>]]></description>
+	<param name="Артикул">EFSOLAR160W</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>12341</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFRIVER600-EU">
+	<url>https://store.drone.ua/product/ecoflow-efriver600-eu/</url>
+	<price>12570</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_6.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Зарядна станція EcoFlow RIVER (EFRIVER600-EU)</name>
+	<description><![CDATA[<p><strong>2 ВИХОДУ ЗМІННОГО СТРУМУ 600 ВТ, ЄМНІСТЬ 288 ВТ &middot; ГОД</strong></p> 
+<p>Від електростанції EcoFlow RIVER можна одночасно заряджати до 10 пристроїв. 2 виходи передають немодульований синусоїдальний струм, і завдяки режиму X-Boost RIVER може використовуватися для зарядки деяких пристроїв з потужністю до 1800 Вт. Маючи ємність 288 Вт &middot; год, електростанція RIVER може забезпечувати енергією найнеобхідніше обладнання на протязі декількох годин, в залежності від того, яка фактична вихідна потужність.</p> 
+<p><strong>ЗАРЯДКА ВІД 0% ДО 80% ЗА&nbsp;ГОДИНУ</strong></p> 
+<p>Завдяки запатентованій технології від EcoFlow, XStream Technology, розумний инвертер забезпечує швидку зарядку, всього за одну годину заряджаючи від 0% до 80%, і до 100% - всього за 96 хвилин. Можна включити режим тихої зарядки, натиснувши на &laquo;Quiet Charging&raquo; (тиха зарядка) в додатку.</p> 
+<p><strong>СУМІСНИЙ З 80% ПОБУТОВОЇ ТЕХНІКИ</strong></p> 
+<p>Вбудовані прогресивні алгоритми технології XBoost Technology дозволяють використовувати електростанцію з самими енергоємними кухонними приладами та пристроями (до 1800 Вт). Завдяки функції X-Boost електростанція EcoFlow RIVER може заряджати 80% найпоширеніших побутових приладів і пристроїв а також поліпшити ваш досвід користування ними, особливо якщо їм потрібно 1200 Вт. Швидкість розрядки, режими і XBoost можна контролювати і настроювати за допомогою мобільного додатку EcoFlow.</p> 
+<p><strong>ВДОСКОНАЛЕННЯ В БУДЬ-ЯКИЙ МОМЕНТ ПО МІРІ ЗРОСТАННЯ ПОТРЕБ</strong></p> 
+<p>Можна збільшити ємність від 288Вт &middot; ч до 576Вт &middot; ч завдяки додатковій батареї Extra Battery, адже електростанція EcoFlow RIVER складається з модулів - збільшуйте ємність акумулятора в міру зростання своїх потреб. Електростанція EcoFlow RIVER дуже зручна: всього 5 кг, міцна, але легка, за розміром трохи більше тостера - завжди можна перенести на нове місце. Потужність акумулятора EcoFlow RIVER в будь-який момент можна збільшити вдвічі, з 288 Вт &middot; год до 576Вт &middot; ч, підключивши додатковий модуль.</p>]]></description>
+	<param name="Артикул">EFRIVER600-EU</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>11690</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFRIVER600MAX-EU">
+	<url>https://store.drone.ua/product/ecoflow-efriver600max-eu/</url>
+	<price>19920</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_6.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_7.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_8.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_9.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_10.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Зарядна станція EcoFlow RIVER MAX (EFRIVER600MAX-EU)</name>
+	<description><![CDATA[<p><strong>ЗАБЕЗПЕЧИТЬ ЕНЕРГІЄЮ, ДЕ Б ВИ НІ ЗНАХОДИЛИСЯ</strong></p> 
+<p>Портативна електростанція на сонячних батареях з додатковим модулем - це надійне джерело енергії для пригод на природі, використання вдома і в екстрених ситуаціях.</p> 
+<p><strong>Зарядка ВІД 0 ДО 80% ЗА&nbsp;ГОДИНУ</strong></p> 
+<p>Завдяки технології EcoFlow X-Stream Technology зарядка від 0% до 80%, здійснюється лише за одну годину, що є однією з кращих швидкостей зарядки на ринку. Крім того, можна включити режим тихої зарядки, натиснувши на &laquo;Quiet Charging&raquo; в додатку.</p> 
+<p><strong>МОЖЕ&nbsp;БУТИ ВСТАНОВЛЕНО ДО 9 ПРИСТРОЇВ</strong></p> 
+<p>Технологія EcoFlow X-Boost дозволяє заряджати деякі пристрої на потужності до 1800 Вт, що забезпечить зарядку до 80% кухонних приладів і будівельних інструментів.</p> 
+<p><strong>МОДУЛЬНА КОНСТРУКЦІЯ</strong></p> 
+<p>Унікальна модульна конструкція дозволяє за секунди збільшувати потужність і портативність електростанції EcoFlow RIVER Max. Додатковий модуль збільшує ємність акумулятора вдвічі, з 288Вт &middot; ч до 576Вт &middot; ч, коли вам потрібна велика потужність. Під час переміщень, на природі або в подорожах, а також в будь-який інший ситуації, коли заряджати пристрої потрібно на ходу, додатковий модуль можна з легкістю від'єднати.</p> 
+<p><strong>2 ВИХОДУ ПОТУЖНІСТЮ 600 і 576 Вт&middot;год</strong></p> 
+<p>Електростанція EcoFlow RIVER Max оснащена двома виходами змінного струму і забезпечить живленням необхідну&nbsp;кількість&nbsp;приладів.</p>]]></description>
+	<param name="Артикул">EFRIVER600MAX-EU</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>18526</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFMAXKIT-B-G">
+	<url>https://store.drone.ua/product/ecoflow-efmaxkit-b-g/</url>
+	<price>8020</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_6.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Дополнительная батарея EcoFlow RIVER (EFMAXKIT-B-G)</name>
+	<description><![CDATA[<p><strong>ЗБІЛЬШТЕ ЕМКОСТЬ ВДВІЧІ: З 288 ВТ&middot;ГОД ДО 576 ВТ&middot;ГОД</strong></p> 
+<p>Додатковий модуль EcoFlow RIVER Extra Battery інтегрується з електростанцією EcoFlow RIVER і дозволяє збільшити його місткість. Підключіть до електростанції EcoFlow RIVER додатковий модуль EcoFlow RIVER Extra Battery і ємність основного модуля збільшиться з 288 Вт&middot;год до 576 Вт&middot;год.Окремо застосовувати модуль EcoFlow RIVER неможливо. Для використання його потрібно підключити до електростанції RIVER.</p> 
+<p><strong>ЕЛЕКТРОСТАНЦІЯ ECOFLOW RIVER + ДОДАТКОВИЙ АКУМУЛЯТОРНИЙ МОДУЛЬ = ЕЛЕКТРОСТАНЦІЯ ECOFLOW RIVER MAX</strong></p> 
+<p>Підключивши додатковий модуль до електростанції RIVER, ви отримуєте комплект RIVER Bundle, який управляється і контролюється як єдине ціле системою управління основного модуля BMS. Це вигідне рішення по удосконаленню електростанції RIVER. Ємність 576 Вт&middot;год дозволить комплекту RIVER Bundle забезпечувати енергією пристрої&nbsp;протягом декількох годин, в залежності від фактичної вихідної потужності.</p> 
+<p><strong>ЗАРЯДКА ВІД 0% ДО 80% ЗА&nbsp;ГОДИНУ</strong></p> 
+<p>Запатентована технологія EcoFlow X-Stream дозволяє інвертеру забезпечувати швидку підзарядку. Від 0% до 80% пристрій буде заряджена менш ніж за годину, а до 100% - за 96 хвилин. Крім того, в мобільному додатку можна встановити режим &laquo;Quiet Charging&raquo; тихій зарядки.</p> 
+<p><strong>Сумісний з 80% ПОБУТОВИХ ПРИЛАДІВ</strong></p> 
+<p>Вдосконалений вбудований алгоритм X-Boost дозволяє заряджати від електростанції навіть самі вимогливі прилади та інструменти (потужністю до 1800 Вт). За допомогою X-Boost електростанція EcoFlow RIVER Max може заряджати 80% найважливіших побутових приладів і пристроїв, і поліпшить ваш досвід користування ними. За допомогою мобільного додатка EcoFlow можна контролювати швидкість розрядки і режими X-Boost.</p>]]></description>
+	<param name="Артикул">EFMAXKIT-B-G</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>7459</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFRIVER600PRO-EU">
+	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eu/</url>
+	<price>22720</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_6.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Зарядна станція EcoFlow RIVER Pro (EFRIVER600PRO-EU)</name>
+	<description><![CDATA[<p><strong>2 ВИХОДИ&nbsp;ЗМІННОГО СТРУМУ ПОТУЖНІСТЮ 600 І 720 ВТ&middot;ГОД</strong></p> 
+<p>Електростанція RIVER Pro може одночасно заряджати до 9 пристроїв. Він оснащений декількома виходами, в тому числі 2 виходами немодулированного синусоїдального змінного струму. Він має ємність 720 Вт&middot;год і важить всього 7.2 кг, що робить цю електростанцію ідеальним джерелом енергії для походів.</p> 
+<p><strong>ЗАРЯДКА ВІД 0 ДО 80% ЗА&nbsp;ГОДИНУ</strong></p> 
+<p>Запатентована технологія EcoFlow X-Stream дозволяє заряджати RIVER Pro з 0% до 80% за годину, а до 100% - всього за 96 хвилин.</p> 
+<p><strong>ЗБІЛЬШТЕ ЄМНІСТЬ&nbsp;ВДВІЧІ: З 720 ДО 1440 ВТ&middot;ГОД</strong></p> 
+<p>Підключіть додатковий модуль RIVER Pro Extra Battery і збільште ємність з 720 Вт &middot; год до 1440 Вт &middot; год.</p> 
+<p><strong>ЗАРЯДЖАЙТЕ РІЗНІ ПРИСТРОЇ</strong></p> 
+<p>Електростанція RIVER Pro при включеному режимі XBoost може заряджати певну техніку потужністю до 1800 Вт, що дозволяє заряджати до 80% найважливіших пристроїв, таких як побутова техніка і будівельні інструменти. Для кращої роботи станції рекомендується заряджати техніку на потужності до 1200 Вт.</p>]]></description>
+	<param name="Артикул">EFRIVER600PRO-EU</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>21130</price_opt>
+	</offer>
+	<offer available="true" id="
+	EFRIVER600PRO-EB-UE">
+	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eb-ue/</url>
+	<price>16070</price>
+	<currencyId>UAH</currencyId>
+	<categoryId>12</categoryId>
+	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_1.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_2.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_3.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_4.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_5.jpg</picture>
+<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_6.jpg</picture>
+	<vendor>EcoFlow</vendor>
+	<stock_quantity>3</stock_quantity>
+	<name>Додаткова батарея EcoFlow RIVER Pro (EFRIVER600PRO-EB-UE)</name>
+	<description><![CDATA[<p><strong>ЗБІЛЬШТЕ ЄМНІСТЬ ВДВІЧІ: З 720 ДО 1440 ВТ&middot;ГОД</strong></p> 
+<p>Додатковий акумуляторний модуль RIVER Pro Extra Battery підключається до електростанції RIVER Pro і збільшує його ємність з 720 Вт&middot;год до 1440 Вт&middot;год. Це дуже економічний спосіб удосконалити електростанцію RIVER Pro, збільшивши його ємність.</p> 
+<p><strong>ЗАРЯДКА МАЙЖЕ БУДЬ-ЯКИХ ПРИСТРОЇВ</strong></p> 
+<p>Електростанція RIVER Pro при включеному режимі XBoost може заряджати певну техніку з потужністю до 1800 Вт, що дозволяє заряджати до 80% найважливіших пристроїв, таких як побутова техніка і будівельні інструменти.</p> 
+<p><strong>КОМПАКТНА І ПОРТАТИВНА</strong></p> 
+<p>Електростанція RIVER Pro важить всього 7.2 кг, а модуль RIVER Pro Extra Battery всього 7 кг. Таким чином, обидва модуля легкі в транспортуванні. Комплект RIVER Pro + модуль Extra Battery легко поміщається в багажник автомобіля, без проблем розташовується на місці стоянки в наметовому таборі, або в приміщенні.</p>]]></description>
+	<param name="Артикул">EFRIVER600PRO-EB-UE</param>
+	<param name="Диагональ сумки/рюкзака"></param>
+	<param name="Страна-производитель товара"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Тип"></param>
+	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
+	<state></state>
+	<price_opt>14945</price_opt>
 	</offer>
 </offers>	
 </shop>	
