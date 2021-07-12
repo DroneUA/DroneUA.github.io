@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2021-07-07 16:51">	
+<yml_catalog date="2021-07-12 17:00">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -21,6 +21,7 @@
 <category id="10" parentId="153660">Системы полива</category>	
 <category id="11" parentId="983164">Аккумуляторы для радиоуправляемых моделей</category>	
 <category id="12" parentId="387969">Повербанки</category>	
+<category id="13" parentId="1231010">Портативные и солнечные зарядные устройства</category>
 </categories>	
 <offers>	
 	<offer available="false" id="
@@ -19687,7 +19688,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efdelta1300-eu/</url>
 	<price>45470</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_3.jpg</picture>
@@ -19707,12 +19708,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>ДО 11 ПРИСТРОЇВ ОДНОЧАСНО</strong></p> 
 <p>EcoFlow DELTA підійде до будь-якого порту в будь-якому пристрої, який може знадобитися, тому ви всюди будете як вдома.</p>]]></description>
 	<param name="Артикул">EFDELTA1300-EU</param>
-	<param name="Заряжается от">Другое: Сети</param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">Быстрая зарядка батареи</param>
-	<param name="Вид">Повербанк</param>
-	<param name="Тип батареи">Литий-ионные (Li-ion)</param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>42287</price_opt>
@@ -19722,7 +19725,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efsolar110n/</url>
 	<price>11170</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_3.jpg</picture>
@@ -19742,12 +19745,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>НАДІЙНіСТЬ&nbsp;ТА ВОДОСТІЙКІСТЬ</strong></p> 
 <p>Сонячна батарея водостійка&nbsp;та&nbsp;може використовуватися при будь-якій погоді - ідеально для використання на природі.</p>]]></description>
 	<param name="Артикул">EFSOLAR110N</param>
-	<param name="Заряжается от"></param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">С солнечной батареей</param>
-	<param name="Вид"></param>
-	<param name="Тип батареи"></param>
+	<param name="Тип">Внешняя солнечная батарея</param>
+	<param name="Технология"></param>
+	<param name="Подходит для зарядки"></param>
+	<param name="Заряжается от">Солнечной энергии</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>10388</price_opt>
@@ -19757,7 +19762,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efsolar160w/</url>
 	<price>13270</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_3.jpg</picture>
@@ -19773,12 +19778,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Водостійкість і надійність</strong></p> 
 <p>Сонячна батарея EcoFlow 160 Вт абсолютно водостійка завдяки безшовної, цільної конструкції, що робить її ідеальною для використання на природі - особливо в походах. ЕТФЕ-плівка захищає від дії ультрафіолетових променів, продовжуючи термін служби батареї. Футляр з відкидною опорою захищає батареї при транспортуванні. Також транспортувальний футляр може використовуватися як відкидна опора, за допомогою якої можна налаштовувати положення батареї і її орієнтацію, а також без проблем з'єднувати кілька батарей в комплект.</p>]]></description>
 	<param name="Артикул">EFSOLAR160W</param>
-	<param name="Заряжается от"></param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">С солнечной батареей</param>
-	<param name="Вид"></param>
-	<param name="Тип батареи"></param>
+	<param name="Тип">Внешняя солнечная батарея</param>
+	<param name="Технология"></param>
+	<param name="Подходит для зарядки"></param>
+	<param name="Заряжается от">Солнечной энергии</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>12341</price_opt>
@@ -19788,7 +19795,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efriver600-eu/</url>
 	<price>12570</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_3.jpg</picture>
@@ -19807,12 +19814,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>ВДОСКОНАЛЕННЯ В БУДЬ-ЯКИЙ МОМЕНТ ПО МІРІ ЗРОСТАННЯ ПОТРЕБ</strong></p> 
 <p>Можна збільшити ємність від 288Вт &middot; ч до 576Вт &middot; ч завдяки додатковій батареї Extra Battery, адже електростанція EcoFlow RIVER складається з модулів - збільшуйте ємність акумулятора в міру зростання своїх потреб. Електростанція EcoFlow RIVER дуже зручна: всього 5 кг, міцна, але легка, за розміром трохи більше тостера - завжди можна перенести на нове місце. Потужність акумулятора EcoFlow RIVER в будь-який момент можна збільшити вдвічі, з 288 Вт &middot; год до 576Вт &middot; ч, підключивши додатковий модуль.</p>]]></description>
 	<param name="Артикул">EFRIVER600-EU</param>
-	<param name="Заряжается от">Другое: Сети</param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">Быстрая зарядка батареи</param>
-	<param name="Вид">Повербанк</param>
-	<param name="Тип батареи">Литий-ионные (Li-ion)</param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>11690</price_opt>
@@ -19822,7 +19831,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efriver600max-eu/</url>
 	<price>19920</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_3.jpg</picture>
@@ -19847,12 +19856,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>2 ВИХОДУ ПОТУЖНІСТЮ 600 і 576 Вт&middot;год</strong></p> 
 <p>Електростанція EcoFlow RIVER Max оснащена двома виходами змінного струму і забезпечить живленням необхідну&nbsp;кількість&nbsp;приладів.</p>]]></description>
 	<param name="Артикул">EFRIVER600MAX-EU</param>
-	<param name="Заряжается от">Другое: Сети</param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">Быстрая зарядка батареи</param>
-	<param name="Вид">Повербанк</param>
-	<param name="Тип батареи">Литий-ионные (Li-ion)</param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>18526</price_opt>
@@ -19862,7 +19873,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efmaxkit-b-g/</url>
 	<price>8020</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_3.jpg</picture>
@@ -19881,12 +19892,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Сумісний з 80% ПОБУТОВИХ ПРИЛАДІВ</strong></p> 
 <p>Вдосконалений вбудований алгоритм X-Boost дозволяє заряджати від електростанції навіть самі вимогливі прилади та інструменти (потужністю до 1800 Вт). За допомогою X-Boost електростанція EcoFlow RIVER Max може заряджати 80% найважливіших побутових приладів і пристроїв, і поліпшить ваш досвід користування ними. За допомогою мобільного додатка EcoFlow можна контролювати швидкість розрядки і режими X-Boost.</p>]]></description>
 	<param name="Артикул">EFMAXKIT-B-G</param>
-	<param name="Заряжается от">Другое: Сети</param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">Быстрая зарядка батареи</param>
-	<param name="Вид">Повербанк</param>
-	<param name="Тип батареи">Литий-ионные (Li-ion)</param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>7459</price_opt>
@@ -19896,7 +19909,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eu/</url>
 	<price>22720</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_3.jpg</picture>
@@ -19915,12 +19928,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>ЗАРЯДЖАЙТЕ РІЗНІ ПРИСТРОЇ</strong></p> 
 <p>Електростанція RIVER Pro при включеному режимі XBoost може заряджати певну техніку потужністю до 1800 Вт, що дозволяє заряджати до 80% найважливіших пристроїв, таких як побутова техніка і будівельні інструменти. Для кращої роботи станції рекомендується заряджати техніку на потужності до 1200 Вт.</p>]]></description>
 	<param name="Артикул">EFRIVER600PRO-EU</param>
-	<param name="Заряжается от">Другое: Сети</param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">Быстрая зарядка батареи</param>
-	<param name="Вид">Повербанк</param>
-	<param name="Тип батареи">Литий-ионные (Li-ion)</param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>21130</price_opt>
@@ -19930,7 +19945,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eb-ue/</url>
 	<price>16070</price>
 	<currencyId>UAH</currencyId>
-	<categoryId>12</categoryId>
+	<categoryId>13</categoryId>
 	<picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_1.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_2.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_3.jpg</picture>
@@ -19947,12 +19962,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>КОМПАКТНА І ПОРТАТИВНА</strong></p> 
 <p>Електростанція RIVER Pro важить всього 7.2 кг, а модуль RIVER Pro Extra Battery всього 7 кг. Таким чином, обидва модуля легкі в транспортуванні. Комплект RIVER Pro + модуль Extra Battery легко поміщається в багажник автомобіля, без проблем розташовується на місці стоянки в наметовому таборі, або в приміщенні.</p>]]></description>
 	<param name="Артикул">EFRIVER600PRO-EB-UE</param>
-	<param name="Заряжается от">Другое: Сети</param>
-	<param name="Назначение">Для ноутбуков</param>
-	<param name="Комплектация"></param>
-	<param name="Особенности">Быстрая зарядка батареи</param>
-	<param name="Вид">Повербанк</param>
-	<param name="Тип батареи">Литий-ионные (Li-ion)</param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>14945</price_opt>
