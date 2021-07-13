@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>	
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">	
-<yml_catalog date="2021-07-07 15:07">	
+<yml_catalog date="2021-07-13 11:31">	
 <shop>	
 <name>DFU</name>	
 <company>DFU</company>	
@@ -21,6 +21,7 @@
 <category id="10" parentId="153660">Системы полива</category>	
 <category id="11" parentId="983164">Аккумуляторы для радиоуправляемых моделей</category>	
 <category id="12" parentId="387969">Повербанки</category>	
+<category id="13" parentId="1231010">Портативные и солнечные зарядные устройства</category>	
 </categories>	
 <offers>	
 	<offer available="false" id="
@@ -712,7 +713,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state>Refurbished</state>
 	<price_opt>0</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000014.01">
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
 	<price>45999</price>
@@ -755,7 +756,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>42779</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000013.01">
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
 	<price>45470</price>
@@ -3759,7 +3760,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>0</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.MA.00000037.01">
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
 	<price>13270</price>
@@ -4491,7 +4492,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>3878</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PZM200">
 	<url>https://store.drone.ua/product/parazero-safeair-m-200/</url>
 	<price>95720</price>
@@ -4576,7 +4577,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>89020</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PZM600">
 	<url>https://store.drone.ua/product/parazero-safeair-m-600/</url>
 	<price>95720</price>
@@ -4660,7 +4661,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>89020</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PZPHANTOM">
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
 	<price>16730</price>
@@ -4733,7 +4734,7 @@ Cистемные требования для приложения Ronin: iOS 9 
 	<state></state>
 	<price_opt>15559</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	PZMAVIC">
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
 	<price>11180</price>
@@ -11371,7 +11372,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>22162</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.M3.00000007">
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/</url>
 	<price>3800</price>
@@ -11398,7 +11399,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3534</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.M3.00000004">
 	<url>https://store.drone.ua/product/dji-smart-controller-enterprise/</url>
 	<price>37950</price>
@@ -11464,7 +11465,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>35294</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.M3.00000003">
 	<url>https://store.drone.ua/product/dji-bs60-intelligent-battery-station/</url>
 	<price>50062.32</price>
@@ -11518,7 +11519,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>46558</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.M3.00000002">
 	<url>https://store.drone.ua/product/tb60-intelligent-flight-battery/</url>
 	<price>35592.48</price>
@@ -11587,7 +11588,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>33101</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	DAT16">
 	<url>https://store.drone.ua/product/agras-t16/</url>
 	<price>349970</price>
@@ -12049,7 +12050,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>325472</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.000000011336">
 	<url>https://store.drone.ua/product/agras-t16-battery/</url>
 	<price>32500</price>
@@ -12095,7 +12096,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>30225</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.0000.20.13765">
 	<url>https://store.drone.ua/product/t16-tank-20-litters/</url>
 	<price>12180</price>
@@ -12120,7 +12121,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>11327</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.00000013765">
 	<url>https://store.drone.ua/product/t16-part15-spray-tank-accessories/</url>
 	<price>8500</price>
@@ -12145,7 +12146,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7905</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.000000011336.20">
 	<url>https://store.drone.ua/product/battery-t20/</url>
 	<price>39520</price>
@@ -12176,7 +12177,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>36754</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.AG.00000207.01">
 	<url>https://store.drone.ua/product/p4-multispectral/</url>
 	<price>197970</price>
@@ -12373,7 +12374,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>184112</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.AG.00000207.01B">
 	<url>https://store.drone.ua/product/p4-multispectral-d-rtk-2-high-precision-gnss-mobile-station-combo/</url>
 	<price>293670</price>
@@ -12570,7 +12571,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>273113</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000161.01">
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
 	<price>112170</price>
@@ -12701,7 +12702,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>104318</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000108.01">
 	<url>https://store.drone.ua/product/mavic-2-enterprise-dual/</url>
 	<price>95670</price>
@@ -12831,7 +12832,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>88973</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000152.01">
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
 	<price>92370</price>
@@ -12960,7 +12961,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>85904</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000038.01">
 	<url>https://store.drone.ua/product/mavic-2-enterprise/</url>
 	<price>150150</price>
@@ -13088,7 +13089,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>139640</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000074.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part1_fly_more_kit/</url>
 	<price>21252</price>
@@ -13122,7 +13123,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>19764</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.EN.00000069.01">
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part2_battery/</url>
 	<price>8778</price>
@@ -13219,7 +13220,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>3655</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.TP.00000230.01.02">
 	<url>https://store.drone.ua/product/phantom-4-rtk-d-rtk-2-mobile-station-combo/</url>
 	<price>257400</price>
@@ -13596,7 +13597,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>239382</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.TP.00000230.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk/</url>
 	<price>302610</price>
@@ -13969,7 +13970,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>281427</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.AG.00000146.01">
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
 	<price>293370</price>
@@ -14376,7 +14377,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>272834</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	CP.TP.00000230.01.01">
 	<url>https://store.drone.ua/product/d-rtk-2/</url>
 	<price>118800</price>
@@ -17043,7 +17044,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>161030</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	FB.D.UA.00001">
 	<url>https://store.drone.ua/product/farmbot/</url>
 	<price>74570</price>
@@ -17112,7 +17113,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>69350</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	DAT20">
 	<url>https://store.drone.ua/product/t20/</url>
 	<price>402500</price>
@@ -17176,7 +17177,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>374325</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.000000011335">
 	<url>https://store.drone.ua/product/agras-t16-charger/</url>
 	<price>41970</price>
@@ -17210,7 +17211,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>39032</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	C.M2P.00001">
 	<url>https://store.drone.ua/product/chasing-m2-pro/</url>
 	<price>192470</price>
@@ -17259,7 +17260,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>178997</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.KN.MTP.001">
 	<url>https://store.drone.ua/product/kandao-meeting-pro/</url>
 	<price>31290</price>
@@ -17341,7 +17342,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>29100</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	105973">
 	<url>https://store.drone.ua/product/flyability-elios-2/</url>
 	<price>2268000</price>
@@ -17378,7 +17379,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>2109240</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	ST.AC.0000001">
 	<url>https://store.drone.ua/product/agrocares-scanner-device/</url>
 	<price>151200</price>
@@ -17859,7 +17860,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>70950</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	15098">
 	<url>https://store.drone.ua/product/parrot-usa/</url>
 	<price>416300</price>
@@ -17923,7 +17924,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>387159</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17146">
 	<url>https://store.drone.ua/product/xag-xp-2020-standard/</url>
 	<price>483720</price>
@@ -18060,7 +18061,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>449860</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17139">
 	<url>https://store.drone.ua/product/xag-xp-2020-premium/</url>
 	<price>545230</price>
@@ -18204,7 +18205,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>507064</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17150">
 	<url>https://store.drone.ua/product/xag-xmission-package/</url>
 	<price>158950</price>
@@ -18307,7 +18308,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>147824</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17149">
 	<url>https://store.drone.ua/product/xag-r150-unmanned-ground-vehicle/</url>
 	<price>665550</price>
@@ -18535,7 +18536,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>1395000</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-008-00007">
 	<url>https://store.drone.ua/product/xag_00008/</url>
 	<price>16820</price>
@@ -18574,7 +18575,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>15643</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-007-00090">
 	<url>https://store.drone.ua/product/xag_00001/</url>
 	<price>43670</price>
@@ -18604,7 +18605,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>40613</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-016-00007">
 	<url>https://store.drone.ua/product/xag_00002/</url>
 	<price>11020</price>
@@ -18703,7 +18704,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>10249</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	13-001-00043">
 	<url>https://store.drone.ua/product/xag_00003/</url>
 	<price>5800</price>
@@ -18724,7 +18725,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5394</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	05-002-00746">
 	<url>https://store.drone.ua/product/xag_00004/</url>
 	<price>41350</price>
@@ -18801,7 +18802,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>38456</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-017-00021">
 	<url>https://store.drone.ua/product/xag_00005/</url>
 	<price>37900</price>
@@ -18916,7 +18917,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>35247</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	05-002-00725">
 	<url>https://store.drone.ua/product/xag_00006/</url>
 	<price>5800</price>
@@ -18941,7 +18942,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>5394</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-010-00035">
 	<url>https://store.drone.ua/product/xag_00007/</url>
 	<price>48430</price>
@@ -19228,7 +19229,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>45040</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-016-00013">
 	<url>https://store.drone.ua/product/xag_00009/</url>
 	<price>49300</price>
@@ -19254,7 +19255,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>45849</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-016-00016">
 	<url>https://store.drone.ua/product/xag_00010/</url>
 	<price>17400</price>
@@ -19280,7 +19281,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>16182</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-016-00015">
 	<url>https://store.drone.ua/product/xag_00011/</url>
 	<price>31900</price>
@@ -19307,7 +19308,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>29667</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	08-036-00112">
 	<url>https://store.drone.ua/product/xag_00012/</url>
 	<price>26390</price>
@@ -19331,7 +19332,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>24543</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-011-00007">
 	<url>https://store.drone.ua/product/xag_00013/</url>
 	<price>78070</price>
@@ -19436,7 +19437,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>72605</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-011-00006">
 	<url>https://store.drone.ua/product/09-011-00006/</url>
 	<price>35990</price>
@@ -19462,7 +19463,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>33471</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	13-001-00067">
 	<url>https://store.drone.ua/product/xag_00015/</url>
 	<price>48020</price>
@@ -19497,7 +19498,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>44659</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	09-017-00009">
 	<url>https://store.drone.ua/product/09-017-00009/</url>
 	<price>9020</price>
@@ -19529,7 +19530,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>8389</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	05-002-00605">
 	<url>https://store.drone.ua/product/xag_00017/</url>
 	<price>5220</price>
@@ -19554,7 +19555,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4855</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	18174">
 	<url>https://store.drone.ua/product/xp2020-18174/</url>
 	<price>4350</price>
@@ -19707,12 +19708,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>ДО 11 ПРИСТРОЇВ ОДНОЧАСНО</strong></p> 
 <p>EcoFlow DELTA підійде до будь-якого порту в будь-якому пристрої, який може знадобитися, тому ви всюди будете як вдома.</p>]]></description>
 	<param name="Артикул">EFDELTA1300-EU</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>42287</price_opt>
@@ -19731,7 +19734,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_6.jpg</picture>
 	<vendor>EcoFlow</vendor>
 	<stock_quantity>3</stock_quantity>
-	<name>Солнячна батарея EcoFlow 110 Вт (EFSOLAR110N)</name>
+	<name>Сонячна батарея EcoFlow 110 Вт (EFSOLAR110N)</name>
 	<description><![CDATA[<p>З сонячною батареєю на 110 Вт від EcoFlow ви не будете залежати від розетки. За допомогою цієї батареї, яка складається з високопродуктивних фотоелементів&nbsp;та монокристалічного кремнію, можна заряджати портативні генератори та електроніку.</p> 
 <p><strong>СУМІСНА З БІЛЬШІСТЮ СТАНЦІЙ</strong></p> 
 <p>За допомогою кабелю MC4 - XT60 можна заряджати портативні станції серій DELTA 1300 і RIVER 600</p> 
@@ -19742,12 +19745,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>НАДІЙНіСТЬ&nbsp;ТА ВОДОСТІЙКІСТЬ</strong></p> 
 <p>Сонячна батарея водостійка&nbsp;та&nbsp;може використовуватися при будь-якій погоді - ідеально для використання на природі.</p>]]></description>
 	<param name="Артикул">EFSOLAR110N</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешняя солнечная батарея</param>
+	<param name="Технология"></param>
+	<param name="Подходит для зарядки"></param>
+	<param name="Заряжается от">Солнечной энергии</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>10388</price_opt>
@@ -19766,19 +19771,21 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_6.jpg</picture>
 	<vendor>EcoFlow</vendor>
 	<stock_quantity>3</stock_quantity>
-	<name>Солнячна батарея EcoFlow 160 Вт (EFSOLAR160W)</name>
+	<name>Сонячна батарея EcoFlow 160 Вт (EFSOLAR160W)</name>
 	<description><![CDATA[<p>Портативна сонячна батарея EcoFlow 160 Вт важить всього 7 кг. Її можна використовувати в поході або на природі: розгорніть її, і батарея за секунди почне збирати сонячну енергію.</p> 
 <p><strong>Сонячна енергія&nbsp;у поєднанні з електростанцією EcoFlow</strong></p> 
 <p>Сонячна батарея EcoFlow 160 Вт буде виробляти максимум енергії в будь-який час доби. У батареї високий ККД перетворення енергії - 21-22%, а алгоритм MPPT електрогенератора EcoFlow, що стежить за точкою максимальної потужності, дозволяє батареї працювати максимально ефективно в холодні похмурі дні.</p> 
 <p><strong>Водостійкість і надійність</strong></p> 
 <p>Сонячна батарея EcoFlow 160 Вт абсолютно водостійка завдяки безшовної, цільної конструкції, що робить її ідеальною для використання на природі - особливо в походах. ЕТФЕ-плівка захищає від дії ультрафіолетових променів, продовжуючи термін служби батареї. Футляр з відкидною опорою захищає батареї при транспортуванні. Також транспортувальний футляр може використовуватися як відкидна опора, за допомогою якої можна налаштовувати положення батареї і її орієнтацію, а також без проблем з'єднувати кілька батарей в комплект.</p>]]></description>
 	<param name="Артикул">EFSOLAR160W</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешняя солнечная батарея</param>
+	<param name="Технология"></param>
+	<param name="Подходит для зарядки"></param>
+	<param name="Заряжается от">Солнечной энергии</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>12341</price_opt>
@@ -19807,12 +19814,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>ВДОСКОНАЛЕННЯ В БУДЬ-ЯКИЙ МОМЕНТ ПО МІРІ ЗРОСТАННЯ ПОТРЕБ</strong></p> 
 <p>Можна збільшити ємність від 288Вт &middot; ч до 576Вт &middot; ч завдяки додатковій батареї Extra Battery, адже електростанція EcoFlow RIVER складається з модулів - збільшуйте ємність акумулятора в міру зростання своїх потреб. Електростанція EcoFlow RIVER дуже зручна: всього 5 кг, міцна, але легка, за розміром трохи більше тостера - завжди можна перенести на нове місце. Потужність акумулятора EcoFlow RIVER в будь-який момент можна збільшити вдвічі, з 288 Вт &middot; год до 576Вт &middot; ч, підключивши додатковий модуль.</p>]]></description>
 	<param name="Артикул">EFRIVER600-EU</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>11690</price_opt>
@@ -19847,12 +19856,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>2 ВИХОДУ ПОТУЖНІСТЮ 600 і 576 Вт&middot;год</strong></p> 
 <p>Електростанція EcoFlow RIVER Max оснащена двома виходами змінного струму і забезпечить живленням необхідну&nbsp;кількість&nbsp;приладів.</p>]]></description>
 	<param name="Артикул">EFRIVER600MAX-EU</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>18526</price_opt>
@@ -19871,7 +19882,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_6.jpg</picture>
 	<vendor>EcoFlow</vendor>
 	<stock_quantity>3</stock_quantity>
-	<name>Дополнительная батарея EcoFlow RIVER (EFMAXKIT-B-G)</name>
+	<name>Додаткова батарея EcoFlow RIVER (EFMAXKIT-B-G)</name>
 	<description><![CDATA[<p><strong>ЗБІЛЬШТЕ ЕМКОСТЬ ВДВІЧІ: З 288 ВТ&middot;ГОД ДО 576 ВТ&middot;ГОД</strong></p> 
 <p>Додатковий модуль EcoFlow RIVER Extra Battery інтегрується з електростанцією EcoFlow RIVER і дозволяє збільшити його місткість. Підключіть до електростанції EcoFlow RIVER додатковий модуль EcoFlow RIVER Extra Battery і ємність основного модуля збільшиться з 288 Вт&middot;год до 576 Вт&middot;год.Окремо застосовувати модуль EcoFlow RIVER неможливо. Для використання його потрібно підключити до електростанції RIVER.</p> 
 <p><strong>ЕЛЕКТРОСТАНЦІЯ ECOFLOW RIVER + ДОДАТКОВИЙ АКУМУЛЯТОРНИЙ МОДУЛЬ = ЕЛЕКТРОСТАНЦІЯ ECOFLOW RIVER MAX</strong></p> 
@@ -19881,12 +19892,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>Сумісний з 80% ПОБУТОВИХ ПРИЛАДІВ</strong></p> 
 <p>Вдосконалений вбудований алгоритм X-Boost дозволяє заряджати від електростанції навіть самі вимогливі прилади та інструменти (потужністю до 1800 Вт). За допомогою X-Boost електростанція EcoFlow RIVER Max може заряджати 80% найважливіших побутових приладів і пристроїв, і поліпшить ваш досвід користування ними. За допомогою мобільного додатка EcoFlow можна контролювати швидкість розрядки і режими X-Boost.</p>]]></description>
 	<param name="Артикул">EFMAXKIT-B-G</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>7459</price_opt>
@@ -19915,12 +19928,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>ЗАРЯДЖАЙТЕ РІЗНІ ПРИСТРОЇ</strong></p> 
 <p>Електростанція RIVER Pro при включеному режимі XBoost може заряджати певну техніку потужністю до 1800 Вт, що дозволяє заряджати до 80% найважливіших пристроїв, таких як побутова техніка і будівельні інструменти. Для кращої роботи станції рекомендується заряджати техніку на потужності до 1200 Вт.</p>]]></description>
 	<param name="Артикул">EFRIVER600PRO-EU</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>21130</price_opt>
@@ -19947,12 +19962,14 @@ Parrot Bluegrass легко транспортируется благодаря 
 <p><strong>КОМПАКТНА І ПОРТАТИВНА</strong></p> 
 <p>Електростанція RIVER Pro важить всього 7.2 кг, а модуль RIVER Pro Extra Battery всього 7 кг. Таким чином, обидва модуля легкі в транспортуванні. Комплект RIVER Pro + модуль Extra Battery легко поміщається в багажник автомобіля, без проблем розташовується на місці стоянки в наметовому таборі, або в приміщенні.</p>]]></description>
 	<param name="Артикул">EFRIVER600PRO-EB-UE</param>
-	<param name="Диагональ сумки/рюкзака"></param>
-	<param name="Страна-производитель товара"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
-	<param name="Тип"></param>
+	<param name="Тип">Внешний аккумулятор</param>
+	<param name="Технология">Li-Ion</param>
+	<param name="Подходит для зарядки">Автомобильных аккумуляторов,Мобильных телефонов,Планшетов,Фотоаппаратов,Фонариков,Ноутбуков</param>
+	<param name="Заряжается от">Сети</param>
+	<param name="Защита от">Избыточного заряда</param>
+	<param name="Гарантия">24 месяца</param>
+	<param name="Страна-производитель товара">США</param>
+	<param name="Страна регистрации бренда">США</param>
 	<param name="Доставка/Оплата">Безкоштовна доставка. Безготівкова оплата для юр. осіб, підприємств, фіз. осіб.</param>
 	<state></state>
 	<price_opt>14945</price_opt>
