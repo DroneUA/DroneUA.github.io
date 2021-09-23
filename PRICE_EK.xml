@@ -153,7 +153,7 @@
 	<item id="CP.MA.00000013.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Pro (CP.MA.00000013.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-pro/</url>
-	<price>45470</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Pro.jpg</image>
@@ -162,7 +162,7 @@
 	<item id="CP.MA.00000014.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Zoom (CP.MA.00000014.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-zoom/</url>
-	<price>45999</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Zoom.jpg</image>
@@ -171,7 +171,7 @@
 	<item id="CP.MA.00000037.01">
 	<name>Квадрокоптер (дрон) DJI Mavic 2 Fly More Kit (CP.MA.00000037.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-komplekt-fly-more-kit/</url>
-	<price>13270</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_EK/EK_DJI_Mavic_2_Fly_More_Kit.jpg</image>
@@ -495,7 +495,7 @@
 	<item id="PZM200">
 	<name>Парашютная система Parazero SafeAir M-200 (PZM200)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-200/</url>
-	<price>95720</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-200_1.jpg</image>
@@ -506,7 +506,7 @@
 	<item id="PZM600">
 	<name>Парашютная система Parazero SafeAir M-600 (PZM600)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-m-600/</url>
-	<price>95720</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_M-600_1.jpg</image>
@@ -517,7 +517,7 @@
 	<item id="PZPHANTOM">
 	<name>Парашютная система Parazero SafeAir Phantom (PZPHANTOM)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-phantom/</url>
-	<price>16730</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Mavic_1.png</image>
@@ -527,7 +527,7 @@
 	<item id="PZMAVIC">
 	<name>Парашютная система Parazero SafeAir Mavic (PZMAVIC)</name>
 	<url>https://store.drone.ua/product/parazero-safeair-mavic/</url>
-	<price>11180</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>Parazero</vendor>
 	<image>https://droneua.github.io/IMG_UNIVERSAL/SafeAir_Phantom_1.jpg</image>
@@ -1004,7 +1004,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011501">
 	<name>Квадрокоптер DJI P4 Multispectral (ST.000000011501)</name>
 	<url>https://store.drone.ua/product/p4-multispectral/</url>
-	<price>197970</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
@@ -1013,7 +1013,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011518">
 	<name>Квадрокоптер DJI P4 Multispectral &amp; D-RTK 2 High Precision GNSS Mobile Station Combo (ST.000000011518)</name>
 	<url>https://store.drone.ua/product/p4-multispectral-d-rtk-2-high-precision-gnss-mobile-station-combo/</url>
-	<price>293670</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_1.png</image>
@@ -1022,7 +1022,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01-1">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual &amp; Smart Controller (CP.EN.00000108.01-1)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-dual-smart-controller/</url>
-	<price>112170</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_1.jpg</image>
@@ -1031,7 +1031,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="CP.EN.00000108.01">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Dual (CP.EN.00000108.01)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise-dual/</url>
-	<price>95670</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_1.jpg</image>
@@ -1040,7 +1040,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006344">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise &amp; Smart Controller (ST.00000006344)</name>
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-smart-controller/</url>
-	<price>92370</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_1.jpg</image>
@@ -1049,7 +1049,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003212">
 	<name>Квадрокоптер DJI Mavic 2 Enterprise Universal Edition (ST.00000003212)</name>
 	<url>https://store.drone.ua/product/mavic-2-enterprise/</url>
-	<price>150150</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</image>
@@ -1058,7 +1058,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006316">
 	<name>Набор DJI Mavic 2 Enterprise Fly More Kit (ST.00000006316)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part1_fly_more_kit/</url>
-	<price>21252</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Fly_More_Kit_1.jpg</image>
@@ -1067,7 +1067,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000006323">
 	<name>Аккумулятор DJI Mavic 2 Enterprise (ST.00000006323)</name>
 	<url>https://store.drone.ua/product/dji_mavic_2_enterprise_part2_battery/</url>
-	<price>8778</price>
+	<price>0</price>
 	<categoryId>5</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_battery_1.jpg</image>
@@ -1094,7 +1094,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000008210">
 	<name>Квадрокоптер DJI Phantom 4 RTK &amp; D-RTK 2 Mobile Station Combo (ST.00000008210)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-d-rtk-2-mobile-station-combo/</url>
-	<price>257400</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_1.png</image>
@@ -1103,7 +1103,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000003160">
 	<name>Квадрокоптер DJI Phantom 4 RTK (ST.00000003160)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk/</url>
-	<price>302610</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_1.png</image>
@@ -1112,7 +1112,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000010836">
 	<name>Квадрокоптер DJI Phantom 4 RTK SDK (ST.000000010836)</name>
 	<url>https://store.drone.ua/product/phantom-4-rtk-sdk/</url>
-	<price>293370</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_1.png</image>
@@ -1121,7 +1121,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000004491">
 	<name>Мобильная станция DJI D-RTK 2 (ST.00000004491)</name>
 	<url>https://store.drone.ua/product/d-rtk-2/</url>
-	<price>118800</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</image>
@@ -2408,7 +2408,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.M3.00000007">
 	<name>Пропеллеры DJI Matrice 300 RTK 2110 (ST.M3.00000007)</name>
 	<url>https://store.drone.ua/product/dji-2110-propeller-matrice-300/</url>
-	<price>3800</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/M300_Propeller_2110_1.jpg</image>
@@ -2417,7 +2417,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.M3.00000004">
 	<name>Пульт управления DJI Smart Controller Enterprise (ST.M3.00000004)</name>
 	<url>https://store.drone.ua/product/dji-smart-controller-enterprise/</url>
-	<price>37950</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/M300_Smart_Controller_Enterprise_1.png</image>
@@ -2426,7 +2426,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.M3.00000003">
 	<name>Зарядная станция DJI BS60 Intelligent Battery Station (ST.M3.00000003)</name>
 	<url>https://store.drone.ua/product/dji-bs60-intelligent-battery-station/</url>
-	<price>50062.32</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/M300_Battery_Station_BS60_1.jpg</image>
@@ -2435,7 +2435,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.M3.00000002">
 	<name>Интеллектуальная батарея DJI TB60 Intelligent Flight Battery (ST.M3.00000002)</name>
 	<url>https://store.drone.ua/product/tb60-intelligent-flight-battery/</url>
-	<price>35592.48</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/M300_TB60_Battery_1.jpg</image>
@@ -2444,7 +2444,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="DAT16">
 	<name>Мультикоптер DJI Agras T16 (DAT16)</name>
 	<url>https://store.drone.ua/product/agras-t16/</url>
-	<price>349970</price>
+	<price>0</price>
 	<categoryId>1</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/Agras_T16_1.png</image>
@@ -2453,7 +2453,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011336">
 	<name>Интеллектуальная батарея DJI Agras T16 Battery (ST.000000011336)</name>
 	<url>https://store.drone.ua/product/agras-t16-battery/</url>
-	<price>32500</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Battery_1.jpg</image>
@@ -2462,7 +2462,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.0000.20.13765">
 	<name>Бак для DJI Agras T16 Tank 20 л (ST.0000.20.13765)</name>
 	<url>https://store.drone.ua/product/t16-tank-20-litters/</url>
-	<price>12180</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_20_Litters_1.jpg</image>
@@ -2471,7 +2471,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.00000013765">
 	<name>Бак для DJI Agras T16 Part15 Spray Tank Accessories 16 л (ST.00000013765)</name>
 	<url>https://store.drone.ua/product/t16-part15-spray-tank-accessories/</url>
-	<price>8500</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T16_Tank_16_Litters_1.jpg</image>
@@ -2480,7 +2480,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="ST.000000011336.20">
 	<name>Интеллектуальная батарея DJI Agras T20 (ST.000000011336.20)</name>
 	<url>https://store.drone.ua/product/battery-t20/</url>
-	<price>39520</price>
+	<price>0</price>
 	<categoryId>7</categoryId>
 	<vendor>DJI</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/T20_Battery_1.jpg</image>
@@ -2528,7 +2528,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="FB.D.UA.00001">
 	<name>Робот-садовник DroneUA FarmBot (FB.D.UA.00001)</name>
 	<url>https://store.drone.ua/product/farmbot/</url>
-	<price>74570</price>
+	<price>0</price>
 	<categoryId>14</categoryId>
 	<vendor>DroneUA</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/FarmBot_DroneUA_2.jpg
@@ -2538,7 +2538,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<item id="EFDELTA1300-EU">
 	<name>Зарядна станція EcoFlow DELTA (EFDELTA1300-EU)</name>
 	<url>https://store.drone.ua/product/ecoflow-efdelta1300-eu/</url>
-	<price>45470</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_1.jpg</image>
@@ -2563,7 +2563,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 	<item id="EFSOLAR110N">
 	<name>Сонячна батарея EcoFlow 110 Вт (EFSOLAR110N)</name>
 	<url>https://store.drone.ua/product/ecoflow-efsolar110n/</url>
-	<price>11170</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_1.jpg</image>
@@ -2588,7 +2588,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 	<item id="EFSOLAR160W">
 	<name>Сонячна батарея EcoFlow 160 Вт (EFSOLAR160W)</name>
 	<url>https://store.drone.ua/product/ecoflow-efsolar160w/</url>
-	<price>13270</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_1.jpg</image>
@@ -2605,7 +2605,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 	<item id="EFRIVER600-EU">
 	<name>Зарядна станція EcoFlow RIVER (EFRIVER600-EU)</name>
 	<url>https://store.drone.ua/product/ecoflow-efriver600-eu/</url>
-	<price>12570</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_1.jpg</image>
@@ -2628,7 +2628,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 	<item id="EFRIVER600MAX-EU">
 	<name>Зарядна станція EcoFlow RIVER MAX (EFRIVER600MAX-EU)</name>
 	<url>https://store.drone.ua/product/ecoflow-efriver600max-eu/</url>
-	<price>19920</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_1.jpg</image>
@@ -2655,7 +2655,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 	<item id="EFMAXKIT-B-G">
 	<name>Додаткова батарея EcoFlow RIVER (EFMAXKIT-B-G)</name>
 	<url>https://store.drone.ua/product/ecoflow-efmaxkit-b-g/</url>
-	<price>8020</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_1.jpg</image>
@@ -2678,7 +2678,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 	<item id="EFRIVER600PRO-EU">
 	<name>Зарядна станція EcoFlow RIVER Pro (EFRIVER600PRO-EU)</name>
 	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eu/</url>
-	<price>22720</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_1.jpg</image>
@@ -2701,7 +2701,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 	<item id="EFRIVER600PRO-EB-UE">
 	<name>Додаткова батарея EcoFlow RIVER Pro (EFRIVER600PRO-EB-UE)</name>
 	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eb-ue/</url>
-	<price>16070</price>
+	<price>0</price>
 	<categoryId>15</categoryId>
 	<vendor>EcoFlow</vendor>
 	<image>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_1.jpg</image>
