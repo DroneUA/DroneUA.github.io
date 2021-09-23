@@ -19580,7 +19580,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>4046</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	17808">
 	<url>https://store.drone.ua/product/dji-mavic-2-enterprise-advanced/</url>
 	<price>284130</price>
@@ -19683,7 +19683,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>264241</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFDELTA1300-EU">
 	<url>https://store.drone.ua/product/ecoflow-efdelta1300-eu/</url>
 	<price>45470</price>
@@ -19720,7 +19720,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>42287</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFSOLAR110N">
 	<url>https://store.drone.ua/product/ecoflow-efsolar110n/</url>
 	<price>11170</price>
@@ -19757,7 +19757,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>10388</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFSOLAR160W">
 	<url>https://store.drone.ua/product/ecoflow-efsolar160w/</url>
 	<price>13270</price>
@@ -19790,7 +19790,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>12341</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFRIVER600-EU">
 	<url>https://store.drone.ua/product/ecoflow-efriver600-eu/</url>
 	<price>12570</price>
@@ -19826,7 +19826,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>11690</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFRIVER600MAX-EU">
 	<url>https://store.drone.ua/product/ecoflow-efriver600max-eu/</url>
 	<price>19920</price>
@@ -19868,7 +19868,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>18526</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFMAXKIT-B-G">
 	<url>https://store.drone.ua/product/ecoflow-efmaxkit-b-g/</url>
 	<price>8020</price>
@@ -19904,7 +19904,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>7459</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFRIVER600PRO-EU">
 	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eu/</url>
 	<price>22720</price>
@@ -19940,7 +19940,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<state></state>
 	<price_opt>21130</price_opt>
 	</offer>
-	<offer available="true" id="
+	<offer available="false" id="
 	EFRIVER600PRO-EB-UE">
 	<url>https://store.drone.ua/product/ecoflow-efriver600pro-eb-ue/</url>
 	<price>16070</price>
