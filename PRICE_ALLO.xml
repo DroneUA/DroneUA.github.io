@@ -550,7 +550,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_6.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-200_7.jpg</image>
 	<priceRUAH>95720</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -573,7 +573,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_M-600_6.jpg</image>
 	<priceRUAH>95720</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -595,7 +595,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_5.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Mavic_6.jpg</image>
 	<priceRUAH>16730</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -615,7 +615,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_4.jpg</image>
 <image>https://droneua.github.io/IMG_ALLO/MRKT_SafeAir_Phantom_5.jpg</image>
 	<priceRUAH>11180</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Израиль</param>
@@ -1331,7 +1331,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_6.png</image>
 	<priceRUAH>197970</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1352,7 +1352,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_5.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/P4_Multispectral_6.png</image>
 	<priceRUAH>293670</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1373,7 +1373,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_5.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Dual___Smart_Controller_6.jpg</image>
 	<priceRUAH>112170</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1393,7 +1393,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_4.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/DJI_Mavic_2_Enterprise_Dual_5.jpg</image>
 	<priceRUAH>95670</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1411,7 +1411,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_2.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise___Smart_Controller_3.jpg</image>
 	<priceRUAH>92370</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1428,7 +1428,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_1.jpg</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Universal_Edition_2.jpg</image>
 	<priceRUAH>150150</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1444,7 +1444,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_Fly_More_Kit_1.jpg</image>
 	<priceRUAH>21252</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1460,7 +1460,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Mavic_2_Enterprise_battery_1.jpg</image>
 	<priceRUAH>8778</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1514,7 +1514,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_6.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK___D-RTK_2_Mobile_Station_Combo_7.png</image>
 	<priceRUAH>257400</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1536,7 +1536,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_6.png</image>
 <image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_7.png</image>
 	<priceRUAH>302610</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1552,7 +1552,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/Phantom_4_RTK_SDK_1.png</image>
 	<priceRUAH>293370</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -1568,7 +1568,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	<image>https://droneua.github.io/IMG_ROZ/2/D-RTK_2_1.jpg</image>
 	<priceRUAH>118800</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee type="shop">6</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4350,7 +4350,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>3800</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4366,7 +4366,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>37950</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4382,7 +4382,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>50062.32</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4398,7 +4398,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>35592.48</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4414,7 +4414,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>349970</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4430,7 +4430,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>32500</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4446,7 +4446,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>12180</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4462,7 +4462,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>8500</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4478,7 +4478,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>39520</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4558,7 +4558,7 @@ Parrot Bluegrass легко транспортируется благодаря 
 	<url></url>
 	
 	<priceRUAH>74570</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	 0 
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4595,7 +4595,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_DELTA_Power_Station_6.jpg</picture>
 	<priceRUAH>45470</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4632,7 +4632,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_110W_Solar_Panel_6.jpg</picture>
 	<priceRUAH>11170</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4661,7 +4661,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_160W_Solar_Panel_6.jpg</picture>
 	<priceRUAH>13270</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4696,7 +4696,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Portable_Power_Station_6.jpg</picture>
 	<priceRUAH>12570</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4739,7 +4739,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_9.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Max_Portable_Power_Station_10.jpg</picture>
 	<priceRUAH>19920</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4774,7 +4774,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Extra_Battery_6.jpg</picture>
 	<priceRUAH>8020</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4809,7 +4809,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Portable_Power_Station_6.jpg</picture>
 	<priceRUAH>22720</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
@@ -4840,7 +4840,7 @@ EcoFlow DELTA підійде до будь-якого порту в будь-я�
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_5.jpg</picture>
 <picture>https://droneua.github.io/IMG_ROZ/ECFW_crpd/EcoFlow_RIVER_Pro_Extra_Battery_6.jpg</picture>
 	<priceRUAH>16070</priceRUAH>
-	<stock>true</stock>
+	<stock>false</stock>
 	<guarantee  type="manufacturer">12</guarantee>
 	<param name="Оригинальность">Оригинал</param>
 	<param name="Страна изготовления">Китай</param>
